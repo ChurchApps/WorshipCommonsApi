@@ -43,6 +43,7 @@
     "inversify-express-utils": "^6.5.0",
     "kysely": "^0.28.16",
     "mysql2": "^3.22.2",
+    "openai": "^7.4.0",
     "reflect-metadata": "^0.2.2"
   },
   "devDependencies": {

@@ -1,4 +1,5 @@
 import { UniqueIdHelper } from "@churchapps/apihelper";
+import { sql } from "kysely";
 import { getDb } from "../db";
 import { Song } from "../models";
 
@@ -8,7 +9,13 @@ export class SongRepo {
   }
 
   public async loadPending(): Promise<Song[]> {
-    return await getDb().selectFrom("songs").selectAll().where("status", "=", "pending").orderBy("createdAt", "asc").execute() as Song[];
+    return await getDb().selectFrom("songs").selectAll().where("status", "=", "pending")
+      .orderBy(sql`qualityScore is null`).orderBy("qualityScore", "desc").orderBy("createdAt", "asc").execute() as Song[];
+  }
+
+  public async loadUnscored(limit: number): Promise<Song[]> {
+    return await getDb().selectFrom("songs").selectAll()
+      .where("qualityScore", "is", null).where("status", "!=", "removed").limit(limit).execute() as Song[];
   }
 
   public async loadById(id: string): Promise<Song | undefined> {
@@ -43,7 +50,9 @@ export class SongRepo {
       status: song.status || "pending",
       submittedBy: song.submittedBy,
       proAnswer: song.proAnswer,
-      certified: song.certified
+      certified: song.certified,
+      qualityScore: song.qualityScore,
+      qualityDetail: song.qualityDetail
     }).execute();
     return song;
   }

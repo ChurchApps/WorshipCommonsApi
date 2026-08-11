@@ -27,6 +27,7 @@ provider:
     CONNECTION_STRING: ${ssm:/${self:custom.env}/worshipCommonsApi/connectionString, ''}
     JWT_SECRET: ${ssm:/${self:custom.env}/jwtSecret, ''}
     ENCRYPTION_KEY: ${ssm:/${self:custom.env}/encryptionKey, ''}
+    OPENAI_API_KEY: ${ssm:/${self:custom.env}/openAIKey, ''}
 
 package:
   individually: false

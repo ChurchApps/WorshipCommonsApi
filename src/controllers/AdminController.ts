@@ -2,6 +2,7 @@ import { controller, httpGet, httpPost } from "inversify-express-utils";
 import express from "express";
 import { WorshipCommonsBaseController } from "./WorshipCommonsBaseController";
 import { MigrationHelper } from "../helpers/MigrationHelper";
+import { QualityHelper } from "../helpers/QualityHelper";
 
 @controller("/admin")
 export class AdminController extends WorshipCommonsBaseController {
@@ -45,6 +46,24 @@ export class AdminController extends WorshipCommonsBaseController {
   @httpPost("/songs/:id/reject")
   public async reject(req: express.Request, res: express.Response): Promise<any> {
     return this.setSongStatus(req, res, "removed");
+  }
+
+  @httpPost("/score-missing")
+  public async scoreMissing(req: express.Request, res: express.Response): Promise<any> {
+    return this.actionWrapper(req, res, async (au) => {
+      if (!(await this.isAdmin(au.id))) return this.json({}, 401);
+      // ponytail: 8 per call fits the 30s Lambda; caller loops until remaining is 0
+      const songs = await this.repositories.song.loadUnscored(8);
+      let scored = 0;
+      for (const s of songs) {
+        const fields = await QualityHelper.score(s);
+        if (fields.qualityScore != null) {
+          await this.repositories.song.update(s.id, fields);
+          scored++;
+        }
+      }
+      return { scored, remaining: (await this.repositories.song.loadUnscored(1)).length };
+    });
   }
 
   @httpPost("/reports/:id/resolve")

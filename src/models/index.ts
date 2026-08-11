@@ -27,6 +27,8 @@ export interface Song {
   submittedBy?: string;
   proAnswer?: string;
   certified?: boolean;
+  qualityScore?: number;
+  qualityDetail?: string;
   createdAt?: Date;
   updatedAt?: Date;
 }

@@ -3,6 +3,7 @@ import express from "express";
 import { FileStorageHelper } from "@churchapps/apihelper";
 import { WorshipCommonsBaseController } from "./WorshipCommonsBaseController";
 import { ChordProHelper } from "../helpers/ChordProHelper";
+import { QualityHelper } from "../helpers/QualityHelper";
 import { Environment } from "../helpers/Environment";
 import { Song } from "../models";
 
@@ -84,7 +85,11 @@ export class SongController extends WorshipCommonsBaseController {
       }
       if (Object.keys(updates).length > 0) await this.repositories.song.update(song.id, updates);
 
-      return { ...song, ...updates };
+      // must await: Lambda freezes after the response, fire-and-forget never completes
+      const scoreFields = await QualityHelper.score({ ...song, ...updates });
+      if (scoreFields.qualityScore != null) await this.repositories.song.update(song.id, scoreFields);
+
+      return { ...song, ...updates, ...scoreFields };
     });
   }
 

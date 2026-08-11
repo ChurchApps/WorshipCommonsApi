@@ -86,14 +86,14 @@ the [C]Lord has [D]made this [G]table home.`;
 
 // the 21 curated songs from the original mockup library
 const SONGS = [
-  { t: "Amazing Grace", a: "John Newton", y: 1779, th: "Grace,Assurance", k: "G", bpm: 84, ts: "3/4", lang: "English", scr: "John 9:25", lic: "PD", cong: 1893, chordPro: AMAZING_GRACE },
-  { t: "Be Thou My Vision", a: "Irish, 8th c. · tr. Byrne", y: 1905, th: "Trust,Adoration", k: "E", bpm: 76, ts: "3/4", lang: "English", scr: "Psalm 16:8", lic: "PD", cong: 1204 },
-  { t: "Holy, Holy, Holy", a: "Reginald Heber", y: 1826, th: "Adoration,Praise", k: "D", bpm: 92, lang: "English", scr: "Revelation 4:8", lic: "PD", cong: 1571 },
-  { t: "Come Thou Fount", a: "Robert Robinson", y: 1758, th: "Grace,Praise", k: "D", bpm: 88, ts: "3/4", lang: "English", scr: "1 Samuel 7:12", lic: "PD", cong: 1102 },
-  { t: "Doxology", a: "Thomas Ken", y: 1674, th: "Praise", k: "G", bpm: 76, lang: "English", scr: "Psalm 100", lic: "PD", cong: 2011 },
-  { t: "It Is Well with My Soul", a: "Horatio Spafford", y: 1873, th: "Comfort,Assurance", k: "C", bpm: 66, lang: "English", scr: "Psalm 46:1", lic: "PD", cong: 987 },
-  { t: "All Creatures of Our God and King", a: "Francis of Assisi · tr. Draper", y: 1919, th: "Praise,Creation", k: "D", bpm: 100, ts: "6/4", lang: "English", scr: "Psalm 148", lic: "PD", cong: 764 },
-  { t: "Ein feste Burg ist unser Gott", a: "Martin Luther", y: 1529, th: "Trust,Assurance", k: "C", bpm: 96, lang: "German", scr: "Psalm 46", lic: "PD", cong: 431 },
+  { t: "Amazing Grace", a: "John Newton", y: 1779, th: "Grace,Assurance", k: "G", bpm: 84, ts: "3/4", lang: "English", scr: "John 9:25", lic: "PD", cong: 0, chordPro: AMAZING_GRACE },
+  { t: "Be Thou My Vision", a: "Irish, 8th c. · tr. Byrne", y: 1905, th: "Trust,Adoration", k: "E", bpm: 76, ts: "3/4", lang: "English", scr: "Psalm 16:8", lic: "PD", cong: 0 },
+  { t: "Holy, Holy, Holy", a: "Reginald Heber", y: 1826, th: "Adoration,Praise", k: "D", bpm: 92, lang: "English", scr: "Revelation 4:8", lic: "PD", cong: 0 },
+  { t: "Come Thou Fount", a: "Robert Robinson", y: 1758, th: "Grace,Praise", k: "D", bpm: 88, ts: "3/4", lang: "English", scr: "1 Samuel 7:12", lic: "PD", cong: 0 },
+  { t: "Doxology", a: "Thomas Ken", y: 1674, th: "Praise", k: "G", bpm: 76, lang: "English", scr: "Psalm 100", lic: "PD", cong: 0 },
+  { t: "It Is Well with My Soul", a: "Horatio Spafford", y: 1873, th: "Comfort,Assurance", k: "C", bpm: 66, lang: "English", scr: "Psalm 46:1", lic: "PD", cong: 0 },
+  { t: "All Creatures of Our God and King", a: "Francis of Assisi · tr. Draper", y: 1919, th: "Praise,Creation", k: "D", bpm: 100, ts: "6/4", lang: "English", scr: "Psalm 148", lic: "PD", cong: 0 },
+  { t: "Ein feste Burg ist unser Gott", a: "Martin Luther", y: 1529, th: "Trust,Assurance", k: "C", bpm: 96, lang: "German", scr: "Psalm 46", lic: "PD", cong: 0 },
   {
     t: "Every Valley",
     a: "Miriam Okafor",
@@ -104,22 +104,22 @@ const SONGS = [
     lang: "English",
     scr: "Isaiah 40:4",
     lic: "WC",
-    cong: 312,
+    cong: 0,
     chordPro: EVERY_VALLEY,
     scrText: "“Every valley shall be lifted up, and every mountain and hill be made low.” — Isaiah 40:4"
   },
-  { t: "Bread and Cup", a: "Andrés Delgado", y: 2024, th: "Communion,Grace", k: "G", bpm: 68, lang: "English", scr: "Luke 22:19", lic: "WC", cong: 268, chordPro: BREAD_AND_CUP },
-  { t: "The Lord Is Near", a: "Sipho Mbeki & Grace Cho", y: 2025, th: "Praise,Hope", k: "Bb", bpm: 126, lang: "English", scr: "Philippians 4:5", lic: "WC", cong: 241 },
-  { t: "Morning Will Come", a: "Jonah Park", y: 2022, th: "Comfort,Hope", k: "C", bpm: 74, lang: "English", scr: "Psalm 30:5", lic: "WC", cong: 224 },
-  { t: "Slow to Anger", a: "Rei Nakamura", y: 2024, th: "Confession,Grace", k: "Em", bpm: 60, lang: "English", scr: "Psalm 103:8", lic: "WC", cong: 187 },
-  { t: "Todo Valle", a: "Miriam Okafor · tr. Carla Reyes", y: 2024, th: "Advent,Comfort", k: "D", bpm: 72, lang: "Spanish", scr: "Isaías 40:4", lic: "WC", cong: 96, parent: "Every Valley", rel: "Spanish translation · tr. Carla Reyes, 2024" },
-  { t: "Tunakuabudu", a: "Esther Wanjiru", y: 2023, th: "Praise,Adoration", k: "F", bpm: 96, lang: "Swahili", scr: "Zaburi 95", lic: "WC", cong: 143 },
-  { t: "House of Bread", a: "Lena Whitfield", y: 2021, th: "Christmas,Advent", k: "F", bpm: 80, lang: "English", scr: "Micah 5:2", lic: "WC", cong: 156 },
-  { t: "Rise Up, O Sleeper", a: "Daniel Antwi", y: 2023, th: "Easter,Praise", k: "A", bpm: 118, lang: "English", scr: "Ephesians 5:14", lic: "WC", cong: 203 },
-  { t: "Table Wide as Mercy", a: "Hanna Lindqvist", y: 2025, th: "Communion,Grace", k: "C", bpm: 62, lang: "English", scr: "Isaiah 25:6", lic: "WC", cong: 88 },
-  { t: "Watchman's Song (How Long)", a: "Priya Iyer", y: 2022, th: "Lament,Justice", k: "Am", bpm: 70, lang: "English", scr: "Habakkuk 1:2", lic: "WC", cong: 132 },
-  { t: "God With Us Still", a: "Kwame Osei", y: 2024, th: "Christmas,Advent", k: "G", bpm: 78, lang: "English", scr: "Matthew 1:23", lic: "WC", cong: 119 },
-  { t: "Sower's Song", a: "Nikolai Petrov", y: 2023, th: "Mission,Provision", k: "E", bpm: 104, lang: "English", scr: "Matthew 13:3", lic: "WC", cong: 97 }
+  { t: "Bread and Cup", a: "Andrés Delgado", y: 2024, th: "Communion,Grace", k: "G", bpm: 68, lang: "English", scr: "Luke 22:19", lic: "WC", cong: 0, chordPro: BREAD_AND_CUP },
+  { t: "The Lord Is Near", a: "Sipho Mbeki & Grace Cho", y: 2025, th: "Praise,Hope", k: "Bb", bpm: 126, lang: "English", scr: "Philippians 4:5", lic: "WC", cong: 0 },
+  { t: "Morning Will Come", a: "Jonah Park", y: 2022, th: "Comfort,Hope", k: "C", bpm: 74, lang: "English", scr: "Psalm 30:5", lic: "WC", cong: 0 },
+  { t: "Slow to Anger", a: "Rei Nakamura", y: 2024, th: "Confession,Grace", k: "Em", bpm: 60, lang: "English", scr: "Psalm 103:8", lic: "WC", cong: 0 },
+  { t: "Todo Valle", a: "Miriam Okafor · tr. Carla Reyes", y: 2024, th: "Advent,Comfort", k: "D", bpm: 72, lang: "Spanish", scr: "Isaías 40:4", lic: "WC", cong: 0, parent: "Every Valley", rel: "Spanish translation · tr. Carla Reyes, 2024" },
+  { t: "Tunakuabudu", a: "Esther Wanjiru", y: 2023, th: "Praise,Adoration", k: "F", bpm: 96, lang: "Swahili", scr: "Zaburi 95", lic: "WC", cong: 0 },
+  { t: "House of Bread", a: "Lena Whitfield", y: 2021, th: "Christmas,Advent", k: "F", bpm: 80, lang: "English", scr: "Micah 5:2", lic: "WC", cong: 0 },
+  { t: "Rise Up, O Sleeper", a: "Daniel Antwi", y: 2023, th: "Easter,Praise", k: "A", bpm: 118, lang: "English", scr: "Ephesians 5:14", lic: "WC", cong: 0 },
+  { t: "Table Wide as Mercy", a: "Hanna Lindqvist", y: 2025, th: "Communion,Grace", k: "C", bpm: 62, lang: "English", scr: "Isaiah 25:6", lic: "WC", cong: 0 },
+  { t: "Watchman's Song (How Long)", a: "Priya Iyer", y: 2022, th: "Lament,Justice", k: "Am", bpm: 70, lang: "English", scr: "Habakkuk 1:2", lic: "WC", cong: 0 },
+  { t: "God With Us Still", a: "Kwame Osei", y: 2024, th: "Christmas,Advent", k: "G", bpm: 78, lang: "English", scr: "Matthew 1:23", lic: "WC", cong: 0 },
+  { t: "Sower's Song", a: "Nikolai Petrov", y: 2023, th: "Mission,Provision", k: "E", bpm: 104, lang: "English", scr: "Matthew 13:3", lic: "WC", cong: 0 }
 ];
 
 export interface CatalogFile { songId: string; src: string; key: string; }
