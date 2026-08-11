@@ -20,12 +20,21 @@ for (const m of indexHtml.matchAll(/href="\/lyrics\/(umh\d+)\.sht"[^>]*>([^<]+)<
   if (!index.has(title)) index.set(title, m[1]);
 }
 
+// Same hymn, different title on HymnSite — verified by hand, not fuzzy-matched.
+const ALIASES: Record<string, string> = {
+  "battle hymn of the republic": "the battle hymn of the republic",
+  "here o my lord i see thee face to face": "here o my lord i see thee",
+  "the strife is oer": "the strife is oer the battle done",
+  "were marching to zion": "marching to zion",
+  "on jordans stormy banks": "on jordans stormy banks i stand",
+};
+
 const { rows } = buildCatalog("");
 const candidates = rows.filter((r: any) => !r.midiUrl && r.license === "PD");
 const hits: [string, string][] = [];
 for (const r of candidates) {
   const n = norm(r.title);
-  const u = index.get(n) || index.get(n.replace(/^o /, "oh ")) || index.get(n.replace(/^oh /, "o "))
+  const u = index.get(n) || index.get(ALIASES[n] ?? "") || index.get(n.replace(/^o /, "oh ")) || index.get(n.replace(/^oh /, "o "))
     || index.get(n.replace(/\bye\b/, "you")) || index.get(n.replace(/\byou\b/, "ye"));
   if (u) hits.push([r.title, u]);
 }

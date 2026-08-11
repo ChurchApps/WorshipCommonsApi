@@ -4,9 +4,10 @@ import { HYMNS2 } from "./hymns2.js";
 import { HYMNS_OH } from "./hymns-oh.js";
 import { MIDI_MAP } from "./midi-map.js";
 import { MIDI_MAP_HYMNSITE } from "./midi-map-hymnsite.js";
+import { MIDI_MAP_TCH } from "./midi-map-tch.js";
 import { LYRIC_MAP } from "./lyric-map.js";
 
-const MIDI: Record<string, { file: string; bytes: number }> = { ...MIDI_MAP_HYMNSITE, ...MIDI_MAP };
+const MIDI: Record<string, { file: string; bytes: number }> = { ...MIDI_MAP_TCH, ...MIDI_MAP_HYMNSITE, ...MIDI_MAP };
 
 // deterministic char(11) id in UniqueIdHelper.shortId's base64url format — stable across reseeds
 export const idFor = (title: string) => crypto.createHash("sha1").update("wcsong:" + title).digest("base64url").slice(0, 11);
