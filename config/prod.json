@@ -1,0 +1,9 @@
+{
+  "appEnv": "prod",
+  "appName": "WorshipCommonsApi",
+  "contentRoot": "https://worshipcommons-content.s3.us-east-2.amazonaws.com",
+  "fileStore": "S3",
+  "mailSystem": "",
+  "s3Bucket": "worshipcommons-content",
+  "webUrl": "https://worshipcommons.org"
+}

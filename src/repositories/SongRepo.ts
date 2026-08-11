@@ -1,0 +1,60 @@
+import { UniqueIdHelper } from "@churchapps/apihelper";
+import { getDb } from "../db";
+import { Song } from "../models";
+
+export class SongRepo {
+  public async loadApproved(): Promise<Song[]> {
+    return await getDb().selectFrom("songs").selectAll().where("status", "=", "approved").orderBy("churchCount", "desc").execute() as Song[];
+  }
+
+  public async loadPending(): Promise<Song[]> {
+    return await getDb().selectFrom("songs").selectAll().where("status", "=", "pending").orderBy("createdAt", "asc").execute() as Song[];
+  }
+
+  public async loadById(id: string): Promise<Song | undefined> {
+    return await getDb().selectFrom("songs").selectAll().where("id", "=", id).executeTakeFirst() as Song | undefined;
+  }
+
+  public async create(song: Song): Promise<Song> {
+    song.id = UniqueIdHelper.shortId();
+    await getDb().insertInto("songs").values({
+      id: song.id,
+      title: song.title,
+      writer: song.writer,
+      year: song.year,
+      themes: song.themes,
+      songKey: song.songKey,
+      bpm: song.bpm,
+      timeSignature: song.timeSignature,
+      language: song.language,
+      scripture: song.scripture,
+      scriptureText: song.scriptureText,
+      license: song.license,
+      churchCount: song.churchCount || 0,
+      chordPro: song.chordPro,
+      demoAudioUrl: song.demoAudioUrl,
+      demoAudioBytes: song.demoAudioBytes,
+      sheetPdfUrl: song.sheetPdfUrl,
+      sheetPdfBytes: song.sheetPdfBytes,
+      stemsZipUrl: song.stemsZipUrl,
+      stemsZipBytes: song.stemsZipBytes,
+      parentSongId: song.parentSongId,
+      relationLabel: song.relationLabel,
+      status: song.status || "pending",
+      submittedBy: song.submittedBy,
+      proAnswer: song.proAnswer,
+      certified: song.certified
+    }).execute();
+    return song;
+  }
+
+  public async update(id: string, fields: Partial<Song>): Promise<void> {
+    await getDb().updateTable("songs").set({ ...fields, updatedAt: new Date() }).where("id", "=", id).execute();
+  }
+
+  public async incrementChurchCount(id: string): Promise<number> {
+    await getDb().updateTable("songs").set(eb => ({ churchCount: eb("churchCount", "+", 1) })).where("id", "=", id).execute();
+    const row = await this.loadById(id);
+    return row?.churchCount || 0;
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "appEnv": "dev",
+  "appName": "WorshipCommonsApi",
+  "contentRoot": "http://localhost:8098/content",
+  "fileStore": "disk",
+  "mailSystem": "",
+  "s3Bucket": "",
+  "webUrl": "http://localhost:3104"
+}

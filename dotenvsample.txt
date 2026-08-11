@@ -1,0 +1,8 @@
+APP_ENV=dev
+
+# sample connection - mysql://user:password@host:port/dbName
+CONNECTION_STRING=mysql://user:password@host:port/dbName
+ENCRYPTION_KEY=aSecretKeyOfExactly192BitsLength
+# Must match the JWT_SECRET used by the core Api (shared login)
+JWT_SECRET=
+SERVER_PORT=8098

@@ -1,0 +1,9 @@
+{
+  "appEnv": "staging",
+  "appName": "WorshipCommonsApi",
+  "contentRoot": "https://worshipcommons-content-staging.s3.us-east-2.amazonaws.com",
+  "fileStore": "S3",
+  "mailSystem": "",
+  "s3Bucket": "worshipcommons-content-staging",
+  "webUrl": "https://staging.worshipcommons.org"
+}

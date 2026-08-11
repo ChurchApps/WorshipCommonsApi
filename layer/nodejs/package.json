@@ -1,0 +1,18 @@
+{
+  "name": "worshipcommons-api-layer",
+  "private": true,
+  "dependencies": {
+    "@aws-sdk/client-cloudwatch-logs": "^3.1037.0",
+    "@churchapps/apihelper": "^0.7.1",
+    "@churchapps/helpers": "^1.10.1",
+    "@codegenie/serverless-express": "^4.17.1",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^4.22.1",
+    "inversify": "^6.2.2",
+    "inversify-express-utils": "^6.5.0",
+    "kysely": "^0.28.16",
+    "mysql2": "^3.22.2",
+    "reflect-metadata": "^0.2.2"
+  }
+}

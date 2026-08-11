@@ -1,0 +1,73 @@
+service: worshipcommons-api
+
+disableSchemaValidation: true
+
+custom:
+  env: ${lower(${opt:stage, self:provider.stage})}
+  # prod RDS is VPC-only; staging/demo DBs are public, so only prod attaches a VPC
+  vpcSettings:
+    prod:
+      securityGroupIds:
+        - sg-052314a1eec2f2567
+      subnetIds:
+        - subnet-01a6b61d749d10c46
+    current: ${self:custom.vpcSettings.${self:custom.env}, ''}
+
+provider:
+  name: aws
+  runtime: nodejs22.x
+  memorySize: 1024
+  timeout: 30
+  region: us-east-2
+  iam:
+    role: arn:aws:iam::428019619026:role/ChurchAppsRole
+  environment:
+    APP_ENV: ${self:custom.env}
+    # resolved at deploy time — inside the VPC there is no runtime SSM access
+    CONNECTION_STRING: ${ssm:/${self:custom.env}/worshipCommonsApi/connectionString, ''}
+    JWT_SECRET: ${ssm:/${self:custom.env}/jwtSecret, ''}
+    ENCRYPTION_KEY: ${ssm:/${self:custom.env}/encryptionKey, ''}
+
+package:
+  individually: false
+  patterns:
+    - "config/**"
+    - "dist/**"
+    - "lambda.js"
+    - "package.json"
+    - "!node_modules/**"
+    - "!src/**"
+    - "!tools/**"
+    - "!content/**"
+    - "!tests/**"
+    - "!.env"
+    - "!.git/**"
+    - "!.yarn/**"
+    - "!layer/**"
+
+layers:
+  dependencies:
+    path: layer
+    name: ${self:service}-dependencies-${self:custom.env}
+    description: Dependencies layer for ${self:service}
+    compatibleRuntimes:
+      - nodejs22.x
+    retain: false
+
+functions:
+  api:
+    handler: lambda.universal
+    timeout: 30
+    vpc: ${self:custom.vpcSettings.current, ''}
+    layers:
+      - { Ref: DependenciesLambdaLayer }
+    events:
+      - http:
+          path: /{proxy+}
+          method: ANY
+      - http:
+          path: /
+          method: ANY
+
+plugins:
+  - serverless-plugin-utils
