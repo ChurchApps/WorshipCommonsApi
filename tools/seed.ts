@@ -2,7 +2,7 @@ import * as fs from "fs";
 import * as path from "path";
 import { fileURLToPath } from "url";
 import { ensureEnvironment, createKysely } from "./kysely-config.js";
-import { buildCatalog, makeWav } from "../src/seed-data/catalog.js";
+import { buildCatalog } from "../src/seed-data/catalog.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CONTENT_DIR = path.join(__dirname, "..", "content");
@@ -39,19 +39,17 @@ async function run() {
     await db.deleteFrom("admins").execute();
     await db.insertInto("admins").values({ userId: adminUserId, email: ADMIN_EMAIL }).execute();
 
-    fs.rmSync(path.join(CONTENT_DIR, "songs"), { recursive: true, force: true });
-    const stemsFixture = path.join(__dirname, "seed-assets", "stems.zip");
-
     const { rows, files } = buildCatalog(CONTENT_ROOT);
     for (const row of rows) await db.insertInto("songs").values(row).execute();
+
+    fs.rmSync(path.join(CONTENT_DIR, "songs"), { recursive: true, force: true });
     for (const f of files) {
       const target = path.join(CONTENT_DIR, ...f.key.split("/"));
       fs.mkdirSync(path.dirname(target), { recursive: true });
-      if (f.kind === "wav") fs.writeFileSync(target, makeWav(f.freq));
-      else fs.copyFileSync(stemsFixture, target);
+      fs.copyFileSync(path.join(__dirname, "seed-assets", "midi", f.src), target);
     }
 
-    console.log(`Seeded ${rows.length} songs (${files.length} content files), admin ${ADMIN_EMAIL} (${adminUserId}).`);
+    console.log(`Seeded ${rows.length} songs (${files.length} MIDI files), admin ${ADMIN_EMAIL} (${adminUserId}).`);
   } finally {
     await db.destroy();
   }

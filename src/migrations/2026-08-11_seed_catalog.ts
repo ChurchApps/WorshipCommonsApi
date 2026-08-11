@@ -8,9 +8,11 @@ export async function up(db: Kysely<any>): Promise<void> {
   const existing = await db.selectFrom("songs").select("id").limit(1).execute();
   if (existing.length > 0) return;
 
+  // midi columns arrive in 2026-08-11_tune_midis, which also fills their values
   const { rows } = buildCatalog(Environment.contentRoot);
-  for (let i = 0; i < rows.length; i += 50) {
-    await db.insertInto("songs").values(rows.slice(i, i + 50)).execute();
+  const inserts = rows.map(({ midiUrl, midiBytes, ...r }) => r);
+  for (let i = 0; i < inserts.length; i += 50) {
+    await db.insertInto("songs").values(inserts.slice(i, i + 50)).execute();
   }
 }
 

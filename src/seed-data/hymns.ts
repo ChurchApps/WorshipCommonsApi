@@ -12,7 +12,7 @@ export interface HymnSeed {
   scr: string;
   lic: string;
   cong: number;
-  audio?: boolean;
+  ts?: string;
   chordPro: string;
 }
 
@@ -27,21 +27,21 @@ export const HYMNS: HymnSeed[] = [
 round yon [Eb]virgin [Bb]mother and child —
 holy [Eb]infant so [Bb]tender and mild,
 [F]sleep in heavenly [Bb]peace,
-[Bb]sleep in [F]heavenly [Bb]peace.`, { audio: true }),
+[Bb]sleep in [F]heavenly [Bb]peace.`, { ts: "3/4" }),
   h("Stille Nacht", "Joseph Mohr & Franz Gruber", 1818, "Christmas,Comfort", "Bb", 60, "Lukas 2:7", 388, `Verse 1
 [Bb]Stille Nacht, heilige Nacht,
 [F]alles schläft, [Bb]einsam wacht
 nur das [Eb]traute hoch[Bb]heilige Paar,
 holder [Eb]Knabe im [Bb]lockigen Haar,
 [F]schlaf in himmlischer [Bb]Ruh,
-[Bb]schlaf in [F]himmlischer [Bb]Ruh.`, { lang: "German" }),
+[Bb]schlaf in [F]himmlischer [Bb]Ruh.`, { ts: "3/4", lang: "German" }),
   h("Joy to the World", "Isaac Watts & Lowell Mason", 1719, "Christmas,Praise", "D", 100, "Psalm 98:4", 1688, `Verse 1
 [D]Joy to the world! the [G]Lord is [D]come:
 let earth re[A]ceive her [D]King;
 let every [D]heart prepare him room,
 and heaven and nature sing,
 and [A]heaven and nature sing,
-and [D]heaven, and [G]heaven and [D]nature sing.`, { audio: true }),
+and [D]heaven, and [G]heaven and [D]nature sing.`, { ts: "2/4" }),
   h("Hark! The Herald Angels Sing", "Charles Wesley & Felix Mendelssohn", 1739, "Christmas,Praise", "F", 96, "Luke 2:14", 1471, `Verse 1
 [F]Hark! the herald [C]angels [F]sing,
 "Glory [Bb]to the [C]newborn [F]King;
@@ -79,7 +79,7 @@ the [F]hopes and fears of [Bb]all the [F]years are [Dm]met in [C]thee to[F]night
 A[F]way in a manger, no [Bb]crib for a bed,
 the [C]little Lord [F]Jesus laid [C]down his sweet [F]head;
 the stars in the sky looked [Bb]down where he lay,
-the [C]little Lord [F]Jesus, a[C]sleep on the [F]hay.`),
+the [C]little Lord [F]Jesus, a[C]sleep on the [F]hay.`, { ts: "3/4" }),
   h("The First Noel", "Traditional English carol", 1833, "Christmas", "D", 88, "Luke 2:8-10", 1024, `Verse 1
 The [D]first No[A]el the [Bm]angel did [A]say
 was to [D]certain poor [G]shepherds in [A]fields as they [D]lay —
@@ -88,7 +88,7 @@ on a [D]cold winter's [G]night that [A]was so [D]deep.
 
 Chorus
 No[D]el, No[A]el, No[Bm]el, No[G]el —
-[D]born is the [G]King of [A]Isra[D]el.`),
+[D]born is the [G]King of [A]Isra[D]el.`, { ts: "3/4" }),
   h("Angels We Have Heard on High", "Traditional French carol · tr. James Chadwick", 1862, "Christmas,Praise", "F", 96, "Luke 2:13-14", 1112, `Verse 1
 [F]Angels we have [C]heard on [F]high,
 sweetly [Bb]singing [C]o'er the [F]plains,
@@ -102,7 +102,7 @@ Chorus
 It [Eb]came upon the [Ab]midnight clear, that [C]glorious song of [Bb]old,
 from [Eb]angels bending [Ab]near the earth to [Bb]touch their harps of [Eb]gold:
 "Peace on the earth, good [Ab]will to men, from [C]heaven's all-gracious [Bb]King" —
-the [Eb]world in solemn [Ab]stillness lay to [Bb]hear the angels [Eb]sing.`),
+the [Eb]world in solemn [Ab]stillness lay to [Bb]hear the angels [Eb]sing.`, { ts: "6/8" }),
   h("What Child Is This", "William C. Dix · Greensleeves", 1865, "Christmas,Adoration", "Em", 84, "Matthew 2:11", 934, `Verse 1
 [Em]What child is this, who, [D]laid to rest,
 on [C]Mary's lap is [B]sleeping?
@@ -113,7 +113,7 @@ Chorus
 [G]This, this is [D]Christ the King,
 whom [C]shepherds guard and [B]angels sing:
 [G]haste, haste to [D]bring him laud,
-the [C]babe, the [B]son of [Em]Mary.`),
+the [C]babe, the [B]son of [Em]Mary.`, { ts: "3/4" }),
   h("God Rest You Merry, Gentlemen", "Traditional English carol", 1760, "Christmas,Hope", "Em", 96, "Luke 2:10-11", 651, `Verse 1
 God [Em]rest you merry, gentlemen, let [C]nothing you dis[B]may,
 re[Em]member Christ our Savior was [C]born on Christmas [B]Day
@@ -150,7 +150,7 @@ from our fears and [Bb]sins re[F]lease us,
 [Bb]Israel's [F]strength and [C]conso[F]lation,
 [Bb]hope of [F]all the [C]earth thou [F]art —
 dear de[Bb]sire of [F]every [C]nation,
-[Dm]joy of [Bb]every [C]longing [F]heart.`),
+[Dm]joy of [Bb]every [C]longing [F]heart.`, { ts: "2/4" }),
   h("Lo, How a Rose E'er Blooming", "German carol · tr. Theodore Baker", 1894, "Christmas,Hope", "F", 69, "Isaiah 11:1", 421, `Verse 1
 [F]Lo, how a rose e'er [C]blooming from [Bb]tender [C]stem hath [F]sprung,
 of Jesse's lineage [C]coming as [Bb]men of [C]old have [F]sung.
@@ -165,7 +165,7 @@ A [G]thrill of hope, the [C]weary world rejoices,
 for [G]yonder breaks a [C]new and glorious morn.
 [Am]Fall on your [Em]knees, o [F]hear the angel [C]voices!
 O [C]night di[G]vine, o [C]night [F]when Christ was [C]born —
-o [G]night di[C]vine, o [F]night, [G]o night di[C]vine!`, { audio: true }),
+o [G]night di[C]vine, o [F]night, [G]o night di[C]vine!`),
   h("Go, Tell It on the Mountain", "African American spiritual", 1865, "Christmas,Mission", "F", 92, "Luke 2:17", 968, `Chorus
 [F]Go, tell it on the [Bb]moun[F]tain,
 over the hills and [C]every[F]where;
@@ -205,7 +205,7 @@ Chorus
 [Eb]Were you there when they [Ab]crucified my [Eb]Lord?
 Were you there when they [Bb]crucified my Lord?
 [Eb]Oh, [Ab]sometimes it causes me to [Eb]tremble, [Cm]tremble, [Bb]tremble —
-[Eb]were you there when they [Ab]cruci[Bb]fied my [Eb]Lord?`, { audio: true }),
+[Eb]were you there when they [Ab]cruci[Bb]fied my [Eb]Lord?`),
   h("Crown Him with Many Crowns", "Matthew Bridges & George Elvey", 1851, "Easter,Adoration", "D", 92, "Revelation 19:12", 1187, `Verse 1
 [D]Crown him with many [G]crowns, the [D]Lamb upon his [A]throne:
 [D]hark how the heavenly [Em]anthem drowns all [A]music but its [D]own!
@@ -253,7 +253,7 @@ Chorus
 So I'll [F]cherish the old rugged [Bb]cross,
 till my [Eb]trophies at last I lay [Bb]down;
 I will cling to the old rugged [Eb]cross,
-and ex[Bb]change it some [F]day for a [Bb]crown.`, { audio: true }),
+and ex[Bb]change it some [F]day for a [Bb]crown.`, { ts: "6/4" }),
   h("At Calvary", "William Newell & Daniel Towner", 1895, "Grace,Confession", "C", 88, "Romans 5:8", 587, `Verse 1
 [C]Years I spent in vanity and pride,
 [F]caring not my Lord was [C]crucified,
@@ -300,17 +300,17 @@ Chorus
 [G]Praise to the Lord, the Al[Em]mighty, the [C]King of cre[D]ation!
 [G]O my soul, praise him, for [Em]he is thy [C]health and sal[D]vation!
 [G]All ye who hear, now to his [C]temple draw [G]near,
-[C]join me in [G]glad ado[D]ra[G]tion!`),
+[C]join me in [G]glad ado[D]ra[G]tion!`, { ts: "3/4" }),
   h("Immortal, Invisible, God Only Wise", "Walter Chalmers Smith", 1867, "Adoration,Praise", "G", 108, "1 Timothy 1:17", 876, `Verse 1
 Im[G]mortal, in[C]visible, [G]God only [D]wise,
 in [G]light inac[C]cessible [G]hid [D]from our [G]eyes,
 most blessed, most [C]glorious, the [G]Ancient of [D]Days,
-al[G]mighty, vic[C]torious, thy [G]great [D]name we [G]praise.`),
+al[G]mighty, vic[C]torious, thy [G]great [D]name we [G]praise.`, { ts: "3/4" }),
   h("Come, Thou Almighty King", "Anonymous & Felice de Giardini", 1757, "Adoration,Praise", "F", 92, "Psalm 95:6", 743, `Verse 1
 [F]Come, thou almighty [C]King, [F]help us thy [Bb]name to [C]sing,
 [F]help us to [C]praise:
 [F]Father, all-glorious, [C]o'er all vic[F]torious,
-[Bb]come and reign [F]over us, [C]Ancient of [F]Days.`),
+[Bb]come and reign [F]over us, [C]Ancient of [F]Days.`, { ts: "3/4" }),
   h("O Worship the King", "Robert Grant", 1833, "Praise,Creation", "G", 96, "Psalm 104:1", 934, `Verse 1
 O [G]worship the [D]King all [Em]glorious a[D]bove,
 o [G]gratefully [C]sing his [D]power and his [G]love:
@@ -319,10 +319,10 @@ pa[G]vilioned in [C]splendor and [D]girded with [G]praise.`),
   h("Praise, My Soul, the King of Heaven", "Henry Lyte & John Goss", 1834, "Praise,Grace", "D", 92, "Psalm 103:1", 812, `Verse 1
 [D]Praise, my soul, the [G]King of [D]heaven, [G]to his feet thy [A]tribute bring;
 [D]ransomed, healed, re[G]stored, for[D]given, [Em]evermore his [A]praises [D]sing.
-[A]Alleluia! [D]Alleluia! [G]Praise the ever[A]lasting [D]King.`),
+[A]Alleluia! [D]Alleluia! [G]Praise the ever[A]lasting [D]King.`, { ts: "2/4" }),
   h("O For a Thousand Tongues to Sing", "Charles Wesley", 1739, "Praise,Grace", "G", 96, "Psalm 35:28", 1123, `Verse 1
 O [G]for a thousand [D]tongues to [G]sing my [C]great Re[G]deemer's [D]praise,
-the [G]glories of my [C]God and [G]King, the [C]triumphs [G]of [D]his [G]grace!`),
+the [G]glories of my [C]God and [G]King, the [C]triumphs [G]of [D]his [G]grace!`, { ts: "3/2" }),
   h("Love Divine, All Loves Excelling", "Charles Wesley", 1747, "Adoration,Grace", "Bb", 84, "1 John 4:16", 987, `Verse 1
 [Bb]Love divine, all [F]loves ex[Bb]celling, [Eb]joy of heaven, to [Bb]earth come [F]down,
 [Bb]fix in us thy [F]humble [Bb]dwelling, [Eb]all thy faithful [Bb]mer[F]cies [Bb]crown.
@@ -335,7 +335,7 @@ A[D]mazing love! How [G]can it be that [C]thou, my [G]God, shouldst [D]die for [
 
 Chorus
 A[D]mazing love! How [G]can it [C]be
-that [G]thou, my [D]God, shouldst [G]die for me?`),
+that [G]thou, my [D]God, shouldst [G]die for me?`, { ts: "3/4" }),
   h("Fairest Lord Jesus", "German hymn · tr. anonymous", 1873, "Adoration", "Eb", 76, "Psalm 45:2", 765, `Verse 1
 [Eb]Fairest Lord [Ab]Je[Bb]sus, [Cm]ruler of [G]all [Ab]nature,
 [Bb]O thou of [Eb]God and [Bb]man the [Eb]Son:
@@ -388,7 +388,7 @@ Chorus
 [G]Praise the Lord, praise the Lord, let the [C]earth hear his [G]voice!
 Praise the Lord, praise the Lord, let the [A]people re[D]joice!
 O come to the [G]Father through [C]Jesus the [G]Son,
-and give him the glory — great [D]things he hath [G]done!`, { audio: true }),
+and give him the glory — great [D]things he hath [G]done!`, { ts: "3/4" }),
   h("Joyful, Joyful, We Adore Thee", "Henry van Dyke & Ludwig van Beethoven", 1907, "Praise,Creation", "G", 100, "Psalm 71:23", 1245, `Verse 1
 [G]Joyful, joyful, [D]we adore thee, [G]God of glory, [D]Lord of [G]love;
 hearts unfold like [D]flowers before thee, [G]opening to the [D]sun a[G]bove.
@@ -397,7 +397,7 @@ hearts unfold like [D]flowers before thee, [G]opening to the [D]sun a[G]bove.
   h("Holy God, We Praise Thy Name", "Ignaz Franz · tr. Clarence Walworth", 1858, "Adoration,Praise", "F", 88, "Revelation 4:8", 512, `Verse 1
 [F]Holy God, we [Bb]praise thy [C]name; [F]Lord of [Bb]all, we [C]bow be[F]fore thee!
 All on earth thy [Bb]scepter [C]claim, [F]all in [Bb]heaven a[C]bove a[F]dore thee;
-[C]infinite thy [F]vast do[C]main, [F]ever[Bb]last[C]ing [F]is thy reign.`),
+[C]infinite thy [F]vast do[C]main, [F]ever[Bb]last[C]ing [F]is thy reign.`, { ts: "3/4" }),
   h("When Morning Gilds the Skies", "German hymn · tr. Edward Caswall", 1854, "Praise", "D", 88, "Psalm 5:3", 428, `Verse 1
 When [D]morning gilds the [A]skies, my [D]heart a[G]waking [A]cries:
 may [D]Jesus [A]Christ be [D]praised!
@@ -425,7 +425,7 @@ through [F]thorny [C]ways leads [Dm]to a [C]joyful [F]end.`),
 [F]What a friend we [Bb]have in [F]Jesus, all our [Bb]sins and [C]griefs to [F]bear!
 What a privilege to [Bb]car[F]ry [Dm]every[Bb]thing to [C]God in [F]prayer!
 [C]O what peace we [F]often [Bb]forfeit, [F]o what [Dm]needless [C]pain we [F]bear —
-all be[C]cause we [F]do not [Bb]car[F]ry [Dm]every[Bb]thing to [C]God in [F]prayer.`, { audio: true }),
+all be[C]cause we [F]do not [Bb]car[F]ry [Dm]every[Bb]thing to [C]God in [F]prayer.`),
   h("Leaning on the Everlasting Arms", "Elisha Hoffman & Anthony Showalter", 1887, "Trust,Assurance", "G", 88, "Deuteronomy 33:27", 1034, `Verse 1
 [G]What a fellowship, what a [C]joy di[G]vine,
 leaning on the ever[D]lasting arms;
@@ -438,12 +438,12 @@ Chorus
   h("Rock of Ages", "Augustus Toplady & Thomas Hastings", 1776, "Grace,Trust", "Bb", 76, "Psalm 94:22", 1156, `Verse 1
 [Bb]Rock of Ages, [F]cleft for [Bb]me, [Eb]let me [Bb]hide my[F]self in [Bb]thee;
 let the water [F]and the [Bb]blood, [Eb]from thy [Bb]wounded [F]side which [Bb]flowed,
-[F]be of sin the [Bb]double cure: [Eb]save from [Bb]wrath and [F]make me [Bb]pure.`, { audio: true }),
+[F]be of sin the [Bb]double cure: [Eb]save from [Bb]wrath and [F]make me [Bb]pure.`, { ts: "6/4" }),
   h("Nearer, My God, to Thee", "Sarah Adams & Lowell Mason", 1841, "Trust,Comfort", "G", 76, "Genesis 28:12", 876, `Verse 1
 [G]Nearer, my [D]God, to [G]thee, [C]nearer to [D]thee!
 [G]E'en though it [D]be a [Em]cross that [C]raiseth [D]me,
 [G]still all my [D]song shall [G]be: nearer, my [C]God, to thee —
-[G]nearer, my [C]God, to [D]thee, [G]nearer to [D]thee!`),
+[G]nearer, my [C]God, to [D]thee, [G]nearer to [D]thee!`, { ts: "6/4" }),
   h("Just as I Am", "Charlotte Elliott & William Bradbury", 1835, "Grace,Confession", "Eb", 69, "John 6:37", 1187, `Verse 1
 [Eb]Just as I [Ab]am, with[Eb]out one [Bb]plea
 but [Eb]that thy [Ab]blood was [Bb]shed for me,
@@ -462,7 +462,7 @@ Chorus
 
 Chorus
 I [G]need thee, O I [C]need thee — [G]every hour I [D]need thee!
-O [G]bless me [C]now, my [G]Savior: [D]I come to [G]thee!`),
+O [G]bless me [C]now, my [G]Savior: [D]I come to [G]thee!`, { ts: "3/4" }),
   h("Sweet Hour of Prayer", "William Walford & William Bradbury", 1845, "Trust,Comfort", "D", 76, "Matthew 6:6", 687, `Verse 1
 [D]Sweet hour of prayer, sweet [G]hour of [D]prayer,
 that calls me from a [A]world of care
@@ -489,7 +489,7 @@ Chorus
 [Bb]Great is thy [Eb]faithfulness! [Bb]Great is thy [Eb]faithfulness!
 [Ab]Morning by [Bb]morning new [Eb]mercies I [Cm]see;
 [F]all I have needed thy [Bb]hand hath provided —
-[Eb]great is thy [Ab]faithfulness, [Bb]Lord, unto [Eb]me!`, { audio: true }),
+[Eb]great is thy [Ab]faithfulness, [Bb]Lord, unto [Eb]me!`),
   h("Turn Your Eyes upon Jesus", "Helen Lemmel", 1922, "Comfort,Hope", "F", 72, "Hebrews 12:2", 1345, `Chorus
 Turn your [F]eyes upon [A]Jesus,
 [Bb]look full in his [F]wonderful [G]face,
@@ -531,7 +531,7 @@ Chorus
 [D]This is my [G]story, [D]this is my song:
 praising my [E]Savior all the day [A]long.
 [D]This is my [G]story, [D]this is my [Bm]song:
-[D]praising my [A]Savior [G]all the day [D]long.`, { audio: true }),
+[D]praising my [A]Savior [G]all the day [D]long.`, { ts: "9/8" }),
   h("Like a River Glorious", "Frances Havergal", 1876, "Comfort,Assurance", "D", 88, "Isaiah 26:3", 456, `Verse 1
 [D]Like a river [G]glorious is God's [A]perfect [D]peace,
 over all vic[G]torious in its [A]bright in[D]crease:
@@ -629,7 +629,7 @@ Chorus
 [G]Jesus, Jesus, [C]precious [G]Jesus! O for [C]grace to [G]trust [D]him [G]more!`),
   h("Take My Life and Let It Be", "Frances Havergal", 1874, "Confession,Mission", "F", 84, "Romans 12:1", 923, `Verse 1
 [F]Take my life and [C]let it [F]be [Bb]consecrated, [C]Lord, to [F]thee;
-take my moments [C]and my [F]days, [Bb]let them flow in [C]ceaseless [F]praise.`),
+take my moments [C]and my [F]days, [Bb]let them flow in [C]ceaseless [F]praise.`, { ts: "3/4" }),
   h("Come, Ye Sinners, Poor and Needy", "Joseph Hart", 1759, "Grace,Confession", "G", 84, "Matthew 11:28", 534, `Verse 1
 [G]Come, ye sinners, [C]poor and [G]needy, weak and wounded, [D]sick and sore;
 [G]Jesus ready [C]stands to [G]save you, full of pity, [D]love, and [G]power.`),
@@ -680,7 +680,7 @@ for[G]getting in [C]nothing his [D]blessing to [G]seek.`),
   // ---- Mission, service & justice ----
   h("Jesus Shall Reign", "Isaac Watts & John Hatton", 1719, "Mission,Praise", "D", 92, "Psalm 72:8", 634, `Verse 1
 [D]Jesus shall [G]reign wher[D]e'er the [A]sun does [D]its suc[G]cessive [A]journeys [D]run,
-his [D]kingdom [G]stretch from [D]shore to [Bm]shore, till [D]moons shall [A]wax and [D]wane no more.`),
+his [D]kingdom [G]stretch from [D]shore to [Bm]shore, till [D]moons shall [A]wax and [D]wane no more.`, { ts: "2/2" }),
   h("I Love to Tell the Story", "Katherine Hankey & William Fischer", 1866, "Mission,Praise", "G", 84, "Psalm 66:16", 856, `Verse 1
 I [G]love to tell the [C]story of [G]unseen things a[D]bove,
 of [G]Jesus and his [C]glory, of [D]Jesus and his [G]love.
@@ -774,7 +774,7 @@ From [A]heaven he came and [D]sought her to [Em]be his holy [A]bride;
 with [D]his own blood he [G]bought her, and [D]for her [A]life he [D]died.`),
   h("Blest Be the Tie That Binds", "John Fawcett", 1782, "Comfort,Trust", "F", 76, "Colossians 3:14", 445, `Verse 1
 [F]Blest be the [Bb]tie that [F]binds our [Bb]hearts in [C]Christian [F]love:
-the fellowship of [Bb]kindred [F]minds is [Bb]like to [C]that a[F]bove.`),
+the fellowship of [Bb]kindred [F]minds is [Bb]like to [C]that a[F]bove.`, { ts: "3/4" }),
   h("Break Thou the Bread of Life", "Mary Lathbury & William Sherwin", 1877, "Communion,Provision", "D", 72, "John 6:35", 356, `Verse 1
 [D]Break thou the [G]bread of [D]life, dear [Em]Lord, to [A]me,
 as [D]thou didst [G]break the [D]loaves be[A]side the [D]sea;
@@ -791,7 +791,7 @@ come to God's own [C]temple, [F]come — [Bb]raise the [F]song of [C]harvest [F]
 We [F]gather to[Bb]gether to [C]ask the Lord's [F]blessing —
 he [Dm]chastens and [G]hastens his [C]will to make known;
 the [F]wicked op[Bb]pressing now [C]cease from dis[Dm]tressing:
-sing [F]praises to [C]his name, he for[F]gets not his [C]own.`),
+sing [F]praises to [C]his name, he for[F]gets not his [C]own.`, { ts: "3/4" }),
   h("Now Thank We All Our God", "Martin Rinkart · tr. Catherine Winkworth", 1858, "Praise,Provision", "F", 88, "1 Thessalonians 5:18", 712, `Verse 1
 Now [F]thank we [C]all our [Dm]God with [Bb]heart and [C]hands and [F]voices,
 who wondrous [C]things hath [Dm]done, in [Bb]whom his [C]world re[F]joices;
@@ -825,7 +825,7 @@ Chorus
 
 Verse 1
 I [D]looked over Jordan, and [G]what did I [D]see, coming for to carry me [A]home?
-A [D]band of angels [G]coming after [D]me, coming for to [A]carry me [D]home.`, { audio: true }),
+A [D]band of angels [G]coming after [D]me, coming for to [A]carry me [D]home.`),
   h("Give Me Jesus", "African American spiritual", 1845, "Trust,Comfort", "F", 63, "Philippians 3:8", 534, `Verse 1
 In the [F]morning [Dm]when I [Bb]rise, in the [F]morning when I [C]rise,
 in the [F]morning [Dm]when I [Bb]rise, give me [C]Je[F]sus.
@@ -867,12 +867,12 @@ I [G]dare not trust the [C]sweetest [G]frame, but wholly lean on [D]Jesus' [G]na
 
 Chorus
 On [G]Christ, the solid [C]rock, I [G]stand — all [C]other ground is [D]sinking sand,
-all [G]other [C]ground is [D]sinking [G]sand.`, { audio: true }),
+all [G]other [C]ground is [D]sinking [G]sand.`),
   h("How Firm a Foundation", "John Rippon's Selection", 1787, "Assurance,Trust", "G", 88, "Isaiah 41:10", 745, `Verse 1
 How [G]firm a foun[C]dation, ye [G]saints of the [D]Lord,
 is [G]laid for your [C]faith in his [G]excellent [D]word!
 What [G]more can he [C]say than to [G]you he hath [D]said —
-to [G]you who for [C]refuge to [G]Jesus have [D]fled?`),
+to [G]you who for [C]refuge to [G]Jesus have [D]fled?`, { ts: "2/2" }),
   h("Sweet By and By", "Sanford Bennett & Joseph Webster", 1868, "Hope,Comfort", "G", 88, "Revelation 21:4", 578, `Verse 1
 There's a [G]land that is [C]fairer than [G]day,
 and by faith we can [D]see it afar,
@@ -961,7 +961,7 @@ con su poder nos [G]librará en [F]este [C]trance a[G]gu[C]do.`, { lang: "Spanis
 entre los [Eb]astros que es[Bb]parcen su luz,
 bella, anun[Eb]ciando al ni[Bb]ñito Jesús,
 [F]brilla la estrella de [Bb]paz,
-[Bb]brilla la es[F]trella de [Bb]paz.`, { lang: "Spanish" })
+[Bb]brilla la es[F]trella de [Bb]paz.`, { ts: "3/4", lang: "Spanish" })
 ];
 
 // Full texts for the public-domain hymns already present in the base seed list

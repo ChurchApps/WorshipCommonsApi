@@ -90,7 +90,7 @@ from the [Eb]burning of the [Ab]noontide heat and the [Bb]burden of the [Eb]day.
   // ---- More cross & grace ----
   h("Hallelujah! What a Savior", "Philip Bliss", 1875, "Grace,Adoration", "Bb", 69, "Isaiah 53:3", 823, `Verse 1
 "Man of [Bb]sorrows," what a [Eb]name for the [Bb]Son of [F]God, who [Bb]came
-ruined [Eb]sinners [Bb]to re[Gm]claim! Halle[Bb]lujah! [F]What a [Bb]Savior!`, { audio: true }),
+ruined [Eb]sinners [Bb]to re[Gm]claim! Halle[Bb]lujah! [F]What a [Bb]Savior!`),
   h("In the Cross of Christ I Glory", "John Bowring & Ithamar Conkey", 1825, "Grace,Trust", "Eb", 84, "Galatians 6:14", 389, `Verse 1
 [Eb]In the cross of [Bb]Christ I [Cm]glo[Bb]ry, [Eb]towering [Ab]o'er the [Bb]wrecks of [Eb]time:
 all the light of [Bb]sacred [Cm]sto[Bb]ry [Eb]gathers [Ab]round its [Bb]head sub[Eb]lime.`),
@@ -121,7 +121,7 @@ Chorus
 
 Chorus
 [G]Whiter than snow, yes, [D]whiter than snow —
-now [C]wash me, and [G]I shall be [D]whiter than [G]snow.`),
+now [C]wash me, and [G]I shall be [D]whiter than [G]snow.`, { ts: "3/4" }),
   h("I Gave My Life for Thee", "Frances Havergal & Philip Bliss", 1858, "Grace,Confession", "F", 72, "2 Corinthians 8:9", 289, `Verse 1
 I [F]gave my life for [Bb]thee; my [F]precious blood I [C]shed,
 that [F]thou might'st ransomed [Bb]be, and [F]quickened [C]from the [F]dead.
@@ -130,7 +130,7 @@ I gave, I gave my [Bb]life for thee — [F]what hast thou [C]given for [F]me?`),
 [Dm]O the deep, deep [C]love of Jesus — [Dm]vast, unmeasured, [A]boundless, free,
 [Dm]rolling as a [C]mighty ocean [Dm]in its fullness [A]over [Dm]me!
 [F]Underneath me, [C]all around me, [Dm]is the current [C]of thy [F]love —
-[Dm]leading onward, [C]leading homeward, [Dm]to thy glorious [A]rest a[Dm]bove.`),
+[Dm]leading onward, [C]leading homeward, [Dm]to thy glorious [A]rest a[Dm]bove.`, { ts: "8/4" }),
 
   // ---- More adoration & psalms ----
   h("Jesus, the Very Thought of Thee", "Bernard of Clairvaux · tr. Edward Caswall", 1849, "Adoration,Comfort", "G", 72, "Psalm 104:34", 434, `Verse 1
@@ -155,7 +155,7 @@ with [Cm]light and life since [F]Eden's dawning [Bb]day.`),
 him [G]serve with [D]mirth, his [Em]praise forth [C]tell — come [G]ye be[Em]fore him [D]and re[G]joice.`),
   h("The Lord's My Shepherd", "Scottish Psalter · Crimond", 1650, "Trust,Provision", "F", 76, "Psalm 23:1", 645, `Verse 1
 The [F]Lord's my [Bb]shepherd, [F]I'll not [Dm]want: he [Gm]makes me [C]down to [F]lie
-in [Bb]pastures [F]green; he [Bb]leadeth [F]me the [Gm]quiet [C]waters [F]by.`),
+in [Bb]pastures [F]green; he [Bb]leadeth [F]me the [Gm]quiet [C]waters [F]by.`, { ts: "3/2" }),
   h("Praise the Lord! Ye Heavens, Adore Him", "Foundling Hospital Collection", 1796, "Praise,Creation", "F", 92, "Psalm 148:1", 267, `Verse 1
 [F]Praise the Lord! ye [Bb]heavens, a[F]dore him; [Dm]praise him, [Bb]angels [C]in the [F]height;
 sun and moon, re[Bb]joice be[F]fore him — [Dm]praise him, [Bb]all ye [C]stars of [F]light.`),
@@ -223,7 +223,7 @@ that [F]I may [C]love what [Dm]thou dost [Bb]love, and [F]do what [C]thou woulds
 O how our hearts beat [C]high with [G]joy when[Em]e'er we [C]hear that [D]glorious [G]word!
 
 Chorus
-[G]Faith of our [D]fathers, [Em]holy [C]faith, [G]we will be [C]true to [D]thee till [G]death.`),
+[G]Faith of our [D]fathers, [Em]holy [C]faith, [G]we will be [C]true to [D]thee till [G]death.`, { ts: "3/4" }),
   h("For All the Saints", "William How & Ralph Vaughan Williams", 1864, "Hope,Praise", "G", 88, "Hebrews 12:1", 423, `Verse 1
 For [G]all the saints who [C]from their [G]labors [D]rest,
 who [G]thee by [C]faith be[G]fore the [D]world con[Em]fessed,
@@ -247,19 +247,19 @@ He can never [Bb]be for[F]gotten [Dm]throughout [Bb]heaven's e[C]ternal [F]days.
 
 Chorus
 Yes, Jesus [F]loves me! [C]Yes, Jesus [G]loves me!
-[C]Yes, Jesus [F]loves me — the [C]Bible [G]tells me [C]so.`, { audio: true }),
+[C]Yes, Jesus [F]loves me — the [C]Bible [G]tells me [C]so.`),
   h("My Jesus, I Love Thee", "William Featherston & Adoniram Gordon", 1864, "Adoration,Trust", "F", 72, "1 John 4:19", 1234, `Verse 1
 My [F]Jesus, I [Bb]love thee, I [F]know thou art [C]mine;
 for [F]thee all the [Bb]follies of [F]sin I re[C]sign.
 My [F]gracious Re[Bb]deemer, my [F]Savior art [C]thou:
-if [F]ever I [Bb]loved thee, my [F]Jesus, 'tis [C]now.`, { audio: true }),
+if [F]ever I [Bb]loved thee, my [F]Jesus, 'tis [C]now.`),
   h("I Stand Amazed in the Presence", "Charles Gabriel", 1905, "Grace,Adoration", "G", 80, "1 John 3:1", 1045, `Verse 1
 I [G]stand amazed in the [C]presence of [G]Jesus the Naza[D]rene,
 and [G]wonder how he could [C]love me, a [G]sinner, con[D]demned, un[G]clean.
 
 Chorus
 [G]How marvelous! How [D]wonderful! And [G]my song shall ever [D]be:
-[G]how marvelous! How [C]wonderful is my [G]Savior's [D]love for [G]me!`, { audio: true }),
+[G]how marvelous! How [C]wonderful is my [G]Savior's [D]love for [G]me!`),
   h("O That Will Be Glory", "Charles Gabriel", 1900, "Hope,Praise", "Bb", 96, "1 Corinthians 2:9", 534, `Verse 1
 When [Bb]all my labors and trials are o'er, and [Eb]I am safe on that [Bb]beautiful shore,
 just to be near the dear Lord I adore will [C]through the ages be [F]glory for me.
