@@ -4,6 +4,7 @@ import { HYMNS2 } from "./hymns2.js";
 import { HYMNS_OH } from "./hymns-oh.js";
 import { MIDI_MAP } from "./midi-map.js";
 import { MIDI_MAP_HYMNSITE } from "./midi-map-hymnsite.js";
+import { LYRIC_MAP } from "./lyric-map.js";
 
 const MIDI: Record<string, { file: string; bytes: number }> = { ...MIDI_MAP_HYMNSITE, ...MIDI_MAP };
 
@@ -161,7 +162,11 @@ export function buildCatalog(contentRoot: string) {
     const midi = MIDI[s.t];
     row.midiUrl = midi ? `${contentRoot}/songs/${id}/tune.mid` : null;
     row.midiBytes = midi ? midi.bytes : null;
-    if (midi) files.push({ songId: id, src: midi.file, key: `songs/${id}/tune.mid` });
+    if (midi) files.push({ songId: id, src: `midi/${midi.file}`, key: `songs/${id}/tune.mid` });
+
+    const lyr = LYRIC_MAP[s.t];
+    row.lyricsUrl = lyr ? `${contentRoot}/songs/${id}/lyrics.json` : null;
+    if (lyr) files.push({ songId: id, src: `lyrics/${lyr.file}`, key: `songs/${id}/lyrics.json` });
     rows.push(row);
   });
 

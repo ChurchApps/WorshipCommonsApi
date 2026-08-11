@@ -46,10 +46,10 @@ async function run() {
     for (const f of files) {
       const target = path.join(CONTENT_DIR, ...f.key.split("/"));
       fs.mkdirSync(path.dirname(target), { recursive: true });
-      fs.copyFileSync(path.join(__dirname, "seed-assets", "midi", f.src), target);
+      fs.copyFileSync(path.join(__dirname, "seed-assets", ...f.src.split("/")), target);
     }
 
-    console.log(`Seeded ${rows.length} songs (${files.length} MIDI files), admin ${ADMIN_EMAIL} (${adminUserId}).`);
+    console.log(`Seeded ${rows.length} songs (${files.length} content files), admin ${ADMIN_EMAIL} (${adminUserId}).`);
   } finally {
     await db.destroy();
   }

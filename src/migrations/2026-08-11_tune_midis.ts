@@ -27,7 +27,8 @@ export async function up(db: Kysely<any>): Promise<void> {
         })
         .where("id", "=", row.id).execute();
     } else {
-      await db.insertInto("songs").values(row).execute();
+      const { lyricsUrl: _lyricsUrl, ...ins } = row;
+      await db.insertInto("songs").values(ins).execute();
     }
   }
 }

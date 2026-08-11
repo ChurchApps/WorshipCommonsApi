@@ -13,7 +13,8 @@ export async function up(db: Kysely<any>): Promise<void> {
         .set({ chordPro: row.chordPro, midiBytes: row.midiBytes })
         .where("id", "=", row.id).execute();
     } else {
-      await db.insertInto("songs").values(row).execute();
+      const { lyricsUrl: _lyricsUrl, ...ins } = row;
+      await db.insertInto("songs").values(ins).execute();
     }
   }
 }
