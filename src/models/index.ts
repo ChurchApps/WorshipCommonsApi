@@ -52,3 +52,9 @@ export interface Admin {
   email?: string;
   createdAt?: Date;
 }
+
+export interface Sing {
+  songId?: string;
+  ipHash?: string;
+  createdAt?: Date;
+}

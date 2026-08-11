@@ -37,6 +37,7 @@ async function run() {
     await db.deleteFrom("reports").execute();
     await db.deleteFrom("songs").execute();
     await db.deleteFrom("admins").execute();
+    await db.deleteFrom("sings").execute();
     await db.insertInto("admins").values({ userId: adminUserId, email: ADMIN_EMAIL }).execute();
 
     const { rows, files } = buildCatalog(CONTENT_ROOT);

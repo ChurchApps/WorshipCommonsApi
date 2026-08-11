@@ -14,6 +14,8 @@ export interface HymnSeed {
   cong: number;
   ts?: string;
   chordPro: string;
+  parent?: string;
+  rel?: string;
 }
 
 export const h = (t: string, a: string, y: number, th: string, k: string, bpm: number, scr: string, cong: number, chordPro: string, opts: Partial<HymnSeed> = {}): HymnSeed =>
@@ -34,7 +36,7 @@ holy [Eb]infant so [Bb]tender and mild,
 nur das [Eb]traute hoch[Bb]heilige Paar,
 holder [Eb]Knabe im [Bb]lockigen Haar,
 [F]schlaf in himmlischer [Bb]Ruh,
-[Bb]schlaf in [F]himmlischer [Bb]Ruh.`, { ts: "3/4", lang: "German" }),
+[Bb]schlaf in [F]himmlischer [Bb]Ruh.`, { ts: "3/4", lang: "German", parent: "Silent Night", rel: "German original · Mohr & Gruber, 1818" }),
   h("Joy to the World", "Isaac Watts & Lowell Mason", 1719, "Christmas,Praise", "D", 100, "Psalm 98:4", 1688, `Verse 1
 [D]Joy to the world! the [G]Lord is [D]come:
 let earth re[A]ceive her [D]King;
@@ -69,7 +71,7 @@ ve[Em]nite, ve[A]nite in [D]Bethlehem;
 Chorus
 Ve[G]nite adoremus,
 ve[D]nite adore[G]mus,
-ve[C]nite adore[G]mus [D]Do[G]minum.`, { lang: "Latin" }),
+ve[C]nite adore[G]mus [D]Do[G]minum.`, { lang: "Latin", parent: "O Come, All Ye Faithful", rel: "Latin original · John F. Wade, 1751" }),
   h("O Little Town of Bethlehem", "Phillips Brooks & Lewis Redner", 1868, "Christmas,Hope", "F", 84, "Micah 5:2", 1093, `Verse 1
 [F]O little town of [Bb]Bethle[F]hem, how [Dm]still we [C]see thee [F]lie!
 Above thy deep and [Bb]dreamless [F]sleep the [Dm]silent [C]stars go [F]by;
@@ -961,7 +963,7 @@ con su poder nos [G]librará en [F]este [C]trance a[G]gu[C]do.`, { lang: "Spanis
 entre los [Eb]astros que es[Bb]parcen su luz,
 bella, anun[Eb]ciando al ni[Bb]ñito Jesús,
 [F]brilla la estrella de [Bb]paz,
-[Bb]brilla la es[F]trella de [Bb]paz.`, { ts: "3/4", lang: "Spanish" })
+[Bb]brilla la es[F]trella de [Bb]paz.`, { ts: "3/4", lang: "Spanish", parent: "Silent Night", rel: "Spanish translation · tr. Federico Fliedner, 1871" })
 ];
 
 // Full texts for the public-domain hymns already present in the base seed list

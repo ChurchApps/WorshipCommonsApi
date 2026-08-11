@@ -3,13 +3,22 @@ import express from "express";
 import { WorshipCommonsBaseController } from "./WorshipCommonsBaseController";
 import { MigrationHelper } from "../helpers/MigrationHelper";
 import { QualityHelper } from "../helpers/QualityHelper";
+import { Environment } from "../helpers/Environment";
 
 @controller("/admin")
 export class AdminController extends WorshipCommonsBaseController {
+  // config-listed account may migrate/bootstrap before any admin row exists
+  private isBootstrapEmail(email: string): boolean {
+    return !!Environment.bootstrapAdminEmail && email?.toLowerCase() === Environment.bootstrapAdminEmail.toLowerCase();
+  }
+
   @httpPost("/migrate")
   public async migrate(req: express.Request, res: express.Response): Promise<any> {
     return this.actionWrapper(req, res, async (au) => {
       if (!au.id) return this.json({}, 401);
+      // isAdmin throws on a fresh env with no tables yet — bootstrap email covers that case
+      const admin = await this.isAdmin(au.id).catch(() => false);
+      if (!admin && !this.isBootstrapEmail(au.email)) return this.json({}, 401);
       return { applied: await MigrationHelper.migrateToLatest() };
     });
   }
@@ -18,6 +27,7 @@ export class AdminController extends WorshipCommonsBaseController {
   public async bootstrap(req: express.Request, res: express.Response): Promise<any> {
     return this.actionWrapper(req, res, async (au) => {
       if (!au.id) return this.json({}, 401);
+      if (!this.isBootstrapEmail(au.email)) return { admin: await this.isAdmin(au.id).catch(() => false) };
       return { admin: await this.repositories.admin.bootstrap(au.id, au.email) };
     });
   }

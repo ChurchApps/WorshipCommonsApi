@@ -5,5 +5,6 @@
   "fileStore": "S3",
   "mailSystem": "",
   "s3Bucket": "worshipcommons-content",
-  "webUrl": "https://worshipcommons.org"
+  "webUrl": "https://worshipcommons.org",
+  "bootstrapAdminEmail": "jeremy@zongker.net"
 }

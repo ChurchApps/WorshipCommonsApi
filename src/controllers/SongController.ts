@@ -1,5 +1,6 @@
 import { controller, httpGet, httpPost } from "inversify-express-utils";
 import express from "express";
+import * as crypto from "crypto";
 import { FileStorageHelper } from "@churchapps/apihelper";
 import { WorshipCommonsBaseController } from "./WorshipCommonsBaseController";
 import { ChordProHelper } from "../helpers/ChordProHelper";
@@ -18,7 +19,17 @@ const MAX_FILE_BYTES = 26214400;
 export class SongController extends WorshipCommonsBaseController {
   @httpGet("/")
   public async getAll(req: express.Request, res: express.Response): Promise<any> {
-    return this.actionWrapperAnon(req, res, async () => await this.repositories.song.loadApproved());
+    return this.actionWrapperAnon(req, res, async () => await this.repositories.song.loadApprovedSummaries());
+  }
+
+  @httpGet("/:id")
+  public async get(req: express.Request, res: express.Response): Promise<any> {
+    return this.actionWrapperAnon(req, res, async () => {
+      const song = await this.repositories.song.loadById(String(req.params.id));
+      if (!song || song.status !== "approved") return this.json({}, 404);
+      const { proAnswer, qualityDetail, submittedBy, ...pub } = song as any;
+      return pub;
+    });
   }
 
   @httpGet("/:id/chordpro")
@@ -36,7 +47,11 @@ export class SongController extends WorshipCommonsBaseController {
     return this.actionWrapperAnon(req, res, async () => {
       const song = await this.repositories.song.loadById(String(req.params.id));
       if (!song || song.status !== "approved") return this.json({}, 404);
-      const churchCount = await this.repositories.song.incrementChurchCount(song.id);
+      // ponytail: IP-hash dedupe — NAT'd churches share an IP, so this undercounts slightly; fine for an honesty-first metric
+      const ip = String(req.headers["x-forwarded-for"] || req.socket?.remoteAddress || "").split(",")[0].trim();
+      const ipHash = crypto.createHash("sha256").update(ip).digest("hex").slice(0, 16);
+      const counted = await this.repositories.song.recordSing(song.id, ipHash);
+      const churchCount = counted ? await this.repositories.song.incrementChurchCount(song.id) : song.churchCount;
       return { churchCount };
     });
   }

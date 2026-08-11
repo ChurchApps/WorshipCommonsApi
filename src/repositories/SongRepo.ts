@@ -3,9 +3,37 @@ import { sql } from "kysely";
 import { getDb } from "../db";
 import { Song } from "../models";
 
+const SUMMARY_COLS = [
+  "id",
+  "title",
+  "writer",
+  "year",
+  "themes",
+  "songKey",
+  "bpm",
+  "timeSignature",
+  "language",
+  "scripture",
+  "license",
+  "churchCount",
+  "demoAudioUrl",
+  "demoAudioBytes",
+  "sheetPdfUrl",
+  "sheetPdfBytes",
+  "stemsZipUrl",
+  "stemsZipBytes",
+  "midiUrl",
+  "midiBytes",
+  "lyricsUrl",
+  "parentSongId",
+  "relationLabel",
+  "qualityScore"
+] as const;
+
 export class SongRepo {
-  public async loadApproved(): Promise<Song[]> {
-    return await getDb().selectFrom("songs").selectAll().where("status", "=", "approved").orderBy("churchCount", "desc").execute() as Song[];
+  // list payload omits chordPro (heavy) and moderation-only fields
+  public async loadApprovedSummaries(): Promise<Song[]> {
+    return await getDb().selectFrom("songs").select(SUMMARY_COLS).where("status", "=", "approved").orderBy("churchCount", "desc").execute() as Song[];
   }
 
   public async loadPending(): Promise<Song[]> {
@@ -45,6 +73,9 @@ export class SongRepo {
       sheetPdfBytes: song.sheetPdfBytes,
       stemsZipUrl: song.stemsZipUrl,
       stemsZipBytes: song.stemsZipBytes,
+      midiUrl: song.midiUrl,
+      midiBytes: song.midiBytes,
+      lyricsUrl: song.lyricsUrl,
       parentSongId: song.parentSongId,
       relationLabel: song.relationLabel,
       status: song.status || "pending",
@@ -59,6 +90,11 @@ export class SongRepo {
 
   public async update(id: string, fields: Partial<Song>): Promise<void> {
     await getDb().updateTable("songs").set({ ...fields, updatedAt: new Date() }).where("id", "=", id).execute();
+  }
+
+  public async recordSing(songId: string, ipHash: string): Promise<boolean> {
+    const result = await getDb().insertInto("sings").ignore().values({ songId, ipHash }).executeTakeFirst();
+    return Number(result.numInsertedOrUpdatedRows || 0) > 0;
   }
 
   public async incrementChurchCount(id: string): Promise<number> {
