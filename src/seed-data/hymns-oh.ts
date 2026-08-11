@@ -16,28 +16,28 @@ export const HYMNS_OH = [
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-My Father is rich in houses and lands, He holdeth
-the wealth of the world in His hands! Of rubies and diamonds
-of silver and gold His coffers are full, He has riches untold.
+[Eb]My Father is rich in houses and lands, He [Bb7]holdeth
+the wealth [Eb]of [Bb7]the world [Eb]in [Bb]His [Eb]hands! Of rubies and diamonds
+[Eb7]of [Ab]silver and gold His [Eb]coffers are full,- He has rich[Gm]es un[Eb]told.
 
 Verse 2
-My Father's own Son, the Savior of men, Once wander'd
-o'er earth as the poorest of men, But now He is reigning
-forever on high, And will give me a home in heaven by and by.
+[Eb]My Father's own Son, the Savior of men, Once [Bb7]wander'd
+o'er earth [Eb]as [Bb7]the poor[Eb]est [Bb]of [Eb]men, But now He is reigning
+[Eb7]for[Ab]ever on high, And will [Eb]give me a home in heaven [Gm]by and [Eb]by.
 
 Verse 3
-I once was an outcast stranger on earth, A sinner
-by choice, and an alien by birth! But I've been adopted,
-my name's written down, An heir to a mansion, a robe, and a crown.
+[Eb]I once was an outcast stranger on earth, A [Bb7]sinner
+by choice, [Eb]and [Bb7]an al[Eb]ien [Bb]by [Eb]birth! But I've been adopted,
+[Eb7]my [Ab]name's written down,- An [Eb]heir to a mansion, a robe, [Gm]and a [Eb]crown.
 
 Verse 4
-A tent or a cottage, why should I care? They're building
-a palace for me over there! Tho' exiled from home,
-yet, still I may sing: All glory to God, I'm the child of a King.
+[Eb]A tent or a cottage, why should I care? They're [Bb7]building
+a pal[Eb]ace [Bb7]for me [Eb]o[Bb]ver [Eb]there! Tho' exiled from home,
+[Eb7]yet, [Ab]still I may sing: All [Eb]glory to God, I'm the child [Gm]of a [Eb]King.
 
 Chorus
 I'm a child of the King, a child of the King:
-With Jesus my Savior I'm a child of the King.`
+With Jesus my Savior [Ab]I'm a [Eb]child [Gm]of the [Eb]King.`
   },
   {
     t: "A Great and Mighty Wonder",
@@ -52,27 +52,27 @@ With Jesus my Savior I'm a child of the King.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-A great and mighty wonder, a full and holy cure:
-The virgin bears the Infant with virgin honor pure!
+[F]A great and [Bb]might[F]y [C]won[Dm]der, a [F]full [C]and [Dm]holy [F]cure:
+The virgin [Bb]bears [F]the [C]In[Dm]fant with [F]vir[C]gin [Dm]honor [F]pure!
 
 Verse 2
-The Word becomes incarnate and yet remains on high,
-And cherubim sing anthems to shepherds from the sky.
+[F]The Word be[Bb]comes [F]in[C]car[Dm]nate and [F]yet [C]re[Dm]mains on [F]high,
+And cheru[Bb]bim [F]sing [C]an[Dm]thems to [F]shep[C]herds [Dm]from the [F]sky.
 
 Verse 3
-While thus they sing your Monarch, those bright angelic bands,
-Rejoice, ye vales and mountains, ye oceans, clap your hands.
+[F]While thus they [Bb]sing [F]your [C]Mon[Dm]arch, those [F]bright [C]an[Dm]gelic [F]bands,
+Rejoice, ye [Bb]vales [F]and [C]moun[Dm]tains, ye [F]oc[C]eans, [Dm]clap your [F]hands.
 
 Verse 4
-Since all He comes to ransom, by all be He adored,
-The Infant born in Bethl'em, the Savior and the Lord.
+[F]Since all He [Bb]comes [F]to [C]ran[Dm]som, by [F]all [C]be [Dm]He a[F]dored,
+The Infant [Bb]born [F]in [C]Beth[Dm]l'em, the [F]Sa[C]vior [Dm]and the [F]Lord.
 
 Verse 5
-And idol forms shall perish, and error shall decay,
-And Christ shall wield His scepter, our Lord and God for aye.
+[F]And idol [Bb]forms [F]shall [C]per[Dm]ish, and [F]er[C]ror [Dm]shall de[F]cay,
+And Christ shall [Bb]wield [F]His [C]scep[Dm]ter, our [F]Lord [C]and [Dm]God for [F]aye.
 
 Chorus
-Repeat the hymn again: "To God on high be glory And peace on earth to men!"`
+Re[Gm]peat [Am]the [F]hymn [G]a[C]gain: "To God [F]on [Bb]high [F]be [C]glo[D]ry And [F]peace [Gm]on [F]earth to men!"`
   },
   {
     t: "A Lamb Goes Uncomplaining Forth",
@@ -87,44 +87,44 @@ Repeat the hymn again: "To God on high be glory And peace on earth to men!"`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-A Lamb goes uncomplaining forth, The guilt of all men bearing;
-And laden with the sins of earth, None else the burden sharing!
-Goes patient on, grow weak and faint, To slaughter led with
-out complaint, That spotless life to offer; Bears shame and
-stripes, and wounds and death, Anguish and mocker
-y, and saith, "Willing all this I suffer."
+[F]A [Bb]Lamb [C]goes [Dm]un[F]com[Bb]plaining [F]forth, [C]The [F]guilt [Bb]of [F]all [Bb]men bear[F]ing;
+And [Bb]la[C]den [Dm]with [F]the [Bb]sins of [F]earth, [C]None [F]else [Bb]the [F]bur[Bb]den shar[F]ing!
+Goes [C]pa[F]tient [Bb]on, [C]grow [F]weak [C]and [F]faint, [Bb]To [F]slaugh[Bb]ter [C]led [Bb]with[Dm]out
+out com[C]plaint, [Dm]That [F]spot[Bb]less [C]life [Dm]to [Gm]o[D]ffer; [Bb]Bears shame and
+[Eb]stripes, [Cm]and [Gm]wounds and death, An[F]guish [C]and [Dm]mock[Gm]er[Am]y,
+y, and [C]saith, [F]"Will[Dm]ing [C]all [F]this [Bb]I [C]suf[F]fer."
 
 Verse 2
-This Lamb is Christ, the soul's great Friend, The Lamb of God, our Savior;
-Him God the Father chose to send To gain for us His favor.
-"Go forth, My Son," the Father saith, "And free men from the
-fear of death, From guilt and condemnation. The wrath and
-stripes are hard to bear, But by Thy Passion
-men shall share The fruit of Thy salvation."
+[F]This [Bb]Lamb [C]is [Dm]Christ, [F]the [Bb]soul's great [F]Friend, [C]The [F]Lamb [Bb]of [F]God, [Bb]our Sa[F]vior;
+Him [Bb]God [C]the [Dm]Fa[F]ther [Bb]chose to [F]send [C]To [F]gain [Bb]for [F]us [Bb]His fa[F]vor.
+"Go [C]forth, [F]My [Bb]Son," [C]the [F]Fa[C]ther [F]saith, [Bb]"And [F]free [Bb]men [C]from [Bb]the
+[Dm]fear of [C]death, [Dm]From [F]guilt [Bb]and [C]con[Dm]dem[Gm]na[D]tion. [Bb]The wrath and
+[Eb]stripes [Cm]are [Gm]hard to bear, But [F]by [C]Thy [Dm]Pa[Gm]ssion
+[Am]men shall [C]share [F]The [Dm]fruit [C]of [F]Thy [Bb]sal[C]va[F]tion."
 
 Verse 3
-"Yea, Father, yea, most willingly I'll bear what Thou commandest;
-My will conforms to Thy decree, I do what Thou demandest."
-O wondrous Love, what hast Thou done! The Father offers
-up His Son! The Son, content, descendeth! O Love, how
-strong Thou art to save! Thou beddest Him with
-in the grave Whose word the mountains rendeth.
+[F]"Yea, [Bb]Fa[C]ther, [Dm]yea, [F]most [Bb]willing[F]ly [C]I'll [F]bear [Bb]what [F]Thou [Bb]comman[F]dest;
+My [Bb]will [C]con[Dm]forms [F]to [Bb]Thy de[F]cree, [C]I [F]do [Bb]what [F]Thou [Bb]deman[F]dest."
+O [C]won[F]drous [Bb]Love, [C]what [F]hast [C]Thou [F]done! [Bb]The [F]Fa[Bb]ther [C]o[Bb]ffers
+[Dm]up His [C]Son! [Dm]The [F]Son, [Bb]con[C]tent, [Dm]de[Gm]scend[D]eth! [Bb]O Love, how
+[Eb]strong [Cm]Thou [Gm]art to save! Thou [F]bed[C]dest [Dm]Him [Gm]with[Am]in
+in the [C]grave [F]Whose [Dm]word [C]the [F]moun[Bb]tains [C]ren[F]deth.
 
 Verse 4
-Thou lay'st Him, Love, upon the cross, With nails and spear Him bruising;
-Thou slay'st Him as a lamb, His loss from soul and body oozing;
-From body 'tis the crimson flood Of precious sacri
-ficial blood From soul, the strength of anguish: My gain it
-is; sweet Lamb to Thee What can I give, whose
-love to me For me doth make Thee languish?
+[F]Thou [Bb]lay'st [C]Him, [Dm]Love, [F]u[Bb]pon the [F]cross, [C]With [F]nails [Bb]and [F]spear [Bb]Him bruis[F]ing;
+Thou [Bb]slay'st [C]Him [Dm]as [F]a [Bb]lamb, His [F]loss [C]from [F]soul [Bb]and [F]bod[Bb]y ooz[F]ing;
+From [C]bo[F]dy [Bb]'tis [C]the [F]crim[C]son [F]flood [Bb]Of [F]pre[Bb]cious [C]sac[Bb]ri[Dm]ficial
+ficial [C]blood [Dm]From [F]soul, [Bb]the [C]strength [Dm]of [Gm]an[D]guish: [Bb]My gain it
+[Eb]is; [Cm]sweet [Gm]Lamb to Thee What [F]can [C]I [Dm]give, [Gm]whose
+[Am]love to [C]me [F]For [Dm]me [C]doth [F]make [Bb]Thee [C]lan[F]guish?
 
 Verse 5
-Lord, all my life I'll cleave to Thee, Thy love fore'er beholding,
-Thee ever, as Thou ever me, With loving arms enfolding.
-Yea, Thou shalt be my Beaconlight, To guide me safe through
-death's dark night. And cheer my heart in sorrow; Henceforth my
-self and all that's mine To Thee, my Savior,
-I consign, From whom all things I borrow.`
+[F]Lord, [Bb]all [C]my [Dm]life [F]I'll [Bb]cleave to [F]Thee, [C]Thy [F]love [Bb]for[F]e'er [Bb]behold[F]ing,
+Thee [Bb]ev[C]er, [Dm]as [F]Thou [Bb]ever [F]me, [C]With [F]lo[Bb]ving [F]arms [Bb]enfold[F]ing.
+Yea, [C]Thou [F]shalt [Bb]be [C]my [F]Bea[C]con[F]light, [Bb]To [F]guide [Bb]me [C]safe [Bb]through
+[Dm]death's dark [C]night. [Dm]And [F]cheer [Bb]my [C]heart [Dm]in [Gm]sor[D]row; [Bb]Henceforth my[Eb]self
+self [Cm]and [Gm]all that's mine To [F]Thee, [C]my [Dm]Sa[Gm]vior,
+[Am]I con[C]sign, [F]From [Dm]whom [C]all [F]things [Bb]I [C]bor[F]row.`
   },
   {
     t: "Abide, O Dearest Jesus",
@@ -139,24 +139,24 @@ I consign, From whom all things I borrow.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Abide, O dearest Jesus, Among us with Thy grace,
-That Satan may not harm us, Nor we to sin give place.
+[Eb]Abide, [Bb]O [Eb]dear[Ab]est [Bb]Je[Eb]sus, [Ab]A[Eb]mong us with [Bb]Thy [Eb]grace,
+That [Ab]Sa[Cm]tan [Bb]may [Eb]not [Ab]harm [Eb]us, Nor [Fm]we [Eb]to [Fm7]sin [Bb]give [Eb]place.
 
 Verse 2
-Abide, O dear Redeemer, Among us with Thy Word,
-And thus now and hereafter True peace and joy afford.
+[Eb]Abide, [Bb]O [Eb]dear [Ab]Re[Bb]deem[Eb]er, [Ab]A[Eb]mong us with [Bb]Thy [Eb]Word,
+And [Ab]thus [Cm]now [Bb]and [Eb]here[Ab]af[Eb]ter True [Fm]peace [Eb]and [Fm7]joy [Bb]af[Eb]ford.
 
 Verse 3
-Abide with heav'nly brightness Among us, precious Light;
-Thy truth direct, and keep us From error's gloomy night.
+[Eb]Abide [Bb]with [Eb]heav'n[Ab]ly [Bb]bright[Eb]ness [Ab]A[Eb]mong us, pre[Bb]cious [Eb]Light;
+Thy [Ab]truth [Cm]di[Bb]rect, [Eb]and [Ab]keep [Eb]us From [Fm]er[Eb]ror's [Fm7]gloom[Bb]y [Eb]night.
 
 Verse 4
-Abide with richest blessings Among us, bounteous Lord;
-Let us in grace and wisdom Grow daily through Thy Word.
+[Eb]Abide [Bb]with [Eb]rich[Ab]est [Bb]bless[Eb]ings [Ab]A[Eb]mong us, boun[Bb]teous [Eb]Lord;
+Let [Ab]us [Cm]in [Bb]grace [Eb]and [Ab]wis[Eb]dom Grow [Fm]dai[Eb]ly [Fm7]through [Bb]Thy [Eb]Word.
 
 Verse 5
-Abide with Thy protection Among us, Lord, our Strength,
-Lest world and Satan fell us And overcome at length.`
+[Eb]Abide [Bb]with [Eb]Thy [Ab]pro[Bb]tec[Eb]tion [Ab]A[Eb]mong us, Lord, [Bb]our [Eb]Strength,
+Lest [Ab]world [Cm]and [Bb]Sa[Eb]tan [Ab]fell [Eb]us And [Fm]o[Eb]ver[Fm7]come [Bb]at [Eb]length.`
   },
   {
     t: "All Depends On Our Possessing",
@@ -171,29 +171,29 @@ Lest world and Satan fell us And overcome at length.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-All depends on our possessing God's abundant grace and blessing,
-Though all earthly wealth depart. He who trusts with faith unshaken
-In His God is not forsaken And e'er keeps a dauntless heart.
+[F]All de[C]pends [F]on [Bb]our [C]pos[F]sessing God's a[C]bun[Am7]dant [Dm]grace [Gm]and [C]blessing,
+[G]Though all [F]earth[C]ly [Dm]wealth de[C]part. He who trusts [Dm]with [Gm]faith [C]un[F]shaken
+In His [C]God is [Dm]not [Gm]for[C]saken [F]And e'er [Bb]keeps [F]a daunt[C]less [F]heart.
 
 Verse 2
-He who hitherto hath fed me And to many joys hath led me,
-Is and ever shall be mine. He who did so gently school me,
-He who still doth guide and rule me, Will remain my Help divine.
+[F]He who [C]hi[F]ther[Bb]to [C]hath [F]fed me And to [C]ma[Am7]ny [Dm]joys [Gm]hath [C]led me,
+[G]Is and [F]ev[C]er [Dm]shall be [C]mine. He who did [Dm]so [Gm]gent[C]ly [F]school me,
+He who [C]still doth [Dm]guide [Gm]and [C]rule me, [F]Will re[Bb]main [F]my Help [C]di[F]vine.
 
 Verse 3
-Many spend their lives in fretting Over trifles and in getting
-Things that have no solid ground. I shall strive to win a treasure
-That will bring me lasting pleasure And that now is seldom found.
+[F]Many [C]spend [F]their [Bb]lives [C]in [F]fretting Over [C]tri[Am7]fles [Dm]and [Gm]in [C]getting
+[G]Things that [F]have [C]no [Dm]solid [C]ground. I shall strive [Dm]to [Gm]win [C]a [F]treasure
+That will [C]bring me [Dm]last[Gm]ing [C]pleasure [F]And that [Bb]now [F]is sel[C]dom [F]found.
 
 Verse 4
-When with sorrow I am stricken, Hope my heart anew will quicken,
-All my longing shall be stilled. To His lovingkindness tender
-Soul and body I surrender; For in Him alone I build.
+[F]When with [C]sor[F]row [Bb]I [C]am [F]stricken, Hope my [C]heart [Am7]a[Dm]new [Gm]will [C]quicken,
+[G]All my [F]long[C]ing [Dm]shall be [C]stilled. To His lo[Dm]ving-[Gm]kind[C]ness [F]tender
+Soul and [C]body [Dm]I [Gm]sur[C]render; [F]For in [Bb]Him [F]alone [C]I [F]build.
 
 Verse 5
-Well He knows what best to grant me; All the longing hopes that haunt me,
-Joy and sorrow, have their day. I shall doubt His wisdom never,
-As God wills, so be it ever, I to Him commit my way.`
+[F]Well He [C]knows [F]what [Bb]best [C]to [F]grant me; All the [C]long[Am7]ing [Dm]hopes [Gm]that [C]haunt me,
+[G]Joy and [F]sor[C]row, [Dm]have their [C]day. I shall doubt [Dm]His [Gm]wis[C]dom [F]never,
+As God [C]wills, so [Dm]be [Gm]it [C]ever, [F]I to [Bb]Him [F]commit [C]my [F]way.`
   },
   {
     t: "All My Heart This Night Rejoices",
@@ -208,29 +208,29 @@ As God wills, so be it ever, I to Him commit my way.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-All my heart this night rejoices, As I hear, Far and near,
-Sweetest angel voices; "Christ is born," their choirs are
-singing, Till the air Ev'rywhere Now with joy is ringing.
+[G]All [D]my [G]heart [D]this [G]night re[C]joi[G]ces, As I [Am7]hear, [C]Far and [Em7]near,
+[G]Sweetest [C]an[G]gel [Bm7]voices; [G]"Christ [C]is [G]born," [D]their [G]choirs [D]are
+sing[F#aug]ing, Till the [Am7]air [C]Ev'r[D]ywhere [G]Now [D]with [C]joy [G]is ringing.
 
 Verse 2
-For it dawns, the promised morrow Of His birth Who the earth
-Rescues from her sorrow. God to wear our form de
-scendeth, Of His grace To our race Here His Son He lendeth:
+[G]For [D]it [G]dawns,- [D]the [G]promised [C]mor[G]row Of His [Am7]birth [C]Who the [Em7]earth
+[G]Rescues [C]from [G]her [Bm7]sorrow. [G]God [C]to [G]wear [D]our [G]form [D]descen[F#aug]deth,
+scendeth, Of His [Am7]grace [C]To [D]our race [G]Here [D]His [C]Son [G]He lendeth:
 
 Verse 3
-Yea, so truly for us careth, That His Son All we've done
-As our off'ring beareth; As our Lamb who, dying
-for us, Bears our load, And to God Doth in peace restore us.
+[G]Yea, [D]so [G]tru[D]ly [G]for us [C]car[G]eth, That His [Am7]Son [C]All we've [Em7]done
+[G]As our [C]off'r[G]ing [Bm7]beareth; [G]As [C]our [G]Lamb [D]who, [G]dy[D]ing
+for [F#aug]us, Bears our [Am7]load, [C]And [D]to God [G]Doth [D]in [C]peace [G]restore us.
 
 Verse 4
-Hark! a voice from yonder manger, Soft and sweet, Doth entreat,
-"Flee from woe and danger; Brethren come, from all doth
-grieve you You are freed, All you need I will surely give you."
+[G]Hark! [D]a [G]voice [D]from [G]yonder [C]man[G]ger, Soft and [Am7]sweet, [C]Doth en[Em7]treat,
+[G]"Flee from [C]woe [G]and [Bm7]danger; [G]Breth[C]ren [G]come, [D]from [G]all [D]doth
+grieve [F#aug]you You are [Am7]freed, [C]All [D]you need [G]I [D]will [C]sure[G]ly give you."
 
 Verse 5
-Come then, let us hasten yonder; Here let all, Great and small,
-Kneel in awe and wonder. Love Him who with love is
-yearning; Hail the Star That from far Bright with hope is burning!`
+[G]Come [D]then, [G]let [D]us [G]hasten [C]yon[G]der; Here let [Am7]all, [C]Great and [Em7]small,
+[G]Kneel in [C]awe [G]and [Bm7]wonder. [G]Love [C]Him [G]who [D]with [G]love [D]is
+yearn[F#aug]ing; Hail the [Am7]Star [C]That [D]from far [G]Bright [D]with [C]hope [G]is burning!`
   },
   {
     t: "All Praise To Thee, My God, This Night",
@@ -245,24 +245,24 @@ yearning; Hail the Star That from far Bright with hope is burning!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-All praise to Thee, my God, this night, For all the blessings of the light!
-Keep me, O keep me, King of kings, Beneath Thine own almighty wings.
+[G]All praise [D]to [Em]Thee, [G]my [Am7]God, [D]this [G]night, [Am7]For [Am]all the [G]blessings [Am7]of [D7]the [G]light!
+Keep [Am]me, [D]O [G]keep me, [Am]King [D]of [G]kings, Be[Am]neath [D]Thine [Em]own [Bm]al[Am]migh[D]ty [G]wings.
 
 Verse 2
-Forgive me, Lord, for Thy dear Son, The ill that I this day have done,
-That with the world, myself, and Thee, I, ere I sleep, at peace may be.
+[G]Forgive [D]me, [Em]Lord, [G]for [Am7]Thy [D]dear [G]Son, [Am7]The [Am]ill that [G]I this [Am7]day [D7]have [G]done,
+That [Am]with [D]the [G]world, my[Am]self, [D]and [G]Thee, I, [Am]ere [D]I [Em]sleep, [Bm]at [Am]peace [D]may [G]be.
 
 Verse 3
-Teach me to live, that I may dread The grave as little as my bed.
-Teach me to die, that so I may Rise glorious at the judgment day.
+[G]Teach me [D]to [Em]live, [G]that [Am7]I [D]may [G]dread [Am7]The [Am]grave as [G]little [Am7]as [D7]my [G]bed.
+Teach [Am]me [D]to [G]die, that [Am]so [D]I [G]may Rise [Am]glo[D]rious [Em]at [Bm]the [Am]judg[D]ment [G]day.
 
 Verse 4
-O may my soul on Thee repose, And with sweet sleep mine eyelids close,
-Sleep that may me more vig'rous make To serve my God when I awake.
+[G]O may [D]my [Em]soul [G]on [Am7]Thee [D]re[G]pose, [Am7]And [Am]with sweet [G]sleep mine [Am7]eye[D7]lids [G]close,
+Sleep [Am]that [D]may [G]me more [Am]vig[D]'rous [G]make To [Am]serve [D]my [Em]God [Bm]when [Am]I [D]a[G]wake.
 
 Verse 5
-When in the night I sleepless lie, My soul with heav'nly thoughts supply;
-Let no ill dreams disturb my rest, No pow'rs of darkness me molest.`
+[G]When in [D]the [Em]night [G]I [Am7]sleep[D]less [G]lie, [Am7]My [Am]soul with [G]heav'nly [Am7]thoughts [D7]sup[G]ply;
+Let [Am]no [D]ill [G]dreams dis[Am]turb [D]my [G]rest, No [Am]pow'rs [D]of [Em]dark[Bm]ness [Am]me [D]mo[G]lest.`
   },
   {
     t: "All Praise to Jesus' Hallowed Name",
@@ -277,29 +277,29 @@ Let no ill dreams disturb my rest, No pow'rs of darkness me molest.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-All praise to Jesus' hallowed Name Who of virgin
-pure became True man for us! The angels sing As
-the glad news to earth they bring. Hallelujah!
+[G]All [Em]praise [C]to [F]Je[Em]sus' [Am]hal[G]lowed [C]Name [G]Who of [C]vir[D]gin
+[G]pure [D]be[G]came [C]True man [G]for us! [D]The [Em]an[A]gels [D]sing As
+[A]the glad [D]news [G]to [C]earth [D]they [Em]bring. Hal[G]le[C]lu[Em]jah!
 
 Verse 2
-Th'Eternal Father's only Son For a manger
-leaves His throne Disguised in our poor flesh and blood See
-now the everlasting Good.
+[G]Th'E[Em]ter[C]nal [F]Fa[Em]ther's [Am]on[G]ly [C]Son [G]For a [C]man[D]ger
+[G]leaves [D]His [G]throne [C]Disguised [G]in our [D]poor [Em]flesh [A]and [D]blood See
+[A]now the [D]ev[G]er[C]last[D]ing [Em]Good.
 
 Verse 3
-He whom the world could not inwrap Yonder lies in
-Mary's lap; He is become an infant small, Who
-by His might upholdeth all.
+[G]He [Em]whom [C]the [F]world [Em]could [Am]not [G]in[C]wrap [G]Yonder [C]lies [D]in
+[G]Ma[D]ry's [G]lap; [C]He is [G]become [D]an [Em]in[A]fant [D]small, Who
+[A]by His [D]might [G]up[C]hold[D]eth [Em]all.
 
 Verse 4
-Th'Eternal Light, come down from heav'n, Hath to us new
-sunshine giv'n; It shineth in the midst of night, And
-maketh us the sons of light.
+[G]Th'E[Em]ter[C]nal [F]Light, [Em]come [Am]down [G]from [C]heav'n, [G]Hath to [C]us [D]new
+[G]sun[D]shine [G]giv'n; [C]It shin[G]eth in [D]the [Em]midst [A]of [D]night, And
+[A]maketh [D]us [G]the [C]sons [D]of [Em]light.
 
 Verse 5
-The Father's Son, God everblest, In the world be
-came a guest; He leads us from this vale of tears, And
-makes us in his kingdom heirs.`
+[G]The [Em]Fa[C]ther's [F]Son, [Em]God [Am]ev[G]er-[C]blest, [G]In the [C]world [D]be[G]came
+came [D]a [G]guest; [C]He leads [G]us from [D]this [Em]vale [A]of [D]tears, And
+[A]makes us [D]in [G]his [C]king[D]dom [Em]heirs.`
   },
   {
     t: "All Who Believe and Are Baptized",
@@ -314,16 +314,16 @@ makes us in his kingdom heirs.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-All who believe and are baptized shall see the Lord's salvation;
-baptized into the death of Christ, they are a new creation.
-through Christ's redemption they shall stand among the glorious
-heav'nly band of every tribe and nation.
+[Eb]All who [Bb]be[Eb]lieve [Bbm]and [Ab]are [Eb]bap[Ab]tized shall [Eb]see [Ab]the [Eb]Lord's [Ab]sal[Bb]vation;
+bap[Eb]tized [Bb]in[Eb]to [Bbm]the [Ab]death [Eb]of [Ab]Christ, they [Eb]are [Ab]a [Eb]new [Ab]cre[Bb]ation.
+through [Cm]Christ's [Ab]redemp[Eb]tion [Ab]they shall [Eb]stand a[Cm]mong the [Bbm]glor[Ab]ious
+[Eb]heav'n[Bb]ly [Eb]band of [Db]ev[Ab]ery [Eb]tribe [Fm]and [Eb]nation.
 
 Verse 2
-With one accord, O God, we pray: grant us thy Holy Spirit;
-look thou on our infirmity through Jesus' blood and merit.
-Grant us to grow in grace each day that by this sacra
-ment we may eternal life inherit.`
+[Eb]With one [Bb]ac[Eb]cord, [Bbm]O [Ab]God, [Eb]we [Ab]pray: grant [Eb]us [Ab]thy [Eb]Ho[Ab]ly [Bb]Spirit;
+look [Eb]thou [Bb]on [Eb]our [Bbm]in[Ab]firm[Eb]it[Ab]y through [Eb]Je[Ab]sus' [Eb]blood [Ab]and [Bb]merit.
+Grant [Cm]us [Ab]to grow [Eb]in [Ab]grace each [Eb]day that [Cm]by this [Bbm]sac[Ab]ra[Eb]ment
+ment [Bb]we [Eb]may e[Db]ter[Ab]nal [Eb]life [Fm]in[Eb]herit.`
   },
   {
     t: "Alleluia, Alleluia! Hearts to Heaven and Voices Raise",
@@ -338,34 +338,34 @@ ment we may eternal life inherit.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Alleluia, alleluia! Hearts to Heav'n and voices raise:
-Sing to God a hymn of gladness, sing to God a hymn of praise.
-He, who on the cross a Victim, for the world's salvation bled,
-Jesus Christ, the King of glory, now is risen from the dead.
+[G]Alleluia, [Bm]alle[G]lu[D7]ia! [G]Hearts to Heav'n and voices [D]raise:
+[G]Sing to [C]God [G7]a hymn [Am]of gladness, [G]sing to [D7]God [G]a [D7]hymn of [G]praise.
+[D]He, who [G]on the [D7]cross [G]a Victim, [D7]for [Bm]the [B]world's [B7]sal[Em]va[A]tion [D]bled,
+[G]Jesus [C]Christ, [G7]the King [Am]of glory, [G]now is [D7]ri[G]sen [D7]from the [G]dead.
 
 Verse 2
-Now the iron bars are broken, Christ from death to life is born,
-Glorious life, and life immortal, on the holy Easter morn.
-Christ has triumphed, and we conquer by His mighty enterprise:
-We with Him to life eternal by His resurrection rise.
+[G]Now the iron [Bm]bars are [G]bro[D7]ken, [G]Christ from death to life is [D]born,
+[G]Glorious [C]life, [G7]and life [Am]immortal, [G]on the [D7]ho[G]ly [D7]Easter [G]morn.
+[D]Christ has [G]triumphed, [D7]and [G]we conquer [D7]by [Bm]His [B]might[B7]y [Em]en[A]ter[D]prise:
+[G]We with [C]Him [G7]to life [Am]eternal [G]by His [D7]res[G]ur[D7]rection [G]rise.
 
 Verse 3
-Christ is risen, Christ, the first fruits of the holy harvest field,
-Which will all its full abundance at His second coming yield:
-Then the golden ears of harvest will their heads before Him wave,
-Ripened by His glorious sunshine from the furrows of the grave.
+[G]Christ is risen, [Bm]Christ, the [G]first [D7]fruits [G]of the holy harvest [D]field,
+[G]Which will [C]all [G7]its full [Am]abundance [G]at His [D7]se[G]cond [D7]coming [G]yield:
+[D]Then the [G]golden [D7]ears [G]of harvest [D7]will [Bm]their [B]heads [B7]be[Em]fore [A]Him [D]wave,
+[G]Ripened [C]by [G7]His glor[Am]ious sunshine [G]from the [D7]fur[G]rows [D7]of the [G]grave.
 
 Verse 4
-Christ is risen, we are risen! Shed upon us heav'nly grace,
-Rain and dew and gleams of glory from the brightness of Thy face;
-That we, with our hearts in Heaven, here on earth may fruitful be,
-And by angel hands be gathered, and be ever, Lord, with Thee.
+[G]Christ is risen, [Bm]we are [G]ri[D7]sen! [G]Shed upon us heav'nly [D]grace,
+[G]Rain and [C]dew [G7]and gleams [Am]of glory [G]from the [D7]bright[G]ness [D7]of Thy [G]face;
+[D]That we, [G]with our [D7]hearts [G]in Heaven, [D7]here [Bm]on [B]earth [B7]may [Em]fruit[A]ful [D]be,
+[G]And by [C]an[G7]gel hands [Am]be gathered, [G]and be [D7]ev[G]er, [D7]Lord, with [G]Thee.
 
 Verse 5
-Alleluia, alleluia! Glory be to God on high;
-Alleluia! to the Savior who has gained the victory;
-Alleluia! to the Spirit, fount of love and sanctity:
-Alleluia, alleluia! to the Triune Majesty.`
+[G]Alleluia, [Bm]alle[G]lu[D7]ia! [G]Glory be to God on [D]high;
+[G]Alle[C]lu[G7]ia! to [Am]the Savior [G]who has [D7]gained [G]the [D7]victo[G]ry;
+[D]Alle[G]luia! [D7]to [G]the Spirit, [D7]fount [Bm]of [B]love [B7]and [Em]sanc[A]ti[D]ty:
+[G]Alle[C]lu[G7]ia, al[Am]leluia! [G]to the [D7]Tri[G]une [D7]Majes[G]ty.`
   },
   {
     t: "Alleluia, Sing To Jesus!",
@@ -380,28 +380,28 @@ Alleluia, alleluia! to the Triune Majesty.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Alleluia! sing to Jesus! His the scepter, His the throne.
-Alleluia! His the triumph, His the victory alone.
-Hark! the songs of peaceful Zion thunder like a mighty flood.
-Jesus out of every nation has redeemed us by His blood.
+[F]Al[C]le[F]luia! [Gm7]sing [F]to [C]Jesus! [F]His the scepter, [Gm]His [C]the [F]throne.
+Al[C]le[F]luia! [Gm7]His [F]the [C]triumph, [F]His the victo[Gm]ry [C]a[F]lone.
+[Am]Hark! the [Dm7]songs [Dm]of [Gm7]peace[Gm]ful [C7]Zion [F]thun[Fmaj7]der [Dm]like [Am]a might[Bbmaj7]y flood.
+[F]Je[Dm7]sus [Gm7]out [C7]of [F]every [C]na[C7]tion [F]has re[Bb]deemed us [F]by [C7]His [F]blood.
 
 Verse 2
-Alleluia! not as orphans are we left in sorrow now;
-Alleluia! He is near us, faith believes, nor questions how;
-Though the cloud from sight received Him when the forty days were o'er
-Shall our hearts forget His promise, "I am with you evermore"?
+[F]Al[C]le[F]luia! [Gm7]not [F]as [C]orphans [F]are we left in [Gm]sor[C]row [F]now;
+Al[C]le[F]luia! [Gm7]He [F]is [C]near us, [F]faith believes, nor [Gm]ques[C]tions [F]how;
+[Am]Though the [Dm7]cloud [Dm]from [Gm7]sight [Gm]re[C7]ceived Him [F]when [Fmaj7]the [Dm]for[Am]ty days [Bbmaj7]were o'er
+[F]Shall [Dm7]our [Gm7]hearts [C7]for[F]get His [C]pro[C7]mise, [F]"I am [Bb]with you [F]ev[C7]er[F]more"?
 
 Verse 3
-Alleluia! bread of angels, Thou on earth our food, our stay;
-Alleluia! here the sinful flee to Thee from day to day:
-Intercessor, Friend of sinners, Earth's Redeemer, plead for me,
-Where the songs of all the sinless sweep across the crystal sea.
+[F]Al[C]le[F]luia! [Gm7]bread [F]of [C]angels, [F]Thou on earth our [Gm]food, [C]our [F]stay;
+Al[C]le[F]luia! [Gm7]here [F]the [C]sinful [F]flee to Thee from [Gm]day [C]to [F]day:
+[Am]Inter[Dm7]ces[Dm]sor, [Gm7]Friend [Gm]of [C7]sinners, [F]Earth's [Fmaj7]Re[Dm]deem[Am]er, plead [Bbmaj7]for me,
+[F]Where [Dm7]the [Gm7]songs [C7]of [F]all the [C]sin[C7]less [F]sweep ac[Bb]ross the [F]crys[C7]tal [F]sea.
 
 Verse 4
-Alleluia! King eternal, Thee the Lord of lords we own;
-Alleluia! born of Mary, Earth Thy footstool, Heaven Thy throne:
-Thou within the veil hast entered, robed in flesh our great High Priest;
-Thou on earth both priest and victim in the Eucharistic feast.`
+[F]Al[C]le[F]luia! [Gm7]King [F]e[C]ternal, [F]Thee the Lord of [Gm]lords [C]we [F]own;
+Al[C]le[F]luia! [Gm7]born [F]of [C]Mary, [F]Earth Thy footstool, [Gm]Hea[Dm]ven [C]Thy [F]throne:
+[Am]Thou with[Dm7]in [Dm]the [Gm7]veil [Gm]hast [C7]entered, [F]robed [Fmaj7]in [Dm]flesh [Am]our great [Bbmaj7]High Priest;
+[F]Thou [Dm7]on [Gm7]earth [C7]both [F]priest and [C]vic[C7]tim [F]in the [Bb]Euchar[F]ist[C7]ic [F]feast.`
   },
   {
     t: "Almighty God Your Word Is Cast",
@@ -416,24 +416,24 @@ Thou on earth both priest and victim in the Eucharistic feast.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Almighty God, Your Word is cast Like seed into the ground;
-Now let the dew of Heav'n descend, And righteous fruits abound.
+[C]Almight[F]y [C]God, [Am]Your [Dm7]Word [G]is [C]cast Like [Am]seed [Em]in[Am]to [D]the [G]ground;
+Now [C]let [F]the [Dm]dew [G]of [C]Heav'n [Fmaj7]de[E]scend, [C]And [Dm]right[C]eous [Dm]fruits [G]a[C]bound.
 
 Verse 2
-Let not the foe of Christ and man This holy seed remove,
-But give it root in ev'ry heart To bring forth fruits of love.
+[C]Let not [F]the [C]foe [Am]of [Dm7]Christ [G]and [C]man This [Am]ho[Em]ly [Am]seed [D]re[G]move,
+But [C]give [F]it [Dm]root [G]in [C]ev[Fmaj7]'ry [E]heart [C]To [Dm]bring [C]forth [Dm]fruits [G]of [C]love.
 
 Verse 3
-Let not the world's deceitful cares The rising plant destroy.
-But let it yield a hundredfold The fruits of peace and joy.
+[C]Let not [F]the [C]world's [Am]de[Dm7]ceit[G]ful [C]cares The [Am]ris[Em]ing [Am]plant [D]de[G]stroy.
+But [C]let [F]it [Dm]yield [G]a [C]hun[Fmaj7]dred[E]fold [C]The [Dm]fruits [C]of [Dm]peace [G]and [C]joy.
 
 Verse 4
-Nor let Your Word so kindly sent To raise us to Your throne
-Return to You, and sadly tell That we reject Your Son.
+[C]Nor let [F]Your [C]Word [Am]so [Dm7]kind[G]ly [C]sent To [Am]raise [Em]us [Am]to [D]Your [G]throne
+Re[C]turn [F]to [Dm]You, [G]and [C]sad[Fmaj7]ly [E]tell [C]That [Dm]we [C]re[Dm]ject [G]Your [C]Son.
 
 Verse 5
-Oft as the precious seed is sown, Your quick'ning grace bestow,
-That all whose souls the truth receive, Its saving power may know.`
+[C]Oft as [F]the [C]prec[Am]ious [Dm7]seed [G]is [C]sown, Your [Am]quick[Em]'ning [Am]grace [D]be[G]stow,
+That [C]all [F]whose [Dm]souls [G]the [C]truth [Fmaj7]re[E]ceive, [C]Its [Dm]sa[C]ving [Dm]power [G]may [C]know.`
   },
   {
     t: "Angel Voices, Ever Singing",
@@ -448,29 +448,29 @@ That all whose souls the truth receive, Its saving power may know.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Angel voices, ever singing, round Thy throne of light,
-Angel harps, forever ringing, rest not day or night;
-Thousands only live to bless Thee, and confess Thee Lord of might.
+[C]Angel voices, [F]ever [G]sing[Em]ing, [Am]round [Dm7]Thy [C]throne [F]of light,
+[C]Angel [Am]harps, [A]for[D]ever [G]ringing, [Am]rest not [Am7]day [D]or [C]night;
+[Em]Thou[Gmaj7]sands on[A]ly [Dm]live [Fmaj7]to bless [G]Thee, [C]and con[F]fess [Am]Thee Lord [G]of [C]might.
 
 Verse 2
-Thou Who art beyond the farthest mortal eye can scan,
-Can it be that Thou regardest songs of sinful man?
-Can we feel that Thou art near us and wilt hear us? Yea, we can.
+[C]Thou Who art be[F]yond the [G]far[Em]thest [Am]mor[Dm7]tal [C]eye [F]can scan,
+[C]Can it [Am]be [A]that [D]Thou re[G]gardest [Am]songs of [Am7]sin[D]ful [C]man?
+[Em]Can [Gmaj7]we feel [A]that [Dm]Thou [Fmaj7]art near [G]us [C]and wilt [F]hear [Am]us? Yea, [G]we [C]can.
 
 Verse 3
-Lord, we know Thy love rejoices o'er each work of Thine;
-Thou didst ears and hands and voices for Thy praise combine;
-Craftsman's art and music's measure for Thy pleasure didst design.
+[C]Lord, we know Thy [F]love re[G]joi[Em]ces [Am]o'er [Dm7]each [C]work [F]of Thine;
+[C]Thou didst [Am]ears [A]and [D]hands and [G]voices [Am]for Thy [Am7]praise [D]com[C]bine;
+[Em]Crafts[Gmaj7]man's art [A]and [Dm]mu[Fmaj7]sic's mea[G]sure [C]for Thy [F]plea[Am]sure didst [G]de[C]sign.
 
 Verse 4
-Here, great God, today we offer of Thine own to Thee;
-And for Thine acceptance proffer, all unworthily,
-Hearts and minds, and hands and voices, in our choicest melody.
+[C]Here, great God, to[F]day we [G]of[Em]fer [Am]of [Dm7]Thine [C]own [F]to Thee;
+[C]And for [Am]Thine [A]ac[D]ceptance [G]proffer, [Am]all un[Am7]worth[D]i[C]ly,
+[Em]Hearts [Gmaj7]and minds, [A]and [Dm]hands [Fmaj7]and voi[G]ces, [C]in our [F]choic[Am]est me[G]lo[C]dy.
 
 Verse 5
-Honor, glory, might and merit, Thine shall ever be,
-Father, Son, and Holy Spirit, blessed Trinity;
-Of the best that Thou hast given Earth and Heaven render Thee.`
+[C]Honor, glory, [F]might and [G]me[Em]rit, [Am]Thine [Dm7]shall [C]e[F]ver be,
+[C]Father, [Am]Son, [A]and [D]Holy [G]Spirit, [Am]blessed [Am7]Tri[D]ni[C]ty;
+[Em]Of [Gmaj7]the best [A]that [Dm]Thou [Fmaj7]hast giv[G]en [C]Earth and [F]Hea[Am]ven ren[G]der [C]Thee.`
   },
   {
     t: "Awake, My Heart, With Gladness",
@@ -485,34 +485,34 @@ Of the best that Thou hast given Earth and Heaven render Thee.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Awake, my heart, with gladness, See what today is done;
-How after gloom and sadness, Comes forth the glorious Sun.
-My Savior there was laid Where our bed must be made
-When to the realms of light Our spirit wings its flight.
+[Eb]Awake, my [Ab]heart, [Eb]with [Bb]glad[Eb]ness, See [Ab]what [Cm]to[G]day is [Cm]done;
+[Eb]How after [Ab]gloom [Eb]and [Bb]sad[Eb]ness, Comes [Ab]forth [Cm]the [G]glorious [Cm]Sun.
+[Eb]My [Bb]Sa[Cm]vior [Bb]there was [Eb]laid [Fm]Where [Ab]our [Bbm]bed [C]must be [F]made
+[Bb]When [Eb]to [Bb]the [F]realms of [Bb]light [Eb]Our [Ab]spi[Cm]rit [Bb]wings its [Eb]flight.
 
 Verse 2
-They in the grave did sink Him, The foe held jubilee;
-Before he can bethink him, Lo! Christ again is free.
-And "Victory" He cries, And waving tow'rds the skies
-His banner, while the field Is by the Hero held!
+[Eb]They in the [Ab]grave [Eb]did [Bb]sink [Eb]Him, The [Ab]foe [Cm]held [G]jubi[Cm]lee;
+[Eb]Before he [Ab]can [Eb]be[Bb]think [Eb]him, Lo! [Ab]Christ [Cm]a[G]gain is [Cm]free.
+[Eb]And [Bb]"Vic[Cm]to[Bb]ry" He [Eb]cries, [Fm]And [Ab]wav[Bbm]ing [C]tow'rds the [F]skies
+[Bb]His [Eb]ban[Bb]ner, [F]while the [Bb]field [Eb]Is [Ab]by [Cm]the [Bb]Hero [Eb]held!
 
 Verse 3
-Upon the grave is standing The Hero looking round;
-The foe, no more withstanding, His weapons on the ground
-Throws down, his hellish pow'r To Christ must he give o'er,
-And to the Victor's bands Must yield his feet and hands.
+[Eb]Upon the [Ab]grave [Eb]is [Bb]stand[Eb]ing The [Ab]He[Cm]ro [G]looking [Cm]round;
+[Eb]The foe, no [Ab]more [Eb]with[Bb]stand[Eb]ing, His [Ab]wea[Cm]pons [G]on the [Cm]ground
+[Eb]Throws [Bb]down, [Cm]his [Bb]hellish [Eb]pow'r [Fm]To [Ab]Christ [Bbm]must [C]he give [F]o'er,
+[Bb]And [Eb]to [Bb]the [F]Victor's [Bb]bands [Eb]Must [Ab]yield [Cm]his [Bb]feet and [Eb]hands.
 
 Verse 4
-A sight it is to gladden; And fill the heart with glee,
-No more affright or sadden Shall aught, or take from me
-My trust or fortitude, Or any precious good
-The Savior bought for me In sov'reign love and free.
+[Eb]A sight it [Ab]is [Eb]to [Bb]glad[Eb]den; And [Ab]fill [Cm]the [G]heart with [Cm]glee,
+[Eb]No more af[Ab]fright [Eb]or [Bb]sad[Eb]den Shall [Ab]aught, [Cm]or [G]take from [Cm]me
+[Eb]My [Bb]trust [Cm]or [Bb]forti[Eb]tude, [Fm]Or [Ab]a[Bbm]ny [C]precious [F]good
+[Bb]The [Eb]Sa[Bb]vior [F]bought for [Bb]me [Eb]In [Ab]sov'r[Cm]eign [Bb]love and [Eb]free.
 
 Verse 5
-Hell and its prince, the devil, Of all their pow'rs are shorn;
-Now I am safe from evil, And sin I laugh to scorn.
-Grim Death with all his might Cannot my soul affright;
-He is a pow'rless form, Howe'er he rage and storm.`
+[Eb]Hell and its [Ab]prince, [Eb]the [Bb]de[Eb]vil, Of [Ab]all [Cm]their [G]pow'rs are [Cm]shorn;
+[Eb]Now I am [Ab]safe [Eb]from [Bb]e[Eb]vil, And [Ab]sin [Cm]I [G]laugh to [Cm]scorn.
+[Eb]Grim [Bb]Death [Cm]with [Bb]all his [Eb]might [Fm]Can[Ab]not [Bbm]my [C]soul af[F]fright;
+[Bb]He [Eb]is [Bb]a [F]pow'rless [Bb]form, [Eb]How[Ab]e'er [Cm]he [Bb]rage and [Eb]storm.`
   },
   {
     t: "Awake, My Soul, And With The Sun",
@@ -527,24 +527,24 @@ He is a pow'rless form, Howe'er he rage and storm.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Awake, my soul, and with the sun Thy daily stage of duty run;
-Shake off dull sloth, and joyful rise, To pay thy morning sacrifice.
+[G]Awake, [D]my soul, and [Em]with [D]the sun [G]Thy daily stage of [C]du[G]ty run;
+[Em]Shake [D]off [G]dull sloth, and [C]joy[D]ful rise, [G]To pay [Em]thy morning [G]sac[D]ri[D7]fice.
 
 Verse 2
-Thy precious time misspent, redeem, Each present day thy last esteem,
-Improve thy talent with due care; For the great day thyself prepare.
+[G]Thy prec[D]ious time mis[Em]spent, [D]redeem, [G]Each present day thy [C]last [G]esteem,
+[Em]Im[D]prove [G]thy talent [C]with [D]due care; [G]For the [Em]great day thy[G]self [D]pre[D7]pare.
 
 Verse 3
-By influence of Light divine Let thy own light to others shine.
-Reflect all Heaven's propitious ways In ardent love, and cheerful praise.
+[G]By in[D]fluence of [Em]Light [D]divine [G]Let thy own light to [C]o[G]thers shine.
+[Em]Re[D]flect [G]all Heaven's pro[C]pit[D]ious ways [G]In ar[Em]dent love, and [G]cheer[D]ful [D7]praise.
 
 Verse 4
-In conversation be sincere; Keep conscience as the noontide clear;
-Think how all seeing God thy ways And all thy secret thoughts surveys.
+[G]In con[D]versation [Em]be [D]sincere; [G]Keep conscience as the [C]noon[G]tide clear;
+[Em]Think [D]how [G]all seeing [C]God [D]thy ways [G]And all [Em]thy secret [G]thoughts [D]sur[D7]veys.
 
 Verse 5
-Wake, and lift up thyself, my heart, And with the angels bear thy part,
-Who all night long unwearied sing High praise to the eternal King.`
+[G]Wake, and [D]lift up thy[Em]self, [D]my heart, [G]And with the angels [C]bear [G]thy part,
+[Em]Who [D]all [G]night long un[C]wear[D]ied sing [G]High praise [Em]to the e[G]ter[D]nal [D7]King.`
   },
   {
     t: "Baptized Into Thy Name Most Holy",
@@ -559,34 +559,34 @@ Who all night long unwearied sing High praise to the eternal King.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Baptized into Thy Name most holy, O Father, Son, and
-Holy Ghost, I claim a place, though weak and lowly,
-Among Thy seed, Thy chosen host. Buried with Christ
-and dead to sin, Thy Spirit now shall live within.
+[F]Baptized in[C]to [F]Thy [Bb]Name [F]most [C]ho[F]ly, [C]O [G]Fa[C]ther, [F]Son, [C]and
+[Dm7]Ho[G]ly [C]Ghost, [F]I claim a [C]place, [F]though [Bb]weak [F]and [C]low[F]ly,
+[C]A[G]mong [C]Thy [F]seed, [C]Thy [Dm7]cho[G]sen [C]host. Bur[G7]ied [C]with [F]Christ
+[Dm]and [Gm]dead [F]to [C]sin, Thy Spi[F]rit [Gm7]now [Am]shall [Gm7]live with[F]in.
 
 Verse 2
-My loving Father, here doth take me To be henceforth His
-child and heir; My faithful Savior, now doth make me
-The fruit of all His sorrows share; My Comforter
-will comfort me When darkest clouds around I see.
+[F]My loving [C]Fa[F]ther, [Bb]here [F]doth [C]take [F]me [C]To [G]be [C]hence[F]forth [C]His
+[Dm7]child [G]and [C]heir; [F]My faithful [C]Sa[F]vior, [Bb]now [F]doth [C]make [F]me
+[C]The [G]fruit [C]of [F]all [C]His [Dm7]sor[G]rows [C]share; My [G7]Com[C]fort[F]er
+[Dm]will [Gm]com[F]fort [C]me When dark[F]est [Gm7]clouds [Am]a[Gm7]round I [F]see.
 
 Verse 3
-And I have vowed to fear and love Thee And to obey Thee,
-Lord, alone; I felt Thy Holy Spirit move me,
-I dared to pledge myself Thine own, Renouncing sin
-to keep the faith And war with evil unto death.
+[F]And I have [C]vowed [F]to [Bb]fear [F]and [C]love [F]Thee [C]And [G]to [C]o[F]bey [C]Thee,
+[Dm7]Lord, [G]a[C]lone; [F]I felt Thy [C]Ho[F]ly [Bb]Spi[F]rit [C]move [F]me,
+[C]I [G]dared [C]to [F]pledge [C]my[Dm7]self [G]Thine [C]own, Re[G7]noun[C]cing [F]sin
+[Dm]to [Gm]keep [F]the [C]faith And war [F]with [Gm7]e[Am]vil [Gm7]unto [F]death.
 
 Verse 4
-My faithful God, Thou failest never, Thy cov'nant surely
-will abide; Oh, cast me not away forever
-Should I transgress it on my side! But if I fall
-hide not Thy face, Restore Thy child, Lord, by Thy Grace.
+[F]My faithful [C]God, [F]Thou [Bb]fail[F]est [C]nev[F]er, [C]Thy [G]cov[C]'nant [F]sure[C]ly
+[Dm7]will [G]a[C]bide; [F]Oh, cast me [C]not [F]a[Bb]way [F]for[C]ev[F]er
+[C]Should [G]I [C]trans[F]gress [C]it [Dm7]on [G]my [C]side! But [G7]if [C]I [F]fall
+[Dm]hide [Gm]not [F]Thy [C]face, Restore [F]Thy [Gm7]child, [Am]Lord, [Gm7]by Thy [F]Grace.
 
 Verse 5
-Yes, all I am and love most dearly, To Thee I offer
-now the whole; O let me make my vows sincerely,
-Take full possession of my soul! Let naught within
-me, naught I own, Serve any will save Thine alone.`
+[F]Yes, all I [C]am [F]and [Bb]love [F]most [C]dear[F]ly, [C]To [G]Thee [C]I [F]of[C]fer
+[Dm7]now [G]the [C]whole; [F]O let me [C]make [F]my [Bb]vows [F]sin[C]cere[F]ly,
+[C]Take [G]full [C]pos[F]ses[C]sion [Dm7]of [G]my [C]soul! Let [G7]naught [C]with[F]in
+[Dm]me, [Gm]naught [F]I [C]own, Serve a[F]ny [Gm7]will [Am]save [Gm7]Thine a[F]lone.`
   },
   {
     t: "Beautiful Savior",
@@ -601,24 +601,24 @@ me, naught I own, Serve any will save Thine alone.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Beautiful Savior, King of Creation Son of
-God and Son of Man! Truly I'd love Thee,
-truly I'd serve Thee, Light of my soul, my joy, my crown.
+[Eb]Beau[Cm]tiful [Fm]Sa[Eb]vior, King [Cm]of [C7]Cre[Fm]a[Eb]tion Son [Ab]of
+[Eb]God and [Fm7]Son [Eb]of [Bb]Man! [Eb]Tru[Ab]ly [Eb]I'd [C7]love [Fm]Thee,
+[Bb7]tru[Gm]ly I'd [Bb7]serve [Eb]Thee, Light [Ebmaj7]of [Cm]my [Eb]soul, [Ab]my [Eb]joy, [Bb]my [Eb]crown.
 
 Verse 2
-Fair are the meadows, Fair are the woodlands, Robed in the
-flow'rs of blooming spring; Jesus is fairer,
-Jesus is purer, He makes our sorr'wing spirit sing.
+[Eb]Fair [Cm]are the [Fm]mea[Eb]dows, Fair [Cm]are [C7]the [Fm]wood[Eb]lands, Robed [Ab]in the
+[Eb]flow'rs of [Fm7]bloom[Eb]ing [Bb]spring; [Eb]Je[Ab]sus [Eb]is [C7]fair[Fm]er,
+[Bb7]Je[Gm]sus is [Bb7]pur[Eb]er, He [Ebmaj7]makes [Cm]our [Eb]sor[Ab]r'wing [Eb]spi[Bb]rit [Eb]sing.
 
 Verse 3
-Fair is the sunshine, Fair is the moonlight, Bright the
-sparkling stars on high; Jesus shines brighter,
-Jesus shines purer Than all the angels in the sky.
+[Eb]Fair [Cm]is the [Fm]sun[Eb]shine, Fair [Cm]is [C7]the [Fm]moon[Eb]light, Bright [Ab]the
+[Eb]sparkling [Fm7]stars [Eb]on [Bb]high; [Eb]Je[Ab]sus [Eb]shines [C7]bright[Fm]er,
+[Bb7]Je[Gm]sus shines [Bb7]pur[Eb]er Than [Ebmaj7]all [Cm]the [Eb]an[Ab]gels [Eb]in [Bb]the [Eb]sky.
 
 Verse 4
-Beautiful Savior, Lord of the nations, Son of
-God and Son of Man! Glory and honor,
-Praise, adoration Now and forevermore be Thine!`
+[Eb]Beau[Cm]tiful [Fm]Sa[Eb]vior, Lord [Cm]of [C7]the [Fm]na[Eb]tions, Son [Ab]of
+[Eb]God and [Fm7]Son [Eb]of [Bb]Man! [Eb]Glo[Ab]ry [Eb]and [C7]ho[Fm]nor,
+[Bb7]Praise, [Gm]ador[Bb7]a[Eb]tion Now [Ebmaj7]and [Cm]for[Eb]ev[Ab]er[Eb]more [Bb]be [Eb]Thine!`
   },
   {
     t: "Behold, A Host, Arrayed in White",
@@ -633,28 +633,28 @@ Praise, adoration Now and forevermore be Thine!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Behold a host, arrayed in white, Like thousand snow clad
-mountains bright, With palms they stand. Who is this band Before the throne of
-light? Lo, these are they of glorious fame Who from the great affliction came
-And in the flood of Jesus' blood Are cleansed from guilt and blame.
-Now gathered in the holy place Their voices they in worship raise,
-Their anthems swell where God doth dwell, Mid angels song of praise.
+[Eb]Behold a host, a[Eb7]rrayed in [F7]white, Like thousand [Cm]snow clad
+mountains [Eb]bright, With [Bb]palms they stand. Who is this [G]band Be[Eb]fore the [Bb7]throne of
+light? [Eb]Lo, these are they of [Eb7]glorious [F7]fame Who from the [Cm]great affliction [Eb]came
+And [Bb]in the flood of Jesus' [G]blood Are [Eb]cleansed from [Bb7]guilt and blame.
+[Eb]Now gathered in the [Eb7]holy place Their voices [Cm]they in worship [Eb]raise,
+Their [Bb]anthems swell where God doth [G]dwell, Mid [Eb]angels song of praise.
 
 Verse 2
-Despised and scorned, they sojourned here; But now, how glorious
-they appear! Those martyrs stand a priestly band, God's throne forever
-near. So oft, in troubled days gone by, In anguish they would weep and sigh.
-At home above the God of Love For aye their tears shall dry.
-They now enjoy their Sabbath rest, The paschal banquet of the blest;
-The Lamb, their Lord, at festal board Himself is Host and Guest.
+[Eb]Despised and scorned, they [Eb7]sojourned [F7]here; But now, how [Cm]glorious
+they ap[Eb]pear! Those [Bb]martyrs stand a priestly [G]band, God's [Eb]throne for[Bb7]ever
+near. [Eb]So oft, in troubled [Eb7]days gone [F7]by, In anguish [Cm]they would weep and [Eb]sigh.
+At [Bb]home above the God of [G]Love For [Eb]aye their [Bb7]tears shall dry.
+[Eb]They now enjoy their [Eb7]Sabbath rest, The paschal [Cm]banquet of the [Eb]blest;
+The [Bb]Lamb, their Lord, at festal [G]board Him[Eb]self is Host and Guest.
 
 Verse 3
-Then hail, ye mighty legions, yea, All hail! Now safe and
-blest for aye, And praise the Lord, who with His Word Sustained you on the
-way. Ye did the joys of earth disdain, Ye toiled and sowed in tears and pain.
-Farewell, now bring your sheaves and sing Salvation's glad refrain.
-Swing high your palms, lift up your song, Yea, make it myriad voices strong.
-Eternally shall praise to Thee, God, and the Lamb belong.`
+[Eb]Then hail, ye mighty [Eb7]legions, [F7]yea, All hail! Now [Cm]safe and
+blest for [Eb]aye, And [Bb]praise the Lord, who with His [G]Word Sus[Eb]tained you [Bb7]on the
+way. [Eb]Ye did the joys of [Eb7]earth dis[F7]dain, Ye toiled and [Cm]sowed in tears and [Eb]pain.
+Fare[Bb]well, now bring your sheaves and [G]sing Sal[Eb]vation's [Bb7]glad refrain.
+[Eb]Swing high your palms, lift [Eb7]up your song, Yea, make it [Cm]myriad voices [Eb]strong.
+E[Bb]ternally shall praise to [G]Thee, God, [Eb]and the Lamb belong.`
   },
   {
     t: "Blessed Jesus at Thy Word",
@@ -669,24 +669,24 @@ Eternally shall praise to Thee, God, and the Lamb belong.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Blessed Jesus, at Thy Word We are gathered all to hear Thee;
-Let our hearts and souls be stirred Now to seek and love and fear Thee,
-By Thy teachings sweet and holy, Drawn from earth to love Thee solely.
+[G]Blessed [D]Jesus, [G]at [Em]Thy [D]Word [G]We are [C]ga[G]thered [F#dim]all [G]to hear Thee;
+Let our [D]hearts and [G]souls [Em]be [D]stirred [G]Now to [C]seek [G]and [F#dim]love [G]and fear Thee,
+By [D]Thy [G]teach[D]ings [G]sweet [A]and [D]holy, [G]Drawn [Em]from [D]earth [G]to [C]love [G]Thee solely.
 
 Verse 2
-All our knowledge, sense, and sight Lie in deepest darkness shrouded,
-Til Thy Spirit breaks our night With the beams of truth unclouded;
-Thou alone to God canst win us; Thou must work all good within us.
+[G]All our [D]knowledge, [G]sense, [Em]and [D]sight [G]Lie in [C]deep[G]est [F#dim]dark[G]ness shrouded,
+Til Thy [D]Spirit [G]breaks [Em]our [D]night [G]With the [C]beams [G]of [F#dim]truth [G]unclouded;
+Thou [D]a[G]lone [D]to [G]God [A]canst [D]win us; [G]Thou [Em]must [D]work [G]all [C]good [G]within us.
 
 Verse 3
-Glorious Lord, Thyself impart! Light of light, from God proceeding,
-Open Thou our ears and heart; Help us by Thy Spirit's pleading;
-Hear the cry Thy people raises; Hear and bless our prayers and praises.
+[G]Glorious [D]Lord, Thy[G]self [Em]im[D]part! [G]Light of [C]light, [G]from [F#dim]God [G]proceeding,
+Open [D]Thou our [G]ears [Em]and [D]heart; [G]Help us [C]by [G]Thy [F#dim]Spir[G]it's pleading;
+Hear [D]the [G]cry [D]Thy [G]peo[A]ple [D]raises; [G]Hear [Em]and [D]bless [G]our [C]prayers [G]and praises.
 
 Verse 4
-Father, Son, and Holy Ghost, Praise to Thee and adoration!
-Grant that we Thy Word may trust And obtain true consolation,
-While we here below must wander, Till we sing Thy praises yonder.`
+[G]Father, [D]Son, and [G]Ho[Em]ly [D]Ghost, [G]Praise to [C]Thee [G]and [F#dim]a[G]doration!
+Grant that [D]we Thy [G]Word [Em]may [D]trust [G]And ob[C]tain [G]true [F#dim]con[G]solation,
+While [D]we [G]here [D]be[G]low [A]must [D]wander, [G]Till [Em]we [D]sing [G]Thy [C]prais[G]es yonder.`
   },
   {
     t: "Blind Bartimaeus",
@@ -701,28 +701,28 @@ While we here below must wander, Till we sing Thy praises yonder.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Blind Bartimaeus at the gates Of Jericho in
-darkness waits: He hears the crowd; he hears a breath
-say "It is Christ of Nazareth!" And calls in tones
-of agony, "O Jesus, Jesus pity me!"
+[F]Blind Barti[C7]mae[Am]us [C7]at [Dm]the [C]gates [F]Of Jericho in
+dark[C7]ness [F]waits: He [Bb]hears the crowd; he [F]hears a breath
+say [Bb]"It is Christ of [F]Nazareth!" And calls in [C7]tones
+[Am]of [C7]a[Dm]go[C]ny, [F]"O Jesus, Jesus pi[C7]ty [F]me!"
 
 Verse 2
-The thronging multitudes in-crease "Blind Bartimaeus,
-hold thy peace!" But still, above the noisy crowd,
-The blind man's cry is shrill and loud: Until they say,
-"He calleth thee; Courage! arise! He calleth thee!"
+[F]The thronging [C7]mul[Am]ti[C7]tudes [Dm]in[C]crease [F]"Blind Bartimaeus,
+hold [C7]thy [F]peace!" But [Bb]still, above the [F]noisy crowd,
+The [Bb]blind man's cry is [F]shrill and loud: Until they [C7]say,
+[Am]"He [C7]call[Dm]eth [C]thee; [F]Courage! arise! He call[C7]eth [F]thee!"
 
 Verse 3
-Then saith the Christ, as silent stands The crowd, "What wilt thou
-at My hands?" And he replies, "O give me light!
-Rabbi, restore the blind man's sight." And Jesus an
-swers, "Go thy way, Thy faith, thy faith hath sav�d thee."
+[F]Then saith the [C7]Christ, [Am]as [C7]si[Dm]lent [C]stands [F]The crowd, "What wilt thou
+at [C7]My [F]hands?" And [Bb]he replies, "O [F]give me light!
+Ra[Bb]bbi, restore the [F]blind man's sight." And Jesus [C7]an[Am]swers,
+swers, [C7]"Go [Dm]thy [C]way, [F]Thy faith, thy faith hath sa[C7]vèd [F]thee."
 
 Verse 4
-Ye that hath eyes and cannot see, In darkness and in
-misery, Recall those mighty voices three
-"O Jesus, Jesus pity me!" "Courage! arise!
-He calleth thee!" "Thy faith, thy faith hath sav�d thee."`
+[F]Ye that hath [C7]eyes [Am]and [C7]can[Dm]not [C]see, [F]In darkness and in
+mis[C7]er[F]y, Re[Bb]call those mighty [F]voices three-
+"O [Bb]Jesus, Jesus [F]pity me!" "Courage! a[C7]rise!
+[Am]He [C7]call[Dm]eth [C]thee!" [F]"Thy faith, thy faith hath sa[C7]vèd [F]thee."`
   },
   {
     t: "Built on the Rock",
@@ -737,34 +737,34 @@ He calleth thee!" "Thy faith, thy faith hath sav�d thee."`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Built on the Rock the church doth stand, Even when steeples are fall
-ing; Crumbled have spires in every land, Bells still are chiming
-and calling; Calling the young and old to rest, But above all
-the soul distressed, Longing for rest everlasting.
+[Dm]Built on [A]the [Dm]Rock [D7]the [Bb]church [Gm]doth [A]stand, [Dm]E[E7]ven [Am]when [F]stee[Bb]ples [Gm]are fall[Dm]ing;
+ing; [Bb]Crum[Gm]bled [Dm]have [F]spires [Bb]in [Dm]e[C]very [F]land, Bells [G7]still [C]are [F]chim[Dm]ing
+[Gm]and cal[Dm]ling; Cal[Am]ling [E]the [Am]young [F]and old [C7]to [F]rest, [A7]But [Dm]above [Am]all
+the soul [E7]dis[Am]tressed, [A7]Long[Dm]ing [A7]for [Dm]rest [Gm]ev[Gm7]erlast[Dm]ing.
 
 Verse 2
-Surely in temples made with hands, God, the Most High, is not dwell
-ing; High above earth His temple stands, All earthly temples
-excelling; Yet He whom heav'ns cannot contain Chose to abide
-on earth with men, Built in our bodies His temple.
+[Dm]Surely [A]in [Dm]tem[D7]ples [Bb]made [Gm]with [A]hands, [Dm]God, [E7]the [Am]Most [F]High, [Bb]is [Gm]not dwell[Dm]ing;
+ing; [Bb]High [Gm]a[Dm]bove [F]earth [Bb]His [Dm]tem[C]ple [F]stands, All [G7]earth[C]ly [F]tem[Dm]ples
+[Gm]excell[Dm]ing; Yet [Am]He [E]whom [Am]heav'ns [F]cannot [C7]con[F]tain [A7]Chose [Dm]to a[Am]bide
+on earth [E7]with [Am]men, [A7]Built [Dm]in [A7]our [Dm]bod[Gm]ies [Gm7]His tem[Dm]ple.
 
 Verse 3
-We are God's house of living stones, Built for His own habita
-tion; He through baptismal grace us owns, Heirs of His wondrous
-salvation; Were we but two His Name to tell, Yet He would deign
-with us to dwell, With all His grace and His favor.
+[Dm]We are [A]God's [Dm]house [D7]of [Bb]li[Gm]ving [A]stones, [Dm]Built [E7]for [Am]His [F]own [Bb]hab[Gm]ita[Dm]tion;
+tion; [Bb]He [Gm]through [Dm]bap[F]tis[Bb]mal [Dm]grace [C]us [F]owns, Heirs [G7]of [C]His [F]won[Dm]drous
+[Gm]salva[Dm]tion; Were [Am]we [E]but [Am]two [F]His Name [C7]to [F]tell, [A7]Yet [Dm]He would [Am]deign
+with us [E7]to [Am]dwell, [A7]With [Dm]all [A7]His [Dm]grace [Gm]and [Gm7]His fa[Dm]vor.
 
 Verse 4
-Now we may gather with our King; Ev'n in the lowliest dwell
-ing: Praises to Him we there may bring, His wondrous mercy
-foretelling; Jesus His grace to us accords, Spirit and life
-are all His words, His truth doth hallow the temple.
+[Dm]Now we [A]may [Dm]ga[D7]ther [Bb]with [Gm]our [A]King; [Dm]Ev'n [E7]in [Am]the [F]low[Bb]li[Gm]est dwell[Dm]ing:
+ing: [Bb]Prais[Gm]es [Dm]to [F]Him [Bb]we [Dm]there [C]may [F]bring, His [G7]won[C]drous [F]mer[Dm]cy
+[Gm]foretell[Dm]ing; Je[Am]sus [E]His [Am]grace [F]to us [C7]ac[F]cords, [A7]Spi[Dm]rit and [Am]life
+are all [E7]His [Am]words, [A7]His [Dm]truth [A7]doth [Dm]hal[Gm]low [Gm7]the tem[Dm]ple.
 
 Verse 5
-Still we our earthly temples rear, That we may herald His prais
-es; They are the homes where He draws near And little children
-embraces, Beautiful things in them are said, God there with us
-His cov'nant made, Making us heirs of His kingdom.`
+[Dm]Still we [A]our [Dm]earth[D7]ly [Bb]tem[Gm]ples [A]rear, [Dm]That [E7]we [Am]may [F]her[Bb]ald [Gm]His prais[Dm]es;
+es; [Bb]They [Gm]are [Dm]the [F]homes [Bb]where [Dm]He [C]draws [F]near And [G7]lit[C]tle [F]child[Dm]ren
+[Gm]embrac[Dm]es, Beau[Am]ti[E]ful [Am]things [F]in them [C7]are [F]said, [A7]God [Dm]there with [Am]us
+His cov'n[E7]ant [Am]made, [A7]Mak[Dm]ing [A7]us [Dm]heirs [Gm]of [Gm7]His king[Dm]dom.`
   },
   {
     t: "By Grace I'm Saved",
@@ -779,29 +779,29 @@ His cov'nant made, Making us heirs of His kingdom.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-By grace I'm savedgrace free and boundless! My heart, believ'st thou this or not?
-Why tremblest thou with terror groundless? Has ever God a falsehood taught?
-His Word is truethen this must be: By grace there is a crown for thee.
+[F]By grace I'm [Bb]saved[C]grace [Bb]free [F]and boundless! My [C]heart, [Dm]be[Edim]liev'st [F]thou [Bb]this [F]or [C]not?
+[F]Why tremblest [Bb]thou [C]with [Bb]ter[F]ror groundless? Has [C]ev[Dm]er [Edim]God [F]a [Bb]false[F]hood [C]taught?
+His [G]Word [C]is [F]true[C]then [F]this [G]must [C]be: By [F]grace there [Bb]is a [Am7]crown for [F]thee.
 
 Verse 2
-By grace! our works are all rejected, All claims of merit pass for naught;
-The mighty Savior, long expected, To us this blissful truth has brought,
-That He by death redeems our race, And we are saved alone by grace.
+[F]By grace! our [Bb]works [C]are [Bb]all [F]rejected, All [C]claims [Dm]of [Edim]me[F]rit [Bb]pass [F]for [C]naught;
+[F]The mighty [Bb]Sa[C]vior, [Bb]long [F]expected, To [C]us [Dm]this [Edim]bliss[F]ful [Bb]truth [F]has [C]brought,
+That [G]He [C]by [F]death [C]re[F]deems [G]our [C]race, And [F]we are [Bb]saved a[Am7]lone by [F]grace.
 
 Verse 3
-By grace! mark well this phrase's meaning, When sin rolls sorrows o'er thy breast,
-When Satan threats with pride o'erweening, When troubled conscience sighs for rest:
-What reason ne'er can comprehend It pleases God by grace to send.
+[F]By grace! mark [Bb]well [C]this [Bb]phra[F]se's meaning, When [C]sin [Dm]rolls [Edim]sor[F]rows [Bb]o'er [F]thy [C]breast,
+[F]When Satan [Bb]threats [C]with [Bb]pride [F]o'erweening, When [C]troub[Dm]led [Edim]con[F]science [Bb]sighs [F]for [C]rest:
+What [G]rea[C]son [F]ne'er [C]can [F]com[G]pre[C]hend It [F]pleases [Bb]God by [Am7]grace to [F]send.
 
 Verse 4
-By grace His Son, on earth appearing, Vouchsafed beneath thy woe to bend;
-Hadst thou, damnation justly fearing, Done aught to render Him thy friend?
-Was't not that He thy welfare sought, And but by grace deliv'rance wrought?
+[F]By grace His [Bb]Son, [C]on [Bb]earth [F]appearing, Vouch[C]safed [Dm]be[Edim]neath [F]thy [Bb]woe [F]to [C]bend;
+[F]Hadst thou, dam[Bb]na[C]tion [Bb]just[F]ly fearing, Done [C]aught [Dm]to [Edim]ren[F]der [Bb]Him [F]thy [C]friend?
+Was't [G]not [C]that [F]He [C]thy [F]wel[G]fare [C]sought, And [F]but by [Bb]grace de[Am7]liv'rance [F]wrought?
 
 Verse 5
-By grace! this ground of our salvation As long as God is true endures:
-What saints have penned by inspiration, What God to our poor soul secures,
-What all our faith must rest upon, Is grace, free grace through His dear Son.`
+[F]By grace! this [Bb]ground [C]of [Bb]our [F]salvation As [C]long [Dm]as [Edim]God [F]is [Bb]true [F]en[C]dures:
+[F]What saints have [Bb]penned [C]by [Bb]in[F]spiration, What [C]God [Dm]to [Edim]our [F]poor [Bb]soul [F]se[C]cures,
+What [G]all [C]our [F]faith [C]must [F]rest [G]u[C]pon, Is [F]grace, free [Bb]grace through [Am7]His dear [F]Son.`
   },
   {
     t: "Christ Arose",
@@ -816,21 +816,21 @@ What all our faith must rest upon, Is grace, free grace through His dear Son.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Low in the grave He lay Jesus my Savior!
-Waiting the coming dayJesus my Lord!
+[C]Low in [F]the grave [C]He lay [G]Je[G7]sus my [F]Sa[C]vior!
+[F]Waiting the [C]coming day-[Am]Je[G]sus [D7]my [G]Lord!
 
 Verse 2
-Vainly they watch His bedJesus my Savior!
-Vainly they seal the deadJesus my Lord!
+[C]Vainly [F]they watch [C]His bed-[G]Je[G7]sus my [F]Sa[C]vior!
+[F]Vainly they [C]seal the dead-[Am]Je[G]sus [D7]my [G]Lord!
 
 Verse 3
-Death cannot keep his preyJesus my Savior!
-He tore the bars awayJesus my Lord!
+[C]Death can[F]not keep [C]his prey-[G]Je[G7]sus my [F]Sa[C]vior!
+[F]He tore the [C]bars away-[Am]Je[G]sus [D7]my [G]Lord!
 
 Chorus
-Up from the grave He arose, With a mighty triumph o'er His
-foes; He arose a Victor from the dark domain, And He lives forever with His
-saints to reign. He arose! He arose! Hallelujah! Christ arose!`
+[C]Up from the [E]grave [G]He a[C]rose, With a mighty [Dm7]triumph o'er His
+[C]foes; [G]He a[G7]rose a Victor from the [Am]dark [F]do[C]main, And He [F]lives for[D7]ever [D]with His
+[G]saints [Am]to [G7]reign. [G]He a[Em]rose! [Dm]He a[Aaug]rose! Halle[C]lujah! Christ [G7]a[C]rose!`
   },
   {
     t: "Christ Jesus Lay In Death's Strong Bands",
@@ -845,34 +845,34 @@ saints to reign. He arose! He arose! Hallelujah! Christ arose!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Christ Jesus lay in death's strong bands, For our offenses
-given; But now at God's right hand He stands, And brings us life from
-Heaven. Wherefore let us joyful be, And sing to God right
-thankfully Loud songs of Alleluia! Alleluia!
+[Dm]Christ [Em]Je[Am]sus [F]lay [Dm]in [Am]death's [E]strong [Am]bands, For [Dm]our [C]of[F]fen[Gm]ses
+giv[Dm]en; But [Em]now [Am]at [F]God's [Dm]right [Am]hand [E]He [Am]stands, And [Dm]brings [C]us [F]life [Gm]from
+Hea[Dm]ven. Wherefore [Gm]let [A#]us [F]joy[Gm]ful [F]be, And [Dm]sing [Am]to [G]God [Em]right
+[Am]thank[E]ful[Am]ly Loud [C]songs [F]of [Am]Al[C]le[Dm]lu[A#]ia! [F]Al[Gm]lelu[Dm]ia!
 
 Verse 2
-No son of man could conquer Death, Such mischief sin had
-wrought us, For innocence dwelt not on earth, And therefore Death had
-brought us Into thralldom from of old And ever grew more
-strong and bold And kept us in his bondage. Alleluia!
+[Dm]No [Em]son [Am]of [F]man [Dm]could [Am]con[E]quer [Am]Death, Such [Dm]mis[C]chief [F]sin [Gm]had
+wrought [Dm]us, For [Em]in[Am]no[F]cence [Dm]dwelt [Am]not [E]on [Am]earth, And [Dm]there[C]fore [F]Death [Gm]had
+brought [Dm]us Into [Gm]thrall[A#]dom [F]from [Gm]of [F]old And [Dm]ev[Am]er [G]grew [Em]more
+[Am]strong [E]and [Am]bold And [C]kept [F]us [Am]in [C]his [Dm]bon[A#]dage. [F]Al[Gm]lelu[Dm]ia!
 
 Verse 3
-But Jesus Christ, God's only Son, To our low state de
-scended, The cause of Death He has undone, His power forever
-ended, Ruined all his right and claim And left him nothing
-but the name, His sting is lost forever. Alleluia!
+[Dm]But [Em]Je[Am]sus [F]Christ, [Dm]God's [Am]on[E]ly [Am]Son, To [Dm]our [C]low [F]state [Gm]descend[Dm]ed,
+scended, The [Em]cause [Am]of [F]Death [Dm]He [Am]has [E]un[Am]done, His [Dm]power [C]for[F]ev[Gm]er
+end[Dm]ed, Ruined [Gm]all [A#]his [F]right [Gm]and [F]claim And [Dm]left [Am]him [G]no[Em]thing
+[Am]but [E]the [Am]name, His [C]sting [F]is [Am]lost [C]for[Dm]ev[A#]er. [F]Al[Gm]lelu[Dm]ia!
 
 Verse 4
-It was a strange and dreadful strife When life and death con
-tended; The victory remained with life; The reign of death was
-ended. Stripped of power, no more it reigns, An empty form a
-lone remains Death's sting is lost forever! Alleluia!
+[Dm]It [Em]was [Am]a [F]strange [Dm]and [Am]dread[E]ful [Am]strife When [Dm]life [C]and [F]death [Gm]conten[Dm]ded;
+tended; The [Em]vic[Am]to[F]ry [Dm]re[Am]mained [E]with [Am]life; The [Dm]reign [C]of [F]death [Gm]was
+end[Dm]ed. Stripped of [Gm]power, [A#]no [F]more [Gm]it [F]reigns, An [Dm]emp[Am]ty [G]form [Em]a[Am]lone
+lone [E]re[Am]mains Death's [C]sting [F]is [Am]lost [C]for[Dm]ev[A#]er! [F]Al[Gm]lelu[Dm]ia!
 
 Verse 5
-Here the true Paschal Lamb we see, Whom God so freely
-gave us; He died on the accursed tree So strong His love! to
-save us. See, His blood doth mark our door; Faith points to it, Death
-passes o'er, And Satan cannot harm us. Alleluia!`
+[Dm]Here [Em]the [Am]true [F]Pas[Dm]chal [Am]Lamb [E]we [Am]see, Whom [Dm]God [C]so [F]free[Gm]ly
+gave [Dm]us; He [Em]died [Am]on [F]the [Dm]ac[Am]cur[E]sed [Am]tree So [Dm]strong [C]His [F]love! [Gm]to
+save [Dm]us. See, His [Gm]blood [A#]doth [F]mark [Gm]our [F]door; Faith [Dm]points [Am]to [G]it, [Em]Death
+[Am]pas[E]ses [Am]o'er, And [C]Sa[F]tan [Am]can[C]not [Dm]harm [A#]us. [F]Al[Gm]lelu[Dm]ia!`
   },
   {
     t: "Christ Returneth",
@@ -887,28 +887,28 @@ passes o'er, And Satan cannot harm us. Alleluia!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-It may be at morn, when the day is awaking, When sunlight through
-darkness and shadow is breaking That Jesus will come in the
-fullness of glory To receive from the world "His own."
+[D]It may [Em7]be [D]at morn, [G]when the [D]day [Em7]is [D]awak[A]ing, When [D]sunlight [A]through
+[Bm]darkness [D]and [A]sha[E7]dow is [Bm7]break[A]ing [A7]That [D]Je[G]sus [A7]will [D]come [A]in the
+[A7]fullness of [D]glory To re[G]ceive from the [D]world [A7]"His [D]own."
 
 Verse 2
-It may be at midday, it may be at twilight, It may be, per
-chance, that the blackness of midnight Will burst into light in the
-blaze of His glory, When Jesus receives "His own."
+[D]It may [Em7]be [D]at mid[G]day, it [D]may [Em7]be [D]at twi[A]light, It [D]may be, [A]per[Bm]chance,
+chance, that [D]the [A]black[E7]ness of [Bm7]mid[A]night [A7]Will [D]burst [G]in[A7]to [D]light [A]in the
+[A7]blaze of His [D]glory, When [G]Jesus re[D]ceives [A7]"His [D]own."
 
 Verse 3
-While hosts cry Hosanna, from heaven descending, With glorified
-saints and the angels attending, With grace on His brow, like a
-halo of glory, Will Jesus receive "His own."
+[D]While hosts [Em7]cry [D]Hosan[G]na, from [D]hea[Em7]ven [D]descen[A]ding, With [D]glori[A]fied
+[Bm]saints and [D]the [A]an[E7]gels at[Bm7]tend[A]ing, [A7]With [D]grace [G]on [A7]His [D]brow, [A]like a
+[A7]halo of [D]glory, Will [G]Jesus re[D]ceive [A7]"His [D]own."
 
 Verse 4
-Oh, joy! oh, delight! should we go without dying, No sickness, no
-sadness, no dread and no crying. Caught up through the clouds with our
-Lord into glory, When Jesus receives "His own."
+[D]Oh, joy! [Em7]oh, [D]delight! [G]should we [D]go [Em7]with[D]out dy[A]ing, No [D]sickness, [A]no
+[Bm]sadness, [D]no [A]dread [E7]and no [Bm7]cry[A]ing. [A7]Caught [D]up [G]through [A7]the [D]clouds [A]with our
+[A7]Lord into [D]glory, When [G]Jesus re[D]ceives [A7]"His [D]own."
 
 Chorus
-O Lord Jesus, how long, how long Ere we shout the glad song, Christ re
-turneth! Hallelujah! Hallelujah! Amen. Hallelujah! Amen.`
+O Lord Je[A7]sus, [D]how [G]long, how long Ere we shout [A7]the [G]glad [D]song, [A]Christ re[D]turneth!
+turneth! [A7]Halle[D]lujah! [A]Halle[D]lujah! [A7]A[D]men. Hallelu[A7]jah! A[D]men.`
   },
   {
     t: "Christ The Lord Is Risen Today (Lyra)",
@@ -923,34 +923,34 @@ turneth! Hallelujah! Hallelujah! Amen. Hallelujah! Amen.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Christ, the Lord, is risen today, Alleluia!
-Sons of men and angels say, Alleluia!
-Raise your joys and triumphs high, Alleluia!
-Sing, ye heavens, and earth, reply, Alleluia!
+[F]Christ, the [Dm]Lord, is [F]risen [Gm]to[C]day, [Am]Al[Bb]le[Gm7]lu[F]ia!
+Sons of [Dm]men and [F]an[Gm]gels [C]say, [Am]Al[Bb]le[Gm7]lu[F]ia!
+[Dm]Raise your [Cm]joys [Dm]and [Bb]tri[Gm]umphs [C]high, [F]Alle[C]luia!
+[F]Sing, ye heavens, [Dm]and [F]earth, [Gm]re[C]ply, [F]Al[Gm7]lelu[F]ia!
 
 Verse 2
-Love's redeeming work is done, Alleluia!
-Fought the fight, the battle won, Alleluia!
-Lo! the Sun's eclipse is o'er, Alleluia!
-Lo! He sets in blood no more, Alleluia!
+[F]Love's re[Dm]deeming [F]work [Gm]is [C]done, [Am]Al[Bb]le[Gm7]lu[F]ia!
+Fought the [Dm]fight, the [F]ba[Gm]ttle [C]won, [Am]Al[Bb]le[Gm7]lu[F]ia!
+[Dm]Lo! the [Cm]Sun's [Dm]ec[Bb]lipse [Gm]is [C]o'er, [F]Alle[C]luia!
+[F]Lo! He sets [Dm]in [F]blood [Gm]no [C]more, [F]Al[Gm7]lelu[F]ia!
 
 Verse 3
-Vain the stone, the watch, the seal, Alleluia!
-Christ hath burst the gates of hell, Alleluia!
-Death in vain forbids His rise, Alleluia!
-Christ hath opened paradise, Alleluia!
+[F]Vain the [Dm]stone, the [F]watch, [Gm]the [C]seal, [Am]Al[Bb]le[Gm7]lu[F]ia!
+Christ hath [Dm]burst the [F]gates [Gm]of [C]hell, [Am]Al[Bb]le[Gm7]lu[F]ia!
+[Dm]Death in [Cm]vain [Dm]for[Bb]bids [Gm]His [C]rise, [F]Alle[C]luia!
+[F]Christ hath o[Dm]pened [F]par[Gm]a[C]dise, [F]Al[Gm7]lelu[F]ia!
 
 Verse 4
-Lives again our glorious King, Alleluia!
-Where, O death, is now thy sting? Alleluia!
-Once He died our souls to save, Alleluia!
-Where thy victory, O grave? Alleluia!
+[F]Lives a[Dm]gain our [F]glor[Gm]ious [C]King, [Am]Al[Bb]le[Gm7]lu[F]ia!
+Where, O [Dm]death, is [F]now [Gm]thy [C]sting? [Am]Al[Bb]le[Gm7]lu[F]ia!
+[Dm]Once He [Cm]died [Dm]our [Bb]souls [Gm]to [C]save, [F]Alle[C]luia!
+[F]Where thy vic[Dm]to[F]ry, [Gm]O [C]grave? [F]Al[Gm7]lelu[F]ia!
 
 Verse 5
-Soar we now where Christ hath led, Alleluia!
-Following our exalted Head, Alleluia!
-Made like Him, like Him we rise, Alleluia!
-Ours the cross, the grave, the skies, Alleluia!`
+[F]Soar we [Dm]now where [F]Christ [Gm]hath [C]led, [Am]Al[Bb]le[Gm7]lu[F]ia!
+Following [Dm]our ex[F]al[Gm]ted [C]Head, [Am]Al[Bb]le[Gm7]lu[F]ia!
+[Dm]Made like [Cm]Him, [Dm]like [Bb]Him [Gm]we [C]rise, [F]Alle[C]luia!
+[F]Ours the cross, [Dm]the [F]grave, [Gm]the [C]skies, [F]Al[Gm7]lelu[F]ia!`
   },
   {
     t: "Come Down, O Love Divine",
@@ -965,28 +965,28 @@ Ours the cross, the grave, the skies, Alleluia!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Come down, O love divine, seek Thou this soul of
-mine, And visit it with Thine own ardor glowing.
-O Comforter, draw near, within my heart appear,
-And kindle it, Thy holy flame bestowing.
+[D]Come [A]down, [D]O love [G]di[D]vine, seek [Bm]Thou [A]this [Bm]soul of
+[A]mine, [D]And [G]vis[A]it [G]it [D]with [Em]Thine [D]own [Em7]ardor glow[D]ing.
+[Bm]O [F#m]Com[G]fort[D]er, [E]draw [A]near, [C]with[G]in [D]my [Em]heart [D]ap[A]pear,
+And [D]kin[G]dle [A]it, [G]Thy [D]holy [Em7]flame bestow[D]ing.
 
 Verse 2
-O let it freely burn, til earthly passions
-turn To dust and ashes in its heat consuming;
-And let Thy glorious light shine ever on my sight,
-And clothe me round, the while my path illuming.
+[D]O [A]let [D]it free[G]ly [D]burn, til [Bm]earth[A]ly [Bm]passions
+[A]turn [D]To [G]dust [A]and [G]ash[D]es [Em]in [D]its [Em7]heat consu[D]ming;
+[Bm]And [F#m]let [G]Thy [D]glor[E]ious [A]light [C]shine [G]ev[D]er [Em]on [D]my [A]sight,
+And [D]clothe [G]me [A]round, [G]the [D]while my [Em7]path illum[D]ing.
 
 Verse 3
-Let holy charity mine outward vesture
-be, And lowliness become mine inner clothing;
-True lowliness of heart, which takes the humbler part,
-And o'er its own shortcomings weeps with loathing.
+[D]Let [A]ho[D]ly char[G]it[D]y mine [Bm]out[A]ward [Bm]vesture
+[A]be, [D]And [G]low[A]li[G]ness [D]be[Em]come [D]mine [Em7]inner cloth[D]ing;
+[Bm]True [F#m]low[G]li[D]ness [E]of [A]heart, [C]which [G]takes [D]the [Em]hum[D]bler [A]part,
+And [D]o'er [G]its [A]own [G]short[D]comings [Em7]weeps with loath[D]ing.
 
 Verse 4
-And so the yearning strong, with which the soul will
-long, Shall far outpass the pow'r of human telling;
-For none can guess its grace, till he become the place
-Wherein the Holy Spirit makes His dwelling.`
+[D]And [A]so [D]the yearn[G]ing [D]strong, with [Bm]which [A]the [Bm]soul will
+[A]long, [D]Shall [G]far [A]out[G]pass [D]the [Em]pow'r [D]of [Em7]human tell[D]ing;
+[Bm]For [F#m]none [G]can [D]guess [E]its [A]grace, [C]till [G]he [D]be[Em]come [D]the [A]place
+Where[D]in [G]the [A]Ho[G]ly [D]Spirit [Em7]makes His dwell[D]ing.`
   },
   {
     t: "Come, God Creator, Holy Ghost",
@@ -1001,24 +1001,24 @@ Wherein the Holy Spirit makes His dwelling.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Come, God Creator, Holy Ghost, And visit Thou these souls of men;
-Fill them with graces, as Thou dost, Thy creatures make pure again.
+[C]Come, [F]God [C]Cre[Dm]a[C]tor, [Am]Ho[G]ly [C]Ghost, And vis[F]it [C]Thou [G]these [C]souls of [G]men;
+Fill [C]them with [F]gra[C]ces, [F]as [C]Thou [G]dost, Thy [Eaug]crea[F]tures make pure [G]a[C]gain.
 
 Verse 2
-For Comforter Thy name we call. Sweet gift of God most high above,
-A holy unction to us all O Fount of life, Fire of love.
+[C]For [F]Com[C]fort[Dm]er [C]Thy [Am]name [G]we [C]call. Sweet gift [F]of [C]God [G]most [C]high a[G]bove,
+A [C]holy [F]unc[C]tion [F]to [C]us [G]all O [Eaug]Fount [F]of life, Fire [G]of [C]love.
 
 Verse 3
-Our minds illumine and refresh, Deep in our hearts let love burn bright;
-Thou know'st the weakness of our flesh; And strengthen us with Thy might.
+[C]Our [F]minds [C]il[Dm]lu[C]mine [Am]and [G]re[C]fresh, Deep in [F]our [C]hearts [G]let [C]love burn [G]bright;
+Thou [C]know'st the [F]weak[C]ness [F]of [C]our [G]flesh; And [Eaug]strength[F]en us with [G]Thy [C]might.
 
 Verse 4
-Thou with Thy wondrous sev'nfold gifts The finger art of God's right hand;
-The Father's Word Thou sendest swift On tongues of fire to each land.
+[C]Thou [F]with [C]Thy [Dm]won[C]drous [Am]sev'n[G]fold [C]gifts The fin[F]ger [C]art [G]of [C]God's right [G]hand;
+The [C]Father's [F]Word [C]Thou [F]send[C]est [G]swift On [Eaug]tongues [F]of fire to [G]each [C]land.
 
 Verse 5
-Drive far from us our wily foe; Grant us Thy bless�d peace within,
-That in Thy footsteps we may go, And shun the dark ways of sin.`
+[C]Drive [F]far [C]from [Dm]us [C]our [Am]wi[G]ly [C]foe; Grant us [F]Thy [C]bless[G]éd [C]peace with[G]in,
+That [C]in Thy [F]foot[C]steps [F]we [C]may [G]go, And [Eaug]shun [F]the dark ways [G]of [C]sin.`
   },
   {
     t: "Come Holy Spirit, Lord Our God",
@@ -1072,34 +1072,34 @@ Hallelujah! Hallelujah!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Come, Thou Fount of every blessing, Tune my heart to sing Thy grace;
-Streams of mercy, never ceasing, Call for songs of loudest praise.
-Teach me some melodious sonnet, Sung by flaming tongues above.
-Praise the mount! I'm fixed upon it, Mount of Thy redeeming love.
+[Eb]Come, Thou Fount of every [Bb]blessing, [Eb]Tune my [Ab]heart [Eb]to sing Thy grace;
+Streams of mercy, never [Bb]ceasing, [Eb]Call for [Ab]songs [Eb]of loudest praise.
+Teach me some [Ebmaj7]me[Ab]lodious son[Eb]net, Sung by [Cm]fla[Gm]ming [Ab]tongues a[Eb]bove.
+Praise the mount! I'm fixed u[Bb]pon it, [Eb]Mount of [Ab]Thy [Eb]redeeming love.
 
 Verse 2
-Sorr'wing I shall be in spirit, Till released from flesh and sin,
-Yet from what I do inherit, Here Thy praises I'll begin;
-Here I raise my Ebenezer; Here by Thy great help I've come;
-And I hope, by Thy good pleasure, Safely to arrive at home.
+[Eb]Sorr'wing I shall be in [Bb]spirit, [Eb]Till re[Ab]leased [Eb]from flesh and sin,
+Yet from what I do in[Bb]herit, [Eb]Here Thy [Ab]prais[Eb]es I'll begin;
+Here I raise [Ebmaj7]my [Ab]Ebene[Eb]zer; Here by [Cm]Thy [Gm]great [Ab]help I've [Eb]come;
+And I hope, by Thy good [Bb]pleasure, [Eb]Safely [Ab]to [Eb]arrive at home.
 
 Verse 3
-Jesus sought me when a stranger, Wand'ring from the fold of God;
-He, to rescue me from danger, Interposed His precious blood;
-How His kindness yet pursues me Mortal tongue can never tell,
-Clothed in flesh, till death shall loose me I cannot proclaim it well.
+[Eb]Jesus sought me when a [Bb]stranger, [Eb]Wand'ring [Ab]from [Eb]the fold of God;
+He, to rescue me from [Bb]danger, [Eb]Inter[Ab]posed [Eb]His precious blood;
+How His kind[Ebmaj7]ness [Ab]yet pursues [Eb]me Mortal [Cm]tongue [Gm]can [Ab]never [Eb]tell,
+Clothed in flesh, till death shall [Bb]loose me [Eb]I can[Ab]not [Eb]proclaim it well.
 
 Verse 4
-O to grace how great a debtor Daily I'm constrained to be!
-Let Thy goodness, like a fetter, Bind my wand'ring heart to Thee.
-Prone to wander, Lord, I feel it, Prone to leave the God I love;
-Here's my heart, O take and seal it, Seal it for Thy courts above.
+[Eb]O to grace how great a [Bb]debtor [Eb]Daily [Ab]I'm [Eb]constrained to be!
+Let Thy goodness, like a [Bb]fetter, [Eb]Bind my [Ab]wand'r[Eb]ing heart to Thee.
+Prone to wan[Ebmaj7]der, [Ab]Lord, I feel [Eb]it, Prone to [Cm]leave [Gm]the [Ab]God I [Eb]love;
+Here's my heart, O take and [Bb]seal it, [Eb]Seal it [Ab]for [Eb]Thy courts above.
 
 Verse 5
-O that day when freed from sinning, I shall see Thy lovely face;
-Cloth�d then in blood washed linen How I'll sing Thy sovereign grace;
-Come, my Lord, no longer tarry, Take my ransomed soul away;
-Send thine angels now to carry Me to realms of endless day.`
+[Eb]O that day when freed from [Bb]sinning, [Eb]I shall [Ab]see [Eb]Thy lovely face;
+Clothèd then in blood washed [Bb]linen [Eb]How I'll [Ab]sing [Eb]Thy sovereign grace;
+Come, my Lord, [Ebmaj7]no [Ab]longer tar[Eb]ry, Take my [Cm]ran[Gm]somed [Ab]soul a[Eb]way;
+Send thine angels now to [Bb]carry [Eb]Me to [Ab]realms [Eb]of endless day.`
   },
   {
     t: "Come, Your Heart and Voices Raising",
@@ -1114,29 +1114,29 @@ Send thine angels now to carry Me to realms of endless day.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Come, your hearts and voices raising, Christ the
-Lord with gladness praising; Loudly sing His
-love amazing, Worthy folk of Christendom.
+[F]Come, your [C]hearts [F]and [Bb]voices rais[C7]ing, [F]Christ the
+[Gm]Lord [C7]with [Dm]glad[G]ness [C]praising; [F]Loud[Bb]ly [F]sing [Bb]His
+love [C7]a[A]ma[Dm]zing, [Gm]Worthy [Am]folk [Dm]of [Gm7]Chris[C7]ten[F]dom.
 
 Verse 2
-Sin and death may well be groaning, Satan
-now may well be moaning; We, our full sal
-vation owning, Cast our every care away.
+[F]Sin and [C]death [F]may [Bb]well be groan[C7]ing, [F]Satan
+[Gm]now [C7]may [Dm]well [G]be [C]moaning; [F]We, [Bb]our [F]full [Bb]salva[C7]tion
+vation [A]own[Dm]ing, [Gm]Cast our [Am]ev[Dm]ery [Gm7]care [C7]a[F]way.
 
 Verse 3
-See how God, for us providing, Gave His
-Son and life abiding; He our weary
-steps is guiding From earth's woe to heav'nly joy.
+[F]See how [C]God, [F]for [Bb]us provi[C7]ding, [F]Gave His
+[Gm]Son [C7]and [Dm]life [G]a[C]biding; [F]He [Bb]our [F]wear[Bb]y
+steps [C7]is [A]gui[Dm]ding [Gm]From earth's [Am]woe [Dm]to [Gm7]heav'n[C7]ly [F]joy.
 
 Verse 4
-Christ, from heav'n to us descending And in
-love our race befriending, In our need His
-help extending, Saved us from the wily Foe.
+[F]Christ, from [C]heav'n [F]to [Bb]us descen[C7]ding [F]And in
+[Gm]love [C7]our [Dm]race [G]be[C]friending, [F]In [Bb]our [F]need [Bb]His
+help [C7]ex[A]ten[Dm]ding, [Gm]Saved us [Am]from [Dm]the [Gm7]wi[C7]ly [F]Foe.
 
 Verse 5
-Jacob's Star in all its splendor Beams with
-comfort sweet and tender, Forcing Satan
-to surrender, Breaking all the pow'rs of hell.`
+[F]Jacob's [C]Star [F]in [Bb]all its splen[C7]dor [F]Beams with
+[Gm]com[C7]fort [Dm]sweet [G]and [C]tender, [F]For[Bb]cing [F]Sa[Bb]tan
+to [C7]surr[A]en[Dm]der, [Gm]Breaking [Am]all [Dm]the [Gm7]pow'rs [C7]of [F]hell.`
   },
   {
     t: "Comfort, Comfort Ye My People",
@@ -1151,28 +1151,28 @@ to surrender, Breaking all the pow'rs of hell.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Comfort, comfort ye My people, Speak ye peace, thus saith our God;
-Comfort those who sit in darkness, Mourning 'neath their sorrow's load;
-Speak ye to Jerusalem Of the peace that waits for them;
-Tell her that her sins I cover, And her warfare now is over.
+[F]Com[C]fort, [F]comfort [Dm]ye My peo[Bb]ple, [Dm]Speak ye [F]peace, thus saith our [C7]God;
+[F]Comfort those who [Dm]sit in dark[Bb]ness, [Dm]Mourning [F]'neath their sorrow's [C7]load;
+[F]Speak ye to Jerusalem Of the [Bb]peace that waits for them;
+[F]Tell her [Gm]that her [Dm]sins I co[F]ver, And her [Bb]warfare [Gm]now is o[C7]ver.
 
 Verse 2
-For the herald's voice is crying In the desert far and near,
-Bidding all men to repentance, Since the kingdom now is here.
-O that warning cry obey! Now prepare for God a way!
-Let the valleys rise to meet Him, And the hills bow down to greet Him.
+[F]For [C]the [F]herald's [Dm]voice is cry[Bb]ing [Dm]In the [F]desert far and [C7]near,
+[F]Bidding all men [Dm]to repent[Bb]ance, [Dm]Since the [F]kingdom now is [C7]here.
+[F]O that warning cry obey! Now pre[Bb]pare for God a way!
+[F]Let the [Gm]valleys [Dm]rise to meet [F]Him, And the [Bb]hills bow [Gm]down to greet [C7]Him.
 
 Verse 3
-Yea, her sins our God will pardon, Blotting out each dark misdeed;
-All that well deserved His anger He will no more see nor heed.
-She has suffered many a day, Now her griefs have passed away,
-God will change her pining sadness Into ever springing gladness.
+[F]Yea, [C]her [F]sins our [Dm]God will par[Bb]don, [Dm]Blotting [F]out each dark mis[C7]deed;
+[F]All that well de[Dm]served His an[Bb]ger [Dm]He will [F]no more see nor [C7]heed.
+[F]She has suffered many a day, Now her [Bb]griefs have passed away,
+[F]God will [Gm]change her [Dm]pining sad[F]ness Into [Bb]ever [Gm]springing glad[C7]ness.
 
 Verse 4
-Make ye straight what long was crooked, Make the rougher places plain:
-Let your hearts be true and humble, As befits His holy reign,
-For the glory of the Lord O'er the earth is shed abroad,
-And all flesh shall see the token That His Word is never broken.`
+[F]Make [C]ye [F]straight what [Dm]long was crook[Bb]ed, [Dm]Make the [F]rougher places [C7]plain:
+[F]Let your hearts be [Dm]true and hum[Bb]ble, [Dm]As be[F]fits His holy [C7]reign,
+[F]For the glory of the Lord O'er the [Bb]earth is shed abroad,
+[F]And all [Gm]flesh shall [Dm]see the to[F]ken That His [Bb]Word is [Gm]never bro[C7]ken.`
   },
   {
     t: "Day of Wrath, O Day of Mourning",
@@ -1187,34 +1187,34 @@ And all flesh shall see the token That His Word is never broken.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Day of wrath, O day of mourning! See fulfilled the
-prophet's warning, Heav'n and earth in ashes burning.
-Oh, what fear man's bosom rendeth When from Heav'n the
-Judge descendeth On whose sentence all dependeth!
+[Dm]Day of wrath, [Em7]O [Dm]day [Gm]of [Dm]mourning! [Gm]See ful[Dm]filled the
+prophet's [A]warn[D]ing, [Gm]Heav'n [Em]and [A7]earth [Dm]in [A]ash[Dm]es burning.
+Oh, [Bb]what fear man's bo[F7]som [Eb]rend[Bb]eth When from Heav'n the
+Judge [F7]de[Bb]scendeth On whose [Dm]sentence all [Gm]de[Dm]pendeth!
 
 Verse 2
-Wondrous sound the trumpet flingeth, Through earth's sepul
-chers it ringeth, All before the throne it bringeth.
-Death is struck and nature quaking; All creation
-is awaking, To its Judge an answer making.
+[Dm]Wondrous sound [Em7]the [Dm]trum[Gm]pet [Dm]flingeth, [Gm]Through earth's [Dm]sepulchers
+chers it [A]ring[D]eth, [Gm]All [Em]be[A7]fore [Dm]the [A]throne [Dm]it bringeth.
+Death [Bb]is struck and na[F7]ture [Eb]qua[Bb]king; All creation
+is [F7]a[Bb]waking, To its [Dm]Judge an an[Gm]swer [Dm]making.
 
 Verse 3
-Lo, the book, exactly worded, Wherein all hath
-been recorded; Thence shall judgment be awarded.
-When the Judge His seat attaineth And each hidden
-deed arraigneth, Nothing unavenged remaineth.
+[Dm]Lo, the book, [Em7]ex[Dm]act[Gm]ly [Dm]worded, [Gm]Wherein [Dm]all hath
+been re[A]cord[D]ed; [Gm]Thence [Em]shall [A7]judg[Dm]ment [A]be [Dm]awarded.
+When [Bb]the Judge His seat [F7]at[Eb]tain[Bb]eth And each hidden
+deed [F7]ar[Bb]raigneth, Nothing [Dm]unavenged [Gm]re[Dm]maineth.
 
 Verse 4
-What shall I, frail man, be pleading? Who for me be
-interceding When the just are mercy needing?
-King of majesty tremendous, Who dost free sal
-vation send us, Fount of pity, then befriend us.
+[Dm]What shall I, [Em7]frail [Dm]man, [Gm]be [Dm]pleading? [Gm]Who for [Dm]me be
+inter[A]ced[D]ing [Gm]When [Em]the [A7]just [Dm]are [A]mer[Dm]cy needing?
+King [Bb]of majesty [F7]tre[Eb]men[Bb]dous, Who dost free salva[F7]tion
+vation [Bb]send us, Fount of [Dm]pity, then [Gm]be[Dm]friend us.
 
 Verse 5
-Think, good Jesus, my salvation Caused Thy wondrous
-incarnation; Leave me not to reprobation!
-Faint and weary Thou hast sought me, On the cross of
-suff'ring bought me; Shall such grace be vainly brought me?`
+[Dm]Think, good Je[Em7]sus, [Dm]my [Gm]sal[Dm]vation [Gm]Caused Thy [Dm]wondrous
+incar[A]na[D]tion; [Gm]Leave [Em]me [A7]not [Dm]to [A]re[Dm]probation!
+Faint [Bb]and weary Thou [F7]hast [Eb]sought [Bb]me, On the cross of
+suff[F7]'ring [Bb]bought me; Shall such [Dm]grace be vain[Gm]ly [Dm]brought me?`
   },
   {
     t: "Dear Christians, One and All Rejoice",
@@ -1229,34 +1229,34 @@ suff'ring bought me; Shall such grace be vainly brought me?`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Dear Christians, one and all rejoice, With exultation springing,
-And with united heart and voice And holy rapture singing,
-Proclaim the wonders God hath done, How his right arm the
-vict'ry won; Right dearly it hath cost him.
+[G]Dear [C]Christ[G]ians, [D]one [Em]and [Am]all [D]re[G]joice, [Em]With [G]ex[C]ul[D]ta[G]tion springing,
+And [C]with [G]u[D]ni[Em]ted [Am]heart [D]and [G]voice [Em]And [G]ho[C]ly [D]rap[G]ture singing,
+Pro[Em]claim [G]the [C]won[D]ders [Em]God [C]hath [G]done, How his [C]right [G]arm [D]the
+[Em]vic[Am]t'ry [B]won; [Em]Right [G]dear[Am]ly [D]it [G]hath [D]cost [G]him.
 
 Verse 2
-Fast bound in Satan's chains I lay. Death brooded darkly o'er me;
-Sin was my torment night and day, Therein my mother bore me.
-Deeper and deeper still I fell, Life was become a
-living hell, So firmly sin possessed me.
+[G]Fast [C]bound [G]in [D]Sa[Em]tan's [Am]chains [D]I [G]lay. [Em]Death [G]brood[C]ed [D]dark[G]ly o'er me;
+Sin [C]was [G]my [D]tor[Em]ment [Am]night [D]and [G]day, [Em]There[G]in [C]my [D]mo[G]ther bore me.
+Deep[Em]er [G]and [C]deep[D]er [Em]still [C]I [G]fell, Life was [C]be[G]come [D]a
+[Em]li[Am]ving [B]hell, [Em]So [G]firm[Am]ly [D]sin [G]po[D]ssessed [G]me.
 
 Verse 3
-My good works could avail me naught, For they with sin were stain�d;
-Freewill against God's judgment fought, And dead to good remain�d.
-Grief drove me to despair, and I Had nothing left me
-but to die, To hell I fast was sinking.
+[G]My [C]good [G]works [D]could [Em]a[Am]vail [D]me [G]naught, [Em]For [G]they [C]with [D]sin [G]were stainéd;
+Free[C]will [G]a[D]gainst [Em]God's [Am]judg[D]ment [G]fought, [Em]And [G]dead [C]to [D]good [G]remainéd.
+Grief [Em]drove [G]me [C]to [D]des[Em]pair, [C]and [G]I Had no[C]thing [G]left [D]me
+[Em]but [Am]to [B]die, [Em]To [G]hell [Am]I [D]fast [G]was [D]sink[G]ing.
 
 Verse 4
-God saw, in his eternal grace, My sorrow out of measure;
-He thought upon his tenderness To save was his good pleasure.
-He turn'd to me a Father's heartNot small the cost to
-heal my smart He gave his best and dearest.
+[G]God [C]saw, [G]in [D]his [Em]e[Am]ter[D]nal [G]grace, [Em]My [G]sor[C]row [D]out [G]of measure;
+He [C]thought [G]u[D]pon [Em]his [Am]ten[D]der[G]ness [Em]To [G]save [C]was [D]his [G]good pleasure.
+He [Em]turn'd [G]to [C]me [D]a [Em]Fa[C]ther's [G]heart-Not small [C]the [G]cost [D]to
+[Em]heal [Am]my [B]smart [Em]He [G]gave [Am]his [D]best [G]and [D]dear[G]est.
 
 Verse 5
-He spake to his beloved Son: 'Tis time to take compassion;
-Then go, bright jewel of my crown, And bring to man salvation;
-From sin and sorrow set him free, Slay bitter death for
-him, that he May live with thee forever.`
+[G]He [C]spake [G]to [D]his [Em]be[Am]lov[D]ed [G]Son: [Em]'Tis [G]time [C]to [D]take [G]compassion;
+Then [C]go, [G]bright [D]je[Em]wel [Am]of [D]my [G]crown, [Em]And [G]bring [C]to [D]man [G]salvation;
+From [Em]sin [G]and [C]sor[D]row [Em]set [C]him [G]free, Slay bit[C]ter [G]death [D]for
+[Em]him, [Am]that [B]he [Em]May [G]live [Am]with [D]thee [G]for[D]ev[G]er.`
   },
   {
     t: "Despair Not, O Heart",
@@ -1308,24 +1308,24 @@ showers, Will spring into fruitage and flowers;`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Ev'ry morning mercies new Fall as fresh as morning dew;
-Ev'ry morning let us pay Tribute with the early day:
-For Thy mercies, Lord, are sure; Thy compassion doth endure.
+[Bb]Ev[Eb]'ry [Bb]morn[Eb]ing [Bb]mercies new Fall [Eb]as [Bb]fresh as morning [F]dew;
+[Bb]Ev'ry [Eb]morning [D]let us [Gm]pay [C]Tribute [Dm]with the [Gm]ear[C7]ly [F]day:
+[F7]For Thy [Bb]mer[Gm]cies, [D]Lord, are [Gm]sure; Thy com[Bb]passion [G7]doth en[Bb]dure.
 
 Verse 2
-Still the greatness of Thy love Daily doth our sins remove;
-Daily, far as east from west, Lifts the burden from the breast;
-Gives unbought to those who pray Strength to stand in evil day.
+[Bb]Still [Eb]the [Bb]great[Eb]ness [Bb]of Thy love Dai[Eb]ly [Bb]doth our sins re[F]move;
+[Bb]Daily, [Eb]far as [D]east from [Gm]west, [C]Lifts the [Dm]burden [Gm]from [C7]the [F]breast;
+[F7]Gives un[Bb]bought [Gm]to [D]those who [Gm]pray Strength to [Bb]stand in [G7]evil [Bb]day.
 
 Verse 3
-Let our prayers each morn prevail, That these gifts may never fail;
-And, as we confess the sin And the tempter's pow'r within,
-Feed us with the Bread of Life, Fit us for our daily strife.
+[Bb]Let [Eb]our [Bb]prayers [Eb]each [Bb]morn prevail, That [Eb]these [Bb]gifts may never [F]fail;
+[Bb]And, as [Eb]we con[D]fess the [Gm]sin [C]And the [Dm]tempter's [Gm]pow'r [C7]with[F]in,
+[F7]Feed us [Bb]with [Gm]the [D]Bread of [Gm]Life, Fit us [Bb]for our [G7]daily [Bb]strife.
 
 Verse 4
-As the morning light returns, As the sun with splendor burns,
-Teach us still to turn to Thee, Ever blessed Trinity,
-With our hands our hearts to raise, In unfailing prayer and praise.`
+[Bb]As [Eb]the [Bb]morn[Eb]ing [Bb]light returns, As [Eb]the [Bb]sun with splendor [F]burns,
+[Bb]Teach us [Eb]still to [D]turn to [Gm]Thee, [C]Ever [Dm]blessed [Gm]Tri[C7]ni[F]ty,
+[F7]With our [Bb]hands [Gm]our [D]hearts to [Gm]raise, In un[Bb]failing [G7]prayer and [Bb]praise.`
   },
   {
     t: "Far, Far Away On Judea's Plains",
@@ -1340,23 +1340,23 @@ With our hands our hearts to raise, In unfailing prayer and praise.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Far, far away on Judea's plains, Shepherds of old heard the
-joyous strains: Glory to God, glory to God, Glory to God in the
+[F]Far, far away on Ju[Am]dea's [F]plains, [C]Shepherds of [C7]old [F]heard the
+[Bb]joy[Gm]ous [F]strains: Glory to God, [C]glory to [F]God, [Bb]Glory to [F]God [Bb]in the
 
 Verse 2
-Sweet are these strains of redeeming love, Message of mercy from
-heaven above:
+[F]Sweet are these strains of re[Am]deeming [F]love, [C]Message of [C7]mer[F]cy from
+[Bb]hea[Gm]ven a[F]bove:
 
 Verse 3
-Lord, with the angels we too would rejoice; Help us to sing with the
-heart and voice:
+[F]Lord, with the angels we [Am]too would re[F]joice; [C]Help us to [C7]sing [F]with the
+[Bb]heart [Gm]and [F]voice:
 
 Verse 4
-Hasten the time when, from every clime, Men shall unite in the
-strains sublime:
+[F]Hasten the time when, from [Am]every [F]clime, [C]Men shall u[C7]nite [F]in the
+[Bb]strains [Gm]sub[F]lime:
 
 Chorus
-highest; Peace on earth, good will to men; Peace on earth, good will to men.`
+[Gm]high[C]est; [F]Peace on [Bb]earth, [F]good will [C]to [F]men; [C]Peace on [F]earth, good will [C]to [F]men.`
   },
   {
     t: "Fear Not, O Little Flock",
@@ -1371,28 +1371,28 @@ highest; Peace on earth, good will to men; Peace on earth, good will to men.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Fear not, O little flock, the foe Who madly seeks
-your overthrow; Dread not his rage and pow'r;
-What though your courage sometimes faints, His seeming triumph
-o'er God's saints Lasts but one little hour.
+[Gm]Fear not, [Cm]O [Bb]lit[F]tle [Dm]flock, [Gm]the [D]foe [Gm]Who [Eb]mad[D]ly [Bb]seeks
+your [F]ov[Gm]er[D]throw; [Dm]Dread [Cm]not [Bb]his [F]rage [Bb]and pow'r;
+[Dm]What [Gm]though [F]your [Bb]courage [F]some[Gm]times [D]faints, [Gm]His [Eb]seem[D]ing [Bb]triumph
+[F]o'er [Gm]God's [D]saints [Eb]Lasts [Bb]but [F]one [Gm]lit[Cm]tle [D]hour.
 
 Verse 2
-Be of good cheer; your cause belongs To Him who can
-avenge your wrongs; Leave it to Him our Lord.
-Though hidden yet from all our eyes, He sees the Gideon
-who shall rise; To save us, and His word.
+[Gm]Be of [Cm]good [Bb]cheer; [F]your [Dm]cause [Gm]be[D]longs [Gm]To [Eb]Him [D]who [Bb]can
+a[F]venge [Gm]your [D]wrongs; [Dm]Leave [Cm]it [Bb]to [F]Him [Bb]our Lord.
+[Dm]Though [Gm]hid[F]den [Bb]yet from [F]all [Gm]our [D]eyes, [Gm]He [Eb]sees [D]the [Bb]Gideon
+[F]who [Gm]shall [D]rise; [Eb]To [Bb]save [F]us, [Gm]and [Cm]His [D]word.
 
 Verse 3
-As true as God's own word is true, Not earth nor hell
-with all their crew Against us shall prevail.
-A jest and byword are they grown; God is with us, we
-are His own, Our vict'ry cannot fail.
+[Gm]As true [Cm]as [Bb]God's [F]own [Dm]word [Gm]is [D]true, [Gm]Not [Eb]earth [D]nor [Bb]hell
+with [F]all [Gm]their [D]crew [Dm]A[Cm]gainst [Bb]us [F]shall [Bb]prevail.
+[Dm]A [Gm]jest [F]and [Bb]by-word [F]are [Gm]they [D]grown; [Gm]God [Eb]is [D]with [Bb]us, we
+[F]are [Gm]His [D]own, [Eb]Our [Bb]vic[F]t'ry [Gm]can[Cm]not [D]fail.
 
 Verse 4
-Amen, Lord Jesus, grant our prayer! Great Captain, now
-Thine arm make bare; Fight for us once again.
-So shall thy saints and martyrs raise A mighty chorus
-to Thy praise, World without end. Amen.`
+[Gm]Amen, [Cm]Lord [Bb]Je[F]sus, [Dm]grant [Gm]our [D]prayer! [Gm]Great [Eb]Cap[D]tain, [Bb]now
+Thine [F]arm [Gm]make [D]bare; [Dm]Fight [Cm]for [Bb]us [F]once [Bb]again.
+[Dm]So [Gm]shall [F]thy [Bb]saints and [F]mar[Gm]tyrs [D]raise [Gm]A [Eb]might[D]y [Bb]chorus
+[F]to [Gm]Thy [D]praise, [Eb]World [Bb]with[F]out [Gm]end. [Cm]A[D]men.`
   },
   {
     t: "From Heaven Above To Earth I Come",
@@ -1407,24 +1407,24 @@ to Thy praise, World without end. Amen.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-From Heaven above to earth I come, To bear good news to every home;
-Glad tidings of great joy I bring, Whereof I now will say and sing.
+[D]From [A]Heaven [E]a[A]bove [D]to [G]earth I [D]come, To [Bm]bear [F#m]good [A]news [D]to ev[Em]ery [Bm7]home;
+Glad [Bm]ti[G]dings [A]of great [Bm]joy [E]I [A]bring, Where[F#m]of [G]I [D]now [A]will [G]say and [D]sing.
 
 Verse 2
-To you, this night, is born a Child Of Mary, chosen mother mild;
-This tender Child of lowly birth, Shall be the joy of all your earth.
+[D]To [A]you, [E]this [A]night, [D]is [G]born a [D]Child Of [Bm]Ma[F#m]ry, [A]cho[D]sen mo[Em]ther [Bm7]mild;
+This [Bm]ten[G]der [A]Child of [Bm]low[E]ly [A]birth, Shall [F#m]be [G]the [D]joy [A]of [G]all your [D]earth.
 
 Verse 3
-'Tis Christ our God, Who far on high Had heard your sad and bitter cry;
-Himself will your Salvation be, Himself from sin will make you free.
+[D]'Tis [A]Christ [E]our [A]God, [D]Who [G]far on [D]high Had [Bm]heard [F#m]your [A]sad [D]and bit[Em]ter [Bm7]cry;
+Him[Bm]self [G]will [A]your Sal[Bm]va[E]tion [A]be, Him[F#m]self [G]from [D]sin [A]will [G]make you [D]free.
 
 Verse 4
-He brings those blessings long ago Prepared by God for all below;
-That in His heavenly kingdom blest You may with us forever rest.
+[D]He [A]brings [E]those [A]bless[D]ings [G]long a[D]go Pre[Bm]pared [F#m]by [A]God [D]for all [Em]be[Bm7]low;
+That [Bm]in [G]His [A]heavenly [Bm]king[E]dom [A]blest You [F#m]may [G]with [D]us [A]for[G]ever [D]rest.
 
 Verse 5
-These are the tokens ye shall mark, The swaddling clothes and manger dark;
-There shall ye find the young Child laid, By Whom the heav'ns and earth were made.`
+[D]These [A]are [E]the [A]to[D]kens [G]ye shall [D]mark, The [Bm]swadd[F#m]ling [A]clothes [D]and man[Em]ger [Bm7]dark;
+There [Bm]shall [G]ye [A]find the [Bm]young [E]Child [A]laid, By [F#m]Whom [G]the [D]heav'ns [A]and [G]earth were [D]made.`
   },
   {
     t: "From Nazareth",
@@ -1439,29 +1439,29 @@ There shall ye find the young Child laid, By Whom the heav'ns and earth were mad
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Comes any good from Nazareth? The scornful
-challenge as of old Is flung on many'a
-jeering breath From cloistered cells and marts of gold.
+[D]Comes [Bm]a[A]ny [D]good [G]from [D]Na[A]za[D]reth? [G]The [D]scornful
+[A]challenge [D]as [G]of [D]old [A]Is [Bm]flung [E7]on [A]man[D]y'a
+[G]jeering [D]breath [Em]From [A]cloi[D]stered [A]cells [D]and [G]marts [A]of [D]gold.
 
 Verse 2
-Comes any good from Nazareth? Behold, the
-mighty Nazarene, The Lord of life, the
-Lord of death, Through warring ages walks serene.
+[D]Comes [Bm]a[A]ny [D]good [G]from [D]Na[A]za[D]reth? [G]Be[D]hold, the
+[A]mighty [D]Na[G]za[D]rene, [A]The [Bm]Lord [E7]of [A]life, [D]the
+[G]Lord of [D]death, [Em]Through [A]warr[D]ing [A]a[D]ges [G]walks [A]se[D]rene.
 
 Verse 3
-One touch upon His garment's fringe Still heals the
-hurt of bitter years. Before Him yet the
-demons cringe, He gives the wine of joy for tears.
+[D]One [Bm]touch [A]u[D]pon [G]His [D]gar[A]ment's [D]fringe [G]Still [D]heals the
+[A]hurt of [D]bit[G]ter [D]years. [A]Be[Bm]fore [E7]Him [A]yet [D]the
+[G]demons [D]cringe, [Em]He [A]gives [D]the [A]wine [D]of [G]joy [A]for [D]tears.
 
 Verse 4
-O city of the Carpenter, Upon the
-hill slope old and gray, The world among its
-pain and stir Turns yearning eyes on thee today.
+[D]O [Bm]ci[A]ty [D]of [G]the [D]Car[A]pen[D]ter, [G]U[D]pon the
+[A]hill slope [D]old [G]and [D]gray, [A]The [Bm]world [E7]a[A]mong [D]its
+[G]pain and [D]stir [Em]Turns [A]yearn[D]ing [A]eyes [D]on [G]thee [A]to[D]day.
 
 Verse 5
-For He who dwelt in Nazareth, And wrought with
-toil of hand and brain, Alone gives victor
-y to faith Until the day He come again.`
+[D]For [Bm]He [A]who [D]dwelt [G]in [D]Na[A]za[D]reth, [G]And [D]wrought with
+[A]toil of [D]hand [G]and [D]brain, [A]A[Bm]lone [E7]gives [A]vic[D]tor[G]y
+y to [D]faith [Em]Un[A]til [D]the [A]day [D]He [G]come [A]a[D]gain.`
   },
   {
     t: "Gabriel's Message",
@@ -1476,27 +1476,27 @@ y to faith Until the day He come again.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-The angel Gabriel from heaven came,
-his wings as drifted snow, his eyes as flame;
-"All hail," said he, "thou lowly maiden, Mary,
+[E]The [Am]angel Gabriel from heaven came,
+[Em7]his [Am]wings as [Bm7]drift[Dm]ed [Am]snow, his eyes [Em]as [Am]flame;
+[C]"All hail," [G7]said [C]he, "thou lowly maiden, [Dm]Mary,
 
 Verse 2
-"For know a blessed Mother thou shalt be,
-all generations laud and honor thee,
-thy Son shall be Emmanuel, by seers foretold,
+[E]"For [Am]know a blessed Mother thou shalt be,
+[Em7]all [Am]gener[Bm7]a[Dm]tions [Am]laud and ho[Em]nor [Am]thee,
+[C]thy Son [G7]shall [C]be Emmanuel, by [Dm]seers [D7]foretold,
 
 Verse 3
-Then gentle Mary meekly bowed her head,
-"To me be as it pleaseth God," she said,
-"my soul shall laud and magnify His holy Name."
+[E]Then [Am]gentle Mary meekly bowed her head,
+[Em7]"To [Am]me be [Bm7]as [Dm]it [Am]pleaseth God," [Em]she [Am]said,
+[C]"my soul [G7]shall [C]laud and magnify His [Dm]ho[D7]ly Name."
 
 Verse 4
-Of her, Emmanuel, the Christ was born
-in Bethlehem, all on a Christmas morn,
-and Christian folk throughout the world will ever say
+[E]Of [Am]her, Emmanuel, the Christ was born
+[Em7]in [Am]Bethle[Bm7]hem, [Dm]all [Am]on a Christ[Em]mas [Am]morn,
+[C]and Christ[G7]ian [C]folk throughout the world will [Dm]ev[D7]er say
 
 Chorus
-most highly favored lady," Gloria!`
+[C]most [Dm]high[Dm7]ly fa[Dm]vored la[E7]dy," [F]Glo[Em]ri[Am]a!`
   },
   {
     t: "Gentle Mary Laid Her Child",
@@ -1511,22 +1511,22 @@ most highly favored lady," Gloria!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Gentle Mary laid her Child lowly in a manger;
-There He lay, the undefiled, to the world a Stranger:
-Such a Babe in such a place, can He be the Savior?
-Ask the saved of all the race who have found His favor.
+[A]Gentle [F#m]Ma[E]ry [A]laid [D]her [E]Child [D]low[A]ly [D]in a [A]manger;
+There He [F#m]lay, [E]the [A]un[D]de[E]filed, [D]to [A]the [D]world a [A]Stranger:
+Such [D]a [A]Babe [E]in [A]such [E]a [F#m]place, [D]can [A]He [D]be the [A]Savior?
+Ask the [D]saved [A]of [F#m]all the [E]race [A]who [D]have [A]found [E]His [F#m]fa[A]vor.
 
 Verse 2
-Angels sang about His birth; wise men sought and found Him;
-Heaven's star shone brightly forth, glory all around Him:
-Shepherds saw the wondrous sight, heard the angels singing;
-All the plains were lit that night, all the hills were ringing.
+[A]Angels [F#m]sang [E]a[A]bout [D]His [E]birth; [D]wise [A]men [D]sought and [A]found Him;
+Heaven's [F#m]star [E]shone [A]bright[D]ly [E]forth, [D]glo[A]ry [D]all a[A]round Him:
+Shep[D]herds [A]saw [E]the [A]won[E]drous [F#m]sight, [D]heard [A]the [D]angels [A]singing;
+All the [D]plains [A]were [F#m]lit that [E]night, [A]all [D]the [A]hills [E]were [F#m]ring[A]ing.
 
 Verse 3
-Gentle Mary laid her Child lowly in a manger;
-He is still the undefiled, but no more a stranger:
-Son of God, of humble birth, beautiful the story;
-Praise His Name in all the earth, hail the King of glory!`
+[A]Gentle [F#m]Ma[E]ry [A]laid [D]her [E]Child [D]low[A]ly [D]in a [A]manger;
+He is [F#m]still [E]the [A]un[D]de[E]filed, [D]but [A]no [D]more a [A]stranger:
+Son [D]of [A]God, [E]of [A]hum[E]ble [F#m]birth, [D]beau[A]ti[D]ful the [A]story;
+Praise His [D]Name [A]in [F#m]all the [E]earth, [A]hail [D]the [A]King [E]of [F#m]glo[A]ry!`
   },
   {
     t: "Glorious Things of Thee are Spoken",
@@ -1541,28 +1541,28 @@ Praise His Name in all the earth, hail the King of glory!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Glorious things of thee are spoken, Zion city of our God;
-He, Whose Word cannot be broken Formed thee for His Own abode:
-On the Rock of Ages founded, What can shake thy sure repose?
-With salvation's walls surrounded, Thou mayst smile at all thy foes.
+[F]Glorious things [C]of [C7]thee [F]are [C7]spo[F]ken, [Bb]Zi[F]on [C7]ci[F]ty [Gm]of our [C]God;
+[Dm]He, Whose [F]Word [C]can[C7]not [F]be [C7]bro[F]ken [Bb]Formed [F]thee [Gm]for [F]His [Gm]Own a[C]bode:
+On [F]the [C]Rock of A[F]ges [C]founded, [Am]What [Gm]can [Dm]shake thy [G7]sure re[C]pose?
+[F]With sal[Bb]va[F]tion's [Bb]walls sur[Dm7]round[F]ed, [C7]Thou mayst [F]smile [Bb]at [F]all thy foes.
 
 Verse 2
-See, the streams of living waters, Springing from Eternal Love,
-Well supply thy sons and daughters, And all fear of want remove:
-Who can faint, while such a river Ever will their thirst assuage?
-Grace, which, like the Lord the Giver, Never fails from age to age.
+[F]See, the streams [C]of [C7]liv[F]ing [C7]wa[F]ters, [Bb]Spring[F]ing [C7]from [F]E[Gm]ternal [C]Love,
+[Dm]Well supp[F]ly [C]thy [C7]sons [F]and [C7]daugh[F]ters, [Bb]And [F]all [Gm]fear [F]of [Gm]want re[C]move:
+Who [F]can [C]faint, while such [F]a [C]river [Am]Ev[Gm]er [Dm]will their [G7]thirst as[C]suage?
+[F]Grace, which, [Bb]like [F]the [Bb]Lord the [Dm7]Giv[F]er, [C7]Never [F]fails [Bb]from [F]age to age.
 
 Verse 3
-Round each habitation hov'ring, See the cloud and fire appear,
-For a glory and a cov'ring: Showing that the Lord is near.
-Thus deriving from their banner Light by night, and shade by day,
-Safe they feed upon the manna, Which He gives them on their way.
+[F]Round each hab[C]i[C7]ta[F]tion [C7]ho[F]v'ring, [Bb]See [F]the [C7]cloud [F]and [Gm]fire ap[C]pear,
+[Dm]For a [F]glo[C]ry [C7]and [F]a [C7]co[F]v'ring: [Bb]Show[F]ing [Gm]that [F]the [Gm]Lord is [C]near.
+Thus [F]de[C]riving from [F]their [C]banner [Am]Light [Gm]by [Dm]night, and [G7]shade by [C]day,
+[F]Safe they [Bb]feed [F]up[Bb]on the [Dm7]man[F]na, [C7]Which He [F]gives [Bb]them [F]on their way.
 
 Verse 4
-Savior, if of Zion's city I, through grace, a member am,
-Let the world deride or pity, I will glory in Thy Name:
-Fading is the worldling's pleasure, All his boasted pomp and show:
-Solid joys and lasting treasure None but Zion's children know.`
+[F]Savior, if [C]of [C7]Zi[F]on's [C7]ci[F]ty [Bb]I, [F]through [C7]grace, [F]a [Gm]member [C]am,
+[Dm]Let the [F]world [C]de[C7]ride [F]or [C7]pi[F]ty, [Bb]I [F]will [Gm]glo[F]ry [Gm]in Thy [C]Name:
+Fa[F]ding [C]is the world[F]ling's [C]pleasure, [Am]All [Gm]his [Dm]boasted [G7]pomp and [C]show:
+[F]Solid [Bb]joys [F]and [Bb]lasting [Dm7]trea[F]sure [C7]None but [F]Zi[Bb]on's [F]children know.`
   },
   {
     t: "God Himself is Present",
@@ -1577,22 +1577,22 @@ Solid joys and lasting treasure None but Zion's children know.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-God Himself is present: Let us now adore Him, And with awe ap-
-pear before Him. God is in His temple, all within keep
-silence, Prostrate lie with deepest reverence. Him alone
-God we own, Him our God and Savior; Praise His name forever.
+[G]God Himself is pre[D]sent: [Em]Let us now adore [B]Him, [C]And with [G]awe [Em]ap[D]pear
+pear [G]before Him. God is in His tem[D]ple, [Em]all within keep
+si[B]lence, [C]Prostrate [G]lie [Em]with [D]deep[G]est reverence. Him a[C]lone
+[D]God we [G]own, [D]Him [G]our [C]God [G]and Savior; Praise His [Am]name [G]for[Am7]ev[G]er.
 
 Verse 2
-God Himself is present: Hear the harps resounding! See the crowds the
-throne surrounding! "Holy, holy, holy", hear the hymn as
-cending, Angels, saints, their voices blending! Bow Thine ear
-to us here: Hear, O Christ, the praises That Thy Church now raises.
+[G]God Himself is pre[D]sent: [Em]Hear the harps resound[B]ing! [C]See the [G]crowds [Em]the
+[D]throne [G]surrounding! "Holy, holy, ho[D]ly", [Em]hear the hymn ascend[B]ing,
+cending, [C]Angels, [G]saints, [Em]their [D]voi[G]ces blending! Bow Thine [C]ear
+[D]to us [G]here: [D]Hear, [G]O [C]Christ, [G]the praises That Thy [Am]Church [G]now [Am7]rai[G]ses.
 
 Verse 3
-O Thou fount of blessing, Purify my spirit; Trusting only
-in Thy merit, Like the holy angels Who behold Thy
-glory, May I ceaselessly adore Thee, Let Thy will
-Ever still Rule Thy Church terrestrial, As the hosts celestial.`
+[G]O Thou fount of bless[D]ing, [Em]Purify my spi[B]rit; [C]Trusting [G]on[Em]ly
+[D]in [G]Thy merit, Like the holy an[D]gels [Em]Who behold Thy
+glo[B]ry, [C]May I [G]cease[Em]less[D]ly [G]adore Thee, Let Thy [C]will
+[D]Ever [G]still [D]Rule [G]Thy [C]Church [G]terrestrial, As the [Am]hosts [G]ce[Am7]les[G]tial.`
   },
   {
     t: "God, That Madest Earth and Heaven",
@@ -1607,22 +1607,22 @@ Ever still Rule Thy Church terrestrial, As the hosts celestial.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-God, that madest earth and Heaven, darkness and light;
-Who the day for toil hast given, for rest the night;
-May Thine angel guards defend us, Slumber sweet Thy mercy send us;
-Holy dreams and hopes attend us, all through the night.
+[G]God, that [C]ma[G]dest [Am]earth and [D]Hea[Bm]ven, darkness [D7]and [G]light;
+Who the [C]day [G]for [Am]toil hast [D]giv[Bm]en, for rest [D7]the [G]night;
+[C]May [G]Thine [C]an[G]gel [C]guards [Dm]de[C]fend [G]us, [Am]Slum[G]ber [Am]sweet [Em]Thy mercy send [D]us;
+[G]Holy [C]dreams [G]and [Am]hopes at[D]tend [Bm]us, all through [D7]the [G]night.
 
 Verse 2
-And when morn again shall call us, to run life's way,
-May we still, whate'er befall us, Thy will obey.
-From the pow'r of evil hide us, In the narrow pathway guide us,
-Nor Thy smile be e'er denied us all through the day.
+[G]And when [C]morn [G]a[Am]gain shall [D]call [Bm]us, to run [D7]life's [G]way,
+May we [C]still, [G]what[Am]e'er be[D]fall [Bm]us, Thy will [D7]o[G]bey.
+[C]From [G]the [C]pow'r [G]of [C]e[Dm]vil [C]hide [G]us, [Am]In [G]the [Am]nar[Em]row pathway guide [D]us,
+[G]Nor Thy [C]smile [G]be [Am]e'er de[D]nied [Bm]us all through [D7]the [G]day.
 
 Verse 3
-Guard us waking, guard us sleeping, and when we die,
-May we in Thy mighty keeping all peaceful lie;
-When the last dread call shall wake us, Do not Thou, our God, forsake us,
-But to reign in glory take us with Thee on high.`
+[G]Guard us [C]wa[G]king, [Am]guard us [D]sleep[Bm]ing, and when [D7]we [G]die,
+May we [C]in [G]Thy [Am]mighty [D]keep[Bm]ing all peace[D7]ful [G]lie;
+[C]When [G]the [C]last [G]dread [C]call [Dm]shall [C]wake [G]us, [Am]Do [G]not [Am]Thou, [Em]our God, forsake [D]us,
+[G]But to [C]reign [G]in [Am]glory [D]take [Bm]us with Thee [D7]on [G]high.`
   },
   {
     t: "God the Father Be Our Stay",
@@ -1668,24 +1668,24 @@ Amen, Amen, this be done, So sing we, Hallelujah!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-God, whose almighty word Chaos and darkness heard
-And took their flight: Hear us, we humble pray, And where the
-Gospel day Sheds not its glorious ray, Let there be light!
+[G]God, whose al[Am]might[D]y [G]word Cha[D]os [G]and [D7]dark[G]ness [D]heard
+And [B]took [G]their [D]flight: Hear [G]us, [D7]we [G]humble pray, [D]And [G]where [D7]the
+[G]Gospel day Sheds [B]not [D]its [G]glorious ray, [Am]Let [G]there [D7]be [G]light!
 
 Verse 2
-Lord, who once came to bring, On your redeeming wing,
-Healing and sight, Health to the sick in mind, Sight to the
-inly blind: Oh, now to humankind Let there be light!
+[G]Lord, who once [Am]came [D]to [G]bring, On [D]your [G]re[D7]deem[G]ing [D]wing,
+Heal[B]ing [G]and [D]sight, Health [G]to [D7]the [G]sick in mind, [D]Sight [G]to [D7]the
+[G]inly blind: Oh, [B]now [D]to [G]humankind [Am]Let [G]there [D7]be [G]light!
 
 Verse 3
-Spirit of truth and love, Life giving, holy dove,
-Speed forth your flight; Move on the water's face, Bearing the
-lamp of grace, And in earth's darkest place Let there be light!
+[G]Spirit of [Am]truth [D]and [G]love, Life [D]giv[G]ing, [D7]ho[G]ly [D]dove,
+Speed [B]forth [G]your [D]flight; Move [G]on [D7]the [G]water's face, [D]Bear[G]ing [D7]the
+[G]lamp of grace, And [B]in [D]earth's [G]darkest place [Am]Let [G]there [D7]be [G]light!
 
 Verse 4
-Holy and blessed three, Glorious Trinity,
-Wisdom, love, might! Boundless as ocean's tide, Rolling in
-fullest pride, Through the earth, far and wide, Let there be light!`
+[G]Holy and [Am]bless[D]ed [G]three, Glo[D]ri[G]ous [D7]Tri[G]ni[D]ty,
+Wis[B]dom, [G]love, [D]might! Bound[G]less [D7]as [G]ocean's tide, [D]Rol[G]ling [D7]in
+[G]fullest pride, Through [B]the [D]earth, [G]far and wide, [Am]Let [G]there [D7]be [G]light!`
   },
   {
     t: "God Will Take Care of You",
@@ -1700,24 +1700,24 @@ fullest pride, Through the earth, far and wide, Let there be light!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Be not dismayed whate'er betide, God will take care of you;
-Beneath His wings of love abide, God will take care of you.
+[Bb]Be not dismayed whate'er betide, [F7]God will take care of [Bb]you;
+Beneath His wings of love abide, [F7]God will take care of [Bb]you.
 
 Verse 2
-Through days of toil when heart doth fail, God will take care of you;
-When dangers fierce your path assail, God will take care of you.
+[Bb]Through days of toil when heart doth fail, [F7]God will take care of [Bb]you;
+When dangers fierce your path assail, [F7]God will take care of [Bb]you.
 
 Verse 3
-All you may need He will provide, God will take care of you;
-Nothing you ask will be denied, God will take care of you.
+[Bb]All you may need He will provide, [F7]God will take care of [Bb]you;
+Nothing you ask will be denied, [F7]God will take care of [Bb]you.
 
 Verse 4
-No matter what may be the test, God will take care of you;
-Lean, weary one, upon His breast, God will take care of you.
+[Bb]No matter what may be the test, [F7]God will take care of [Bb]you;
+Lean, weary one, upon His breast, [F7]God will take care of [Bb]you.
 
 Chorus
-God will take care of you, through ev'ry day, o'er all the way;
-He will take care of you, God will take care of you.`
+[Eb]God will take care of [Bb]you, [Dm]through ev'ry [F7]day, o'er all the [Bb]way;
+He will take [Cm]care of [D]you, [Cm]God will take [Dm]care of [Bb]you.`
   },
   {
     t: "Bonus Carol: Good King Wenceslas",
@@ -1732,34 +1732,34 @@ He will take care of you, God will take care of you.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Good King Wenceslas looked out on the Feast of Stephen,
-When the snow lay round about, deep and crisp and even.
-Brightly shone the moon that night, though the frost was cruel,
-When a poor man came in sight, gath'ring winter fuel.
+[A]Good King [F#m]Wen[E]ce[A]slas [D]looked [E]out [D]on [A]the [D]Feast of [A]Stephen,
+When the [F#m]snow [E]lay [A]round [D]a[E]bout, [D]deep [A]and [D]crisp and [A]even.
+Bright[D]ly [A]shone [E]the [A]moon [E]that [F#m]night, [D]though [A]the [D]frost was [A]cruel,
+When a [D]poor [A]man [F#m]came in [E]sight, [A]gath'r[D]ing [A]win[E]ter [F#m]fu[A]el.
 
 Verse 2
-"Hither, page, and stand by me, if thou knows't it, telling,
-Yonder peasant, who is he? Where and what his dwelling?"
-"Sire, he lives a good league hence, underneath the mountain,
-Right against the forest fence, by Saint Agnes' fountain."
+[A]"Hither, [F#m]page, [E]and [A]stand [D]by [E]me, [D]if [A]thou [D]knows't it, [A]telling,
+Yonder [F#m]pea[E]sant, [A]who [D]is [E]he? [D]Where [A]and [D]what his [A]dwelling?"
+"Sire, [D]he [A]lives [E]a [A]good [E]league [F#m]hence, [D]un[A]der[D]neath the [A]mountain,
+Right a[D]gainst [A]the [F#m]forest [E]fence, [A]by [D]Saint [A]Ag[E]nes' [F#m]foun[A]tain."
 
 Verse 3
-"Bring me flesh and bring me wine, bring me pine logs hither,
-Thou and I will see him dine, when we bear them thither."
-Page and monarch, forth they went, forth they went together,
-Through the cold wind's wild lament and the bitter weather.
+[A]"Bring me [F#m]flesh [E]and [A]bring [D]me [E]wine, [D]bring [A]me [D]pine logs [A]hither,
+Thou and [F#m]I [E]will [A]see [D]him [E]dine, [D]when [A]we [D]bear them [A]thither."
+Page [D]and [A]mon[E]arch, [A]forth [E]they [F#m]went, [D]forth [A]they [D]went to[A]gether,
+Through the [D]cold [A]wind's [F#m]wild la[E]ment [A]and [D]the [A]bit[E]ter [F#m]wea[A]ther.
 
 Verse 4
-"Sire, the night is darker now, and the wind blows stronger,
-Fails my heart, I know not how; I can go no longer."
-"Mark my footsteps, my good page, tread thou in them boldly,
-Thou shalt find the winter's rage freeze thy blood less coldly."
+[A]"Sire, the [F#m]night [E]is [A]dar[D]ker [E]now, [D]and [A]the [D]wind blows [A]stronger,
+Fails my [F#m]heart, [E]I [A]know [D]not [E]how; [D]I [A]can [D]go no [A]longer."
+"Mark [D]my [A]foot[E]steps, [A]my [E]good [F#m]page, [D]tread [A]thou [D]in them [A]boldly,
+Thou shalt [D]find [A]the [F#m]winter's [E]rage [A]freeze [D]thy [A]blood [E]less [F#m]cold[A]ly."
 
 Verse 5
-In his master's steps he trod, where the snow lay dinted;
-Heat was in the very sod which the saint had printed.
-Therefore, Christian men, be sure, wealth or rank possessing,
-Ye who now will bless the poor shall yourselves find blessing.`
+[A]In his [F#m]mas[E]ter's [A]steps [D]he [E]trod, [D]where [A]the [D]snow lay [A]dinted;
+Heat was [F#m]in [E]the [A]ve[D]ry [E]sod [D]which [A]the [D]saint had [A]printed.
+There[D]fore, [A]Christ[E]ian [A]men, [E]be [F#m]sure, [D]wealth [A]or [D]rank pos[A]sessing,
+Ye who [D]now [A]will [F#m]bless the [E]poor [A]shall [D]your[A]selves [E]find [F#m]bles[A]sing.`
   },
   {
     t: "Happy the Man Who Feareth God",
@@ -1774,29 +1774,29 @@ Ye who now will bless the poor shall yourselves find blessing.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Happy the man who feareth God, Whose feet His holy
-ways have trod; Thine own good hand shall nourish
-thee, And well and happy shalt thou be.
+[D]Hap[A]py [D]the man who [G]feareth [D]God, Whose [G]feet [D]His [G]ho[Am]ly
+ways have [D]trod; Thine own [Em]good [Bm]hand [Em]shall [G]nour[Em7]ish
+[D]thee, And well and [Em]happy [Bm]shalt thou [A]be.
 
 Verse 2
-Thy wife shall, like a fruitful vine, Fill all thy house with
-clusters fine; Thy children all be fresh and
-sound, Like oliveplants thy table round.
+[D]Thy [A]wife [D]shall, like a [G]fruitful [D]vine, Fill [G]all [D]thy [G]house [Am]with
+clusters [D]fine; Thy child[Em]ren [Bm]all [Em]be [G]fresh [Em7]and
+[D]sound, Like olive-[Em]plants thy [Bm]table [A]round.
 
 Verse 3
-Lo! to the man these blessings cleave Who in God's holy
-fear doth live; From him the ancient curse hath
-fled By Adam's race inherited.
+[D]Lo! [A]to [D]the man these [G]blessings [D]cleave Who [G]in [D]God's [G]ho[Am]ly
+fear doth [D]live; From him [Em]the [Bm]an[Em]cient [G]curse [Em7]hath
+[D]fled By Adam's [Em]race in[Bm]herit[A]ed.
 
 Verse 4
-Out of Mount Zion God shall send, And crown with joy thy
-latter end; That thou Jerusalem mayst
-see, In favor and prosperity.
+[D]Out [A]of [D]Mount Zion [G]God shall [D]send, And [G]crown [D]with [G]joy [Am]thy
+latter [D]end; That thou [Em]Je[Bm]ru[Em]sa[G]lem [Em7]mayst
+[D]see, In favor [Em]and pros[Bm]perit[A]y.
 
 Verse 5
-He shall be with thee in thy ways, And give thee health and
-length of days Yea, thou shalt children's children
-see, And peace on Israel shall be.`
+[D]He [A]shall [D]be with thee [G]in thy [D]ways, And [G]give [D]thee [G]health [Am]and
+length of [D]days Yea, thou [Em]shalt [Bm]child[Em]ren's [G]child[Em7]ren
+[D]see, And peace on [Em]Isra[Bm]el shall [A]be.`
   },
   {
     t: "Hark, Hark, My Soul!",
@@ -1811,22 +1811,22 @@ see, And peace on Israel shall be.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Hark! hark, my soul! angelic songs are swelling O'er earth's green fields
-and ocean's wavebeat shore: How sweet the truth those bless�d strains are telling
-Of that new life when sin shall be no more! Onward we go, for still
-we hear them sing, "Come, weary souls, for Jesus bids you come";
+[F]Hark! hark, my [Bb]soul! [F]angelic [Bb]songs are [C]swell[F]ing O'er earth's green [Bb]fields
+[F]and ocean's [Bb]wave-beat [F]shore: How sweet [Fmaj7]the [Dm]truth those bless[F]èd strains are [C]tell[Gm]ing
+Of that new [F]life when [Bb]sin [Gm7]shall be no [A]more! [F]Onward [Fmaj7]we [Dm]go, for still
+[F]we hear them [C]sing, [Gm]"Come, weary [F]souls, for Jesus [C7]bids you [F]come";
 
 Verse 2
-And through the dark, its echoes sweetly ringing, The music of
-the Gospel leads us home. Far, far away, like bells at ev'ning pealing,
-The voice of Jesus sounds o'er land and sea, And laden souls, by thou
-sands meekly stealing, Kind Shepherd, turn their weary steps to Thee.
+[F]And through the [Bb]dark, [F]its echoes [Bb]sweetly [C]ring[F]ing, The music [Bb]of
+[F]the Gospel [Bb]leads us [F]home. Far, far [Fmaj7]a[Dm]way, like bells [F]at ev'ning [C]peal[Gm]ing,
+The voice of [F]Jesus [Bb]sounds [Gm7]o'er land and [A]sea, [F]And la[Fmaj7]den [Dm]souls, by thou[F]sands
+sands meekly [C]steal[Gm]ing, Kind Shepherd, [F]turn their weary [C7]steps to [F]Thee.
 
 Verse 3
-Faith's journeys end in welcome to the weary, And Heav'n, the heart's
-true home will come at last. Angels, sing on, your faithful watches keeping,
-Sing us sweet fragments of the songs above; Till morning's joy shall end
-the night of weeping, And life's long shadows break in cloudless love.`
+[F]Faith's journeys [Bb]end [F]in welcome [Bb]to the [C]wear[F]y, And Heav'n, the [Bb]heart's
+[F]true home will [Bb]come at [F]last. Angels, [Fmaj7]sing [Dm]on, your faith[F]ful watches [C]keep[Gm]ing,
+Sing us sweet [F]fragments [Bb]of [Gm7]the songs a[A]bove; [F]Till morn[Fmaj7]ing's [Dm]joy shall end
+[F]the night of [C]weep[Gm]ing, And life's long [F]shadows break in [C7]cloudless [F]love.`
   },
   {
     t: "Hark the Glad Sound",
@@ -1841,24 +1841,24 @@ the night of weeping, And life's long shadows break in cloudless love.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Hark, the glad sound! the Savior comes! The Savior promised long;
-Let every heart prepare a throne, And every voice a song.
+[G]Hark, the glad [D]sound! [D7]the [Em]Sa[D]vior [G]comes! The [D]Sa[A7]vior [D]pro[A7]mised [D]long;
+Let [G]every heart [D7]pre[G]pare a [C]throne, [G]And [C]ev[Em]ery [Am]voice [D7]a [G]song.
 
 Verse 2
-On Him the Spirit, largely poured, Exerts its sacred Fire;
-Wisdom and might, and zeal and love, His holy Breast inspire.
+[G]On Him the [D]Spi[D7]rit, [Em]large[D]ly [G]poured, Ex[D]erts [A7]its [D]sac[A7]red [D]Fire;
+Wis[G]dom and might, [D7]and [G]zeal and [C]love, [G]His [C]ho[Em]ly [Am]Breast [D7]in[G]spire.
 
 Verse 3
-He comes the pris'ners to release, In Satan's bondage held;
-The gates of brass before Him burst, The iron fetters yield.
+[G]He comes the [D]pris[D7]'ners [Em]to [D]re[G]lease, In [D]Sa[A7]tan's [D]bon[A7]dage [D]held;
+The [G]gates of brass [D7]be[G]fore Him [C]burst, [G]The [C]ir[Em]on [Am]fet[D7]ters [G]yield.
 
 Verse 4
-He comes from thickest films of vice To clear the mental ray,
-And on the eyeballs of the blind To pour celestial day.
+[G]He comes from [D]thick[D7]est [Em]films [D]of [G]vice To [D]clear [A7]the [D]men[A7]tal [D]ray,
+And [G]on the eye[D7]balls [G]of the [C]blind [G]To [C]pour [Em]ce[Am]les[D7]tial [G]day.
 
 Verse 5
-He comes the broken heart to bind, The bleeding soul to cure;
-And with the treasures of His grace T'enrich the humble poor.`
+[G]He comes the [D]bro[D7]ken [Em]heart [D]to [G]bind, The [D]bleed[A7]ing [D]soul [A7]to [D]cure;
+And [G]with the trea[D7]sures [G]of His [C]grace [G]T'en[C]rich [Em]the [Am]hum[D7]ble [G]poor.`
   },
   {
     t: "Hark, the Voice of Jesus Calling",
@@ -1873,34 +1873,34 @@ And with the treasures of His grace T'enrich the humble poor.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Hark, the voice of Jesus calling, "Who will go and work today?
-Fields are ripe and harvests waiting, Who will bear the sheaves away?"
-Long and loud the Master calls us, Rich reward He offers free;
-Who will answer, gladly saying, "Here am I, send me, send me?"
+[G]Hark, [D]the [G]voice of [C]Je[Am]sus [G]cal[D]ling, [Em]"Who [C]will [D]go [G]and [A7]work to[D]day?
+[G]Fields [D]are [G]ripe and [C]har[Am]vests [G]wait[D7]ing, [Em]Who [C]will [D7]bear [G]the sheaves [D7]a[G]way?"
+[A7]Long and [G]loud [A7]the [D]Master calls [G]us, [A]Rich [A7]re[D]ward [A]He [D]of[A7]fers [D]free;
+[G]Who [D]will [G]an[Em7]swer, [C]glad[Am]ly [G]saying, [Em]"Here [A7]am [G]I, send me, [D7]send [G]me?"
 
 Verse 2
-If you cannot cross the ocean, And the distant lands explore,
-You can find the lost around you, You can help them at your door;
-If you cannot give your thousands, You can give the widow's mite;
-What you truly give for Jesus, Will be precious in His sight.
+[G]If [D]you [G]cannot [C]cross [Am]the [G]oc[D]ean, [Em]And [C]the [D]dis[G]tant [A7]lands ex[D]plore,
+[G]You [D]can [G]find the [C]lost [Am]a[G]round [D7]you, [Em]You [C]can [D7]help [G]them at [D7]your [G]door;
+[A7]If you [G]can[A7]not [D]give your thou[G]sands, [A]You [A7]can [D]give [A]the [D]wi[A7]dow's [D]mite;
+[G]What [D]you [G]tru[Em7]ly [C]give [Am]for [G]Jesus, [Em]Will [A7]be [G]precious in [D7]His [G]sight.
 
 Verse 3
-If you cannot speak like angels, If you cannot preach like Paul,
-You can tell the love of Jesus, You can say He died for all.
-If you cannot rouse the wicked, With the judgment's dread alarms,
-You can lead the little children To the Savior's waiting arms.
+[G]If [D]you [G]cannot [C]speak [Am]like [G]an[D]gels, [Em]If [C]you [D]can[G]not [A7]preach like [D]Paul,
+[G]You [D]can [G]tell the [C]love [Am]of [G]Je[D7]sus, [Em]You [C]can [D7]say [G]He died [D7]for [G]all.
+[A7]If you [G]can[A7]not [D]rouse the wick[G]ed, [A]With [A7]the [D]judg[A]ment's [D]dread [A7]a[D]larms,
+[G]You [D]can [G]lead [Em7]the [C]lit[Am]tle [G]children [Em]To [A7]the [G]Savior's wait[D7]ing [G]arms.
 
 Verse 4
-If you cannot be the watchman, Standing high on Zion's wall,
-Pointing out the path to heaven, Off'ring life and peace to all,
-With your prayers and with your bounties You can do what heav'n demands;
-You can be like faithful Aaron, Holding up the prophet's hands.
+[G]If [D]you [G]cannot [C]be [Am]the [G]watch[D]man, [Em]Stand[C]ing [D]high [G]on [A7]Zion's [D]wall,
+[G]Point[D]ing [G]out the [C]path [Am]to [G]hea[D7]ven, [Em]Off'r[C]ing [D7]life [G]and peace [D7]to [G]all,
+[A7]With your [G]prayers [A7]and [D]with your boun[G]ties [A]You [A7]can [D]do [A]what [D]heav'n [A7]de[D]mands;
+[G]You [D]can [G]be [Em7]like [C]faith[Am]ful [G]Aaron, [Em]Hold[A7]ing [G]up the pro[D7]phet's [G]hands.
 
 Verse 5
-If among the older people, You may not be apt to teach,
-"Feed My lambs," said Christ, our Shepherd, "Place the food within their reach."
-And it may be that the children You have led with trembling hand,
-Will be found among your jewels, When you reach the better land.`
+[G]If [D]a[G]mong the [C]old[Am]er [G]peo[D]ple, [Em]You [C]may [D]not [G]be [A7]apt to [D]teach,
+[G]"Feed [D]My [G]lambs," said [C]Christ, [Am]our [G]Shep[D7]herd, [Em]"Place [C]the [D7]food [G]within [D7]their [G]reach."
+[A7]And it [G]may [A7]be [D]that the child[G]ren [A]You [A7]have [D]led [A]with [D]tremb[A7]ling [D]hand,
+[G]Will [D]be [G]found [Em7]a[C]mong [Am]your [G]jewels, [Em]When [A7]you [G]reach the bet[D7]ter [G]land.`
   },
   {
     t: "He Was Not Willing",
@@ -1915,32 +1915,32 @@ Will be found among your jewels, When you reach the better land.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-"He was not willing that any should perish"; Jesus enthroned in the
-glory above, Saw our poor fallen world, pitied our sorrows, Poured out
-His life for us, wonderful love! Perishing, perishing! Thronging our pathway,
-Hearts break with burdens too heavy to bear: Jesus would save, but there's
-no one to tell them, No one to lift them from sin and despair.
+[Eb]"He was not willing that [Ab]any should [Eb]perish"; Jesus enthroned in the
+[Ab]glory a[Bb]bove, [Eb]Saw our poor fallen world, [Ab]pitied our [Eb]sorrows, Poured out
+His [Ab]life for us, [Eb]wonderful love! Perishing, perishing! [Ab]Thronging our [Eb]pathway,
+Hearts break with [Ab]burdens too [Eb]heavy to bear: [Cm]Jesus would save, but there's
+no one to tell them, [Bb]No one to lift them from [F7]sin and des[Bb]pair.
 
 Verse 2
-"He was not willing that any should perish"; Clothed in our flesh with its
-sorrow and pain, Came He to seek the lost, comfort the mourner, Heal the
-heart broken by sorrow and shame. Perishing, perishing! Harvest is passing,
-Reapers are few and the night draweth near: Jesus is calling thee,
-haste to the reaping, Thou shalt have souls, precious souls for thy hire.
+[Eb]"He was not willing that [Ab]any should [Eb]perish"; Clothed in our flesh with its
+[Ab]sorrow and [Bb]pain, [Eb]Came He to seek the lost, [Ab]comfort the [Eb]mourner, Heal the
+heart [Ab]broken by [Eb]sorrow and shame. Perishing, perishing! [Ab]Harvest is [Eb]passing,
+Reapers are [Ab]few and the [Eb]night draweth near: [Cm]Jesus is calling thee,
+haste to the reaping, [Bb]Thou shalt have souls, precious [F7]souls for thy [Bb]hire.
 
 Verse 3
-Plenty for pleasure, but little for Jesus; Time for the world with its
-troubles and toys, No time for Jesus' work, feeding the hungry, Lifting
-lost souls to eternity's joys. Perishing, perishing! Hark, how they call us;
-Bring us your Savior, oh, tell us of Him! We are so weary, so
-heavily laden, And with long weeping our eyes have grown dim.
+[Eb]Plenty for pleasure, but [Ab]little for [Eb]Jesus; Time for the world with its
+[Ab]troubles and [Bb]toys, [Eb]No time for Jesus' work, [Ab]feeding the [Eb]hungry, Lifting
+lost [Ab]souls to e[Eb]ternity's joys. Perishing, perishing! [Ab]Hark, how they [Eb]call us;
+Bring us your [Ab]Savior, oh, [Eb]tell us of Him! [Cm]We are so weary, so
+heavily laden, [Bb]And with long weeping our [F7]eyes have grown [Bb]dim.
 
 Verse 4
-"He was not willing that any should perish"; Am I His follower,
-and can I live Longer at ease with a soul going downward, Lost for
-the lack of the help I might give! Perishing, perishing! Thou wast not willing;
-Master, forgive, and inspire us anew; Banish our worldliness,
-help us to ever Live with eternity's values in view.`
+[Eb]"He was not willing that [Ab]any should [Eb]perish"; Am I His follower,
+[Ab]and can I [Bb]live [Eb]Longer at ease with a [Ab]soul going [Eb]downward, Lost for
+the [Ab]lack of the [Eb]help I might give! Perishing, perishing! [Ab]Thou wast not [Eb]willing;
+Master, for[Ab]give, and in[Eb]spire us anew; [Cm]Banish our worldliness,
+help us to ever [Bb]Live with eternity's [F7]values in [Bb]view.`
   },
   {
     t: "He Who Would Valiant Be",
@@ -1955,22 +1955,22 @@ help us to ever Live with eternity's values in view.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-He who would valiant be 'gainst all disaster,
-Let him in constancy follow the Master.
-There's no discouragement shall make him once relent
-His first avowed intent to be a pilgrim.
+[D]He who would [Bm]val[A]iant [G]be [A7]'gainst [D]all dis[A7]a[D]ster,
+Let him in [Bm]con[A]stan[G]cy [A7]fol[D]low the [A7]Mas[D]ter.
+There's [Bm]no discourage[G]ment [A]shall [D]make him once [G]re[A]lent
+[D]His [A7]first [D]a[G]vowed [Em7]in[A]tent to [D]be [Em7]a [A7]pil[D]grim.
 
 Verse 2
-Who so beset him round with dismal stories
-Do but themselves confound his strength the more is.
-No foes shall stay his might; though he with giants fight,
-He will make good his right to be a pilgrim.
+[D]Who so be[Bm]set [A]him [G]round [A7]with [D]dismal [A7]stor[D]ies
+Do but them[Bm]selves [A]con[G]found [A7]his [D]strength the [A7]more [D]is.
+No [Bm]foes shall stay his [G]might; [A]though [D]he with gi[G]ants [A]fight,
+[D]He [A7]will [D]make [G]good [Em7]his [A]right to [D]be [Em7]a [A7]pil[D]grim.
 
 Verse 3
-Since, Lord, Thou dost defend us with Thy Spirit,
-We know we at the end, shall life inherit.
-Then fancies flee away! I'll fear not what men say,
-I'll labor night and day to be a pilgrim.`
+[D]Since, Lord, Thou [Bm]dost [A]de[G]fend [A7]us [D]with Thy [A7]Spi[D]rit,
+We know we [Bm]at [A]the [G]end, [A7]shall [D]life in[A7]her[D]it.
+Then [Bm]fancies flee a[G]way! [A]I'll [D]fear not what [G]men [A]say,
+[D]I'll [A7]la[D]bor [G]night [Em7]and [A]day to [D]be [Em7]a [A7]pil[D]grim.`
   },
   {
     t: "Holy Ghost, with Light Divine",
@@ -1985,24 +1985,24 @@ I'll labor night and day to be a pilgrim.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Holy Ghost, with light divine Shine upon this heart of mine;
-Chase the shades of night away, Turn the darkness into day.
+[Eb]Ho[Ab]ly [Eb]Ghost, [Ab]with light [Bb]di[Eb]vine [Bb]Shine [F]up[Bb]on [Eb]this [Cm7]heart [F]of [Bb]mine;
+[Eb]Chase [Ab]the [Eb]shades [Ab]of [Fm]night [C]a[Fm]way, [Bb]Turn [Bb7]the dark[Cm]ness [Fm7]in[Bb]to [Eb]day.
 
 Verse 2
-Let me see my Savior's face, Let me all His beauties trace;
-Show those glorious truths to me Which are only known to Thee.
+[Eb]Let [Ab]me [Eb]see [Ab]my Sa[Bb]vior's [Eb]face, [Bb]Let [F]me [Bb]all [Eb]His [Cm7]beau[F]ties [Bb]trace;
+[Eb]Show [Ab]those [Eb]glo[Ab]rious [Fm]truths [C]to [Fm]me [Bb]Which [Bb7]are on[Cm]ly [Fm7]known [Bb]to [Eb]Thee.
 
 Verse 3
-Holy Ghost, with pow'r divine Cleanse this guilty heart of mine;
-In Thy mercy pity me, From sin's bondage set me free.
+[Eb]Ho[Ab]ly [Eb]Ghost, [Ab]with pow'r [Bb]di[Eb]vine [Bb]Cleanse [F]this [Bb]guil[Eb]ty [Cm7]heart [F]of [Bb]mine;
+[Eb]In [Ab]Thy [Eb]mer[Ab]cy [Fm]pit[C]y [Fm]me, [Bb]From [Bb7]sin's bon[Cm]dage [Fm7]set [Bb]me [Eb]free.
 
 Verse 4
-Holy Ghost, with joy divine Cheer this saddened heart of mine;
-Yield a sacred, settled peace, Let it grow and still increase.
+[Eb]Ho[Ab]ly [Eb]Ghost, [Ab]with joy [Bb]di[Eb]vine [Bb]Cheer [F]this [Bb]sad[Eb]dened [Cm7]heart [F]of [Bb]mine;
+[Eb]Yield [Ab]a [Eb]sac[Ab]red, [Fm]set[C]tled [Fm]peace, [Bb]Let [Bb7]it grow [Cm]and [Fm7]still [Bb]in[Eb]crease.
 
 Verse 5
-Holy Spirit, all divine, Dwell within this heart of mine;
-Cast down every idolthrone, Reign supreme, and reign alone.`
+[Eb]Ho[Ab]ly [Eb]Spir[Ab]it, all [Bb]di[Eb]vine, [Bb]Dwell [F]with[Bb]in [Eb]this [Cm7]heart [F]of [Bb]mine;
+[Eb]Cast [Ab]down [Eb]ev[Ab]ery [Fm]i[C]dol-[Fm]throne, [Bb]Reign [Bb7]supreme, [Cm]and [Fm7]reign [Bb]a[Eb]lone.`
   },
   {
     t: "Holy Spirit, Ever Dwelling",
@@ -2047,19 +2047,19 @@ In community unending you we worship and extol.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-I am Jesus' little lamb, Ever glad at heart I am;
-For my Shepherd gently guides me, Knows my need, and well provides me,
-Loves me ev'ry day the same, Even calls me by my name.
+[C]I am [F]Jesus' [C]little lamb, Ever [F]glad at [C]heart [G7]I [C]am;
+For my [F]Shep[A7]herd [D]gently [G]guides me, [C]Knows my [F]need, [A7]and [D]well pro[G]vides me,
+[C]Loves me [F]ev[C]'ry day the [G]same, [C]Even [F]calls [Dm]me [C]by [G]my [C]name.
 
 Verse 2
-Day by day, at home, away, Jesus is my Staff and Stay.
-When I hunger, Jesus feeds me, Into pleasant pastures leads me;
-When I thirst, He bids me go Where the quiet waters flow.
+[C]Day by [F]day, at [C]home, away, Jesus [F]is my [C]Staff [G7]and [C]Stay.
+When I [F]hun[A7]ger, [D]Jesus [G]feeds me, [C]Into [F]pleas[A7]ant [D]pastures [G]leads me;
+[C]When I [F]thirst, [C]He bids me [G]go [C]Where the [F]qui[Dm]et [C]wa[G]ters [C]flow.
 
 Verse 3
-Who so happy as I am, Even now the Shepherd's lamb?
-And when my short life is ended, By His angel host attended,
-He shall fold me to His breast, There within His arms to rest.`
+[C]Who so [F]happy [C]as I am, Even [F]now the [C]Shep[G7]herd's [C]lamb?
+And when [F]my [A7]short [D]life is [G]ended, [C]By His [F]an[A7]gel [D]host at[G]tended,
+[C]He shall [F]fold [C]me to His [G]breast, [C]There with[F]in [Dm]His [C]arms [G]to [C]rest.`
   },
   {
     t: "I Bind Unto Myself Today",
@@ -2074,43 +2074,43 @@ He shall fold me to His breast, There within His arms to rest.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-I bind unto myself today The strong Name of the
-Trinity, By invocation of the
-same The Three in One and One in Three.
+[D]I [Gm]bind un[Dm]to my[Bb]self [Cm]today [F]The strong Name of [Cm]the
+[Bb]Tri[Eb]ni[F]ty, [Bb]By [Eb]invo[Bb]cation [Gm]of [Bb]the
+[Eb]same [Gm]The [Bb]Three [F]in [Bb]One [Dm]and [Gm]One [Cm]in [Gm]Three.
 
 Verse 2
-I bind this day to me forever By power of faith, Christ's
-incarnation; His baptism in the Jordan
-river, His death on Cross for my salvation;
+[D]I [Gm]bind this [Dm]day to [Bb]me [Cm]forev[F]er By power of faith, [Cm]Christ's
+[Bb]in[Eb]car[F]nation; [Bb]His [Eb]baptism [Bb]in the [Gm]Jor[Bb]dan
+[Eb]riv[Dm]er, [Gm]His [Bb]death [F]on [Bb]Cross [Dm]for [Gm]my [Cm]sal[Gm]vation;
 
 Verse 3
-I bind unto myself the power Of the great love of
-cherubim; The sweet "Well done" in judgment
-hour, The service of the seraphim,
+[D]I [Gm]bind un[Dm]to my[Bb]self [Cm]the pow[F]er Of the great love [Cm]of
+[Bb]cher[Eb]u[F]bim; [Bb]The [Eb]sweet "Well [Bb]done" in [Gm]judg[Bb]ment
+[Eb]ho[Dm]ur, [Gm]The [Bb]ser[F]vice [Bb]of [Dm]the [Gm]ser[Cm]a[Gm]phim,
 
 Verse 4
-I bind unto myself today The virtues of the
-star lit heaven, The glorious sun's life giving
-ray, The whiteness of the moon at even,
+[D]I [Gm]bind un[Dm]to my[Bb]self [Cm]today [F]The virtues of [Cm]the
+[Bb]star [Eb]lit [F]heaven, [Bb]The [Eb]glorious [Bb]sun's life [Gm]giv[Bb]ing
+[Eb]ray, [Gm]The [Bb]white[F]ness [Bb]of [Dm]the [Gm]moon [Cm]at [Gm]even,
 
 Verse 5
-I bind unto myself today The power of God to
-hold and lead, His eye to watch, His might to
-stay, His ear to hearken to my need.
+[D]I [Gm]bind un[Dm]to my[Bb]self [Cm]today [F]The power of God [Cm]to
+[Bb]hold [Eb]and [F]lead, [Bb]His [Eb]eye to [Bb]watch, His [Gm]might [Bb]to
+[Eb]stay, [Gm]His [Bb]ear [F]to [Bb]hear[Dm]ken [Gm]to [Cm]my [Gm]need.
 
 Chorus
-His bursting from the spic�d tomb, His riding
-Confessors' faith, Apostles' word, The Patriarchs'
-The flashing of the lightning free, The whirling
-The wisdom of my God to teach, His hand to
-up the heav'nly way, His coming at the day of
-prayers, the prophets' scrolls, All good deeds done unto the
-wind's tempestuous shocks, The stable earth, the deep salt
-guide, His shield to ward; The word of God to give me
-doom I bind unto myself today.
-Lord And purity of virgin souls.
-sea Around the old eternal rocks.
-speech, His heav'nly host to be my guard.`
+[Bb]His burst[Eb]ing [Bb]from the [Cm]spic[G]èd [Cm]tomb, [Gm]His [Eb]riding
+[Bb]Confes[Eb]sors' [Bb]faith, A[Cm]pos[G]tles' [Cm]word, [Gm]The [Eb]Patriarchs'
+[Bb]The flash[Eb]ing [Bb]of the [Cm]light[G]ning [Cm]free, [Gm]The [Eb]whirling
+[Bb]The wis[Eb]dom [Bb]of my [Cm]God [G]to [Cm]teach, [Gm]His [Eb]hand to
+[F]up the [Bb]heav'n[Eb]ly [F]way, [D]His [Eb]coming [Bb]at the [Gm]day [Bb]of
+[F]prayers, the [Bb]pro[Eb]phets' [F]scrolls, [D]All [Eb]good deeds [Bb]done un[Gm]to [Bb]the
+[F]wind's tem[Bb]pest[Eb]uous [F]shocks, [D]The [Eb]stable [Bb]earth, the [Gm]deep [Bb]salt
+[F]guide, His [Bb]shield [Eb]to [F]ward; [D]The [Eb]word of [Bb]God to [Gm]give [Bb]me
+[Eb]doom [Gm]I [Bb]bind [F]un[Gm]to [Dm]my[Gm]self [Cm]to[Gm]day.
+[Eb]Lord [Gm]And [Bb]pu[F]ri[Gm]ty [Dm]of [Gm]vir[Cm]gin [Gm]souls.
+[Eb]sea [Gm]A[Bb]round [F]the [Gm]old [Dm]e[Gm]ter[Cm]nal [Gm]rocks.
+[Eb]speech, [Gm]His [Bb]heav'n[F]ly [Gm]host [Dm]to [Gm]be [Cm]my [Gm]guard.`
   },
   {
     t: "I Come, O Savior, To Thy Table",
@@ -2125,32 +2125,32 @@ speech, His heav'nly host to be my guard.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-I come, O Savior, to Thy table, For
-weak and weary is my soul; Thou, Bread of Life, alone art
-able To satisfy and make me whole:
+[C]I [Em]come, [F]O [C]Sa[Am]vior, [Dm]to [G]Thy [C]table, For
+[G]weak [Em]and [D]wear[Am]y [G]is my soul; [C]Thou, [Em]Bread [F]of [C]Life, [Am]a[Dm]lone [G]art
+[C]able To [G]sa[Em]tis[D]fy [Am]and [G]make me whole:
 
 Verse 2
-Oh, grant that I in manner worthy May
-now approach Thy heav'nly board And, as I lowly bow be
-fore Thee, Look only unto Thee, O Lord!
+[C]Oh, [Em]grant [F]that [C]I [Am]in [Dm]man[G]ner [C]worthy May
+[G]now [Em]a[D]pproach [Am]Thy [G]heav'nly board [C]And, [Em]as [F]I [C]low[Am]ly [Dm]bow [G]be[C]fore
+fore Thee, Look [G]on[Em]ly [D]un[Am]to [G]Thee, O Lord!
 
 Verse 3
-Unworthy though I am, O Savior, Be
-cause I have a sinful heart, Yet Thou Thy lamb wilt banish
-never, For Thou my faithful Shepherd art:
+[C]Un[Em]wor[F]thy [C]though [Am]I [Dm]am, [G]O [C]Savior, Be[G]cause
+cause [Em]I [D]have [Am]a [G]sinful heart, [C]Yet [Em]Thou [F]Thy [C]lamb [Am]wilt [Dm]ba[G]nish
+[C]never, For [G]Thou [Em]my [D]faith[Am]ful [G]Shepherd art:
 
 Verse 4
-Oh, let me loathe all sin forever As
-death and poison to my soul That I through willful sinning
-never May see Thy judgment take its toll!
+[C]Oh, [Em]let [F]me [C]loathe [Am]all [Dm]sin [G]for[C]ever As
+[G]death [Em]and [D]poi[Am]son [G]to my soul [C]That [Em]I [F]through [C]will[Am]ful [Dm]sin[G]ning
+[C]never May [G]see [Em]Thy [D]judg[Am]ment [G]take its toll!
 
 Verse 5
-Thy heart is filled with fervent yearning That
-sinners may salvation see Who, Lord, to Thee in faith are
-turning; So I, a sinner, come to Thee.
+[C]Thy [Em]heart [F]is [C]filled [Am]with [Dm]fer[G]vent [C]yearning That
+[G]sin[Em]ners [D]may [Am]sal[G]vation see [C]Who, [Em]Lord, [F]to [C]Thee [Am]in [Dm]faith [G]are
+[C]turning; So [G]I, [Em]a [D]sin[Am]ner, [G]come to Thee.
 
 Chorus
-Lord, may Thy body and Thy blood Be for my soul the highest good!`
+Lord, [C]may Thy [F]bo[A7]dy [D]and Thy [G]blood [C]Be [Dm]for [C]my [G]soul [C]the [Dm7]high[G]est [C]good!`
   },
   {
     t: "I Know Whom I Have Believed",
@@ -2165,28 +2165,28 @@ Lord, may Thy body and Thy blood Be for my soul the highest good!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-I know not why God's wondrous grace To me He hath made known,
-Nor why, unworthy, Christ in love Redeemed me for His own.
+[Eb]I know not [Ab]why God's won[Eb]drous grace To me He [Ab]hath [Bb7]made [Bb]known,
+[Bb7]Nor [Eb]why, un[Ab]worthy, Christ [Eb]in love Re[Bb]deemed me for [Bb7]His [Eb]own.
 
 Verse 2
-I know not how this saving faith To me He did impart,
-Nor how believing in His Word Wrought peace within my heart.
+[Eb]I know not [Ab]how this sa[Eb]ving faith To me He [Ab]did [Bb7]im[Bb]part,
+[Bb7]Nor [Eb]how be[Ab]lieving in [Eb]His Word Wrought [Bb]peace within [Bb7]my [Eb]heart.
 
 Verse 3
-I know not how the Spirit moves, Convincing us of sin,
-Revealing Jesus through the Word, Creating faith in Him.
+[Eb]I know not [Ab]how the Spi[Eb]rit moves, Convincing [Ab]us [Bb7]of [Bb]sin,
+[Bb7]Re[Eb]vealing [Ab]Jesus through [Eb]the Word, Cre[Bb]ating faith [Bb7]in [Eb]Him.
 
 Verse 4
-I know not what of good or ill May be reserved for me,
-Of weary ways or golden days, Before His face I see.
+[Eb]I know not [Ab]what of good [Eb]or ill May be re[Ab]served [Bb7]for [Bb]me,
+[Bb7]Of [Eb]weary [Ab]ways or gol[Eb]den days, Be[Bb]fore His face [Bb7]I [Eb]see.
 
 Verse 5
-I know not when my Lord may come, At night or noonday fair,
-Nor if I walk the vale with Him, Or meet Him in the air.
+[Eb]I know not [Ab]when my Lord [Eb]may come, At night or [Ab]noon[Bb7]day [Bb]fair,
+[Bb7]Nor [Eb]if I [Ab]walk the vale [Eb]with Him, Or [Bb]meet Him in [Bb7]the [Eb]air.
 
 Chorus
-But I know Whom I have believ�d, And am persuaded that He is able
-To keep that which I've committed Unto Him against that day.`
+But I [Ab]know Whom I have believ[Eb]èd, And [Ab]am per[Gm]sua[Bb7]ded that [Gm]He is [Fm7]ab[Eb]le
+To [Ab]keep that which I've commit[Eb]ted Unto [Bb]Him a[Bb7]gainst that [Eb]day.`
   },
   {
     t: "I Place My Trust In God",
@@ -2201,28 +2201,28 @@ To keep that which I've committed Unto Him against that day.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-I placed my trust in God today, For it is He who knows the way,
-And when uncertainties arise, I trust His judgment, true and wise.
+[Bb]I [Eb]placed [F7]my [Bb]trust in God today, For it is He who knows the way,
+And [Cm]when uncertain[Bb]ties arise, I [Eb]trust His judgment, [F7]true and [Bb]wise.
 
 Verse 2
-I placed my trust in God today, Alone I could not find my way.
-Led by His guidance, safe and sure, I then can rest in peace, secure.
+[Bb]I [Eb]placed [F7]my [Bb]trust in God today, Alone I could not find my way.
+Led [Cm]by His guidance, [Bb]safe and sure, I [Eb]then can rest in [F7]peace, se[Bb]cure.
 
 Verse 3
-I place my trust in God each day, Committed, yielded to His way.
-Naught can o'erthrow me when I'm there Beneath His everlasting care.
+[Bb]I [Eb]place [F7]my [Bb]trust in God each day, Committed, yielded to His way.
+Naught [Cm]can o'erthrow me [Bb]when I'm there Be[Eb]neath His ever[F7]lasting [Bb]care.
 
 Verse 4
-I'll place my trust in God each day, And while I walk the narrow way,
-Each burden God will help me bear; He hears my cry, my ev'- ry prayer.
+[Bb]I'll [Eb]place [F7]my [Bb]trust in God each day, And while I walk the narrow way,
+Each [Cm]burden God will [Bb]help me bear; He [Eb]hears my cry, my [F7]ev'ry ry [Bb]prayer.
 
 Verse 5
-I'll place my trust in God each day, Yes, even though the skies are gray.
-Led by His hand, I will not fear; I know that God is always near.
+[Bb]I'll [Eb]place [F7]my [Bb]trust in God each day, Yes, even though the skies are gray.
+Led [Cm]by His hand, I [Bb]will not fear; I [Eb]know that God is [F7]always [Bb]near.
 
 Chorus
-I'll place my trust in God today, Even when I cannot see the way,
-He'll lead me on with His strong hand, Until I reach the promised land.`
+I'll place my trust in God today, Even when I cannot [F]see the way,
+He'll [Bb]lead me on with [Cm]His strong hand, Un[Bb]til I reach the [Adim]promised [Bb]land.`
   },
   {
     t: "If God Had Not Been on Our Side",
@@ -2237,22 +2237,22 @@ He'll lead me on with His strong hand, Until I reach the promised land.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-If God had not been on our side And had not come to aid us,
-The foes with all their pow'r and pride Would surely have dismayed us;
-For we, His flock, would have to fear The threat of men both
-far and near Who rise in might against us.
+[F#m]If God [D]had [Bm]not [F#m]been [G]on [F#]our [Bm]side And [A]had [D]not [Bm]come [F#m]to [E]aid [A]us,
+[F#m]The foes [D]with [Bm]all [F#m]their [G]pow'r [F#]and [Bm]pride Would [A]sure[D]ly [Bm]have [F#m]dis[E]mayed [A]us;
+[E]For [A]we, [Bm]His [E]flock, [F#m]would [Bm]have [A]to [D]fear [F#m]The [E]threat [A]of [Bm]men [A]both
+[D]far [E]and [A]near [F#m]Who rise [Bm]in [A]might [F#m]a[C#m]gainst [F#]us.
 
 Verse 2
-Their furious wrath, did God permit, Would surely have consumed us
-And as a deep and yawning pit With life and limb entombed us.
-Like men o'er whom dark waters roll Their wrath would have en
-gulfed our soul And, like a flood, o'erwhelmed us.
+[F#m]Their fur[D]ious [Bm]wrath, [F#m]did [G]God [F#]per[Bm]mit, Would [A]sure[D]ly [Bm]have [F#m]con[E]sumed [A]us
+[F#m]And as [D]a [Bm]deep [F#m]and [G]yawn[F#]ing [Bm]pit With [A]life [D]and [Bm]limb [F#m]en[E]tombed [A]us.
+[E]Like [A]men [Bm]o'er [E]whom [F#m]dark [Bm]wa[A]ters [D]roll [F#m]Their [E]wrath [A]would [Bm]have [A]en[D]gulfed
+gulfed [E]our [A]soul [F#m]And, like [Bm]a [A]flood, [F#m]o'er[C#m]whelmed [F#]us.
 
 Verse 3
-Blest be the Lord, who foiled their threat That they could not devour us;
-Our souls, like birds, escaped their net, They could not overpow'r us.
-The snare is broken we are free! Our help is ever,
-Lord, in Thee, Who madest earth and heaven.`
+[F#m]Blest be [D]the [Bm]Lord, [F#m]who [G]foiled [F#]their [Bm]threat That [A]they [D]could [Bm]not [F#m]de[E]vour [A]us;
+[F#m]Our souls, [D]like [Bm]birds, [F#m]es[G]caped [F#]their [Bm]net, They [A]could [D]not [Bm]ov[F#m]er[E]pow'r [A]us.
+[E]The [A]snare [Bm]is [E]bro[F#m]ken [Bm]we [A]are [D]free! [F#m]Our [E]help [A]is [Bm]ev[A]er,
+[D]Lord, [E]in [A]Thee, [F#m]Who mad[Bm]est [A]earth [F#m]and [C#m]hea[F#]ven.`
   },
   {
     t: "If God Himself Be For Me",
@@ -2267,34 +2267,34 @@ Lord, in Thee, Who madest earth and heaven.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-If God Himself be for me, I may a host defy;
-For when I pray, before me My foes, confounded, fly.
-If Christ, my Head and Master, Befriend me from above,
-What foe or what disaster Can drive me from His love?
+[G]If [Em]God [D]Him[G]self be [D]for me, [G]I may [Am7]a host [D]defy;
+[G]For [Em]when [D]I [G]pray, be[D]fore me [G]My foes, [Am7]confound[D]ed, [G]fly.
+If Christ, [D]my [Em7]Head [Em]and Mas[D]ter, [C]Be[G]friend [D]me [Bm]from [Em]a[A]bove,
+[G]What [C]foe [G]or [Am]what [G]dis[D]aster [G]Can drive [Am7]me from [D]His [G]love?
 
 Verse 2
-This I believe, yea, rather, Of this I make my boast,
-That God is my dear Father, The Friend who loves me most,
-And that, whate'er betide me, My Savior is at hand
-Through stormy seas to guide me And bring me safe to land.
+[G]This [Em]I [D]be[G]lieve, yea, [D]rather, [G]Of this [Am7]I make [D]my boast,
+[G]That [Em]God [D]is [G]my dear [D]Father, [G]The Friend [Am7]who loves [D]me [G]most,
+And that, [D]what[Em7]e'er [Em]betide [D]me, [C]My [G]Sa[D]vior [Bm]is [Em]at [A]hand
+[G]Through [C]storm[G]y [Am]seas [G]to [D]guide me [G]And bring [Am7]me safe [D]to [G]land.
 
 Verse 3
-I build on this foundation, That Jesus and His blood
-Alone are my salvation, The true, eternal good.
-Without Him all that pleases Is valueless on earth;
-The gifts I owe to Jesus Alone my love are worth.
+[G]I [Em]build [D]on [G]this foun[D]dation, [G]That Je[Am7]sus and [D]His blood
+[G]A[Em]lone [D]are [G]my sal[D]vation, [G]The true, [Am7]eter[D]nal [G]good.
+Without [D]Him [Em7]all [Em]that plea[D]ses [C]Is [G]val[D]ue[Bm]less [Em]on [A]earth;
+[G]The [C]gifts [G]I [Am]owe [G]to [D]Jesus [G]Alone [Am7]my love [D]are [G]worth.
 
 Verse 4
-My Jesus is my Splendor, My Sun, my Light, alone;
-Were He not my Defender Before God's awefull throne,
-I never should find favor And mercy in His sight,
-But be destroyed forever As darkness by the light.
+[G]My [Em]Je[D]sus [G]is my [D]Splendor, [G]My Sun, [Am7]my Light, [D]alone;
+[G]Were [Em]He [D]not [G]my De[D]fender [G]Before [Am7]God's awe-[D]full [G]throne,
+I nev[D]er [Em7]should [Em]find fa[D]vor [C]And [G]mer[D]cy [Bm]in [Em]His [A]sight,
+[G]But [C]be [G]de[Am]stroyed [G]for[D]ever [G]As dark[Am7]ness by [D]the [G]light.
 
 Verse 5
-He canceled my offenses, Delivered me from death;
-He is the Lord who cleanses My soul from sin through faith.
-In Him I can be cheerful, Bold, and undaunted aye;
-In Him I am not fearful Of God's great Judgment Day.`
+[G]He [Em]can[D]celed [G]my of[D]fenses, [G]Deliv[Am7]ered me [D]from death;
+[G]He [Em]is [D]the [G]Lord who [D]cleanses [G]My soul [Am7]from sin [D]through [G]faith.
+In Him [D]I [Em7]can [Em]be cheer[D]ful, [C]Bold, [G]and [D]un[Bm]daun[Em]ted [A]aye;
+[G]In [C]Him [G]I [Am]am [G]not [D]fearful [G]Of God's [Am7]great Judg[D]ment [G]Day.`
   },
   {
     t: "I'm But A Stranger Here",
@@ -2309,28 +2309,28 @@ In Him I am not fearful Of God's great Judgment Day.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-I'm but a stranger here, Heav'n is my home;
-Earth is a desert drear, Heav'n is my home.
-Danger and sorrow stand round me on every hand;
-Heav'n is my fatherland, Heav'n is my home.
+[G]I'm [Am7]but [G]a stran[D7]ger here, Heav'n is my [G]home;
+Earth is a [Bm]des[D]ert [E7]drear, [F#m]Heav'n [D]is [A7]my [D]home.
+[D7]Danger and sor[G]row stand round [Em7]me [D7]on ev[C]ery [G]hand;
+[G7]Heav'n [E]is [E7]my fa[Am]ther[E]land, [G]Heav'n [D7]is my [G]home.
 
 Verse 2
-What though the tempest rage, Heav'n is my home;
-Short is my pilgrimage, Heav'n is my home;
-Time's wild and wintry blast soon shall be over past;
-I shall reach home at last, Heav'n is my home.
+[G]What [Am7]though [G]the temp[D7]est rage, Heav'n is my [G]home;
+Short is my [Bm]pil[D]grim[E7]age, [F#m]Heav'n [D]is [A7]my [D]home;
+[D7]Time's wild and win[G]try blast soon [Em7]shall [D7]be ov[C]er [G]past;
+[G7]I [E]shall [E7]reach home [Am]at [E]last, [G]Heav'n [D7]is my [G]home.
 
 Verse 3
-There at my Savior's side Heav'n is my home;
-I shall be glorified, Heav'n is my home.
-There are the good and blest, those I loved most and best;
-There, too, I soon shall rest, Heav'n is my home.
+[G]There [Am7]at [G]my Sa[D7]vior's side Heav'n is my [G]home;
+I shall be [Bm]glor[D]i[E7]fied, [F#m]Heav'n [D]is [A7]my [D]home.
+[D7]There are the good [G]and blest, those [Em7]I [D7]loved most [C]and [G]best;
+[G7]There, [E]too, [E7]I soon [Am]shall [E]rest, [G]Heav'n [D7]is my [G]home.
 
 Verse 4
-Therefore I murmur not, Heav'n is my home;
-Whate'er my earthly lot, Heav'n is my home;
-And I shall surely stand there at my Lord's right hand.
-Heav'n is my fatherland, Heav'n is my home.`
+[G]There[Am7]fore [G]I mur[D7]mur not, Heav'n is my [G]home;
+Whate'er my [Bm]earth[D]ly [E7]lot, [F#m]Heav'n [D]is [A7]my [D]home;
+[D7]And I shall sure[G]ly stand there [Em7]at [D7]my Lord's [C]right [G]hand.
+[G7]Heav'n [E]is [E7]my fa[Am]ther[E]land, [G]Heav'n [D7]is my [G]home.`
   },
   {
     t: "In His Temple Now Behold Him",
@@ -2345,24 +2345,24 @@ Heav'n is my fatherland, Heav'n is my home.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-In His temple now behold Him, See the long expected Lord;
-Ancient prophets had foretold Him; God has now fulfilled His word.
-Now to praise Him, His redeem�d Shall break forth with one accord.
+[G]In [D]His [G]temple [C]now behold Him, [G]See the long ex[D]pected Lord;
+Ancient prophets [G]had foretold Him; [C]God has now ful[Am7]filled His word.
+[E]Now to praise Him, [D]His redeemèd [C]Shall break forth with one accord.
 
 Verse 2
-In the arms of her who bore Him, Virgin pure, behold Him lie,
-While his ag�d saints adore Him Ere in faith and hope they die.
-Hallelujah! Hallelujah! Lo, th'incarnate God most high.
+[G]In [D]the [G]arms of [C]her who bore Him, [G]Virgin pure, be[D]hold Him lie,
+While his agèd [G]saints adore Him [C]Ere in faith and [Am7]hope they die.
+[E]Hallelujah! [D]Hallelujah! [C]Lo, th'incarnate God most high.
 
 Verse 3
-Jesus, by Thy presentation, Thou, who didst for us endure,
-Make us see our great salvation, Seal us with Thy promise sure.
-And present us in Thy glory To Thy Father, cleansed and pure.
+[G]Je[D]sus, [G]by Thy [C]presentation, [G]Thou, who didst for [D]us endure,
+Make us see our [G]great salvation, [C]Seal us with Thy [Am7]promise sure.
+[E]And present us [D]in Thy glory [C]To Thy Father, cleansed and pure.
 
 Verse 4
-Prince and Author of salvation, Be Thy boundless love our theme!
-Jesus, praise to Thee be given By the world Thou didst redeem.
-With the Father and the Spirit, Lord of majesty supreme!`
+[G]Prince [D]and [G]Author [C]of salvation, [G]Be Thy boundless [D]love our theme!
+Jesus, praise to [G]Thee be given [C]By the world Thou [Am7]didst redeem.
+[E]With the Father [D]and the Spirit, [C]Lord of majesty supreme!`
   },
   {
     t: "In Peace and Joy I Now Depart",
@@ -2377,24 +2377,24 @@ With the Father and the Spirit, Lord of majesty supreme!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-In peace and joy I now depart At God's disposing;
-For full of comfort is my heart, Soft reposing.
-So the Lord hath promised me, And death is but a slumber.
+[Dm]In [A]peace [Dm]and [Em]joy [G]I [C]now de[Am]part At [F]God's [C]dis[F]pos[Am]ing;
+For [C]full of com[F]fort is [A]my [D]heart, [Dm]Soft repos[C]ing.
+[F]So [Dm]the [Am]Lord [Dm]hath [Gm]promised [A]me, And [Dm]death is [Am]but [Dm]a [A]slum[D]ber.
 
 Verse 2
-'Tis Christ that wrought this work for me, My faithful Savior,
-Whom Thou hast made mine eyes to see By Thy favor.
-Now I know He is my Life, My Help in need and dying.
+[Dm]'Tis [A]Christ [Dm]that [Em]wrought [G]this [C]work for [Am]me, My [F]faith[C]ful [F]Sa[Am]vior,
+Whom [C]Thou hast made [F]mine eyes [A]to [D]see [Dm]By Thy fa[C]vor.
+[F]Now [Dm]I [Am]know [Dm]He [Gm]is my [A]Life, My [Dm]Help in [Am]need [Dm]and [A]dy[D]ing.
 
 Verse 3
-Him Thou hast unto all set forth Their great Salvation
-And to His kingdom called the earth, Every nation,
-By Thy dear and wholesome Word, In every place resounding.
+[Dm]Him [A]Thou [Dm]hast [Em]un[G]to [C]all set [Am]forth Their [F]great [C]Sal[F]va[Am]tion
+And [C]to His king[F]dom called [A]the [D]earth, [Dm]Every na[C]tion,
+[F]By [Dm]Thy [Am]dear [Dm]and [Gm]wholesome [A]Word, In [Dm]every [Am]place [Dm]re[A]sound[D]ing.
 
 Verse 4
-He is the Hope and saving Light Of lands benighted;
-By Him are they who dwelt in night Fed and lighted.
-He is Israel's Praise and Bliss, Their Joy, Reward, and Glory.`
+[Dm]He [A]is [Dm]the [Em]Hope [G]and [C]saving [Am]Light Of [F]lands [C]be[F]night[Am]ed;
+By [C]Him are they [F]who dwelt [A]in [D]night [Dm]Fed and light[C]ed.
+[F]He [Dm]is [Am]Is[Dm]rael's [Gm]Praise and [A]Bliss, Their [Dm]Joy, Re[Am]ward, [Dm]and [A]Glor[D]y.`
   },
   {
     t: "In The Bleak MidWinter",
@@ -2409,34 +2409,34 @@ He is Israel's Praise and Bliss, Their Joy, Reward, and Glory.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-In the bleak midwinter, frosty wind made moan,
-Earth stood hard as iron, water like a stone;
-Snow had fallen, snow on snow, snow on snow on snow,
-In the bleak midwinter, long ago.
+[A][F]In the bleak midwin[Dm]ter, [Gm]frosty wind [Dm7]made [Gm7]moan,
+[F]Earth stood hard as i[Dm]ron, [Gm7]wa[Bbmaj7]ter [C7]like a [F]stone;
+[Bb]Snow had fallen, snow on [Dm]snow, [F]snow [Am]on [Gm]snow [Bbmaj7]on [C]snow,
+[F]In the bleak midwin[Dm]ter, [Gm7]long [C7]a[F]go.
 
 Verse 2
-Our God, Heav'n cannot hold Him, nor earth sustain;
-Heav'n and earth shall flee away when He comes to reign.
-In the bleak midwinter a stable place sufficed
-The Lord God Almighty, Jesus Christ.
+[A]Our [F]God, Heav'n cannot hold [Dm]Him, [Gm]nor earth [Dm7]sus[Gm7]tain;
+[F]Heav'n and earth shall flee a[Dm]way [Gm7]when [Bbmaj7]He [C7]comes to [F]reign.
+[Bb]In the bleak midwin[Dm]ter a [F]sta[Am]ble [Gm]place [Bbmaj7]suf[C]ficed
+[F]The Lord God Almigh[Dm]ty, [Gm7]Je[C7]sus [F]Christ.
 
 Verse 3
-Enough for Him, whom cherubim, worship night and day,
-Breastful of milk, and a mangerful of hay; En-
-ough for Him, whom angels fall down before,
-Ox and ass and camel which adore.
+[A]E[F]nough for Him, whom cheru[Dm]bim, [Gm]worship night [Dm7]and [Gm7]day,
+[F]Breastful of milk, [Dm]and a [Gm7]man[Bbmaj7]ger[C7]ful of [F]hay; En[Bb]ough
+ough for Him, whom an[Dm]gels [F]fall [Gm]down [Bbmaj7]be[C]fore,
+[F]Ox and ass and ca[Dm]mel [Gm7]which [C7]a[F]dore.
 
 Verse 4
-Angels and archangels may have gathered there,
-Cherubim and seraphim thronged the air;
-But His mother only, in her maiden bliss,
-Worshiped the beloved with a kiss.
+[A][F]Angels and archan[Dm]gels [Gm]may have ga[Dm7]thered [Gm7]there,
+[F]Cherubim and sera[Dm]phim [Gm7]thronged [C7]the [F]air;
+[Bb]But His mother on[Dm]ly, [F]in [Am]her [Gm]mai[Bbmaj7]den [C]bliss,
+[F]Worshiped the belov[Dm]ed [Gm7]with [C7]a [F]kiss.
 
 Verse 5
-What can I give Him, poor as I am?
-If I were a shepherd, I would bring a lamb;
-If I were a Wise Man, I would do my part;
-Yet what can I give Him: give my heart.`
+[A][F]What can I give [Dm]Him, [Gm]poor as [Dm7]I [Gm7]am?
+[F]If I were a shep[Dm]herd, [Gm7]I [Bbmaj7]would [C7]bring a [F]lamb;
+[Bb]If I were a Wise [Dm]Man, [F]I [Am]would [Gm]do [Bbmaj7]my [C]part;
+[F]Yet what can I give [Dm]Him: [Gm7]give [C7]my [F]heart.`
   },
   {
     t: "In These Our Days So Perilous",
@@ -2451,9 +2451,9 @@ Yet what can I give Him: give my heart.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-In these our days so perilous, Lord, peace in mercy send us;
-No God but Thee can fight for us, No God but Thee defend us;
-Thou our only God and Savior.`
+[Gm]In these our [Dm]days [C]so [Bb]peril[Gm]ous, Lord, [F]peace [Am]in [Gm]mer[Cm]cy [Gm]send [D]us;
+[Dm]No [Bb]God [F]but [Dm]Thee [Edim]can [Cm]fight [Gm]for us, No [Dm]God [Gm]but [Eb]Thee [Cm]de[D]fend [Gm]us;
+[F]Thou [Bb]our [Gm]on[G]ly [Gm]God and Sa[G]vior.`
   },
   {
     t: "Isaiah, Mighty Seer, In Days of Old",
@@ -2468,14 +2468,14 @@ Thou our only God and Savior.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Isaiah, mighty seer, in days of old The Lord of all in Spirit did behold
-High on a lofty throne, in splendor bright, With flowing train that filled the Temple quite.
-Above the throne were stately seraphim, Six wings had they, these messengers of Him.
-With twain they veiled their faces, as was meet, With twain in reverent awe they hid their feet,
-And with the other twain aloft they soared, One to the other called and praised the Lord:
-"Holy is God, the Lord of Sabaoth! Holy is God, the Lord of Sabaoth!
-Holy is God, the Lord of Sabaoth! Behold, His glory filleth all the earth!"
-The beams and lintels trembled at the cry, And clouds of smoke enwrapped the throne on high.`
+[Eb]Is[Bb]ai[Eb]ah, [Cm]might[Eb]y [Bb]seer, [Eb]in [Ab]days of [Eb]old [Gm]The [Eb]Lord [Fm]of [Bb]all [Cm]in [Bb]Spir[Eb]it [Fm7]did [Bb]be[Eb]hold
+High [Gm]on [Bb]a [Ab]lofty [Cm]throne, [Eb]in [Ab]splen[Bb]dor [Cm]bright, [Eb]With [Fm]flow[Bb]ing [Eb]train [Fm]that [Cm]filled [Eb]the [Fm7]Tem[Bb]ple [Eb]quite.
+[Cm]A[Gm]bove [Bb]the [Eb]throne were [Bb]stately [Eb]sera[Bb]phim, [Cm7]Six [Ab]wings [Bb]had [Cm]they, [Bb]these [Eb]mess[Fm]en[Eb]gers [Ab]of [Eb]Him.
+[Bb]With [Eb]twain [Fm]they [Eb]veiled [Bb]their [Ab]fa[Eb]ces, [Ab]as [Bb]was [Eb]meet, With twain [Ab]in [Eb]rev[Fm]erent [Bb]awe [Cm]they [Eb]hid [Bb]their [Cm]feet,
+And [Fm]with [Eb]the [Ab]o[Eb]ther [Bb]twain [Cm]a[Bb]loft [F]they [Bb]soared, [Cm]One [Gm]to [Ab]the [Fm]o[Bb]ther called [Eb]and [Ab]praised [Bb]the [Eb]Lord:
+[Cm]"Ho[G]ly [Ab]is [Eb]God, [Ab]the [Bb]Lord [Eb]of [Fm]Sa[Bb]ba[Eb]oth! [Cm]Ho[G]ly [Ab]is [Eb]God, [Ab]the [Bb]Lord [Eb]of [Fm]Sa[Bb]ba[Eb]oth!
+[Cm]Ho[G]ly [Ab]is [Eb]God, [Ab]the [Bb]Lord [Eb]of [Fm]Sa[Bb]ba[Eb]oth! [Ab]Be[Eb]hold, [Ab]His [Bb]glo[Ab]ry [Db]fill[Eb]eth [Fm7]all [Bb]the [Eb]earth!"
+[Cm]The [Bb]beams and [Eb]lin[Fm]tels [Bb]trem[Cm]bled [F]at [Bb]the cry, [Eb]And [Ab]clouds [Eb]of [Fm]smoke en[Eb]wrapped [Fm]the [Eb]throne [Bb]on [Eb]high.`
   },
   {
     t: "It Came Upon A Midnight Clear",
@@ -2490,34 +2490,34 @@ The beams and lintels trembled at the cry, And clouds of smoke enwrapped the thr
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-It came upon the midnight clear, That glorious song of old,
-From angels bending near the earth, To touch their harps of gold;
-"Peace on the earth, good will to men, From Heaven's all gracious King."
-The world in solemn stillness lay, To hear the angels sing.
+[Bb]It came up[Cm7]on the [Bb]midnight clear, That [Eb]glorious song of [F]old,
+From [Bb]angels [Cm7]bending [Bb]near the earth, To [Eb]touch their [F7]harps of [Bb]gold;
+"Peace [D]on the earth, good [Gm]will to men, From [F]Heaven's all [C7]gracious [F]King."
+The [Bb]world in [Cm7]solemn [Bb]stillness lay, To [Eb]hear the [F7]angels [Bb]sing.
 
 Verse 2
-Still through the cloven skies they come With peaceful wings unfurled,
-And still their heavenly music floats O'er all the weary world;
-Above its sad and lowly plains, They bend on hov'ring wing,
-And ever over its Babel sounds The bless�d angels sing.
+[Bb]Still through the [Cm7]cloven [Bb]skies they come With [Eb]peaceful wings un[F]furled,
+And [Bb]still their [Cm7]heavenly [Bb]music floats O'er [Eb]all the [F7]weary [Bb]world;
+A[D]bove its sad and [Gm]lowly plains, They [F]bend on [C7]hov'ring [F]wing,
+And [Bb]ever [Cm7]over its [Bb]Babel sounds The [Eb]blessèd [F7]angels [Bb]sing.
 
 Verse 3
-Yet with the woes of sin and strife The world has suffered long;
-Beneath the angel strain have rolled Two thousand years of wrong;
-And man, at war with man, hears not The lovesong which they bring;
-O hush the noise, ye men of strife And hear the angels sing.
+[Bb]Yet with the [Cm7]woes of [Bb]sin and strife The [Eb]world has suffered [F]long;
+Be[Bb]neath the [Cm7]angel [Bb]strain have rolled Two [Eb]thousand [F7]years of [Bb]wrong;
+And [D]man, at war with [Gm]man, hears not The [F]love-song [C7]which they [F]bring;
+O [Bb]hush the [Cm7]noise, ye [Bb]men of strife And [Eb]hear the [F7]angels [Bb]sing.
 
 Verse 4
-And ye, beneath life's crushing load, Whose forms are bending low,
-Who toil along the climbing way With painful steps and slow,
-Look now! for glad and golden hours Come swiftly on the wing.
-O rest beside the weary road, And hear the angels sing!
+[Bb]And ye, be[Cm7]neath life's [Bb]crushing load, Whose [Eb]forms are bending [F]low,
+Who [Bb]toil a[Cm7]long the [Bb]climbing way With [Eb]painful [F7]steps and [Bb]slow,
+Look [D]now! for glad and [Gm]golden hours Come [F]swiftly [C7]on the [F]wing.
+O [Bb]rest be[Cm7]side the [Bb]weary road, And [Eb]hear the [F7]angels [Bb]sing!
 
 Verse 5
-For lo! the days are hast'ning on, By prophetbards foretold,
-When with the ever circling years Comes round the age of gold;
-When peace shall over all the earth Its ancient splendors fling,
-And the whole world send back the song Which now the angels sing.`
+[Bb]For lo! the [Cm7]days are [Bb]hast'ning on, By [Eb]prophet-bards fore[F]told,
+When [Bb]with the [Cm7]ever [Bb]circling years Comes [Eb]round the [F7]age of [Bb]gold;
+When [D]peace shall over [Gm]all the earth Its [F]ancient [C7]splendors [F]fling,
+And [Bb]the whole [Cm7]world send [Bb]back the song Which [Eb]now the [F7]angels [Bb]sing.`
   },
   {
     t: "Jerusalem the Golden",
@@ -2532,34 +2532,34 @@ And the whole world send back the song Which now the angels sing.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Jerusalem the golden, with milk and honey blest,
-Beneath thy contemplation sink heart and voice oppressed.
-I know not, O I know not, what joys await us there,
-What radiancy of glory, what bliss beyond compare.
+[C]Jerusa[F]lem [C]the golden, with [G]milk [C]and [E]hon[E7]ey [Am]blest,
+[F]Be[C]neath thy [E]con[E7]tem[Am]pla[G]tion [C]sink heart and [Dm]voice [Am]op[G]pressed.
+I [F]know [C]not, [F]O [E]I [Am]know [G]not, what [C]joys a[Dm]wait [F]us [G]there,
+What [C]radian[E]cy [E7]of [Am]glo[G]ry, [C]what bliss be[G7]yond com[C]pare.
 
 Verse 2
-They stand, those halls of Zion, all jubilant with song,
-And bright with many'an angel, and all the martyr throng;
-The Prince is ever in them, the daylight is serene.
-The pastures of the bless�d are decked in glorious sheen.
+[C]They stand, those [F]halls [C]of Zion, all [G]ju[C]bi[E]lant [E7]with [Am]song,
+[F]And [C]bright with [E]man[E7]y'an [Am]an[G]gel, [C]and all the [Dm]mar[Am]tyr [G]throng;
+The [F]Prince [C]is [F]ev[E]er [Am]in [G]them, the [C]daylight [Dm]is [F]ser[G]ene.
+The [C]pastures [E]of [E7]the [Am]bless[G]èd [C]are decked in [G7]glorious [C]sheen.
 
 Verse 3
-There is the throne of David, and there, from care released,
-The shout of them that triumph, the song of them that feast;
-And they are with their Leader, who conquered in the fight,
-And won for them forever their gleaming robes of white.
+[C]There is the [F]throne [C]of David, and [G]there, [C]from [E]care [E7]re[Am]leased,
+[F]The [C]shout of [E]them [E7]that [Am]tri[G]umph, [C]the song of [Dm]them [Am]that [G]feast;
+And [F]they [C]are [F]with [E]their [Am]Lea[G]der, who [C]conquered [Dm]in [F]the [G]fight,
+And [C]won for [E]them [E7]for[Am]ev[G]er [C]their gleaming [G7]robes of [C]white.
 
 Verse 4
-O sweet and bless�d country, the home of God's elect!
-O sweet and bless�d country, that eager hearts expect!
-Jesus, in mercy bring us to that dear land of rest,
-Who art, with God the Father, and Spirit, ever blessed.
+[C]O sweet and [F]bless[C]èd country, the [G]home [C]of [E]God's [E7]e[Am]lect!
+[F]O [C]sweet and [E]bless[E7]èd [Am]coun[G]try, [C]that eager [Dm]hearts [Am]ex[G]pect!
+Je[F]sus, [C]in [F]mer[E]cy [Am]bring [G]us to [C]that dear [Dm]land [F]of [G]rest,
+Who [C]art, with [E]God [E7]the [Am]Fa[G]ther, [C]and Spirit, [G7]ever [C]blessed.
 
 Verse 5
-Brief life is here our portion, brief sorrow, short lived care;
-The life that knows no ending, the tearless life, is there.
-O happy retribution! Short toil, eternal rest;
-For mortals and for sinners, a mansion with the blest.`
+[C]Brief life is [F]here [C]our portion, brief [G]sor[C]row, [E]short [E7]lived [Am]care;
+[F]The [C]life that [E]knows [E7]no [Am]end[G]ing, [C]the tearless [Dm]life, [Am]is [G]there.
+O [F]ha[C]ppy [F]ret[E]ri[Am]bu[G]tion! Short [C]toil, e[Dm]ter[F]nal [G]rest;
+For [C]mortals [E]and [E7]for [Am]sin[G]ners, [C]a mansion [G7]with the [C]blest.`
   },
   {
     t: "Jesus Came, the Heavens Adoring",
@@ -2574,29 +2574,29 @@ For mortals and for sinners, a mansion with the blest.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Jesus came, the heav'ns adoring, Came with peace from realms on high;
-Jesus came for man's redemption, Lowly came on earth to die.
-Alleluia! Alleluia! Came in deep humility.
+[Bm]Je[F#m]sus [G]came, [Em]the [A]heav'ns a[D]doring, [A]Came [D]with [G]peace [D]from [Em7]realms on [D]high;
+[A]Jesus [E]came [F#m]for [D]man's [A]re[D]demption, [Bm]Low[E]ly [F#m]came [Bm]on [F#m]earth to die.
+[F#]Alle[Bm]lu[F#]ia! Al[G]le[F#]luia! [Bm]Came in [F#]deep [Bm]humil[F#]i[Bm]ty.
 
 Verse 2
-Jesus comes again in mercy, When our hearts are bowed with care;
-Jesus comes again in answer To an earnest, heartfelt prayer;
-Alleluia! Alleluia! Comes to save us from despair.
+[Bm]Je[F#m]sus [G]comes [Em]a[A]gain in [D]mercy, [A]When [D]our [G]hearts [D]are [Em7]bowed with [D]care;
+[A]Jesus [E]comes [F#m]a[D]gain [A]in [D]answer [Bm]To [E]an [F#m]ear[Bm]nest, [F#m]heartfelt prayer;
+[F#]Alle[Bm]lu[F#]ia! Al[G]le[F#]luia! [Bm]Comes to [F#]save [Bm]us from [F#]des[Bm]pair.
 
 Verse 3
-Jesus comes to hearts rejoicing, Bringing news of sins forgiv'n;
-Jesus comes in sounds of gladness, Leading souls redeemed to Heav'n;
-Alleluia! Alleluia! Now the gate of death is riv'n.
+[Bm]Je[F#m]sus [G]comes [Em]to [A]hearts re[D]joicing, [A]Bring[D]ing [G]news [D]of [Em7]sins for[D]giv'n;
+[A]Jesus [E]comes [F#m]in [D]sounds [A]of [D]gladness, [Bm]Lead[E]ing [F#m]souls [Bm]re[F#m]deemed to Heav'n;
+[F#]Alle[Bm]lu[F#]ia! Al[G]le[F#]luia! [Bm]Now the [F#]gate [Bm]of death [F#]is [Bm]riv'n.
 
 Verse 4
-Jesus comes in joy and sorrow, Shares alike our hopes and fears;
-Jesus comes, whate'er befalls us, Glads our hearts, and dries our tears;
-Alleluia! Alleluia! Cheering e'en our failing years.
+[Bm]Je[F#m]sus [G]comes [Em]in [A]joy and [D]sorrow, [A]Shares [D]a[G]like [D]our [Em7]hopes and [D]fears;
+[A]Jesus [E]comes, [F#m]what[D]e'er [A]be[D]falls us, [Bm]Glads [E]our [F#m]hearts, [Bm]and [F#m]dries our tears;
+[F#]Alle[Bm]lu[F#]ia! Al[G]le[F#]luia! [Bm]Cheering [F#]e'en [Bm]our fail[F#]ing [Bm]years.
 
 Verse 5
-Jesus comes on clouds triumphant, When the heav'ns shall pass away;
-Jesus comes again in glory; Let us then our homage pay,
-Alleluia! Alleluia! Till the dawn of endless day.`
+[Bm]Je[F#m]sus [G]comes [Em]on [A]clouds tri[D]umphant, [A]When [D]the [G]heav'ns [D]shall [Em7]pass a[D]way;
+[A]Jesus [E]comes [F#m]a[D]gain [A]in [D]glory; [Bm]Let [E]us [F#m]then [Bm]our [F#m]homage pay,
+[F#]Alle[Bm]lu[F#]ia! Al[G]le[F#]luia! [Bm]Till the [F#]dawn [Bm]of end[F#]less [Bm]day.`
   },
   {
     t: "Jesus Christ Is Risen Today",
@@ -2611,28 +2611,28 @@ Alleluia! Alleluia! Till the dawn of endless day.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Jesus Christ is ris'n today, Alleluia!
-Our triumphant holy day, Alleluia!
-Who did once, upon the cross, Alleluia!
-Suffer to redeem our loss, Alleluia!
+[C]Jesus [G]Christ [C]is [F]ris'n today, [C]Alleluia!
+[F]Our [C]tri[F]um[C]phant [Dm7]ho[C]ly day, Alleluia!
+[G]Who [Am7]did [G]once, up[C]on [Dm7]the [C]cross, [G]Alleluia!
+Suffer [C]to re[F]deem our loss, [C]Alleluia!
 
 Verse 2
-Hymns of praise then let us sing, Alleluia!
-Unto Christ, our heav'nly King, Alleluia!
-Who endured the cross and grave, Alleluia!
-Sinners to redeem and save, Alleluia!
+[C]Hymns of [G]praise [C]then [F]let us sing, [C]Alleluia!
+[F]Un[C]to [F]Christ, [C]our [Dm7]heav'n[C]ly King, Alleluia!
+[G]Who [Am7]en[G]dured the [C]cross [Dm7]and [C]grave, [G]Alleluia!
+Sinners [C]to re[F]deem and save, [C]Alleluia!
 
 Verse 3
-But the pain which He endured, Alleluia!
-Our salvation hath procured, Alleluia!
-Now above the sky He's king, Alleluia!
-Where the angels ever sing, Alleluia!
+[C]But the [G]pain [C]which [F]He endured, [C]Alleluia!
+[F]Our [C]sal[F]va[C]tion [Dm7]hath [C]procured, Alleluia!
+[G]Now [Am7]a[G]bove the [C]sky [Dm7]He's [C]king, [G]Alleluia!
+Where the [C]angels [F]ever sing, [C]Alleluia!
 
 Verse 4
-Sing we to our God above, Alleluia!
-Praise eternal as His love, Alleluia!
-Praise Him, all you heav'nly host, Alleluia!
-Father, Son, and Holy Ghost, Alleluia!`
+[C]Sing we [G]to [C]our [F]God above, [C]Alleluia!
+[F]Praise [C]e[F]ter[C]nal [Dm7]as [C]His love, Alleluia!
+[G]Praise [Am7]Him, [G]all you [C]heav'n[Dm7]ly [C]host, [G]Alleluia!
+Father, [C]Son, and [F]Holy Ghost, [C]Alleluia!`
   },
   {
     t: "Jesus Christ, Our Blessed Savior",
@@ -2647,29 +2647,29 @@ Father, Son, and Holy Ghost, Alleluia!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Jesus Christ, our Blessed Savior, Turned away God's
-wrath forever; Suff'ring pains no tongue can tell,
-He saved us from the pains of hell.
+[Dm]Je[A]sus [Dm]Christ, our Blessed Savior, Turned a[A#]way [F]God's
+[Gm]wrath [C]for[F]ev[Dm]er; Suff'ring [F]pains [Dm]no [Gm]tongue [C]can [F]tell,
+He [A#]saved [C]us [Dm]from [C]the [F]pains [A]of [Dm]hell.
 
 Verse 2
-To remind us that, to save us He hath died, His
-flesh He gave us With this bread, a quick'ning food,
-And with this wine, His precious blood.
+[Dm]To [A]re[Dm]mind us that, to save us He hath [A#]died, [F]His
+[Gm]flesh [C]He [F]gave [Dm]us With this [F]bread, [Dm]a [Gm]quick[C]'ning [F]food,
+And [A#]with [C]this [Dm]wine, [C]His [F]pre[A]cious [Dm]blood.
 
 Verse 3
-Whoso to this board repaireth, Take good heed how
-He prepareth; Death instead of life shall He
-Receive who comes unworthily.
+[Dm]Who[A]so [Dm]to this board repaireth, Take good [A#]heed [F]how
+[Gm]He [C]pre[F]par[Dm]eth; Death in[F]stead [Dm]of [Gm]life [C]shall [F]He
+Re[A#]ceive [C]who [Dm]comes [C]un[F]worth[A]il[Dm]y.
 
 Verse 4
-Praise the Father, God in heaven, Who such dainty
-food hath given, And for misdeeds thou hast done
-Gave to die His beloved Son.
+[Dm]Praise [A]the [Dm]Father, God in heaven, Who such [A#]dain[F]ty
+[Gm]food [C]hath [F]gi[Dm]ven, And for [F]mis[Dm]deeds [Gm]thou [C]hast [F]done
+Gave [A#]to [C]die [Dm]His [C]be[F]lov[A]ed [Dm]Son.
 
 Verse 5
-Thou shalt hold with faith unshaken, That this food is
-to be taken By the sick who are distressed,
-By those whose heart is sinoppressed.`
+[Dm]Thou [A]shalt [Dm]hold with faith unshaken, That this [A#]food [F]is
+[Gm]to [C]be [F]tak[Dm]en By the [F]sick [Dm]who [Gm]are [C]dis[F]tressed,
+By [A#]those [C]whose [Dm]heart [C]is [F]sin-`
   },
   {
     t: "Jesus Christ Who Came to Save",
@@ -2684,16 +2684,16 @@ By those whose heart is sinoppressed.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Jesus Christ, who came to save, And overcame the grave,
-Is now arisen, And sin hath bound in prison. Kyri' eleison.
+[Am]Jesus [Em]Christ, [D]who [G]came to [Em]save, [C]And [Dm]o[G7]ver[Am]came [E]the [Am]grave,
+Is now aris[E]en, [A7]And [Dm]sin [D]hath [G]bound [Am]in [Em]prison. [C]Ky[Em]ri' [G]e[Am]lei[A]son.
 
 Verse 2
-Who withouten sin was found, Bore our transgression's wound.
-He is our Savior, And brings us to God's favor.
+[Am]Who with[Em]out[D]en [G]sin was [Em]found, [C]Bore [Dm]our [G7]trans[Am]gres[E]sion's [Am]wound.
+He is our Sa[E]vior, [A7]And [Dm]brings [D]us [G]to [Am]God's [Em]favor.
 
 Verse 3
-Life and mercy, sin and death, All in His hands He hath;
-Them He'll deliver, Who trust in Him forever.`
+[Am]Life and [Em]mer[D]cy, [G]sin and [Em]death, [C]All [Dm]in [G7]His [Am]hands [E]He [Am]hath;
+Them He'll deli[E]ver, [A7]Who [Dm]trust [D]in [G]Him [Am]for[Em]ever.`
   },
   {
     t: "Jesus Grant That Balm and Healing",
@@ -2708,34 +2708,34 @@ Them He'll deliver, Who trust in Him forever.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Jesus, grant that balm and healing In Thy holy wounds I find,
-Every hour that I am feeling, Pains of body and of mind.
-Should some evil thought within Tempt my treacherous heart to sin,
-Show the peril, and from sinning Keep me ere its first beginning.
+[Am]Je[Em]sus, [F]grant [Am]that [C]balm and [E]healing In [Am]Thy [Dm]ho[Am]ly wounds [E]I [Am]find,
+E[Em]very [F]hour [Am]that [C]I am [E]feeling, Pains [Am]of [Dm]bo[Am]dy and [E]of [Am]mind.
+[C]Should [G]some [C]evil [F]thought within [C]Tempt [G]my [F]treach[C]erous heart [G]to [C]sin,
+Show [Am]the per[Em]il, [F]and from [E]sinning Keep [Am]me [Dm]ere [Am]its [E]first [Am]beginning.
 
 Verse 2
-Should some lust or sharp temptation Prove too strong for flesh and blood,
-Let me think upon Thy Passion, And the breach is soon made good.
-Or should Satan press me hard, Let me then be on my guard,
-Saying, "Christ for me was wounded," That the tempter flee confounded.
+[Am]Should [Em]some [F]lust [Am]or [C]sharp temp[E]tation Prove [Am]too [Dm]strong [Am]for flesh [E]and [Am]blood,
+Let [Em]me [F]think [Am]up[C]on Thy [E]Passion, And [Am]the [Dm]breach [Am]is soon [E]made [Am]good.
+[C]Or [G]should [C]Satan [F]press me hard, [C]Let [G]me [F]then [C]be on [G]my [C]guard,
+Say[Am]ing, "Christ [Em]for [F]me was [E]wounded," That [Am]the [Dm]temp[Am]ter [E]flee [Am]confounded.
 
 Verse 3
-If the world my heart entices On the broad and easy road
-With its mirth and luring vices, Let me think upon the load
-Thou didst carry and endure That I flee all thoughts impure,
-Banishing each wild emotion, Calm and blest in my devotion.
+[Am]If [Em]the [F]world [Am]my [C]heart en[E]tices On [Am]the [Dm]broad [Am]and ea[E]sy [Am]road
+With [Em]its [F]mirth [Am]and [C]luring [E]vices, Let [Am]me [Dm]think [Am]upon [E]the [Am]load
+[C]Thou [G]didst [C]carry [F]and endure [C]That [G]I [F]flee [C]all thoughts [G]im[C]pure,
+Ba[Am]nishing [Em]each [F]wild e[E]motion, Calm [Am]and [Dm]blest [Am]in [E]my [Am]devotion.
 
 Verse 4
-Every wound that pains or grieves me, By Thy stripes, Lord, is made whole;
-When I'm faint, Thy cross revives me, Granting new life to my soul.
-Yea, Thy comfort renders sweet Every bitter cup I meet;
-For Thy all atoning Passion Has procured my soul's salvation.
+[Am]Ev[Em]ery [F]wound [Am]that [C]pains or [E]grieves me, By [Am]Thy [Dm]stripes, [Am]Lord, is [E]made [Am]whole;
+When [Em]I'm [F]faint, [Am]Thy [C]cross re[E]vives me, Grant[Am]ing [Dm]new [Am]life to [E]my [Am]soul.
+[C]Yea, [G]Thy [C]comfort [F]renders sweet [C]Ev[G]ery [F]bit[C]ter cup [G]I [C]meet;
+For [Am]Thy all [Em]a[F]toning [E]Passion Has [Am]pro[Dm]cured [Am]my [E]soul's [Am]salvation.
 
 Verse 5
-O my God, my Rock and Tower, Grant that in Thy death I trust,
-Knowing death has lost his power Since Thou trodd'st him in the dust.
-Savior, let Thine agony Ever help and comfort me;
-When I die, be my Protection, Light and Life and Resurrection.`
+[Am]O [Em]my [F]God, [Am]my [C]Rock and [E]Tower, Grant [Am]that [Dm]in [Am]Thy death [E]I [Am]trust,
+Know[Em]ing [F]death [Am]has [C]lost his [E]power Since [Am]Thou [Dm]trodd'st [Am]him in [E]the [Am]dust.
+[C]Sa[G]vior, [C]let Thine [F]agony [C]Ev[G]er [F]help [C]and com[G]fort [C]me;
+When [Am]I die, [Em]be [F]my Pro[E]tection, Light [Am]and [Dm]Life [Am]and [E]Re[Am]surrection.`
   },
   {
     t: "Jesus, In Thy Dying Woes",
@@ -2750,16 +2750,16 @@ When I die, be my Protection, Light and Life and Resurrection.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Jesus, in Thy dying woes, Even while Thy lifeblood flows,
-Craving pardon for Thy foes; Hear us, holy Jesus.
+[Dm]Jesus, [Gm]in [Dm]Thy [A7]dying [Dm]woes, Even [A7]while [Dm]Thy [A7]life[Dm]blood [A]flows,
+[Am]Craving [C]par[F]don [C]for [C7]Thy [F]foes; Hear [A7]us, [Dm]holy Jesus.
 
 Verse 2
-Savior, for our pardon sue, When our sins Thy pangs renew,
-For we know not what we do: Hear us, holy Jesus.
+[Dm]Savior, [Gm]for [Dm]our [A7]pardon [Dm]sue, When our [A7]sins [Dm]Thy [A7]pangs [Dm]re[A]new,
+[Am]For we [C]know [F]not [C]what [C7]we [F]do: Hear [A7]us, [Dm]holy Jesus.
 
 Verse 3
-O may we, who mercy need, Be like Thee in heart and deed,
-When with wrong our spirits bleed: Hear us, holy Jesus.`
+[Dm]O may [Gm]we, [Dm]who [A7]mercy [Dm]need, Be like [A7]Thee [Dm]in [A7]heart [Dm]and [A]deed,
+[Am]When with [C]wrong [F]our [C]spir[C7]its [F]bleed: Hear [A7]us, [Dm]holy Jesus.`
   },
   {
     t: "Jesus Is All the World To Me",
@@ -2774,28 +2774,28 @@ When with wrong our spirits bleed: Hear us, holy Jesus.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Jesus is all the world to me, My life, my joy, my all;
-He is my strength from day to day, Without Him I would fall.
-When I am sad, to Him I go, No other one can cheer me so;
-When I am sad, He makes me glad, He's my friend.
+[Ab]Jesus is all [Db]the [Ab]world to me, My life, my [Eb]joy, my [Ab]all;
+He [Eb]is my strength from [Ab]day to day, With[Eb]out Him [Bb7]I would [Eb7]fall.
+[Ab]When I am [Fm]sad, to [Ab]Him I go, No other [Fm]one can [Ab]cheer me so;
+When I am sad, He makes me glad, He's [Eb7]my [Ab]friend.
 
 Verse 2
-Jesus is all the world to me, my friend in trials sore;
-I go to Him for blessings and He gives them ov'r and o'er.
-He sends the sunshine and the rain, He sends the harvest's golden grain;
-Sunshine and rain, harvest of grain, He's my friend.
+[Ab]Jesus is all [Db]the [Ab]world to me, my friend in [Eb]trials [Ab]sore;
+I [Eb]go to Him for [Ab]blessings and He [Eb]gives them [Bb7]ov'r and [Eb7]o'er.
+[Ab]He sends the [Fm]sunshine [Ab]and the rain, He sends the [Fm]harvest's [Ab]golden grain;
+Sunshine and rain, harvest of grain, He's [Eb7]my [Ab]friend.
 
 Verse 3
-Jesus is all the world to me, and true to Him I'll be;
-O how could I this friend deny, when He's so true to me?
-Following Him I know I'm right, He watches o'er me day and night;
-Following Him, by day and night, He's my friend.
+[Ab]Jesus is all [Db]the [Ab]world to me, and true to [Eb]Him I'll [Ab]be;
+O [Eb]how could I this [Ab]friend deny, when [Eb]He's so [Bb7]true to [Eb7]me?
+[Ab]Following [Fm]Him I [Ab]know I'm right, He watches [Fm]o'er me [Ab]day and night;
+Following Him, by day and night, He's [Eb7]my [Ab]friend.
 
 Verse 4
-Jesus is all the world to me, I want no better friend;
-I trust Him now, I'll trust Him when Life's fleeting days shall end.
-Beautiful life with such a friend; beautiful life that has no end;
-Eternal life, eternal joy, He's my friend.`
+[Ab]Jesus is all [Db]the [Ab]world to me, I want no [Eb]better [Ab]friend;
+I [Eb]trust Him now, I'll [Ab]trust Him when Life's [Eb]fleeting [Bb7]days shall [Eb7]end.
+[Ab]Beautiful [Fm]life with [Ab]such a friend; beautiful [Fm]life that [Ab]has no end;
+Eternal life, eternal joy, He's [Eb7]my [Ab]friend.`
   },
   {
     t: "Jesus, King of Glory",
@@ -2810,32 +2810,32 @@ Eternal life, eternal joy, He's my friend.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Jesus, King of glory, throned above the sky, Jesus, tender
-Savior, hear Thy children cry. Pardon our transgressions, cleanse us from our
-sin, By Thy Spirit help us heav'nly life to win. Jesus, King of
+[G]Jesus, [D7]King of [G]glory, throned a[Am7]bove the [D]sky, [C]Je[D7]sus, [G]tender
+[Am]Sa[C]vior, [G]hear [Em]Thy [Am]child[D7]ren [G]cry. Pardon [Am7]our [F]transgressions, [Am]cleanse us [C]from [Cmaj7]our
+[G]sin, [Am]By [Am7]Thy [D]Spi[D7]rit [G]help us [Am]heav'nly [D]life to [G]win. Jesus, [D]King [D7]of
 
 Verse 2
-On this day of gladness, Bending low the knee In thine earthly
-temple, Lord, we worship thee; Celebrate thy goodness, Mercy, grace, and
-truth, All thy loving guidance Of our heedless youth.
+[G]On this [D7]day of [G]gladness, Bending [Am7]low the [D]knee [C]In [D7]thine [G]earthly
+[Am]tem[C]ple, [G]Lord, [Em]we [Am]wor[D7]ship [G]thee; Cele[Am7]brate [F]thy goodness, [Am]Mercy, [C]grace, [Cmaj7]and
+[G]truth, [Am]All [Am7]thy [D]lov[D7]ing [G]guidance [Am]Of our [D]heedless [G]youth.
 
 Verse 3
-For the little children Who have come to thee; For the glad, bright
-spirits Who thy glory see; For the loved ones resting In thy dear em
-brace; For the pure and holy Who behold thy face,
+[G]For the [D7]little [G]children Who have [Am7]come to [D]thee; [C]For [D7]the [G]glad, bright
+[Am]spir[C]its [G]Who [Em]thy [Am]glo[D7]ry [G]see; For the [Am7]loved [F]ones resting [Am]In thy [C]dear [Cmaj7]em[G]brace;
+brace; [Am]For [Am7]the [D]pure [D7]and [G]holy [Am]Who be[D]hold thy [G]face,
 
 Verse 4
-Help us ever steadfast in the faith to be: In Thy Church's
-conflicts fighting valiantly. Loving Savior, strengthen these weak hearts of
-ours, Through Thy cross to conquer crafty evil powers.
+[G]Help us [D7]ever [G]steadfast in the [Am7]faith to [D]be: [C]In [D7]Thy [G]Church's
+[Am]con[C]flicts [G]fight[Em]ing [Am]val[D7]iant[G]ly. Loving [Am7]Sa[F]vior, strengthen [Am]these weak [C]hearts [Cmaj7]of
+[G]ours, [Am]Through [Am7]Thy [D]cross [D7]to [G]conquer [Am]crafty [D]evil [G]powers.
 
 Verse 5
-When the shadows lengthen, show us, Lord, Thy way; Through the darkness
-lead us to the heav'nly day; When our course is finished, ended all the
-strife, Grant us, with the faithful, palms and crowns of life.
+[G]When the [D7]shadows [G]lengthen, show us, [Am7]Lord, Thy [D]way; [C]Through [D7]the [G]darkness
+[Am]lead [C]us [G]to [Em]the [Am]heav'n[D7]ly [G]day; When our [Am7]course [F]is finished, [Am]ended [C]all [Cmaj7]the
+[G]strife, [Am]Grant [Am7]us, [D]with [D7]the [G]faithful, [Am]palms and [D]crowns of [G]life.
 
 Chorus
-glory, throned above the sky, Jesus, tender Savior, hear Thy children cry.`
+[G]glo[Bm]ry, [G]throned a[Cmaj7]bove [Am7]the [D]sky, [C]Je[D7]sus, [G]tender [Am]Sa[E7]vior, [G]hear Thy child[D7]ren [G]cry.`
   },
   {
     t: "Jesus Sinners Doth Receive",
@@ -2850,29 +2850,29 @@ glory, throned above the sky, Jesus, tender Savior, hear Thy children cry.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Jesus sinners doth receive; Well may we this saying ponder
-Who in sin's delusions live, And from God and Heaven wander:
-Here is hope for all who grieveJesus sinners doth receive.
+[G]Jesus [D]sin[G]ners [C]doth re[G]ceive; Well may [D]we [G]this [Am]say[G]ing pon[D]der
+[G]Who in [D]sin's [G]de[C]lusions [G]live, And from [D]God [G]and [Am]Hea[G]ven wan[D]der:
+[G]Here [D]is [Em]hope [D]for [G]all who [D]grieve-[G]Jesus [Am]sin[G]ners [Am7]doth [D]re[G]ceive.
 
 Verse 2
-We deserve but grief and shame, Yet His words, rich grace revealing,
-Pardon, peace, and life proclaim; Here their ills have perfect healing
-Who with humble hearts believeJesus sinners doth receive.
+[G]We de[D]serve [G]but [C]grief and [G]shame,- Yet His [D]words, [G]rich [Am]grace [G]reveal[D]ing,
+[G]Pardon, [D]peace, [G]and [C]life pro[G]claim; Here their [D]ills [G]have [Am]per[G]fect heal[D]ing
+[G]Who [D]with [Em]hum[D]ble [G]hearts be[D]lieve-[G]Jesus [Am]sin[G]ners [Am7]doth [D]re[G]ceive.
 
 Verse 3
-As the shepherd seeks to find His lost sheep that from Him strayeth,
-So hath Christ each soul in mind, And for its salvation prayeth;
-Fain He'd have each wand'rer live: Jesus sinners doth receive.
+[G]As the [D]shep[G]herd [C]seeks to [G]find His lost [D]sheep [G]that [Am]from [G]Him stray[D]eth,
+[G]So hath [D]Christ [G]each [C]soul in [G]mind, And for [D]its [G]sal[Am]va[G]tion pray[D]eth;
+[G]Fain [D]He'd [Em]have [D]each [G]wand'rer [D]live: [G]Jesus [Am]sin[G]ners [Am7]doth [D]re[G]ceive.
 
 Verse 4
-Come, then, all by guilt oppressed, Jesus calls, and He would make you
-God's own children, pure and blest, And to glory He would take you;
-Think on this, and well believe Jesus sinners doth receive.
+[G]Come, then, [D]all [G]by [C]guilt op[G]pressed, Jesus [D]calls, [G]and [Am]He [G]would make [D]you
+[G]God's own [D]child[G]ren, [C]pure and [G]blest, And to [D]glo[G]ry [Am]He [G]would take [D]you;
+[G]Think [D]on [Em]this, [D]and [G]well be[D]lieve [G]Jesus [Am]sin[G]ners [Am7]doth [D]re[G]ceive.
 
 Verse 5
-Savior, now I come to Thee: Great my sins, a weary burden!
-Wilt Thou mercy show to me? Can I hope to find a pardon?
-I will trust: my soul relieve! Me, a sinner, Lord, receive!`
+[G]Savior, [D]now [G]I [C]come to [G]Thee: Great my [D]sins, [G]a [Am]wear[G]y bur[D]den!
+[G]Wilt Thou [D]mer[G]cy [C]show to [G]me? Can I [D]hope [G]to [Am]find [G]a par[D]don?
+[G]I [D]will [Em]trust: [D]my [G]soul re[D]lieve! [G]Me, a [Am]sin[G]ner, [Am7]Lord, [D]re[G]ceive!`
   },
   {
     t: "Jesus, Tender Shepherd, Hear Me",
@@ -2887,16 +2887,16 @@ I will trust: my soul relieve! Me, a sinner, Lord, receive!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Jesus, tender Shepherd, hear me; Bless Thy little lamb tonight;
-Through the darkness be Thou near me; Watch my sleep till morning light.
+[F]Jesus, [Am]ten[C7]der [F]Shepherd, hear [C7]me; [F]Bless [C]Thy [F]little [C]lamb [F]to[C]night;
+[F]Through the [C]dark[C7]ness [F]be [Dm]Thou [F]near [A7]me; [Dm]Watch [G7]my [F]sleep till [C7]morning [F]light.
 
 Verse 2
-All this day thy hand has led me, And I thank Thee for Thy care;
-Thou hast clothed me, warmed and fed me, Listen to my evening prayer.
+[F]All this [Am]day [C7]thy [F]hand has led [C7]me, [F]And [C]I [F]thank Thee [C]for [F]Thy [C]care;
+[F]Thou hast [C]clothed [C7]me, [F]warmed [Dm]and [F]fed [A7]me, [Dm]Lis[G7]ten [F]to my [C7]evening [F]prayer.
 
 Verse 3
-Let my sins be all forgiven; Bless the friends I love so well;
-Take me, when I die, to heaven, Happy there with Thee to dwell.`
+[F]Let my [Am]sins [C7]be [F]all forgiv[C7]en; [F]Bless [C]the [F]friends I [C]love [F]so [C]well;
+[F]Take me, [C]when [C7]I [F]die, [Dm]to [F]hea[A7]ven, [Dm]Hap[G7]py [F]there with [C7]Thee to [F]dwell.`
   },
   {
     t: "Jesus, Thy Boundless Love To Me",
@@ -2911,34 +2911,34 @@ Take me, when I die, to heaven, Happy there with Thee to dwell.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Jesus, Thy boundless love to me No thought can reach, no
-tongue declare; Unite my thankful heart with Thee And
-reign without a rival there. To Thee alone, dear
-Lord, I live; Myself to Thee, dear Lord, I give.
+[E]Jesus, Thy boundless [F#m7]love [B7]to me [E]No thought [A]can [E]reach, no
+[C#m]tongue [F#7]de[B]clare; [E]Unite my thankful [F#m7]heart [B7]with Thee [E]And
+reign [A]with[E]out a [C#m]ri[F#7]val [B]there. [E]To [A]Thee [E]a[A]lone, [E]dear
+[B]Lord, [C#m]I [E]live; [B]My[E]self to [A]Thee, [F#m]dear [E]Lord, [B7]I [E]give.
 
 Verse 2
-O, grant that nothing in my soul May dwell but Thy pure
-love alone! Oh, may Thy love possess me whole, My
-joy, my treasure, and my crown! All coldness from my
-heart remove; My every act, word, thought, be love.
+[E]O, grant that nothing [F#m7]in [B7]my soul [E]May dwell [A]but [E]Thy pure
+[C#m]love [F#7]a[B]lone! [E]Oh, may Thy love pos[F#m7]sess [B7]me whole, [E]My
+joy, [A]my [E]treasure, [C#m]and [F#7]my [B]crown! [E]All [A]cold[E]ness [A]from [E]my
+[B]heart [C#m]re[E]move; [B]My [E]every [A]act, [F#m]word, [E]thought, [B7]be [E]love.
 
 Verse 3
-O love, how cheering is thy ray! All pain before thy
-presence flies; Care, anguish, sorrow, melt away Wher
-e'er thy healing beams arise. O Jesus, nothing
-may I see, Nothing desire or seek, but Thee!
+[E]O love, how cheering [F#m7]is [B7]thy ray! [E]All pain [A]be[E]fore thy
+[C#m]pre[F#7]sence [B]flies; [E]Care, anguish, sorrow, [F#m7]melt [B7]away [E]Where'er
+e'er [A]thy [E]healing [C#m]beams [F#7]a[B]rise. [E]O [A]Je[E]sus, [A]no[E]thing
+[B]may [C#m]I [E]see, [B]No[E]thing de[A]sire [F#m]or [E]seek, [B7]but [E]Thee!
 
 Verse 4
-This love unwearied I pursue And dauntlessly to
-Thee aspire. Oh, may Thy love my hope renew Burn
-in my soul like heav'nly fire! And day and night be
-all my care To guard this sacred treasure there.
+[E]This love unwearied [F#m7]I [B7]pursue [E]And daunt[A]less[E]ly to
+[C#m]Thee [F#7]a[B]spire. [E]Oh, may Thy love my [F#m7]hope [B7]renew [E]Burn
+in [A]my [E]soul like [C#m]heav'n[F#7]ly [B]fire! [E]And [A]day [E]and [A]night [E]be
+[B]all [C#m]my [E]care [B]To [E]guard this [A]sa[F#m]cred [E]treas[B7]ure [E]there.
 
 Verse 5
-My Savior, Thou Thy love to me In shame, in want, in
-pain, hast showed; For me, on the accursed tree, Thou
-pourest forth Thy guiltless blood; Thy wounds upon my
-heart impress, Nor aught shall the lov'd stamp efface.`
+[E]My Savior, Thou Thy [F#m7]love [B7]to me [E]In shame, [A]in [E]want, in
+[C#m]pain, [F#7]hast [B]showed; [E]For me, on the a[F#m7]ccur[B7]sed tree, [E]Thou
+pour[A]est [E]forth Thy [C#m]guilt[F#7]less [B]blood; [E]Thy [A]wounds [E]u[A]pon [E]my
+[B]heart [C#m]im[E]press, [B]Nor [E]aught shall [A]the [F#m]lov'd [E]stamp [B7]ef[E]face.`
   },
   {
     t: "Jesus Wants All Of His Children",
@@ -2985,24 +2985,24 @@ When we find our friends are angry, we will to them say,
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Lamp of our feet! whereby we trace Our path, when wont to stray;
-Stream from the fount of heav'nly grace! Brook by the trav'ler's way!
+[G]Lamp of our [Am]feet! [G]where[Am]by [D]we [G]trace [D7]Our [G]path, [D]when [G]wont [A7]to [D]stray;
+[Am]Stream from the fount [A7]of [D]heav'nly grace! [G]Brook by [C]the [G]trav[D7]'ler's [G]way!
 
 Verse 2
-Bread of our souls! whereon we feed; True manna from on high!
-Our guide, and chart wherein we read Of realms beyond the sky.
+[G]Bread of our [Am]souls! [G]where[Am]on [D]we [G]feed; [D7]True [G]man[D]na [G]from [A7]on [D]high!
+[Am]Our guide, and chart [A7]where[D]in we read [G]Of realms [C]be[G]yond [D7]the [G]sky.
 
 Verse 3
-Pillar of firethrough watches dark! Or radiant cloud by day!
-When waves would whelm our tossing barkOur anchor and our stay!
+[G]Pillar of [Am]fire-[G]through [Am]watch[D]es [G]dark! [D7]Or [G]ra[D]diant [G]cloud [A7]by [D]day!
+[Am]When waves would whelm [A7]our [D]tossing bark-[G]Our an[C]chor [G]and [D7]our [G]stay!
 
 Verse 4
-Polestar on life's tempestuous deep! Beacon! when doubts surround;
-Compass! by which our course we keep; Our deep sealead, to sound!
+[G]Pole-star on [Am]life's [G]tem[Am]pest[D]uous [G]deep! [D7]Bea[G]con! [D]when [G]doubts [A7]sur[D]round;
+[Am]Compass! by which [A7]our [D]course we keep; [G]Our deep [C]sea-[G]lead, [D7]to [G]sound!
 
 Verse 5
-Riches in poverty! our aid In every needful hour!
-Unshaken rock! the pilgrim's shade; The soldier's fortress tow'r.`
+[G]Riches in [Am]pov[G]er[Am]ty! [D]our [G]aid [D7]In [G]ev[D]ery [G]need[A7]ful [D]hour!
+[Am]Unshaken rock! [A7]the [D]pilgrim's shade; [G]The sol[C]dier's [G]for[D7]tress [G]tow'r.`
   },
   {
     t: "Let All Mortal Flesh Keep Silence",
@@ -3017,24 +3017,24 @@ Unshaken rock! the pilgrim's shade; The soldier's fortress tow'r.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Let all mortal flesh keep silence, And with fear and trembling stand;
-Ponder nothing earthly minded, For with blessing in His hand,
-Christ our God to earth descendeth, Our full homage to demand.
+[Dm]Let all mortal flesh [Bbmaj7]keep [Dm]silence, And with fear [Dm7]and [Gm7]trem[F]bling stand;
+[Bb]Ponder no[Gm7]thing [Dm]earthly minded, For with bles[F]sing [Bb]in [Bbmaj7]His [A]hand,
+[D]Christ our God to [Gm]earth [Gm7]de[Dm]scend[Am]eth, [Dm]Our full hom[Dm7]age [G]to [C]de[Dm]mand.
 
 Verse 2
-King of kings, yet born of Mary, As of old on earth He stood,
-Lord of lords, in human vesture, In the body and the blood;
-He will give to all the faithful His own self for heav'nly food.
+[Dm]King of kings, yet born [Bbmaj7]of [Dm]Mary, As of old [Dm7]on [Gm7]earth [F]He stood,
+[Bb]Lord of lords, [Gm7]in [Dm]human vesture, In the bo[F]dy [Bb]and [Bbmaj7]the [A]blood;
+[D]He will give to [Gm]all [Gm7]the [Dm]fai[Am]thful [Dm]His own self [Dm7]for [G]heav'n[C]ly [Dm]food.
 
 Verse 3
-Rank on rank the host of heaven Spreads its vanguard on the way,
-As the Light of light descendeth From the realms of endless day,
-That the pow'rs of hell may vanish As the darkness clears away.
+[Dm]Rank on rank the host [Bbmaj7]of [Dm]heaven Spreads its van[Dm7]guard [Gm7]on [F]the way,
+[Bb]As the Light [Gm7]of [Dm]light descendeth From the realms [F]of [Bb]end[Bbmaj7]less [A]day,
+[D]That the pow'rs of [Gm]hell [Gm7]may [Dm]va[Am]nish [Dm]As the dark[Dm7]ness [G]clears [C]a[Dm]way.
 
 Verse 4
-At His feet the six wing�d seraph, Cherubim with sleepless eye,
-Veil their faces to the presence, As with ceaseless voice they cry:
-Alleluia, Alleluia Alleluia, Lord Most High!`
+[Dm]At His feet the six [Bbmaj7]wingèd [Dm]seraph, Cherubim [Dm7]with [Gm7]sleep[F]less eye,
+[Bb]Veil their fa[Gm7]ces [Dm]to the presence, As with cease[F]less [Bb]voice [Bbmaj7]they [A]cry:
+[D]Allelu[Gm]ia, [Gm7]Al[Dm]lelu[Am]ia [Dm]Allelu[Dm7]ia, [G]Lord [C]Most [Dm]High!`
   },
   {
     t: "Let Children Hear The Mighty Deeds",
@@ -3049,20 +3049,20 @@ Alleluia, Alleluia Alleluia, Lord Most High!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Let children hear the mighty deeds Which God performed of old;
-Which in our younger years we saw, And which our fathers told.
+[A]Let children [D]hear [A]the [F#m]might[E]y [A]deeds [E]Which [A]God [F#m7]performed [B]of [E]old;
+Which [D]in [E7]our [A]younger [D]years [Bm]we [E]saw, And [A]which [F#m]our [Bm]fa[E]thers [A]told.
 
 Verse 2
-He bids us make His glories known, His works of pow'r and grace;
-And we'll convey His wonders down Through every rising race.
+[A]He bids us [D]make [A]His [F#m]glo[E]ries [A]known, [E]His [A]works [F#m7]of pow'r [B]and [E]grace;
+And [D]we'll [E7]con[A]vey His [D]won[Bm]ders [E]down Through [A]ev[F#m]ery [Bm]ri[E]sing [A]race.
 
 Verse 3
-Our lips shall tell them to our sons, And they again to theirs;
-That generations yet unborn May teach them to their heirs.
+[A]Our lips shall [D]tell [A]them [F#m]to [E]our [A]sons, [E]And [A]they [F#m7]again [B]to [E]theirs;
+That [D]gen[E7]er[A]ations [D]yet [Bm]un[E]born May [A]teach [F#m]them [Bm]to [E]their [A]heirs.
 
 Verse 4
-Thus shall they learn in God alone Their hope securely stands,
-That they may ne'er forget His work But practice His commands.`
+[A]Thus shall they [D]learn [A]in [F#m]God [E]a[A]lone [E]Their [A]hope [F#m7]secure[B]ly [E]stands,
+That [D]they [E7]may [A]ne'er for[D]get [Bm]His [E]work But [A]prac[F#m]tice [Bm]His [E]com[A]mands.`
   },
   {
     t: "Let Our Gladness Have No End",
@@ -3077,19 +3077,19 @@ That they may ne'er forget His work But practice His commands.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Let our gladness have no end, Hallelujah!
-For to earth did Christ descend. Hallelujah! On this day God
+[G]Let [D]our [G]glad[C]ness [D]have [G]no [D]end, [Am]Hal[G]le[C]lu[G]jah!
+For to [C]earth [Am]did [Bm]Christ de[Am]scend. [G]Hal[C]lelu[G]jah! On [D]this [Em]day [C]God
 
 Verse 2
-See, the loveliest blooming rose, Hallelujah!
-From the branch of Jesse grows. Hallelujah!
+[G]See, [D]the [G]love[C]liest [D]bloom[G]ing [D]rose, [Am]Hal[G]le[C]lu[G]jah!
+From the [C]branch [Am]of [Bm]Jesse [Am]grows. [G]Hal[C]lelu[G]jah!
 
 Verse 3
-Into flesh is made the Word. Hallelujah!
-He, our refuge and our Lord. Hallelujah!
+[G]In[D]to [G]flesh [C]is [D]made [G]the [D]Word. [Am]Hal[G]le[C]lu[G]jah!
+He, our [C]re[Am]fuge [Bm]and our [Am]Lord. [G]Hal[C]lelu[G]jah!
 
 Chorus
-gave us Christ, His Son, to save us; Christ, His Son, to save us.`
+[Bm]gave [G]us [Em]Christ, [Am]His [B]Son, [Am]to [G]save [Em]us; [G]Christ, [C]His [D]Son, [Em]to [Am]save [G]us.`
   },
   {
     t: "Lift High The Cross",
@@ -3104,28 +3104,28 @@ gave us Christ, His Son, to save us; Christ, His Son, to save us.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Come, brethren, follow where our Captain trod,
-our King victorious, Christ the Son of God.
+[Em]Come, brethren, [D]fol[G]low [C]where our [Em]Cap[Am]tain [B]trod,
+[Em]our [Am]King [Bm]vic[G]torious, [C]Christ the Son [D]of [G]God.
 
 Verse 2
-Led on their way by this triumphant sign,
-The hosts of God in conquering ranks combine.
+[Em]Led on their [D]way [G]by [C]this tri[Em]um[Am]phant [B]sign,
+[Em]The [Am]hosts [Bm]of [G]God in [C]conquering ranks [D]com[G]bine.
 
 Verse 3
-Each newborn servant of the Crucified
-Bears on the brow the seal of Him Who died.
+[Em]Each newborn [D]ser[G]vant [C]of the [Em]Cru[Am]ci[B]fied
+[Em]Bears [Am]on [Bm]the [G]brow the [C]seal of Him [D]Who [G]died.
 
 Verse 4
-This is the sign which Satan's legions fear
-and angels veil their faces to revere.
+[Em]This is the [D]sign [G]which [C]Satan's [Em]le[Am]gions [B]fear
+[Em]and [Am]an[Bm]gels [G]veil their [C]faces to [D]re[G]vere.
 
 Verse 5
-Saved by this Cross whereon their Lord was slain,
-the sons of Adam their lost home regain.
+[Em]Saved by this [D]Cross [G]where[C]on their [Em]Lord [Am]was [B]slain,
+[Em]the [Am]sons [Bm]of [G]Adam [C]their lost home [D]re[G]gain.
 
 Chorus
-Lift high the cross, the love of Christ proclaim,
-Till all the world adore His sacred Name.`
+[C]Lift high the [Dm7]cross, [G]the [C]love [Am7]of [C]Christ [D7]proclaim,
+[G7]Till [C]all [G7]the [C]world [F]a[G]dore [Dm]His [Dm7]sac[G7]red Name.`
   },
   {
     t: "Lift Up Your Heads, Ye Mighty Gates",
@@ -3140,34 +3140,34 @@ Till all the world adore His sacred Name.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Lift up your heads, ye mighty gates! Behold, the King of glory
-waits; The King of kings is drawing near, The Savior of the world
-is here; Life and salvation doth He bring, Wherefore rejoice and
-gladly sing: We praise Thee, Father, now! Creator, wise art Thou!
+[E]Lift [A]up your heads, ye [E]mighty gates! Behold, [E7]the [A]King [D]of [A]glo[E7]ry
+[A]waits; The King of [E]kings is [F#m]draw[B]ing [E]near, [C#m]The [F#m]Sa[E]vior [A]of [F#m]the [E]world
+[B]is [E]here; [A]Life [E]and [E7]sal[A]vation [E]doth [E7]He [A]bring, [E]Where[E7]fore [E]re[A]joice [D]and
+[A]glad[E]ly [A]sing: We [E]praise [A]Thee, [D]Fa[E]ther, [A]now! Cre[D]a[Bm]tor, [A]wise [E]art [A]Thou!
 
 Verse 2
-The Lord is just, a Helper tried, Mercy is ever at His
-side, His kingly crown is holiness, His scepter, pity in
-distress, The end of all our woe He brings; Wherefore the earth is
-glad and sings: We praise Thee, Savior, now! Mighty in deed art Thou!
+[E]The [A]Lord is just, a [E]Helper tried, Mercy [E7]is [A]ev[D]er [A]at [E7]His
+[A]side, His kingly [E]crown is [F#m]ho[B]li[E]ness, [C#m]His [F#m]scep[E]ter, [A]pi[F#m]ty [E]in
+[B]dis[E]tress, [A]The [E]end [E7]of [A]all our [E]woe [E7]He [A]brings; [E]Where[E7]fore [E]the [A]earth [D]is
+[A]glad [E]and [A]sings: We [E]praise [A]Thee, [D]Sa[E]vior, [A]now! Migh[D]ty [Bm]in [A]deed [E]art [A]Thou!
 
 Verse 3
-O blest the land, the city blest, Where Christ the Ruler is con
-fessed! O happy hearts and happy homes To whom this King in tri
-umph comes! The cloudless Sun of joy He is, Who bringeth pure de
-light and bliss. O Comforter divine, What boundless grace is Thine!
+[E]O [A]blest the land, the [E]city blest, Where Christ [E7]the [A]Ru[D]ler [A]is [E7]con[A]fessed!
+fessed! O happy [E]hearts and [F#m]hap[B]py [E]homes [C#m]To [F#m]whom [E]this [A]King [F#m]in [E]tri[B]umph
+umph [E]comes! [A]The [E]cloud[E7]less [A]Sun of [E]joy [E7]He [A]is, [E]Who [E7]bring[E]eth [A]pure [D]de[A]light
+light [E]and [A]bliss. O [E]Com[A]fort[D]er [E]di[A]vine, What [D]bound[Bm]less [A]grace [E]is [A]Thine!
 
 Verse 4
-Fling wide the portals of your heart; Make it a temple, set a
-part From earthly use for heav'ns employ, Adorned with prayer and love
-and joy; So shall your Sovereign enter in, and new and nobler
-life begin; To Thee, O God, be praise, For Word, and deed, and grace!
+[E]Fling [A]wide the portals [E]of your heart; Make it [E7]a [A]tem[D]ple, [A]set [E7]a[A]part
+part From earthly [E]use for [F#m]heav'ns [B]em[E]ploy, [C#m]A[F#m]dorned [E]with [A]prayer [F#m]and [E]love
+[B]and [E]joy; [A]So [E]shall [E7]your [A]Sovereign [E]en[E7]ter [A]in, [E]and [E7]new [E]and [A]no[D]bler
+[A]life [E]be[A]gin; To [E]Thee, [A]O [D]God, [E]be [A]praise, For [D]Word, [Bm]and [A]deed, [E]and [A]grace!
 
 Verse 5
-Redeemer, come! I open wide My heart to Thee; here, Lord, a
-bide! Let me Thy inner presence feel, Thy grace and love in me
-reveal. Thy Holy Spirit guide us on, Until our glorious
-goal be won! Eternal praise and fame We offer to Thy Name.`
+[E]Re[A]deemer, come! I [E]open wide My heart [E7]to [A]Thee; [D]here, [A]Lord, [E7]a[A]bide!
+bide! Let me Thy [E]inner [F#m]pres[B]ence [E]feel, [C#m]Thy [F#m]grace [E]and [A]love [F#m]in [E]me
+[B]re[E]veal. [A]Thy [E]Ho[E7]ly [A]Spirit [E]guide [E7]us [A]on, [E]Un[E7]til [E]our [A]glo[D]rious
+[A]goal [E]be [A]won! E[E]ter[A]nal [D]praise [E]and [A]fame We [D]of[Bm]fer [A]to [E]Thy [A]Name.`
   },
   {
     t: "Lo, God To Heav'n Ascendeth",
@@ -3182,34 +3182,34 @@ goal be won! Eternal praise and fame We offer to Thy Name.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Lo, God to Heav'n ascendeth! Throughout its regions vast
-With shouts triumphant blendeth the trumpet's thrilling blast:
-Sing praise to Christ the Lord; sing praise with exultation,
-King of each heathen nation, the God of Hosts adored!
+[F]Lo, [Bb]God to Heav'n [F]ascen[C]deth! Through[Bb]out [F]its re[C]gions [F]vast
+With [Bb]shouts trium[F]phant blend[C]eth the [Bb]trum[F]pet's thrill[C]ing [F]blast:
+Sing praise to [C]Christ [Dm]the [A]Lord; [F]sing praise with ex[Bb]ul[C]ta[F]tion,
+King of each [Fmaj7]heathen [C]na[F]tion, the [Gm]God [F]of [Gm7]Hosts [C]a[F]dored!
 
 Verse 2
-With joy is Heav'n resounding Christ's glad return to see;
-Behold the saints surrounding the Lord who set them free.
-Bright myriads, thronging, come; the cherub band rejoices,
-And loud seraphic voices Welcome Messiah home.
+[F]With [Bb]joy is Heav'n [F]resoun[C]ding Christ's [Bb]glad [F]return [C]to [F]see;
+Be[Bb]hold the saints [F]surroun[C]ding the [Bb]Lord [F]who set [C]them [F]free.
+Bright myriads, [C]throng[Dm]ing, [A]come; [F]the cherub band [Bb]re[C]joi[F]ces,
+And loud ser[Fmaj7]aphic [C]voi[F]ces Wel[Gm]come [F]Mes[Gm7]si[C]ah [F]home.
 
 Verse 3
-No more the way is hidden, Since Christ our Head arose:
-No more to man forbidden The road to Heav'n that goes.
-Our Lord is gone before; yet here He will not leave us,
-And soon in Heav'n receive us and open wide the door.
+[F]No [Bb]more the way [F]is hid[C]den, Since [Bb]Christ [F]our Head [C]a[F]rose:
+No [Bb]more to man [F]forbid[C]den The [Bb]road [F]to Heav'n [C]that [F]goes.
+Our Lord is [C]gone [Dm]be[A]fore; [F]yet here He will [Bb]not [C]leave [F]us,
+And soon in [Fmaj7]Heav'n re[C]ceive [F]us and [Gm]o[F]pen [Gm7]wide [C]the [F]door.
 
 Verse 4
-Christ is our place preparing; to Heav'n we, too, shall rise,
-And, joys angelic sharing, Be where our treasure lies:
-There may each heart be found! Where Jesus Christ has entered,
-There let our Hope be centered; Our course still heav'nward bound.
+[F]Christ [Bb]is our place [F]prepar[C]ing; to [Bb]Heav'n [F]we, too, [C]shall [F]rise,
+And, [Bb]joys angel[F]ic shar[C]ing, Be [Bb]where [F]our trea[C]sure [F]lies:
+There may each [C]heart [Dm]be [A]found! [F]Where Jesus Christ [Bb]has [C]en[F]tered,
+There let our [Fmaj7]Hope be [C]cen[F]tered; Our [Gm]course [F]still [Gm7]heav'n[C]ward [F]bound.
 
 Verse 5
-May we, His servants, thither In heart and mind ascend,
-And let us sing together: "We seek Thee, Christ, our friend,
-Thee, God's exalted Son, our Life, and Way to Heaven,
-To whom all pow'r is given, our Joy and Hope and Crown."`
+[F]May [Bb]we, His ser[F]vants, thi[C]ther In [Bb]heart [F]and mind [C]as[F]cend,
+And [Bb]let us sing [F]toge[C]ther: "We [Bb]seek [F]Thee, Christ, [C]our [F]friend,
+Thee, God's ex[C]al[Dm]ted [A]Son, [F]our Life, and Way [Bb]to [C]Hea[F]ven,
+To whom all [Fmaj7]pow'r is [C]giv[F]en, our [Gm]Joy [F]and [Gm7]Hope [C]and [F]Crown."`
   },
   {
     t: "Look Down, O Lord, From Heaven Behold",
@@ -3224,34 +3224,34 @@ To whom all pow'r is given, our Joy and Hope and Crown."`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Look down, O Lord, from heav'n behold, And let thy pity waken!
-How few the flock within thy fold, Neglected and forsaken!
-Almost thou'lt seek for faith in vain, And those who should thy
-truth maintain Thy Word from us have taken.
+[D]Look [Gm]down, [D]O [Gm]Lord, [D]from [Gm]heav'n be[D]hold, [Cm]And [Gm]let [D]thy [Eb]pit[Cm]y [Gm]waken!
+[Gmaj7]How [Gm]few [D]the [Gm]flock [D]with[Gm]in thy [D]fold, [Cm]Ne[Gm]glec[D]ted [Eb]and [Cm]for[Gm]saken!
+[C]Al[F]most [Dm]thou'lt [Am]seek [Bb]for [Dm]faith [Gm]in [A]vain, [Dm]And [C]those [Bb]who [F]should [Bb]thy
+[Eb]truth [D]main[Gm]tain Thy [D]Word [Gm]from [F]us [Bb]have [F]ta[D]ken.
 
 Verse 2
-With frauds which they themselves invent Thy truth they have confounded;
-Their hearts are not with one consent On thy pure doctrine grounded;
-And, whilst they gleam with outward show, They lead thy people
-to and fro, In error's maze astounded.
+[D]With [Gm]frauds [D]which [Gm]they [D]them[Gm]selves in[D]vent [Cm]Thy [Gm]truth [D]they [Eb]have [Cm]con[Gm]founded;
+[Gmaj7]Their [Gm]hearts [D]are [Gm]not [D]with [Gm]one con[D]sent [Cm]On [Gm]thy [D]pure [Eb]doc[Cm]trine [Gm]grounded;
+[C]And, [F]whilst [Dm]they [Am]gleam [Bb]with [Dm]out[Gm]ward [A]show, [Dm]They [C]lead [Bb]thy [F]peo[Bb]ple
+[Eb]to [D]and [Gm]fro, In [D]err[Gm]or's [F]maze [Bb]a[F]stound[D]ed.
 
 Verse 3
-God surely will uproot all those With vain deceits who store us,
-With haughty tongue who God oppose, And say, "Who'll stand before us?
-By right or might we will prevail; What we determine
-cannot fail, For who can lord it o'er us?"
+[D]God [Gm]sure[D]ly [Gm]will [D]up[Gm]root all [D]those [Cm]With [Gm]vain [D]de[Eb]ceits [Cm]who [Gm]store us,
+[Gmaj7]With [Gm]haugh[D]ty [Gm]tongue [D]who [Gm]God o[D]ppose, [Cm]And [Gm]say, [D]"Who'll [Eb]stand [Cm]be[Gm]fore us?
+[C]By [F]right [Dm]or [Am]might [Bb]we [Dm]will [Gm]pre[A]vail; [Dm]What [C]we [Bb]de[F]ter[Bb]mine
+[Eb]can[D]not [Gm]fail, For [D]who [Gm]can [F]lord [Bb]it [F]o'er [D]us?"
 
 Verse 4
-For this, saith God, I will arise, These wolves my flock are rending;
-I've heard my people's bitter sighs To heav'n my throne ascending:
-Now will I up, and set at rest Each weary soul by
-fraud opprest, The poor with might defending.
+[D]For [Gm]this, [D]saith [Gm]God, [D]I [Gm]will a[D]rise, [Cm]These [Gm]wolves [D]my [Eb]flock [Cm]are [Gm]rending;
+[Gmaj7]I've [Gm]heard [D]my [Gm]peo[D]ple's [Gm]bitter [D]sighs [Cm]To [Gm]heav'n [D]my [Eb]throne [Cm]as[Gm]cending:
+[C]Now [F]will [Dm]I [Am]up, [Bb]and [Dm]set [Gm]at [A]rest [Dm]Each [C]wear[Bb]y [F]soul [Bb]by
+[Eb]fraud [D]op[Gm]prest, The [D]poor [Gm]with [F]might [Bb]de[F]fend[D]ing.
 
 Verse 5
-The silver sev'n times tried is pure From all adulteration;
-So, through God's word, shall men endure Each trial and temptation:
-Its worth gleams brighter through the cross, And, purified from
-human dross, It shines through every nation.`
+[D]The [Gm]sil[D]ver [Gm]sev'n [D]times [Gm]tried is [D]pure [Cm]From [Gm]all [D]a[Eb]dult[Cm]er[Gm]ation;
+[Gmaj7]So, [Gm]through [D]God's [Gm]word, [D]shall [Gm]men en[D]dure [Cm]Each [Gm]tri[D]al [Eb]and [Cm]temp[Gm]tation:
+[C]Its [F]worth [Dm]gleams [Am]bright[Bb]er [Dm]through [Gm]the [A]cross, [Dm]And, [C]pur[Bb]i[F]fied [Bb]from
+[Eb]hu[D]man [Gm]dross, It [D]shines [Gm]through [F]e[Bb]very [F]na[D]tion.`
   },
   {
     t: "Lord, Dismiss Us With Thy Blessing",
@@ -3266,19 +3266,19 @@ human dross, It shines through every nation.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Lord, dismiss us with Thy blessing; Fill our hearts with joy and peace;
-Let us each Thy love possessing, Triumph in redeeming grace.
-O refresh us, O refresh us, Trav'- ling through this wilderness.
+[C]Lord, dismiss us with Thy blessing; [F]Fill our [C]hearts [Am]with [G]joy [G7]and [C]peace;
+Let us each [Em]Thy [C]love pos[Am]ses[E]sing, [Am]Tri[E]umph [Am]in re[G]deem[D7]ing [G]grace.
+O refresh us, [C]O re[F]fresh us, [Dm]Trav'[Em]ling ling [Dm]through [Am]this wil[G]der[C]ness.
 
 Verse 2
-Thanks we give and adoration For Thy Gospel's joyful sound;
-May the fruits of Thy salvation In our hearts and lives abound.
-Ever faithful, ever faithful, To the truth may we be found.
+[C]Thanks we give and adoration [F]For Thy [C]Gos[Am]pel's [G]joy[G7]ful [C]sound;
+May the fruits [Em]of [C]Thy sal[Am]va[E]tion [Am]In [E]our [Am]hearts and [G]lives [D7]a[G]bound.
+Ever faithful, [C]ever [F]faithful, [Dm]To [Em]the [Dm]truth [Am]may we [G]be [C]found.
 
 Verse 3
-So that when Thy love shall call us, Savior, from the world away,
-Fear of death shall not appall us, Glad Thy summons to obey.
-May we ever, may we ever, Reign with Thee in endless day.`
+[C]So that when Thy love shall call us, [F]Savior, [C]from [Am]the [G]world [G7]a[C]way,
+Fear of death [Em]shall [C]not ap[Am]pall [E]us, [Am]Glad [E]Thy [Am]summons [G]to [D7]o[G]bey.
+May we ever, [C]may we [F]ever, [Dm]Reign [Em]with [Dm]Thee [Am]in end[G]less [C]day.`
   },
   {
     t: "Lord, Enthroned in Heavenly Splendor",
@@ -3293,32 +3293,32 @@ May we ever, may we ever, Reign with Thee in endless day.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Lord, enthroned in heav'nly splendor, First begotten from the dead,
+[Gm]Lord, enthroned in heav'nly splendor, First begotten from the dead,
 You alone, our strong Defender, Now lift up Your people's head.
-Jesus, true and living Bread! Jesus, true and living Bread!
+[Cm7]Jesus, true [Eb]and living [D]Bread! Jesus, [Gm]true and [Cm7]living [Gm]Bread!
 
 Verse 2
-Here our humblest homage pay we, Here in loving reference bow;
+[Gm]Here our humblest homage pay we, Here in loving reference bow;
 Here for faith's discernment pray we, Lest we fail to know You now.
-Thou art here, we ask not how. Thou art here, we ask not how.
+[Cm7]Thou art here, [Eb]we ask not [D]how. Thou art [Gm]here, we [Cm7]ask not [Gm]how.
 
 Verse 3
-Though the lowliest form doth veil Thee As of old in Bethlehem,
+[Gm]Though the lowliest form doth veil Thee As of old in Bethlehem,
 Here as there Thine angels hail Thee, Branch and Flow'r of Jesse's stem.
-We in worship join with them. We in worship join with them.
+[Cm7]We in wor[Eb]ship join with [D]them. We in [Gm]worship [Cm7]join with [Gm]them.
 
 Verse 4
-Paschal Lamb, Your offering finished Once for all when You were slain,
+[Gm]Paschal Lamb, Your offering finished Once for all when You were slain,
 In its fullness undiminished Shall forevermore remain.
-Cleansing souls from every stain. Cleansing souls from every stain.
+[Cm7]Cleansing souls [Eb]from every [D]stain. Cleansing [Gm]souls from [Cm7]every [Gm]stain.
 
 Verse 5
-Great High Priest of our profession, Through the veil Thou wentest in,
+[Gm]Great High Priest of our profession, Through the veil Thou wentest in,
 By Thy mighty intercession, Grace and peace for us to win.
-Jesus, true and living Bread! Jesus, true and living Bread!
+[Cm7]Jesus, true [Eb]and living [D]Bread! Jesus, [Gm]true and [Cm7]living [Gm]Bread!
 
 Chorus
-Alleluia! Alleluia! Alleluia!`
+Alleluia! [D]Allelu[Cm]ia! [Gm]Allelu[Bb]ia!`
   },
   {
     t: "Lord Jesus Think On Me",
@@ -3333,24 +3333,24 @@ Alleluia! Alleluia! Alleluia!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Lord Jesus, think on me And purge away my sin;
-From earthborn passions set me free And make me pure within.
+[Fm]Lord Je[Db]sus, think [C]on [Fm]me And purge [Ab]a[Bbm7]way [Eb]my [Ab]sin;
+From earth[Eb]born [Db]pas[Eb7]sions [Ab]set me [Eb]free [C]And [Bbm]make [Fm]me pure [C]with[Fm]in.
 
 Verse 2
-Lord Jesus, think on me, With many'a care oppressed;
-Let me Thy loving servant be And taste Thy promised rest.
+[Fm]Lord Je[Db]sus, think [C]on [Fm]me, With ma[Ab]ny'a [Bbm7]care [Eb]op[Ab]pressed;
+Let me [Eb]Thy [Db]lo[Eb7]ving [Ab]servant [Eb]be [C]And [Bbm]taste [Fm]Thy pro[C]mised [Fm]rest.
 
 Verse 3
-Lord Jesus, think on me Amid the battle's strife;
-In all my pain and misery Be Thou my Health and Life.
+[Fm]Lord Je[Db]sus, think [C]on [Fm]me Amid [Ab]the [Bbm7]bat[Eb]tle's [Ab]strife;
+In all [Eb]my [Db]pain [Eb7]and [Ab]mise[Eb]ry [C]Be [Bbm]Thou [Fm]my Health [C]and [Fm]Life.
 
 Verse 4
-Lord Jesus, think on me Nor let me go astray;
-Through darkness and perplexity Point Thou the heav'nly way.
+[Fm]Lord Je[Db]sus, think [C]on [Fm]me Nor let [Ab]me [Bbm7]go [Eb]a[Ab]stray;
+Through dark[Eb]ness [Db]and [Eb7]per[Ab]plexit[Eb]y [C]Point [Bbm]Thou [Fm]the heav'n[C]ly [Fm]way.
 
 Verse 5
-Lord Jesus, think on me When floods the tempest high;
-When on doth rush the enemy, O Savior, be Thou nigh!`
+[Fm]Lord Je[Db]sus, think [C]on [Fm]me When floods [Ab]the [Bbm7]tem[Eb]pest [Ab]high;
+When on [Eb]doth [Db]rush [Eb7]the [Ab]ene[Eb]my, [C]O [Bbm]Sa[Fm]vior, be [C]Thou [Fm]nigh!`
   },
   {
     t: "Lord, Keep Us Steadfast in Thy Word",
@@ -3365,16 +3365,16 @@ When on doth rush the enemy, O Savior, be Thou nigh!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Lord, keep us steadfast in Thy Word; Curb those who fain by craft and sword
-Would wrest the kingdom from Thy Son And set at naught all He hath done.
+[Em]Lord, keep [Am]us [Bm]stead[Am]fast in Thy [Em]Word; [C]Curb [Am]those [D]who [G]fain [C]by craft and [G]sword
+Would [C]wrest [G]the [D]king[Em]dom from Thy [G]Son And [C]set [Am]at [G]naught [D]all He hath [Em]done.
 
 Verse 2
-Lord Jesus Christ, Thy pow'r make known, For Thou art Lord of lords alone;
-Defend Thy Christendom that we May evermore sing praise to Thee.
+[Em]Lord Je[Am]sus [Bm]Christ, [Am]Thy pow'r make [Em]known, [C]For [Am]Thou [D]art [G]Lord [C]of lords a[G]lone;
+De[C]fend [G]Thy [D]Christ[Em]endom that [G]we May [C]ev[Am]er[G]more [D]sing praise to [Em]Thee.
 
 Verse 3
-O Comforter of priceless worth, Send peace and unity on earth.
-Support us in our final strife And lead us out of death to life.`
+[Em]O Com[Am]fort[Bm]er [Am]of priceless [Em]worth, [C]Send [Am]peace [D]and [G]u[C]nity on [G]earth.
+Sup[C]port [G]us [D]in [Em]our final [G]strife And [C]lead [Am]us [G]out [D]of death to [Em]life.`
   },
   {
     t: "Lord Of Our Life",
@@ -3389,29 +3389,29 @@ Support us in our final strife And lead us out of death to life.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Lord of our life, and God of our salvation, Star of our
-night, and Hope of every nation, Hear and receive Thy
-church's supplication, Lord God Almighty.
+[Dm]Lord [Am]of [Dm]our [C]life, [A]and [Bb]God of [F]our [Gm]sal[F]va[Dm]tion, [Bb]Star [F]of [Dm]our
+[C]night, [F]and [Dm]Hope of [F]ev[Dm]ery [C]na[A]tion, [Dm]Hear [C]and [D]re[F]ceive [A]Thy
+[F]church's sup[Gm]pli[Aaug]ca[Dm]tion, [A]Lord [Bb]God [A]Al[F]mighty.
 
 Verse 2
-See round Thine Ark the hungry billows curling! See how Thy
-foes their banners are unfurling! Lord, while their darts en
-venomed they are hurling, Thou canst preserve us.
+[Dm]See [Am]round [Dm]Thine [C]Ark [A]the [Bb]hungry [F]bil[Gm]lows [F]curl[Dm]ing! [Bb]See [F]how [Dm]Thy
+[C]foes [F]their [Dm]banners [F]are [Dm]un[C]furl[A]ing! [Dm]Lord, [C]while [D]their [F]darts [A]en[F]venomed
+venomed they [Gm]are [Aaug]hurl[Dm]ing, [A]Thou [Bb]canst [A]pre[F]serve us.
 
 Verse 3
-Lord, Thou canst help when earthly armor faileth; Lord, Thou canst
-save when sin itself assaileth; Lord, o'er Thy Rock nor
-death nor hell prevaileth; Grant us Thy peace, Lord.
+[Dm]Lord, [Am]Thou [Dm]canst [C]help [A]when [Bb]earthly [F]ar[Gm]mor [F]fail[Dm]eth; [Bb]Lord, [F]Thou [Dm]canst
+[C]save [F]when [Dm]sin it[F]self [Dm]as[C]sail[A]eth; [Dm]Lord, [C]o'er [D]Thy [F]Rock [A]nor
+[F]death nor hell [Gm]pre[Aaug]vail[Dm]eth; [A]Grant [Bb]us [A]Thy [F]peace, Lord.
 
 Verse 4
-Peace, in our hearts, our evil thoughts assuaging, Peace, in Thy
-Church, where brothers are engaging, Peace, when the world its
-busy war is waging; Calm Thy foes raging!
+[Dm]Peace, [Am]in [Dm]our [C]hearts, [A]our [Bb]evil [F]thoughts [Gm]as[F]suag[Dm]ing, [Bb]Peace, [F]in [Dm]Thy
+[C]Church, [F]where [Dm]brothers [F]are [Dm]en[C]ga[A]ging, [Dm]Peace, [C]when [D]the [F]world [A]its
+[F]busy war [Gm]is [Aaug]wa[Dm]ging; [A]Calm [Bb]Thy [A]foes [F]raging!
 
 Verse 5
-Grant us Thy help till backward they are driven; Grant them Thy
-Truth, that they may be forgiven; Grant peace on earth, and
-after we have striven, Peace in Thy Heaven.`
+[Dm]Grant [Am]us [Dm]Thy [C]help [A]till [Bb]backward [F]they [Gm]are [F]dri[Dm]ven; [Bb]Grant [F]them [Dm]Thy
+[C]Truth, [F]that [Dm]they may [F]be [Dm]for[C]giv[A]en; [Dm]Grant [C]peace [D]on [F]earth, [A]and
+[F]after we [Gm]have [Aaug]stri[Dm]ven, [A]Peace [Bb]in [A]Thy [F]Heaven.`
   },
   {
     t: "Lord, Thee I Love with All My Heart",
@@ -3426,28 +3426,28 @@ after we have striven, Peace in Thy Heaven.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Lord, Thee I love with all my heart; I pray Thee, ne'er from me depart;
-With tender mercy cheer me. Earth has no pleasure I would share, Yea,
-Heav'n itself were void and bare If Thou, Lord, wert not near me. And should my
-heart for sorrow break, My trust in Thee can nothing shake. Thou art the
-portion I have sought; Thy precious blood my soul has bought. Lord Jesus
-Christ, My God and Lord, my God and Lord, Forsake me not! I trust Thy Word.
+[Bb]Lord, [F]Thee [Eb]I [F]love with [Eb]all my [Bb]heart; [Gm]I [Dm]pray [Eb]Thee, [F]ne'er from [Eb]me [Cm]de[Dm]part;
+[Bb]With [Eb]tender [Bb]mer[F]cy [Gm]cheer [Bb]me. Earth [F]has [Eb]no [F]pleasure [Eb]I would [Bb]share, [Gm]Yea,
+[Dm]Heav'n [Eb]it[F]self were [Eb]void [Cm]and [Dm]bare [Bb]If [Eb]Thou, Lord, [Bb]wert [F]not [Gm]near [Bb]me. And should [F]my
+[Bb]heart [Eb]for [Gm]sorrow [F]break, My [Bb]trust [F]in [Bb]Thee [Eb]can [Bb]no[C7]thing [F]shake. [Bb]Thou art the
+[F]portion [Cm7]I have [Bb]sought; [F]Thy [Bb]pre[F]cious [Gm]blood [Dm]my [Gm7]soul [C]has [F]bought. [Bb]Lord [F]Je[Gm]sus
+[F]Christ, [Bb]My [Eb]God [F]and [Gm]Lord, [Cm]my [Bb]God [F]and [Bb]Lord, For[Eb]sake [Bb]me [F]not! [Bb]I [Cm7]trust [F]Thy [Bb]Word.
 
 Verse 2
-Yea, Lord, 'twas Thy rich bounty gave My body, soul, and all I have
-In this poor life of labor. Lord, grant that I in every place May
-glorify Thy lavish grace And serve and help my neighbor. Let no false
-doctrine me beguile, Let Satan not my soul defile. Give strength and
-patience unto me To bear my cross and follow Thee. Lord Jesus
-Christ, My God and Lord, my God and Lord, In death Thy comfort still afford.
+[Bb]Yea, [F]Lord, [Eb]'twas [F]Thy rich [Eb]bounty [Bb]gave [Gm]My [Dm]bo[Eb]dy, [F]soul, and [Eb]all [Cm]I [Dm]have
+[Bb]In [Eb]this poor [Bb]life [F]of [Gm]la[Bb]bor. Lord, [F]grant [Eb]that [F]I in [Eb]every [Bb]place [Gm]May
+[Dm]glor[Eb]i[F]fy Thy [Eb]la[Cm]vish [Dm]grace [Bb]And [Eb]serve and [Bb]help [F]my [Gm]neigh[Bb]bor. Let no [F]false
+[Bb]doc[Eb]trine [Gm]me be[F]guile, Let [Bb]Sa[F]tan [Bb]not [Eb]my [Bb]soul [C7]de[F]file. [Bb]Give strength and
+[F]patience [Cm7]unto [Bb]me [F]To [Bb]bear [F]my [Gm]cross [Dm]and [Gm7]fol[C]low [F]Thee. [Bb]Lord [F]Je[Gm]sus
+[F]Christ, [Bb]My [Eb]God [F]and [Gm]Lord, [Cm]my [Bb]God [F]and [Bb]Lord, In [Eb]death [Bb]Thy [F]com[Bb]fort [Cm7]still [F]a[Bb]fford.
 
 Verse 3
-Lord, let at last Thine angels come, To Abr'am's bosom bear me home,
-That I may die unfearing; And in its narrow chamber keep My
-body safe in peaceful sleep Until Thy reappearing. And then from
-death awaken me, That these mine eyes with joy may see, O Son of
-God, Thy glorious face, My Savior and my fount of grace. Lord Jesus
-Christ, My prayer attend, my prayer attend, And I will praise Thee without end!`
+[Bb]Lord, [F]let [Eb]at [F]last Thine [Eb]angels [Bb]come, [Gm]To [Dm]A[Eb]br'am's [F]bosom [Eb]bear [Cm]me [Dm]home,
+[Bb]That [Eb]I may [Bb]die [F]un[Gm]fear[Bb]ing; And [F]in [Eb]its [F]narrow [Eb]chamber [Bb]keep [Gm]My
+[Dm]bo[Eb]dy [F]safe in [Eb]peace[Cm]ful [Dm]sleep [Bb]Un[Eb]til Thy [Bb]re[F]ap[Gm]pear[Bb]ing. And then [F]from
+[Bb]death [Eb]a[Gm]waken [F]me, That [Bb]these [F]mine [Bb]eyes [Eb]with [Bb]joy [C7]may [F]see, [Bb]O Son of
+[F]God, Thy [Cm7]glorious [Bb]face, [F]My [Bb]Sa[F]vior [Gm]and [Dm]my [Gm7]fount [C]of [F]grace. [Bb]Lord [F]Je[Gm]sus
+[F]Christ, [Bb]My [Eb]prayer [F]at[Gm]tend, [Cm]my [Bb]prayer [F]at[Bb]tend, And [Eb]I [Bb]will [F]praise [Bb]Thee [Cm7]with[F]out [Bb]end!`
   },
   {
     t: "Lord, Who at Cana's Wedding Feast",
@@ -3462,22 +3462,22 @@ Christ, My prayer attend, my prayer attend, And I will praise Thee without end!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Lord, who at Cana's wedding feast Didst as a Guest appear,
-Thou dearer far than earthly guest, Vouchsafe Thy presence here.
-For holy Thou indeed dost prove The marriage vow to be,
-Proclaiming it a type of love Between the Church and Thee.
+[G]Lord, who [D7]at [G]Ca[C]na's wedding [G]feast Didst [C]as [Em]a [G]Guest [C]ap[D]pear,
+[D7]Thou [G]dearer far [C]than [Am]earthly guest, [B]Vouch[Em]safe Thy [Bm]presence here.
+For [G]holy [C]Thou [G]in[D]deed dost [G]prove The [C]mar[Cmaj7]riage [Am]vow [C]to [D]be,
+[Am]Pro[G]claiming [C]it [E7]a [Am]type [D]of [G]love [D7]Be[Em]tween the [G]Church [D]and [G]Thee.
 
 Verse 2
-The holiest vow that man can make, The golden thread in life,
-The bond that none may dare to break, That bindeth man and wife,
-Which, blest by Thee, whate'er betide, No evil shall destroy,
-Through careworn days each care divides And doubles every joy.
+[G]The ho[D7]liest [G]vow [C]that man can [G]make, The [C]gol[Em]den [G]thread [C]in [D]life,
+[D7]The [G]bond that none [C]may [Am]dare to break, [B]That [Em]bindeth [Bm]man and wife,
+Which, [G]blest by [C]Thee, [G]what[D]e'er be[G]tide, No [C]e[Cmaj7]vil [Am]shall [C]des[D]troy,
+[Am]Through [G]careworn [C]days [E7]each [Am]care [D]div[G]ides [D7]And [Em]doubles [G]ev[D]ery [G]joy.
 
 Verse 3
-On those who at Thine altar kneel, O Lord, Thy blessing pour,
-That each may wake the other's zeal To love Thee more and more.
-Oh, grant them here in peace to live, In purity and love,
-And, this world leaving, to receive A crown of life above.`
+[G]On those [D7]who [G]at [C]Thine altar [G]kneel, O [C]Lord, [Em]Thy [G]bless[C]ing [D]pour,
+[D7]That [G]each may wake [C]the [Am]other's zeal [B]To [Em]love Thee [Bm]more and more.
+Oh, [G]grant them [C]here [G]in [D]peace to [G]live, In [C]pur[Cmaj7]i[Am]ty [C]and [D]love,
+[Am]And, [G]this world [C]leav[E7]ing, [Am]to [D]re[G]ceive [D7]A [Em]crown of [G]life [D]a[G]bove.`
   },
   {
     t: "Lord Who Throughout These Forty Days",
@@ -3492,24 +3492,24 @@ And, this world leaving, to receive A crown of life above.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Lord, who throughout these forty days For us didst fast and pray,
-Teach us with Thee to mourn our sins And close by Thee to stay.
+[F]Lord, who [C]through[F]out [Dm]these [Gm7]for[C]ty [F]days For [Bb]us [F]didst [Bb]fast [Gm]and [A]pray,
+[F]Teach us [Bb]with [C]Thee [Am]to [Dm]mourn [C]our [F]sins And [C]close [Dm]by [Gm7]Thee [C]to [F]stay.
 
 Verse 2
-As Thou with Satan didst contend, And didst the vict'ry win,
-O give us strength in Thee to fight, In Thee to conquer sin.
+[F]As Thou [C]with [F]Sa[Dm]tan [Gm7]didst [C]con[F]tend, And [Bb]didst [F]the [Bb]vic[Gm]t'ry [A]win,
+[F]O give [Bb]us [C]strength [Am]in [Dm]Thee [C]to [F]fight, In [C]Thee [Dm]to [Gm7]con[C]quer [F]sin.
 
 Verse 3
-As Thou didst hunger bear, and thirst, So teach us, gracious Lord,
-To die to self, and chiefly live By Thy most holy Word.
+[F]As Thou [C]didst [F]hun[Dm]ger [Gm7]bear, [C]and [F]thirst, So [Bb]teach [F]us, [Bb]gra[Gm]cious [A]Lord,
+[F]To die [Bb]to [C]self, [Am]and [Dm]chief[C]ly [F]live By [C]Thy [Dm]most [Gm7]ho[C]ly [F]Word.
 
 Verse 4
-And through these days of penitence, And through Thy passiontide,
-Yea, evermore in life and death, Jesus, with us abide.
+[F]And through [C]these [F]days [Dm]of [Gm7]pen[C]i[F]tence, And [Bb]through [F]Thy [Bb]pa[Gm]ssion[A]tide,
+[F]Yea, ev[Bb]er[C]more [Am]in [Dm]life [C]and [F]death, Je[C]sus, [Dm]with [Gm7]us [C]a[F]bide.
 
 Verse 5
-Abide with us, that so, this life Of suff'ring over past,
-An Easter of unending joy We may attain at last.`
+[F]Abide [C]with [F]us, [Dm]that [Gm7]so, [C]this [F]life Of [Bb]suf[F]f'ring [Bb]o[Gm]ver [A]past,
+[F]An Eas[Bb]ter [C]of [Am]un[Dm]end[C]ing [F]joy We [C]may [Dm]at[Gm7]tain [C]at [F]last.`
   },
   {
     t: "Lord of Glory, Who Hast Bought Us",
@@ -3524,28 +3524,28 @@ An Easter of unending joy We may attain at last.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Lord of Glory, who hast bought us with Thy lifeblood as the price,
-Never grudging for the lost ones that tremendous sacrifice;
-And with that hast freely given blessings countless as the sand,
-To th'unthankful and the evil with Thine own unsparing hand.
+[F]Lord [C]of [F]Glory, [Gm7]who [F]hast [C]bought us [F]with Thy lifeblood [Gm]as [C]the [F]price,
+Nev[C]er [F]grudging [Gm7]for [F]the [C]lost ones [F]that tremendous [Gm]sac[C]ri[F]fice;
+[Am]And with [Dm7]that [Dm]hast [Gm7]free[Gm]ly [C7]given [F]bless[Fmaj7]ings [Dm]count[Am]less as [Bbmaj7]the sand,
+[F]To [Dm7]th'un[Gm7]thank[C7]ful [F]and the [C]ev[C7]il [F]with Thine [Bb]own un[F]spar[C7]ing [F]hand.
 
 Verse 2
-Grant us hearts, dear Lord, to yield Thee gladly, freely, of Thine own.
-With the sunshine of Thy goodness melt our thankless hearts of stone.
-Till our cold and selfish natures, warmed by Thee, at length believe
-That more happy and more blessed 'tis to give than to receive.
+[F]Grant [C]us [F]hearts, dear [Gm7]Lord, [F]to [C]yield Thee [F]gladly, freely, [Gm]of [C]Thine [F]own.
+With [C]the [F]sunshine [Gm7]of [F]Thy [C]goodness [F]melt our thankless [Gm]hearts [C]of [F]stone.
+[Am]Till our [Dm7]cold [Dm]and [Gm7]self[Gm]ish [C7]natures, [F]warmed [Fmaj7]by [Dm]Thee, [Am]at length [Bbmaj7]believe
+[F]That [Dm7]more [Gm7]hap[C7]py [F]and more [C]bless[C7]ed [F]'tis to [Bb]give than [F]to [C7]re[F]ceive.
 
 Verse 3
-Wondrous honor hast Thou given to our humblest charity.
-In Thine own mysterious sentence, "Ye have done it unto Me."
-Can it be, O gracious Master, Thou dost deign for alms to sue,
-Saying by Thy poor and needy, "Give as I have given you"
+[F]Wond[C]rous [F]honor [Gm7]hast [F]Thou [C]given [F]to our humblest [Gm]cha[C]ri[F]ty.
+In [C]Thine [F]own mys[Gm7]ter[F]ious [C]sentence, [F]"Ye have done it [Gm]un[C]to [F]Me."
+[Am]Can it [Dm7]be, [Dm]O [Gm7]grac[Gm]ious [C7]Master, [F]Thou [Fmaj7]dost [Dm]deign [Am]for alms [Bbmaj7]to sue,
+[F]Say[Dm7]ing [Gm7]by [C7]Thy [F]poor and [C]need[C7]y, [F]"Give as [Bb]I have [F]giv[C7]en [F]you"
 
 Verse 4
-Lord of Glory, who hast bought us with Thy lifeblood as the price,
-Never grudging for the lost ones that tremendous sacrifice;
-Give us faith, to trust Thee boldly; hope, to stay our souls on Thee;
-But O, best of all Thy graces, give us Thine own charity.`
+[F]Lord [C]of [F]Glory, [Gm7]who [F]hast [C]bought us [F]with Thy lifeblood [Gm]as [C]the [F]price,
+Nev[C]er [F]grudging [Gm7]for [F]the [C]lost ones [F]that tremendous [Gm]sac[C]ri[F]fice;
+[Am]Give us [Dm7]faith, [Dm]to [Gm7]trust [Gm]Thee [C7]boldly; [F]hope, [Fmaj7]to [Dm]stay [Am]our souls [Bbmaj7]on Thee;
+[F]But [Dm7]O, [Gm7]best [C7]of [F]all Thy [C]gra[C7]ces, [F]give us [Bb]Thine own [F]cha[C7]ri[F]ty.`
   },
   {
     t: "Lord of Life, All Praise Excelling",
@@ -3560,22 +3560,22 @@ But O, best of all Thy graces, give us Thine own charity.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Lord of life, all praise excelling, Thou, in glory unconfined,
-Deignst to make Thy humble dwelling With the poor of humble mind.
-As Thy love, through all creation, Beams like Thy diffusive light;
-So the high and humble station Both are equal in Thy sight.
+[F]Lord [C]of [F]life, all [Gm7]praise [F]ex[C]celling, [F]Thou, in glory [Gm]un[C]con[F]fined,
+Deignst [C]to [F]make Thy [Gm7]hum[F]ble [C]dwelling [F]With the poor of [Gm]hum[C]ble [F]mind.
+[Am]As Thy [Dm7]love, [Dm]through [Gm7]all [Gm]cre[C7]ation, [F]Beams [Fmaj7]like [Dm]Thy [Am]diffu[Bbmaj7]sive light;
+[F]So [Dm7]the [Gm7]high [C7]and [F]humble [C]sta[C7]tion [F]Both are [Bb]equal [F]in [C7]Thy [F]sight.
 
 Verse 2
-Thus Thy care, for all providing, Warmed Thy faithful prophet's tongue;
-Who, the lot of all deciding, To Thy chosen Israel sung.
-When Thy harvest yields Thee pleasure, Thou the golden sheaf shalt bind;
-To the poor belongs the treasure Of the scattered ears behind.
+[F]Thus [C]Thy [F]care, for [Gm7]all [F]pro[C]viding, [F]Warmed Thy faithful [Gm]pro[C]phet's [F]tongue;
+Who, [C]the [F]lot of [Gm7]all [F]de[C]ciding, [F]To Thy chosen [Gm]Is[C]rael [F]sung.
+[Am]When Thy [Dm7]har[Dm]vest [Gm7]yields [Gm]Thee [C7]pleasure, [F]Thou [Fmaj7]the [Dm]gol[Am]den sheaf [Bbmaj7]shalt bind;
+[F]To [Dm7]the [Gm7]poor [C7]be[F]longs the [C]trea[C7]sure [F]Of the [Bb]scattered [F]ears [C7]be[F]hind.
 
 Verse 3
-Still we read Thy Word declaring Mercy, Lord, Thine own decree;
-Mercy ev'ry sorrow sharing, Warms the heart resembling Thee.
-Still the orphan and the stranger, Still the widow owns Thy care;
-Screened by Thee in ev'ry danger, Heard by Thee in ev'ry prayer.`
+[F]Still [C]we [F]read Thy [Gm7]Word [F]de[C]claring [F]Mercy, Lord, Thine [Gm]own [C]de[F]cree;
+Mer[C]cy [F]ev'ry [Gm7]sor[F]row [C]sharing, [F]Warms the heart res[Gm]emb[C]ling [F]Thee.
+[Am]Still the [Dm7]or[Dm]phan [Gm7]and [Gm]the [C7]stranger, [F]Still [Fmaj7]the [Dm]wi[Am]dow owns [Bbmaj7]Thy care;
+[F]Screened [Dm7]by [Gm7]Thee [C7]in [F]ev'ry [C]dan[C7]ger, [F]Heard by [Bb]Thee in [F]ev[C7]'ry [F]prayer.`
   },
   {
     t: "May God Bestow on Us His Grace",
@@ -3590,22 +3590,22 @@ Screened by Thee in ev'ry danger, Heard by Thee in ev'ry prayer.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-May God bestow on us His grace, With blessings rich provide us,
-And may the brightness of His face To life eternal guide us
-That we His saving health may know, His gracious will and pleasure, And also
-to the heathen show Christ's riches without measure And unto God convert them.
+[E]May [Am]God [Em]be[F]stow [Em]on [Dm]us [D7]His [E]grace, [G]With [C]bless[G]ings [Am]rich [F]pro[C]vide [Am]us,
+[E]And [Am]may [Em]the [F]bright[Em]ness [Dm]of [D7]His [E]face [G]To [C]life [G]e[Am]ter[F]nal [C]guide [Am]us
+[C]That [F]we [C]His [G]sa[Em]ving [F]health [G]may [C]know, [G]His [C]gra[F]cious [Em]will [Dm]and [C]plea[G]sure, [C]And [G]al[Em]so
+[Dm]to [F]the [C]hea[Dm]then [A]show [Em]Christ's [F]rich[C]es [Am]with[Dm]out mea[Am]sure And [Em]un[F]to [C]God [G]con[F]vert [C]them.
 
 Verse 2
-Thine over all shall be the praise And thanks of every nation,
-And all the world with joy shall raise The voice of exultation;
-For Thou shalt judge the earth, O Lord, Nor suffer sin to flourish; Thy people's
-pasture is Thy Word Their souls to feed and nourish, In righteous paths to keep them.
+[E]Thine [Am]o[Em]ver [F]all [Em]shall [Dm]be [D7]the [E]praise [G]And [C]thanks [G]of [Am]ev[F]ery [C]na[Am]tion,
+[E]And [Am]all [Em]the [F]world [Em]with [Dm]joy [D7]shall [E]raise [G]The [C]voice [G]of [Am]ex[F]ul[C]ta[Am]tion;
+[C]For [F]Thou [C]shalt [G]judge [Em]the [F]earth, [G]O [C]Lord, [G]Nor [C]suf[F]fer [Em]sin [Dm]to [C]flour[G]ish; [C]Thy [G]peo[Em]ple's
+[Dm]pas[F]ture [C]is [Dm]Thy [A]Word [Em]Their [F]souls [C]to [Am]feed [Dm]and nour[Am]ish, In [Em]right[F]eous [C]paths [G]to [F]keep [C]them.
 
 Verse 3
-Oh, let the people praise Thy worth, In all good works increasing;
-The land shall plenteous fruit bring forth, Thy Word is rich in blessing.
-May God the Father, God the Son, And God the Spirit bless us! Let all the
-world praise Him alone, Let solemn awe possess us. Now let our hearts say, Amen.`
+[E]Oh, [Am]let [Em]the [F]peo[Em]ple [Dm]praise [D7]Thy [E]worth, [G]In [C]all [G]good [Am]works [F]in[C]crea[Am]sing;
+[E]The [Am]land [Em]shall [F]plent[Em]eous [Dm]fruit [D7]bring [E]forth, [G]Thy [C]Word [G]is [Am]rich [F]in [C]bless[Am]ing.
+[C]May [F]God [C]the [G]Fa[Em]ther, [F]God [G]the [C]Son, [G]And [C]God [F]the [Em]Spi[Dm]rit [C]bless [G]us! [C]Let [G]all [Em]the
+[Dm]world [F]praise [C]Him [Dm]a[A]lone, [Em]Let [F]sol[C]emn [Am]awe [Dm]possess [Am]us. Now [Em]let [F]our [C]hearts [G]say, [F]A[C]men.`
   },
   {
     t: "Moment By Moment",
@@ -3620,28 +3620,28 @@ world praise Him alone, Let solemn awe possess us. Now let our hearts say, Amen.
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Dying with Jesus, by death reckoned mine; Living with Jesus, a new life
-divine; Looking to Jesus till glory doth shine, Moment by moment, O
-Lord, I am Thine. Moment by moment I'm kept in His love;
+[F]Dying with Jesus, by [Bb]death [Dm]reck[G7]oned [F]mine; [Am]Liv[C7]ing with Je[Am]sus, [C7]a [F]new life
+di[C]vine; [F]Looking to Jesus [F7]till [Bb]glory [Db7]doth [F]shine, [F7]Moment by [Gm]moment, [G7]O
+[C]Lord, [Am]I [C7]am [F]Thine. Moment by mo[C7]ment [F]I'm [Fmaj7]kept in [C]His [F]love;
 
 Verse 2
-Never a trial that He is not there, Never a burden that He doth
-not bear, Never a sorrow that He doth not share, Moment by moment, I'm
-under His care.
+[F]Never a trial that [Bb]He [Dm]is [G7]not [F]there, [Am]Nev[C7]er a bur[Am]den [C7]that [F]He doth
+not [C]bear, [F]Never a sorrow [F7]that [Bb]He doth [Db7]not [F]share, [F7]Moment by [Gm]moment, [G7]I'm
+[C]un[Am]der [C7]His [F]care.
 
 Verse 3
-Never a heartache, and never a groan, Never a teardrop and never
-a moan; Never a danger but there on the throne, Moment by moment He
-thinks of His own.
+[F]Never a heartache, and [Bb]nev[Dm]er [G7]a [F]groan, [Am]Nev[C7]er a tear[Am]drop [C7]and [F]never
+a [C]moan; [F]Never a danger [F7]but [Bb]there on [Db7]the [F]throne, [F7]Moment by [Gm]moment [G7]He
+[C]thinks [Am]of [C7]His [F]own.
 
 Verse 4
-Never a weakness that He doth not feel, Never a sickness that He can
-not heal; Moment by moment, in woe or in weal, Jesus my Savior, a
-bides with me still.
+[F]Never a weakness that [Bb]He [Dm]doth [G7]not [F]feel, [Am]Nev[C7]er a sick[Am]ness [C7]that [F]He cannot
+not [C]heal; [F]Moment by moment, [F7]in [Bb]woe or [Db7]in [F]weal, [F7]Jesus my [Gm]Savior, [G7]a[C]bides
+bides [Am]with [C7]me [F]still.
 
 Chorus
-Moment by moment I've life from above; Looking to
-Jesus till glory doth shine; Moment by moment, O Lord, I am Thine.`
+Moment [Dm7]by [F]moment [Dm]I've life from above; [F]Looking [Cm7]to
+[Dm7]Jesus till glory [D]doth [Gm]shine; Mo[D7]ment by [G]moment, [G7]O Lord, [Fmaj7]I am [F]Thine.`
   },
   {
     t: "My Hope Is Built",
@@ -3656,27 +3656,27 @@ Jesus till glory doth shine; Moment by moment, O Lord, I am Thine.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-My hope is built on nothing less Than Jesus' blood and
-righteousness. I dare not trust the sweetest frame, But
-wholly trust in Jesus' Name. On Christ the solid
+[C]My hope is built on [F]nothing [C]less [G]Than [Am7]Jesus' [G]blood and
+right[D]eous[G]ness. I [G7]dare not [C]trust the [A7]sweetest [D]frame, [B]But
+[Em]whol[F#m7]ly [Em]trust [Am]in [Em]Je[B]sus' [Em]Name. On [C7]Christ the [F]solid
 
 Verse 2
-When darkness veils His lovely face, I rest on His un
-changing grace. In every high and stormy gale, My
-anchor holds within the veil.
+[C]When darkness veils His [F]lovely [C]face, [G]I [Am7]rest on [G]His unchang[D]ing
+changing [G]grace. In [G7]every [C]high and [A7]stormy [D]gale, [B]My
+[Em]an[F#m7]chor [Em]holds [Am]with[Em]in [B]the [Em]veil.
 
 Verse 3
-His oath, His covenant, His blood, Support me in the
-whelming flood. When all around my soul gives way, He
-then is all my hope and stay.
+[C]His oath, His cove[F]nant, His [C]blood, [G]Sup[Am7]port me [G]in the
+whelm[D]ing [G]flood. When [G7]all a[C]round my [A7]soul gives [D]way, [B]He
+[Em]then [F#m7]is [Em]all [Am]my [Em]hope [B]and [Em]stay.
 
 Verse 4
-When He shall come with trumpet sound, Oh may I then in
-Him be found. Dressed in His righteousness alone, Fault
-less to stand before the throne.
+[C]When He shall come with [F]trumpet [C]sound, [G]Oh [Am7]may I [G]then in
+Him [D]be [G]found. Dressed [G7]in His [C]righteous[A7]ness a[D]lone, [B]Fault[Em]less
+less [F#m7]to [Em]stand [Am]be[Em]fore [B]the [Em]throne.
 
 Chorus
-Rock I stand, All other ground is sinking sand.`
+[D7]Rock I [G]stand, [G7]All [C]o[D7]ther [C]ground is [G7]sinking [C]sand.`
   },
   {
     t: "My Jesus, As Thou Wilt",
@@ -3691,28 +3691,28 @@ Rock I stand, All other ground is sinking sand.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-My Jesus, as Thou wilt! Oh, may Thy will be mine!
-Into Thy hand of love I would my all resign;
-Through sorrow, or through joy, conduct me as Thine own,
-And help me still to say, my Lord, Thy will be done!
+[Eb]My Jesus, [Bb]as Thou wilt! [Eb]Oh, may Thy will be mine!
+[Ab]Into Thy [Eb]hand of love I [Gm]would [Bb]my all [Eb]re[Bb]sign;
+[Eb]Through sorrow, [Bb]or through joy, [Eb]conduct me [Eb7]as Thine [Ab]own,
+And help me [Eb]still to say, my Lord, Thy will [Bb7]be [Eb]done!
 
 Verse 2
-My Jesus, as Thou wilt! If needy here and poor,
-Give me Thy people's bread, their portion rich and sure.
-The manna of Thy Word Let my soul feed upon;
-And if all else should fail, my Lord, thy will be done!
+[Eb]My Jesus, [Bb]as Thou wilt! [Eb]If needy here and poor,
+[Ab]Give me Thy [Eb]people's bread, their [Gm]por[Bb]tion rich [Eb]and [Bb]sure.
+[Eb]The manna [Bb]of Thy Word [Eb]Let my soul [Eb7]feed up[Ab]on;
+And if all [Eb]else should fail, my Lord, thy will [Bb7]be [Eb]done!
 
 Verse 3
-My Jesus, as Thou wilt! Though seen through many'a tear,
-Let not my star of hope grow dim or disappear;
-Since Thou on earth hast wept, and sorrowed oft alone,
-If I must weep with Thee, my Lord, Thy will be done!
+[Eb]My Jesus, [Bb]as Thou wilt! [Eb]Though seen through many'a tear,
+[Ab]Let not my [Eb]star of hope grow [Gm]dim [Bb]or dis[Eb]ap[Bb]pear;
+[Eb]Since Thou on [Bb]earth hast wept, [Eb]and sorrowed [Eb7]oft a[Ab]lone,
+If I must [Eb]weep with Thee, my Lord, Thy will [Bb7]be [Eb]done!
 
 Verse 4
-My Jesus, as Thou wilt! All shall be well for me;
-Each changing future scene I gladly trust with Thee:
-Straight to my home above I travel calmly on,
-And sing, in life or death, my Lord, Thy will be done!`
+[Eb]My Jesus, [Bb]as Thou wilt! [Eb]All shall be well for me;
+[Ab]Each changing [Eb]future scene I [Gm]glad[Bb]ly trust [Eb]with [Bb]Thee:
+[Eb]Straight to my [Bb]home above [Eb]I travel [Eb7]calmly [Ab]on,
+And sing, in [Eb]life or death, my Lord, Thy will [Bb7]be [Eb]done!`
   },
   {
     t: "My Savior's Love",
@@ -3727,24 +3727,24 @@ And sing, in life or death, my Lord, Thy will be done!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-I stand amazed in the presence Of Jesus the Nazarene,
-And wonder how He could love me, A sinner, condemn'd, unclean.
+[Ab]I stand amazed in the presence Of [Eb]Jesus the [Ab]Naz[Eb7]a[Ab]rene,
+And [Db]wonder how He could [Ab]love me, [Bbm7]A [Ab]sinner, con[Eb7]demn'd, un[Ab]clean.
 
 Verse 2
-For me it was in the garden He pray'd "Not my will, but Thine;"
-He had no tears for His own griefs, But sweat drops of blood for mine.
+[Ab]For me it was in the garden He [Eb]pray'd "Not my [Ab]will, [Eb7]but [Ab]Thine;"
+He [Db]had no tears for His [Ab]own griefs, [Bbm7]But [Ab]sweat drops of [Eb7]blood for [Ab]mine.
 
 Verse 3
-In pity angels beheld Him, And came from the world of light
-To comfort Him in the sorrows, He bore for my soul that night.
+[Ab]In pity angels beheld Him, And [Eb]came from the [Ab]world [Eb7]of [Ab]light
+To [Db]comfort Him in the [Ab]sorrows, [Bbm7]He [Ab]bore for my [Eb7]soul that [Ab]night.
 
 Verse 4
-When with the ransomed in glory His face I at last shall see,
-'Twill be my joy thro' the ages, To sing of His love for me.
+[Ab]When with the ransomed in glory His [Eb]face I at [Ab]last [Eb7]shall [Ab]see,
+'Twill [Db]be my joy thro' the [Ab]ages, [Bbm7]To [Ab]sing of His [Eb7]love for [Ab]me.
 
 Chorus
-How marvelous! how wonderful! And my song shall ever be:
-How marvelous! how wonderful! Is my Savior's love for me!`
+How marvelous! how wonderful! [Eb]And my song shall [Eb7]ev[Ab]er [Eb]be:
+[Ab]How marvelous! how wonderful! [Bbm7]Is [Dbmaj7]my [Ab]Savior's love [Eb7]for [Ab]me!`
   },
   {
     t: "My Song Shall Be Of Jesus",
@@ -3759,28 +3759,28 @@ How marvelous! how wonderful! Is my Savior's love for me!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-My song shall be of Jesus, His Mercy crowns my days
-He fills my cup with blessings and tunes my heart to praise
-My song shall be of Jesus the precious Lamb of God
-Who gave Himself my ransom and bought me with His blood
+[D]My [G]song [B]shall be [A]of [G]Je[D]sus, His [G]Mer[Bm]cy crowns [Em]my days
+[Bm]He [G]fills my [Bm]cup [G]with [E]bless[A]ings and tunes [D]my heart [Cmaj7]to [D]praise
+[G]My [C]song [D7]shall [C]be [Em]of Je[D]sus the [C]pre[Am]cious [Bm]Lamb [G]of God
+[D]Who [G]gave Him[Em]self [B7]my [C]ran[D]som and [Am7]bought [Bm]me with [Cmaj7]His [D]blood
 
 Verse 2
-My song shall be of Jesus, while sitting at His feet
-He calls to mind His goodness, and makes my joy complete;
-My song shall be of Jesus, whatever ills befall,
-I'll sing the grace that saves me, and triumphs over all.
+[D]My [G]song [B]shall be [A]of [G]Je[D]sus, while [G]sit[Bm]ting at [Em]His feet
+[Bm]He [G]calls to [Bm]mind [G]His [E]good[A]ness, and makes [D]my joy [Cmaj7]com[D]plete;
+[G]My [C]song [D7]shall [C]be [Em]of Je[D]sus, what[C]ev[Am]er [Bm]ills [G]befall,
+[D]I'll [G]sing the [Em]grace [B7]that [C]saves [D]me, and [Am7]tri[Bm]umphs o[Cmaj7]ver [D]all.
 
 Verse 3
-My song shall be of Jesus, when pressing on my way
-To where my home shines glorious in pure and perfect day.
-And when my soul shall enter the many mansions fair,
-A song of praise to Jesus I'll sing forever there.
+[D]My [G]song [B]shall be [A]of [G]Je[D]sus, when [G]press[Bm]ing on [Em]my way
+[Bm]To [G]where my [Bm]home [G]shines [E]glo[A]rious in pure [D]and per[Cmaj7]fect [D]day.
+[G]And [C]when [D7]my [C]soul [Em]shall en[D]ter the [C]ma[Am]ny [Bm]man[G]sions fair,
+[D]A [G]song of [Em]praise [B7]to [C]Je[D]sus I'll [Am7]sing [Bm]forev[Cmaj7]er [D]there.
 
 Chorus
-And when my soul shall enter the many mansions fair,
-A song of praise to Jesus I'll sing forever there.
-A song of praise to Jesus I'll sing
-forever. My song shall be of Jesus.`
+[G]And [C]when [D7]my [C]soul [Em]shall en[D]ter the [C]ma[Am]ny [Bm]man[G]sions fair,
+[D]A [G]song of [Em]praise [D]to [C]Je[D]sus I'll [Am7]sing [Bm]forev[Cmaj7]er [D]there.
+A [G]song of [Em]praise [D]to [C]Je[D]sus I'll [Am7]sing
+for[Bm]ev[F#m]er. My [G]song shall [Bm]be [Am]of Je[G]sus.`
   },
   {
     t: "My Soul, Now Praise Thy Maker",
@@ -3795,36 +3795,36 @@ forever. My song shall be of Jesus.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-My soul, now praise thy maker! Let all within me bless His name
-Who maketh thee partaker Of mercies more than thou dar'st claim.
-Forget Him not whose meekness Still bears with all thy sin,
-Who healeth all thy weakness, Renews thy life within.
-Whose grace and care are endless And saved thee through the past;
-Who leaves no suff'rer friendless, But rights the wronged at last.
+[E]My [Em]soul, [Bm]now [C]praise [Bm]thy [Em]maker! Let all [Bm7]with[Em]in me [G]bless His [Em7]name
+[E]Who [Cmaj7]mak[Bm]eth [C]thee par[Em]taker Of mer[Bm]cies [Em]more [Am7]than thou dar'st [G]claim.
+For[C]get [G]Him not whose meek[E7]ness [Amaj7]Still bears with [Bm7]all [A]thy [D7]sin,
+[D]Who [G]healeth [Am7]all [Bm7]thy weak[Em]ness, [Em7]Re[D7]news thy life within.
+Whose [G]grace and [C]care are [Bdim]endless And [D]saved [Bm]thee through the [D]past;
+[Dmaj7]Who [G]leaves [A7]no [D]suf[A7]f'rer [D7]friend[F#m7]less, [Bm7]But [Cmaj7]rights [G]the wronged [F#m]at [Baug]last.
 
 Verse 2
-He shows to man His treasure Of judgment, truth, and righteousness,
-His love beyond all measure, His yearning pity o'er distress,
-Nor treats us as we merit, But lays His anger by.
-The humble, contrite spirit Finds His compassion nigh;
-And high as Heav'n above us, As break from close of day,
-So far, since He doth love us, He puts our sins away.
+[E]He [Em]shows [Bm]to [C]man [Bm]His [Em]treasure Of judg[Bm7]ment, [Em]truth, and [G]righteous[Em7]ness,
+[E]His [Cmaj7]love [Bm]be[C]yond all [Em]measure, His yearn[Bm]ing [Em]pi[Am7]ty o'er dis[G]tress,
+Nor [C]treats [G]us as we mer[E7]it, [Amaj7]But lays His [Bm7]an[A]ger [D7]by.
+[D]The [G]humble, [Am7]con[Bm7]trite spir[Em]it [Em7]Finds [D7]His compassion nigh;
+And [G]high as [C]Heav'n a[Bdim]bove us, As [D]break [Bm]from close of [D]day,
+[Dmaj7]So [G]far, [A7]since [D]He [A7]doth [D7]love [F#m7]us, [Bm7]He [Cmaj7]puts [G]our sins [F#m]a[Baug]way.
 
 Verse 3
-For as a tender father Hath pity on his children here,
-He in His arms will gather All who are His in childlike fear.
-He knows how frail our powers Who but from dust are made;
-We flourish like the flowers, And even so we fade;
-The wind but o'er them passes, And all their bloom is o'er
-We wither like the grasses, Our place knows us no more.
+[E]For [Em]as [Bm]a [C]ten[Bm]der [Em]father Hath pi[Bm7]ty [Em]on his [G]children [Em7]here,
+[E]He [Cmaj7]in [Bm]His [C]arms will [Em]gather All who [Bm]are [Em]His [Am7]in childlike [G]fear.
+He [C]knows [G]how frail our pow[E7]ers [Amaj7]Who but from [Bm7]dust [A]are [D7]made;
+[D]We [G]flourish [Am7]like [Bm7]the flow[Em]ers, [Em7]And [D7]even so we fade;
+The [G]wind but [C]o'er them [Bdim]passes, And [D]all [Bm]their bloom is [D]o'er-
+[Dmaj7]We [G]with[A7]er [D]like [A7]the [D7]grass[F#m7]es, [Bm7]Our [Cmaj7]place [G]knows us [F#m]no [Baug]more.
 
 Verse 4
-God's grace alone endureth, And children's children yet shall prove
-How He with strength assureth The hearts of all that seek His love.
-In Heav'n is fixed His dwelling, His rule is over all;
-Angels, in might excelling, Bright hosts, before Him fall.
-Praise Him who ever reigneth, All ye who hear His Word,
-Nor our poor hymns disdainethMy soul, O praise the Lord!`
+[E]God's [Em]grace [Bm]a[C]lone [Bm]en[Em]dureth, And child[Bm7]ren's [Em]children [G]yet shall [Em7]prove
+[E]How [Cmaj7]He [Bm]with [C]strength as[Em]sureth The hearts [Bm]of [Em]all [Am7]that seek His [G]love.
+In [C]Heav'n [G]is fixed His dwell[E7]ing, [Amaj7]His rule is [Bm7]o[A]ver [D7]all;
+[D]An[G]gels, in [Am7]might [Bm7]excel[Em]ling, [Em7]Bright [D7]hosts, before Him fall.
+Praise [G]Him who [C]ever [Bdim]reigneth, All [D]ye [Bm]who hear His [D]Word,
+[Dmaj7]Nor [G]our [A7]poor [D]hymns [A7]dis[D7]dain[F#m7]eth-[Bm7]My [Cmaj7]soul, [G]O praise [F#m]the [Baug]Lord!`
   },
   {
     t: "None Other Lamb",
@@ -3839,19 +3839,19 @@ Nor our poor hymns disdainethMy soul, O praise the Lord!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-None other Lamb, none other name, None other
-hope in Heav'n or earth or sea, None other hiding
-place from guilt and shame, None beside Thee!
+[D]None [Em7]oth[A7]er Lamb, [D]none [Em7]other name, [D]None other
+[Bm7]hope in [E7]Heav'n or earth or sea, [A]None other [Bm7]hiding
+[D]place from [F#m]guilt and [F#7]shame, [Em7]None [D]be[A7]side [D]Thee!
 
 Verse 2
-My faith burns low, my hope burns low; Only my
-heart's desire cries out in me By the deep thunder
-of its want and woe, Cries out to Thee.
+[D]My [Em7]faith [A7]burns low, [D]my [Em7]hope burns low; [D]Only my
+[Bm7]heart's de[E7]sire cries out in me [A]By the deep [Bm7]thunder
+[D]of its [F#m]want and [F#7]woe, [Em7]Cries [D]out [A7]to [D]Thee.
 
 Verse 3
-Lord, Thou art life, though I be dead; Love's fire Thou
-art, however cold I be: Nor Heav'n have I, nor
-place to lay my head, Nor home, but Thee.`
+[D]Lord, [Em7]Thou [A7]art life, [D]though [Em7]I be dead; [D]Love's fire Thou
+[Bm7]art, how[E7]ever cold I be: [A]Nor Heav'n have [Bm7]I, nor
+[D]place to [F#m]lay my [F#7]head, [Em7]Nor [D]home, [A7]but [D]Thee.`
   },
   {
     t: "Not Worthy, Lord, to Gather Up the Crumbs",
@@ -3866,29 +3866,29 @@ place to lay my head, Nor home, but Thee.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Not worthy, Lord, to gather up the crumbs With trembling
-hand that from Thy table fall, A weary, heavy
-laden sinner comes To plead Thy promise and obey Thy call.
+[Eb]Not [Gm]wor[Bb7]thy, [Cm]Lord, [Eb]to [Ab]ga[Bb]ther [Cm7]up [Bb7]the [Eb]crumbs With [Ab]trem[Eb]bling
+[Ab]hand [Eb]that [Fm7]from [Bb]Thy [Eb]ta[Fm7]ble [Bb]fall, [Eb]A [Gm]wea[Bb7]ry, [Cm]hea[Eb]vy
+la[Ab]den sin[C7]ner [Fm]comes [Bb7]To [Eb]plead [Bb7]Thy [Eb]pro[Bb7]mise [Cm]and [Fm]o[Eb]bey [Bb]Thy [Eb]call.
 
 Verse 2
-I am not worthy to be thought Thy child, Nor sit the
-last and lowest at Thy board; Too long a wanderer
-and too oft beguiled; I only ask one reconciling word.
+[Eb]I [Gm]am [Bb7]not [Cm]wor[Eb]thy [Ab]to [Bb]be [Cm7]thought [Bb7]Thy [Eb]child, Nor [Ab]sit [Eb]the
+[Ab]last [Eb]and [Fm7]low[Bb]est [Eb]at [Fm7]Thy [Bb]board; [Eb]Too [Gm]long [Bb7]a [Cm]wan[Eb]derer
+and [Ab]too oft [C7]be[Fm]guiled; [Bb7]I [Eb]on[Bb7]ly [Eb]ask [Bb7]one [Cm]re[Fm]con[Eb]cil[Bb]ing [Eb]word.
 
 Verse 3
-One word from Thee, my Lord, one smile, one look, And I could
-face the cold, rough world again; And with that treasure
-in my heart could brook The wrath of devils and the scorn of men.
+[Eb]One [Gm]word [Bb7]from [Cm]Thee, [Eb]my [Ab]Lord, [Bb]one [Cm7]smile, [Bb7]one [Eb]look, And [Ab]I [Eb]could
+[Ab]face [Eb]the [Fm7]cold, [Bb]rough [Eb]world [Fm7]a[Bb]gain; [Eb]And [Gm]with [Bb7]that [Cm]trea[Eb]sure
+in [Ab]my heart [C7]could [Fm]brook [Bb7]The [Eb]wrath [Bb7]of [Eb]de[Bb7]vils [Cm]and [Fm]the [Eb]scorn [Bb]of [Eb]men.
 
 Verse 4
-And is not mercy Thy prerogativeFree mercy,
-boundless, fathomless, divine? Me, Lord, the chief of
-sinners, me forgive, And Thine the greater glory, only Thine.
+[Eb]And [Gm]is [Bb7]not [Cm]mer[Eb]cy [Ab]Thy [Bb]pre[Cm7]rog[Bb7]a[Eb]tive-Free [Ab]mer[Eb]cy,
+[Ab]bound[Eb]less, [Fm7]fa[Bb]thom[Eb]less, [Fm7]di[Bb]vine? [Eb]Me, [Gm]Lord, [Bb7]the [Cm]chief [Eb]of
+sin[Ab]ners, me [C7]for[Fm]give, [Bb7]And [Eb]Thine [Bb7]the [Eb]great[Bb7]er [Cm]glo[Fm]ry, [Eb]on[Bb]ly [Eb]Thine.
 
 Verse 5
-I hear Thy voice; Thou bid'st me come and rest; I come, I
-kneel, I clasp Thy pierc�d feet; Thou bid'st me take my
-place, a welcome guest Among Thy saints, and of Thy banquet eat.`
+[Eb]I [Gm]hear [Bb7]Thy [Cm]voice; [Eb]Thou [Ab]bid'st [Bb]me [Cm7]come [Bb7]and [Eb]rest; I [Ab]come, [Eb]I
+[Ab]kneel, [Eb]I [Fm7]clasp [Bb]Thy [Eb]pier[Fm7]cèd [Bb]feet; [Eb]Thou [Gm]bid'st [Bb7]me [Cm]take [Eb]my
+place, [Ab]a wel[C7]come [Fm]guest [Bb7]A[Eb]mong [Bb7]Thy [Eb]saints, [Bb7]and [Cm]of [Fm]Thy [Eb]ban[Bb]quet [Eb]eat.`
   },
   {
     t: "Now Praise We Christ, the Holy One",
@@ -3903,24 +3903,24 @@ place, a welcome guest Among Thy saints, and of Thy banquet eat.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Now praise we Christ, the Holy One, The spotless virgin Mary's Son,
-Far as the bless�d sun doth shine E'en to the world's remote confine
+[Dm]Now praise [C]we [Dm]Christ, [G]the [Em]Ho[Dm]ly [A]One, [Em]The [Dm]spot[Am]less [C]vir[G]gin [Dm]Ma[G]ry's [C]Son,
+Far [Am]as [F]the [C]bless[G]éd [Am]sun [E]doth [Am]shine [G]E'en [F]to [Dm]the [C]world's [F]re[Em]mote [Am]con[E]fine
 
 Verse 2
-He, who Himself all things did make, A servant's form vouchsafed to take,
-That He as man mankind might win, And save His creatures from their sin.
+[Dm]He, who [C]Him[Dm]self [G]all [Em]things [Dm]did [A]make, [Em]A [Dm]ser[Am]vant's [C]form [G]vouch[Dm]safed [G]to [C]take,
+That [Am]He [F]as [C]man [G]man[Am]kind [E]might [Am]win, [G]And [F]save [Dm]His [C]crea[F]tures [Em]from [Am]their [E]sin.
 
 Verse 3
-The grace of God, th'Almighty Lord, On the chaste mother was outpoured
-a virgin pure and undefiled In wondrous wise conceived a child.
+[Dm]The grace [C]of [Dm]God, [G]th'Al[Em]might[Dm]y [A]Lord, [Em]On [Dm]the [Am]chaste [C]mo[G]ther [Dm]was [G]out[C]poured
+a [Am]vir[F]gin [C]pure [G]and [Am]un[E]de[Am]filed [G]In [F]won[Dm]drous [C]wise [F]con[Em]ceived [Am]a [E]child.
 
 Verse 4
-The holy maid became th'abode And temple of the living God;
-And she, who knew not man, was blest With God's own Word made manifest.
+[Dm]The ho[C]ly [Dm]maid [G]be[Em]came [Dm]th'a[A]bode [Em]And [Dm]tem[Am]ple [C]of [G]the [Dm]liv[G]ing [C]God;
+And [Am]she, [F]who [C]knew [G]not [Am]man, [E]was [Am]blest [G]With [F]God's [Dm]own [C]Word [F]made [Em]man[Am]i[E]fest.
 
 Verse 5
-The noble mother bare a Son, For so did Gabriel's promise run,
-Whom John confessed and leapt with joy, Ere yet the mother knew her boy.`
+[Dm]The no[C]ble [Dm]mo[G]ther [Em]bare [Dm]a [A]Son, [Em]For [Dm]so [Am]did [C]Ga[G]briel's [Dm]pro[G]mise [C]run,
+Whom [Am]John [F]con[C]fessed [G]and [Am]leapt [E]with [Am]joy, [G]Ere [F]yet [Dm]the [C]mo[F]ther [Em]knew [Am]her [E]boy.`
   },
   {
     t: "Now Rest Beneath Night's Shadow",
@@ -3935,29 +3935,29 @@ Whom John confessed and leapt with joy, Ere yet the mother knew her boy.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Now rest beneath night's shadow The woodland, field, and meadow,
-The world in slumber lies; But Thou, my heart, awake thee,
-To prayer and song betake thee; Let praise to thy Creator rise.
+[G]Now [C]rest be[G]neath night's [Cmaj7]sha[G]dow [Em]The [G]woodland, [D]field, [Bm]and [Em7]mea[D]dow,
+[D7]The [G]world [Am]in [G]slumber [D]lies; [B]But [Em]Thou, [Bm7]my [G]heart, [E7]a[Am]wake [E]thee,
+[Em]To [D]prayer [G]and [A7]song betake [B]thee; [Bm]Let [Em7]praise [Bm7]to [G]thy [C]Cre[Cmaj7]a[D]tor [G]rise.
 
 Verse 2
-The radiant sun hath vanished, His golden rays are banished
-By night, the foe of day; But Christ, the Sun of gladness,
-Dispelling all my sadness, Within my heart holds constant sway.
+[G]The [C]radiant [G]sun hath [Cmaj7]van[G]ished, [Em]His [G]golden [D]rays [Bm]are [Em7]ban[D]ished
+[D7]By [G]night, [Am]the [G]foe of [D]day; [B]But [Em]Christ, [Bm7]the [G]Sun [E7]of [Am]glad[E]ness,
+[Em]Dis[D]pel[G]ling [A7]all my sad[B]ness, [Bm]With[Em7]in [Bm7]my [G]heart [C]holds [Cmaj7]con[D]stant [G]sway.
 
 Verse 3
-The rule of day is over And shining jewels cover
-The heaven's boundless blue. Thus I shall shine in heaven,
-Where crowns of gold are given To all who faithful prove and true.
+[G]The [C]rule of [G]day is [Cmaj7]ov[G]er [Em]And [G]shining [D]jew[Bm]els [Em7]co[D]ver
+[D7]The [G]heav[Am]en's [G]boundless [D]blue. [B]Thus [Em]I [Bm7]shall [G]shine [E7]in [Am]hea[E]ven,
+[Em]Where [D]crowns [G]of [A7]gold are giv[B]en [Bm]To [Em7]all [Bm7]who [G]faith[C]ful [Cmaj7]prove [D]and [G]true.
 
 Verse 4
-To rest my body hasteth, Aside its garments casteth,
-Types of mortality; These I put off and ponder
-How Christ will give me yonder A robe of glorious majesty.
+[G]To [C]rest my [G]body [Cmaj7]hast[G]eth, [Em]A[G]side its [D]gar[Bm]ments [Em7]cast[D]eth,
+[D7]Types [G]of [Am]mort[G]alit[D]y; [B]These [Em]I [Bm7]put [G]off [E7]and [Am]pon[E]der
+[Em]How [D]Christ [G]will [A7]give me yon[B]der [Bm]A [Em7]robe [Bm7]of [G]glor[C]ious [Cmaj7]ma[D]jest[G]y.
 
 Verse 5
-Lord Jesus, who dost love me, Oh, spread Thy wings above me
-And shield me from alarm! Though evil would assail me,
-Thy mercy will not fail me: I rest in Thy protecting arm.`
+[G]Lord [C]Jesus, [G]who dost [Cmaj7]love [G]me, [Em]Oh, [G]spread Thy [D]wings [Bm]a[Em7]bove [D]me
+[D7]And [G]shield [Am]me [G]from al[D]arm! [B]Though [Em]e[Bm7]vil [G]would [E7]as[Am]sail [E]me,
+[Em]Thy [D]mer[G]cy [A7]will not fail [B]me: [Bm]I [Em7]rest [Bm7]in [G]Thy [C]pro[Cmaj7]tect[D]ing [G]arm.`
   },
   {
     t: "Now the Light Has Gone Away",
@@ -3972,24 +3972,24 @@ Thy mercy will not fail me: I rest in Thy protecting arm.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Now the light has gone away; Father, listen while I pray,
-Asking Thee to watch and keep And to send me quiet sleep.
+[F]Now the light has [C7]gone [F]a[C]way; Father, lis[C7]ten [F]while [C]I [F]pray,
+Asking Thee to watch [F7]and [Bb]keep [F]And to send me qui[C7]et [F]sleep.
 
 Verse 2
-Jesus, Savior, wash away All that has been wrong today;
-Help me every day to be Good and gentle, more like Thee.
+[F]Jesus, Savior, [C7]wash [F]a[C]way All that has [C7]been [F]wrong [C]to[F]day;
+Help me every day [F7]to [Bb]be [F]Good and gentle, more [C7]like [F]Thee.
 
 Verse 3
-Let my near and dear ones be Always near and dear to Thee.
-Oh, bring me and all I love To Thy happy home above.
+[F]Let my near and [C7]dear [F]ones [C]be Always near [C7]and [F]dear [C]to [F]Thee.
+Oh, bring me and all [F7]I [Bb]love [F]To Thy happy home [C7]a[F]bove.
 
 Verse 4
-Now my evening praise I give; Thou didst die that I might live.
-All my blessings come from Thee; Oh, how good Thou art to me!
+[F]Now my evening [C7]praise [F]I [C]give; Thou didst die [C7]that [F]I [C]might [F]live.
+All my blessings come [F7]from [Bb]Thee; [F]Oh, how good Thou art [C7]to [F]me!
 
 Verse 5
-Thou, my best and kindest Friend, Thou wilt love me to the end.
-Let me love Thee more and more, Always better than before.`
+[F]Thou, my best and [C7]kind[F]est [C]Friend, Thou wilt love [C7]me [F]to [C]the [F]end.
+Let me love Thee more [F7]and [Bb]more, [F]Always better than [C7]be[F]fore.`
   },
   {
     t: "O Chief of Cities Bethlehem",
@@ -4004,29 +4004,29 @@ Let me love Thee more and more, Always better than before.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O chief of cities, Bethlehem, Of David's
-crown the fairest gem, But more to us than
-David's name, In you, as man, the Savior came.
+[D]O [Bm]chief [A]of [D]ci[G]ties, [D]Beth[A]le[D]hem, [G]Of [D]David's
+[A]crown the [D]fair[G]est [D]gem, [A]But [Bm]more [E7]to [A]us [D]than
+[G]David's [D]name, [Em]In [A]you, [D]as [A]man, [D]the [G]Sa[A]vior [D]came.
 
 Verse 2
-Beyond the sun in splendor bright, Above you
-stands a wondrous light Proclaiming from the
-conscious skies That here, in flesh, the Godhead lies.
+[D]Be[Bm]yond [A]the [D]sun [G]in [D]splen[A]dor [D]bright, [G]A[D]bove you
+[A]stands a [D]won[G]drous [D]light [A]Pro[Bm]claim[E7]ing [A]from [D]the
+[G]conscious [D]skies [Em]That [A]here, [D]in [A]flesh, [D]the [G]God[A]head [D]lies.
 
 Verse 3
-The wise men, seeing Him so fair, Bow low be
-fore Him, and with prayer Their treasured eastern
-gifts unfold Of incense, myrrh, and royal gold.
+[D]The [Bm]wise [A]men, [D]see[G]ing [D]Him [A]so [D]fair, [G]Bow [D]low be[A]fore
+fore Him, [D]and [G]with [D]prayer [A]Their [Bm]trea[E7]sured [A]east[D]ern
+[G]gifts un[D]fold [Em]Of [A]in[D]cense, [A]myrrh, [D]and [G]ro[A]yal [D]gold.
 
 Verse 4
-The golden tribute owns Him King, But frankin
-cense to God they bring, And last, prophetic
-sign, with myrrh, They shadow forth His sepulcher.
+[D]The [Bm]gold[A]en [D]tri[G]bute [D]owns [A]Him [D]King, [G]But [D]frankin[A]cense
+cense to [D]God [G]they [D]bring, [A]And [Bm]last, [E7]pro[A]phe[D]tic
+[G]sign, with [D]myrrh, [Em]They [A]sha[D]dow [A]forth [D]His [G]se[A]pul[D]cher.
 
 Verse 5
-O Jesus, whom the Gentiles see, With Father,
-Spirit, One in Three: To You, O God, be
-glory giv'n By saints on earth and saints in Heav'n.`
+[D]O [Bm]Je[A]sus, [D]whom [G]the [D]Gen[A]tiles [D]see, [G]With [D]Father,
+[A]Spirit, [D]One [G]in [D]Three: [A]To [Bm]You, [E7]O [A]God, [D]be
+[G]glory [D]giv'n [Em]By [A]saints [D]on [A]earth [D]and [G]saints [A]in [D]Heav'n.`
   },
   {
     t: "O Day of Rest And Gladness",
@@ -4041,34 +4041,34 @@ glory giv'n By saints on earth and saints in Heav'n.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O day of rest and gladness, o day of joy and light,
-O balm of care and sadness, most beautiful, most bright:
-On thee, the high and lowly, through ages joined in tune,
-Sing holy, holy, holy, to the great God Triune.
+[G]O [Em]day [D]of [G]rest and [D]gladness, [G]o day [Am7]of joy [D]and light,
+[G]O [Em]balm [D]of [G]care and [D]sadness, [G]most beau[Am7]tiful, [D]most [G]bright:
+On thee, [D]the [Em7]high [Em]and low[D]ly, [C]through [G]a[D]ges [Bm]joined [Em]in [A]tune,
+[G]Sing [C]ho[G]ly, [Am]ho[G]ly, [D]holy, [G]to the [Am7]great God [D]Tri[G]une.
 
 Verse 2
-On thee, at the creation, the light first had its birth;
-On thee, for our salvation, Christ rose from depths of earth;
-On thee, our Lord, victorious, the Spirit sent from heaven,
-And thus on thee, most glorious, a triple light was given.
+[G]On [Em]thee, [D]at [G]the cre[D]ation, [G]the light [Am7]first had [D]its birth;
+[G]On [Em]thee, [D]for [G]our sal[D]vation, [G]Christ rose [Am7]from depths [D]of [G]earth;
+On thee, [D]our [Em7]Lord, [Em]victor[D]ious, [C]the [G]Spi[D]rit [Bm]sent [Em]from [A]heaven,
+[G]And [C]thus [G]on [Am]thee, [G]most [D]glorious, [G]a tri[Am7]ple light [D]was [G]given.
 
 Verse 3
-Thou art a port, protected from storms that round us rise;
-A garden, intersected with streams of paradise;
-Thou art a cooling fountain in life's dry, dreary sand;
-From thee, like Pisgah's mountain, we view our promised land.
+[G]Thou [Em]art [D]a [G]port, pro[D]tected [G]from storms [Am7]that round [D]us rise;
+[G]A [Em]gar[D]den, [G]inter[D]sected [G]with streams [Am7]of par[D]a[G]dise;
+Thou art [D]a [Em7]cool[Em]ing foun[D]tain [C]in [G]life's [D]dry, [Bm]drea[Em]ry [A]sand;
+[G]From [C]thee, [G]like [Am]Pis[G]gah's [D]mountain, [G]we view [Am7]our pro[D]mised [G]land.
 
 Verse 4
-Thou art a holy ladder, where angels go and come;
-Each Sunday finds us gladder, nearer to heaven, our home;
-A day of sweet refection, thou art a day of love,
-A day of resurrection from earth to things above.
+[G]Thou [Em]art [D]a [G]holy [D]ladder, [G]where an[Am7]gels go [D]and come;
+[G]Each [Em]Sun[D]day [G]finds us [D]gladder, [G]nearer [Am7]to heaven, [D]our [G]home;
+A day [D]of [Em7]sweet [Em]refec[D]tion, [C]thou [G]art [D]a [Bm]day [Em]of [A]love,
+[G]A [C]day [G]of [Am]res[G]ur[D]rection [G]from earth [Am7]to things [D]a[G]bove.
 
 Verse 5
-Today on weary nations the heavenly manna falls;
-To holy convocations the silver trumpet calls,
-Where Gospel light is glowing with pure and radiant beams,
-And living water flowing, with soul refreshing streams.`
+[G]To[Em]day [D]on [G]weary [D]nations [G]the heaven[Am7]ly man[D]na falls;
+[G]To [Em]ho[D]ly [G]convo[D]cations [G]the sil[Am7]ver trum[D]pet [G]calls,
+Where Gos[D]pel [Em7]light [Em]is glow[D]ing [C]with [G]pure [D]and [Bm]ra[Em]diant [A]beams,
+[G]And [C]liv[G]ing [Am]wa[G]ter [D]flowing, [G]with soul [Am7]refresh[D]ing [G]streams.`
   },
   {
     t: "O Father, All Creating",
@@ -4083,28 +4083,28 @@ And living water flowing, with soul refreshing streams.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O Father, all creating, Whose wisdom, love, and pow'r
-First bound two lives together In Eden's primal hour,
-Today to these Thy children Thy earliest gifts renew:
-A home by Thee made happy, A love by Thee kept true.
+[D]O Father, [G]all [D]crea[A7]ting, [D]Whose [Em7]wisdom, [D]love, [A7]and [D]pow'r
+[A7]First [D]bound two lives [F#7]toge[G]ther [F#m]In [G]E[A]den's [D]pri[G]mal [A]hour,
+To[D]day [A7]to [D]these [G]Thy child[D]ren [Bm]Thy earliest gifts [B]re[Em]new:
+[A]A [D]home by [G]Thee [D]made hap[Em]py, [G]A [Em7]love [Em]by Thee [A7]kept [D]true.
 
 Verse 2
-O Savior, Guest most bounteous Of old in Galilee,
-Vouchsafe today Thy presence With these who call on Thee;
-Their store of earthly gladness Transform to heav'nly wine,
-And teach them, in the tasting To know the gift is Thine.
+[D]O Savior, [G]Guest [D]most bount[A7]eous [D]Of [Em7]old in [D]Ga[A7]li[D]lee,
+[A7]Vouch[D]safe today [F#7]Thy pre[G]sence [F#m]With [G]these [A]who [D]call [G]on [A]Thee;
+Their [D]store [A7]of [D]earth[G]ly glad[D]ness [Bm]Transform to heav'n[B]ly [Em]wine,
+[A]And [D]teach them, [G]in [D]the tast[Em]ing [G]To [Em7]know [Em]the gift [A7]is [D]Thine.
 
 Verse 3
-O Spirit of the Father, Breathe on them from above,
-So mighty in Thy pureness, So tender in Thy love;
-That, guarded by Thy presence, From sin and strife kept free,
-Their lives may own Thy guidance, Their hearts be rul'd by Thee.
+[D]O Spirit [G]of [D]the Fa[A7]ther, [D]Breathe [Em7]on them [D]from [A7]a[D]bove,
+[A7]So [D]mighty in [F#7]Thy pure[G]ness, [F#m]So [G]ten[A]der [D]in [G]Thy [A]love;
+That, [D]guard[A7]ed [D]by [G]Thy pre[D]sence, [Bm]From sin and strife [B]kept [Em]free,
+[A]Their [D]lives may [G]own [D]Thy gui[Em]dance, [G]Their [Em7]hearts [Em]be rul'd [A7]by [D]Thee.
 
 Verse 4
-Except Thou build it, Father, The house is built in vain;
-Except Thou, Savior, bless it, The joy will turn to pain;
-But naught can break the union Of hearts in Thee made one,
-And love Thy Spirit hallow'd Is endless love begun.`
+[D]Except Thou [G]build [D]it, Fa[A7]ther, [D]The [Em7]house is [D]built [A7]in [D]vain;
+[A7]Ex[D]cept Thou, Sa[F#7]vior, bless [G]it, [F#m]The [G]joy [A]will [D]turn [G]to [A]pain;
+But [D]naught [A7]can [D]break [G]the un[D]ion [Bm]Of hearts in Thee [B]made [Em]one,
+[A]And [D]love Thy [G]Spi[D]rit hal[Em]low'd [G]Is [Em7]end[Em]less love [A7]be[D]gun.`
   },
   {
     t: "O For A Thousand Tongues",
@@ -4119,24 +4119,24 @@ And love Thy Spirit hallow'd Is endless love begun.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O for a thousand tongues to sing My great Redeemer's praise,
-The glories of my God and King, The triumphs of His grace!
+[Eb]O [Ab]for a [Eb]thousand [Ab]tongues to [Fm]sing [Eb]My [Ab]great Re[Eb7]deem[Ab]er's [Eb]praise,
+The [Ab]glories of my [Db]God and King, The [Ab]triumphs of [Eb7]His [Ab]grace!
 
 Verse 2
-My gracious Master and my God, Assist me to proclaim,
-To spread through all the earth abroad The honors of Thy name.
+[Eb]My [Ab]gracious [Eb]Master [Ab]and my [Fm]God, [Eb]A[Ab]ssist me [Eb7]to [Ab]pro[Eb]claim,
+To [Ab]spread through all the [Db]earth abroad The [Ab]honors of [Eb7]Thy [Ab]name.
 
 Verse 3
-Jesus! the name that charms our fears, That bids our sorrows cease;
-'Tis music in the sinner's ears, 'Tis life, and health, and peace.
+[Eb]Je[Ab]sus! the [Eb]name that [Ab]charms our [Fm]fears, [Eb]That [Ab]bids our [Eb7]sor[Ab]rows [Eb]cease;
+'Tis [Ab]music in the [Db]sinner's ears, 'Tis [Ab]life, and health, [Eb7]and [Ab]peace.
 
 Verse 4
-He breaks the pow'r of canceled sin, He sets the prisoner free;
-His blood can make the foulest clean, His blood availed for me.
+[Eb]He [Ab]breaks the [Eb]pow'r of [Ab]canceled [Fm]sin, [Eb]He [Ab]sets the [Eb7]pri[Ab]soner [Eb]free;
+His [Ab]blood can make the [Db]foulest clean, His [Ab]blood availed [Eb7]for [Ab]me.
 
 Verse 5
-He speaks, and, listening to His voice, New life the dead receive,
-The mournful, broken hearts rejoice, The humble poor believe.`
+[Eb]He [Ab]speaks, and, [Eb]listening [Ab]to His [Fm]voice, [Eb]New [Ab]life the [Eb7]dead [Ab]re[Eb]ceive,
+The [Ab]mournful, broken [Db]hearts rejoice, The [Ab]humble poor [Eb7]be[Ab]lieve.`
   },
   {
     t: "O Holy, Blessed Trinity",
@@ -4151,24 +4151,24 @@ The mournful, broken hearts rejoice, The humble poor believe.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O Holy, Blessed Trinity, Divine, Essential Unity,
-God Father, Son, and Holy Ghost, Be Thou this day my Guide and Host.
+[D]O Ho[G]ly, [A]Bless[D]ed [G]Trini[D]ty, [A]Di[D]vine, [Bm]Es[A]sen[F#m]tial [Bm7]U[E]ni[A]ty,
+[D]God [Bm]Fa[F#m]ther, [G]Son, [D]and [G]Ho[Em]ly [F#]Ghost, [Bm]Be Thou [Em]this [A]day [D]my [G]Guide and [D]Host.
 
 Verse 2
-My soul and body keep from harm, O'er all I have extend Thine arm,
-That Satan may not cause distress Nor bring me shame or wretchedness.
+[D]My soul [G]and [A]bo[D]dy [G]keep from [D]harm, [A]O'er [D]all [Bm]I [A]have [F#m]ex[Bm7]tend [E]Thine [A]arm,
+[D]That [Bm]Sa[F#m]tan [G]may [D]not [G]cause [Em]dis[F#]tress [Bm]Nor bring [Em]me [A]shame [D]or [G]wretched[D]ness.
 
 Verse 3
-The Father's might shield me this day, The Son's pure wisdom cheer my way,
-The Holy Spirit's light divine Illume my heart's benighted shrine.
+[D]The Fa[G]ther's [A]might [D]shield [G]me this [D]day, [A]The [D]Son's [Bm]pure [A]wis[F#m]dom [Bm7]cheer [E]my [A]way,
+[D]The [Bm]Ho[F#m]ly [G]Spir[D]it's [G]light [Em]di[F#]vine [Bm]Illume [Em]my [A]heart's [D]be[G]nighted [D]shrine.
 
 Verse 4
-My Maker, strengthen Thou my heart, O my Redeemer, help impart,
-Blest Comforter, keep at my side That faith and love in me abide.
+[D]My Ma[G]ker, [A]streng[D]then [G]Thou my [D]heart, [A]O [D]my [Bm]Re[A]deem[F#m]er, [Bm7]help [E]im[A]part,
+[D]Blest [Bm]Com[F#m]for[G]ter, [D]keep [G]at [Em]my [F#]side [Bm]That faith [Em]and [A]love [D]in [G]me a[D]bide.
 
 Verse 5
-Lord, bless and keep Thou me as Thine; Lord, make Thy face upon me shine;
-Lord, lift Thy countenance on me And give me peacesweet peace, from Thee.`
+[D]Lord, bless [G]and [A]keep [D]Thou [G]me as [D]Thine; [A]Lord, [D]make [Bm]Thy [A]face [F#m]up[Bm7]on [E]me [A]shine;
+[D]Lord, [Bm]lift [F#m]Thy [G]coun[D]ten[G]ance [Em]on [F#]me [Bm]And give [Em]me [A]peace-[D]sweet [G]peace, from [D]Thee.`
   },
   {
     t: "O Holy Spirit, Enter In",
@@ -4183,39 +4183,39 @@ Lord, lift Thy countenance on me And give me peacesweet peace, from Thee.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O Holy Spirit, enter in, And in our hearts Thy
-work begin Thy Temple deign to make us; Sun of the
-soul, Thou Light divine, Around and in us brightly shine, To joy and
-gladness wake us. That we to Thee Truly living, To Thee giving
-Prayer unceasing May in love be still increasing.
+[Eb]O [Bb]Ho[Eb]ly [Cm]Spir[Bb]it, [Cm7]en[F]ter [Bb]in, [Eb]And [Cm]in [Bb]our [Eb]hearts [Bb]Thy
+work [F7]be[Bb]gin [Eb]Thy [Ab]Tem[Eb]ple [Ab]deign [Eb]to make us; Sun [Bb]of [Eb]the
+[Cm]soul, [Bb]Thou [Cm7]Light [F]di[Bb]vine, [Eb]A[Cm]round [Bb]and [Eb]in [Bb]us bright[F7]ly [Bb]shine, [Eb]To [Ab]joy [Eb]and
+[Ab]glad[Eb]ness wake us. [Gm]That [Eb]we [Gm]to [Eb]Thee Truly liv[Bb]ing, [Eb]To Thee giv[Bb]ing
+[Eb]Prayer un[Bb]ceas[Eb]ing [Cm]May [Eb]in [Ab]love [Eb]be [Ab]still [Eb]increasing.
 
 Verse 2
-Give to Thy Word impressive pow'r That in our hearts, from
-this good hour, As fire it may be glowing; That we con
-fess the Father, Son, And Thee, the Spirit, Three in One, Thy glory
-ever showing. Stay Thou, guide now Our souls ever that they never
-May forsake Thee. But by faith their refuge make Thee.
+[Eb]Give [Bb]to [Eb]Thy [Cm]Word [Bb]im[Cm7]press[F]ive [Bb]pow'r [Eb]That [Cm]in [Bb]our [Eb]hearts, [Bb]from
+this [F7]good [Bb]hour, [Eb]As [Ab]fire [Eb]it [Ab]may [Eb]be glowing; That [Bb]we [Eb]con[Cm]fess
+fess [Bb]the [Cm7]Fa[F]ther, [Bb]Son, [Eb]And [Cm]Thee, [Bb]the [Eb]Spir[Bb]it, Three [F7]in [Bb]One, [Eb]Thy [Ab]glo[Eb]ry
+[Ab]ev[Eb]er showing. [Gm]Stay [Eb]Thou, [Gm]guide [Eb]now Our souls ev[Bb]er [Eb]that they nev[Bb]er
+[Eb]May for[Bb]sake [Eb]Thee. [Cm]But [Eb]by [Ab]faith [Eb]their [Ab]re[Eb]fuge make Thee.
 
 Verse 3
-Thou fountain whence all wisdom flows Which God on pious
-hearts bestows, Grant us Thy consolation. That in our
-pure faith's unity We faithful witnesses may be Of grace that
-brings salvation. Hear us, cheer us, By Thy teaching; let our preaching,
-And our labor Praise Thee, Lord, and serve our neighbor.
+[Eb]Thou [Bb]foun[Eb]tain [Cm]whence [Bb]all [Cm7]wis[F]dom [Bb]flows [Eb]Which [Cm]God [Bb]on [Eb]pi[Bb]ous
+hearts [F7]be[Bb]stows, [Eb]Grant [Ab]us [Eb]Thy [Ab]con[Eb]solation. That [Bb]in [Eb]our
+[Cm]pure [Bb]faith's [Cm7]un[F]i[Bb]ty [Eb]We [Cm]faith[Bb]ful [Eb]wit[Bb]nesses [F7]may [Bb]be [Eb]Of [Ab]grace [Eb]that
+[Ab]brings [Eb]salvation. [Gm]Hear [Eb]us, [Gm]cheer [Eb]us, By Thy teach[Bb]ing; [Eb]let our preach[Bb]ing,
+[Eb]And our [Bb]la[Eb]bor [Cm]Praise [Eb]Thee, [Ab]Lord, [Eb]and [Ab]serve [Eb]our neighbor.
 
 Verse 4
-Left to ourselves, we shall but stray; O lead us on the
-narrow way, With wisest counsel guide us; And give us
-steadfastness, that we May ever faithful prove to Thee, Whatever
-woes betide us; Lord now Heal Thou All hearts broken, And betoken
-Thou art near us, Whom we trust to light and cheer us.
+[Eb]Left [Bb]to [Eb]our[Cm]selves, [Bb]we [Cm7]shall [F]but [Bb]stray; [Eb]O [Cm]lead [Bb]us [Eb]on [Bb]the
+nar[F7]row [Bb]way, [Eb]With [Ab]wis[Eb]est [Ab]coun[Eb]sel guide us; And [Bb]give [Eb]us
+[Cm]stead[Bb]fast[Cm7]ness, [F]that [Bb]we [Eb]May [Cm]ev[Bb]er [Eb]faith[Bb]ful prove [F7]to [Bb]Thee, [Eb]What[Ab]ev[Eb]er
+[Ab]woes [Eb]betide us; [Gm]Lord [Eb]now [Gm]Heal [Eb]Thou All hearts bro[Bb]ken, [Eb]And beto[Bb]ken
+[Eb]Thou art [Bb]near [Eb]us, [Cm]Whom [Eb]we [Ab]trust [Eb]to [Ab]light [Eb]and cheer us.
 
 Verse 5
-Thy heav'nly strength sustain our heart That we may act the
-valiant part With Thee as our Reliance; Be Thou our
-Refuge and our Shield That we may never quit the field, But stand in
-bold defiance. Descend, defend From all errors And earth's terrors
-Thy salvation Be our constant consolation.`
+[Eb]Thy [Bb]heav'n[Eb]ly [Cm]strength [Bb]sus[Cm7]tain [F]our [Bb]heart [Eb]That [Cm]we [Bb]may [Eb]act [Bb]the
+val[F7]iant [Bb]part [Eb]With [Ab]Thee [Eb]as [Ab]our [Eb]Reliance; Be [Bb]Thou [Eb]our
+[Cm]Re[Bb]fuge [Cm7]and [F]our [Bb]Shield [Eb]That [Cm]we [Bb]may [Eb]nev[Bb]er quit [F7]the [Bb]field, [Eb]But [Ab]stand [Eb]in
+[Ab]bold [Eb]defiance. [Gm]De[Eb]scend, [Gm]de[Eb]fend From all err[Bb]ors [Eb]And earth's ter[Bb]rors
+[Eb]Thy sal[Bb]va[Eb]tion [Cm]Be [Eb]our [Ab]con[Eb]stant [Ab]con[Eb]solation.`
   },
   {
     t: "O Lord, How Shall I Meet Thee",
@@ -4230,34 +4230,34 @@ Thy salvation Be our constant consolation.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O Lord, how shall I meet Thee, How welcome Thee aright?
-All nations long to see Thee, My Hope, my heart's Delight!
-O kindle, Lord, most holy, Thy lamp within my breast,
-To do in spirit lowly All that may please Thee best.
+[Eb]O Lord, [Ab]how [Bb]shall [Eb]I [Fm]meet [Cm]Thee, [Ab]How [Eb]welcome [Fm]Thee [Bb]a[Eb]right?
+All na[Ab]tions [Bb]long [Eb]to [Fm]see [Cm]Thee, [Ab]My [Eb]Hope, my [Fm]heart's [Bb]De[Eb]light!
+O [Ab]kindle, [Eb]Lord, [Bb]most holy, [Eb]Thy [Ab]lamp [Bb]with[Ab]in [Eb]my [Bb]breast,
+[Eb]To [Cm]do [Bb]in [Eb]spirit [Ab]low[Eb]ly All [Ab]that [Eb]may please [Bb]Thee [Eb]best.
 
 Verse 2
-Thy Zion palms is strewing, And branches fresh and fair;
-My heart, its pow'rs renewing, An anthem shall prepare.
-My soul puts off her sadness Thy glories to proclaim;
-With all her strength and gladness She fain would serve Thy Name.
+[Eb]Thy Zi[Ab]on [Bb]palms [Eb]is [Fm]strew[Cm]ing, [Ab]And [Eb]branches [Fm]fresh [Bb]and [Eb]fair;
+My heart, [Ab]its [Bb]pow'rs [Eb]re[Fm]new[Cm]ing, [Ab]An [Eb]anthem [Fm]shall [Bb]pre[Eb]pare.
+My [Ab]soul puts [Eb]off [Bb]her sadness [Eb]Thy [Ab]glor[Bb]ies [Ab]to [Eb]pro[Bb]claim;
+[Eb]With [Cm]all [Bb]her [Eb]strength and [Ab]glad[Eb]ness She [Ab]fain [Eb]would serve [Bb]Thy [Eb]Name.
 
 Verse 3
-What hast Thou left ungranted To give me glad relief?
-When soul and body panted In utmost depth of grief,
-In deepest degradation, Devoid of joy and peace,
-Then, Thou, my soul's Salvation, Didst come to bring release.
+[Eb]What hast [Ab]Thou [Bb]left [Eb]un[Fm]grant[Cm]ed [Ab]To [Eb]give me [Fm]glad [Bb]re[Eb]lief?
+When soul [Ab]and [Bb]bo[Eb]dy [Fm]pant[Cm]ed [Ab]In [Eb]utmost [Fm]depth [Bb]of [Eb]grief,
+In [Ab]deepest [Eb]de[Bb]gradation, [Eb]De[Ab]void [Bb]of [Ab]joy [Eb]and [Bb]peace,
+[Eb]Then, [Cm]Thou, [Bb]my [Eb]soul's Sal[Ab]va[Eb]tion, Didst [Ab]come [Eb]to bring [Bb]re[Eb]lease.
 
 Verse 4
-I lay in fetters groaning, Thou com'st to set me free;
-I stood, my shame bemoaning, Thou com'st to honor me.
-A glory Thou dost give me, A treasure safe on high,
-That will not fail nor leave me As earthly riches fly.
+[Eb]I lay [Ab]in [Bb]fet[Eb]ters [Fm]groan[Cm]ing, [Ab]Thou [Eb]com'st to [Fm]set [Bb]me [Eb]free;
+I stood, [Ab]my [Bb]shame [Eb]be[Fm]moan[Cm]ing, [Ab]Thou [Eb]com'st to [Fm]hon[Bb]or [Eb]me.
+A [Ab]glory [Eb]Thou [Bb]dost give me, [Eb]A [Ab]trea[Bb]sure [Ab]safe [Eb]on [Bb]high,
+[Eb]That [Cm]will [Bb]not [Eb]fail nor [Ab]leave [Eb]me As [Ab]earth[Eb]ly rich[Bb]es [Eb]fly.
 
 Verse 5
-Love caused Thine incarnation Love brought Thee down to me;
-Thy thirst for my salvation Procured my liberty.
-O love beyond all telling, That led Thee to embrace,
-In love all love excelling, Our lost and fallen race!`
+[Eb]Love caused [Ab]Thine [Bb]in[Eb]car[Fm]na[Cm]tion [Ab]Love [Eb]brought Thee [Fm]down [Bb]to [Eb]me;
+Thy thirst [Ab]for [Bb]my [Eb]sal[Fm]va[Cm]tion [Ab]Pro[Eb]cured my [Fm]lib[Bb]er[Eb]ty.
+O [Ab]love be[Eb]yond [Bb]all telling, [Eb]That [Ab]led [Bb]Thee [Ab]to [Eb]em[Bb]brace,
+[Eb]In [Cm]love [Bb]all [Eb]love ex[Ab]cel[Eb]ling, Our [Ab]lost [Eb]and fal[Bb]len [Eb]race!`
   },
   {
     t: "O Lord, I Am Not Worthy",
@@ -4272,24 +4272,24 @@ In love all love excelling, Our lost and fallen race!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O Lord, I am not worthy That Thou should'st come to me,
-But speak the words of comfort, My spirit healed shall be.
+[Bb]O Lord, [Eb]I [Bb]am not wor[F]thy That Thou [F7]should'st come [F]to [Bb]me,
+But speak the [Gm]words [Dm]of com[Eb]fort, My [Bb]spirit [F]healed [F7]shall [Bb]be.
 
 Verse 2
-O Lord, Thou art all holy, The angels Thee adore;
-How, then, ought I sincerely My wrongs and sins deplore!
+[Bb]O Lord, [Eb]Thou [Bb]art all ho[F]ly, The an[F7]gels Thee [F]a[Bb]dore;
+How, then, ought [Gm]I [Dm]sincere[Eb]ly My [Bb]wrongs and [F]sins [F7]de[Bb]plore!
 
 Verse 3
-But when Thou soon wilt enter My heart, my sinful heart,
-Then heal me, be my shelter, For Thou my Savior art.
+[Bb]But when [Eb]Thou [Bb]soon wilt en[F]ter My heart, [F7]my sin[F]ful [Bb]heart,
+Then heal me, [Gm]be [Dm]my shel[Eb]ter, For [Bb]Thou my [F]Sa[F7]vior [Bb]art.
 
 Verse 4
-O Lord, how can I thank Thee For such a gift as this?
-A gift which truly filleth My soul with heav'nly bliss!
+[Bb]O Lord, [Eb]how [Bb]can I thank [F]Thee For such [F7]a gift [F]as [Bb]this?
+A gift which [Gm]tru[Dm]ly fill[Eb]eth My [Bb]soul with [F]heav'n[F7]ly [Bb]bliss!
 
 Verse 5
-I praise Thee, I extol Thee, I love Thee O my Sire,
-Till once in joy and glory, In heav'n I Thee admire.`
+[Bb]I praise [Eb]Thee, [Bb]I extol [F]Thee, I love [F7]Thee O [F]my [Bb]Sire,
+Till once in [Gm]joy [Dm]and glo[Eb]ry, In [Bb]heav'n I [F]Thee [F7]ad[Bb]mire.`
   },
   {
     t: "O Lord My Soul Convicted",
@@ -4304,29 +4304,29 @@ Till once in joy and glory, In heav'n I Thee admire.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O Lord, my soul convicted stands Of
-breaking all Thy ten commands: And on me justly
-might'st Thou pour Thy wrath in one eternal show'r.
+[C]O Lord, my [F]soul con[G]vic[G7]ted [C]stands Of
+[F]break[C]ing [G]all [Em]Thy [Am7]ten [D]com[G]mands: And [C]on me justly
+[Dm]might'st [C]Thou [G]pour [C]Thy wrath [F]in [G]one [Am]e[Dm7]ter[G7]nal [C]show'r.
 
 Verse 2
-But thanks to God, its loud alarms Have
-warn'd me of approaching harms; And now, O Lord, my
-wants I see, Lost and undone, I come to Thee.
+[C]But thanks to [F]God, its [G]loud [G7]a[C]larms Have
+[F]warn'd [C]me [G]of [Em]ap[Am7]proach[D]ing [G]harms; And [C]now, O Lord, my
+[Dm]wants [C]I [G]see, [C]Lost and [F]un[G]done, [Am]I [Dm7]come [G7]to [C]Thee.
 
 Verse 3
-I know my fig leaf righteousness Can
-ne'er Thy broken law redress; Yet in the gospel
-plan I see, There's hope of pardon e'en for me.
+[C]I know my [F]fig leaf [G]right[G7]eous[C]ness Can
+[F]ne'er [C]Thy [G]bro[Em]ken [Am7]law [D]re[G]dress; Yet [C]in the gospel
+[Dm]plan [C]I [G]see, [C]There's hope [F]of [G]par[Am]don [Dm7]e'en [G7]for [C]me.
 
 Verse 4
-There, I behold with wonder, Lord! That
-Christ hath to Thy law restor'd Those honors on th'a
-toning day, Which guilty sinners took away.
+[C]There, I be[F]hold with [G]won[G7]der, [C]Lord! That
+[F]Christ [C]hath [G]to [Em]Thy [Am7]law [D]re[G]stor'd Those [C]honors on th'a[Dm]ton[C]ing
+toning [G]day, [C]Which guil[F]ty [G]sin[Am]ners [Dm7]took [G7]a[C]way.
 
 Verse 5
-Amazing wisdom, pow'r and love, Dis
-play'd to rebels from above! Do Thou, O Lord, my
-faith increase To love and trust Thy plan of grace.`
+[C]Amazing [F]wisdom, [G]pow'r [G7]and [C]love, Dis[F]play'd
+play'd [C]to [G]re[Em]bels [Am7]from [D]a[G]bove! Do [C]Thou, O Lord, my
+[Dm]faith [C]in[G]crease [C]To love [F]and [G]trust [Am]Thy [Dm7]plan [G7]of [C]grace.`
   },
   {
     t: "O Lord of Heav'n and Earth and Sea",
@@ -4341,29 +4341,29 @@ faith increase To love and trust Thy plan of grace.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O Lord of Heav'n and earth and sea,
-To Thee all praise and glory be; How
-shall we show our love to Thee, Who givest all?
+[D]O Lord of Heav'n [G]and earth [A]and [D]sea,
+To Thee all [G]praise [D]and glo[E7]ry [A]be; [D]How
+[G]shall [D]we [Em]show [A]our [D]love [Bm]to [D]Thee, [Bm]Who [D]givest all?
 
 Verse 2
-The golden sunshine, vernal air,
-Sweet flow'rs and fruits, Thy love declare; Where
-harvests ripen, Thou art there, Who givest all.
+[D]The golden sun[G]shine, ver[A]nal [D]air,
+Sweet flow'rs and [G]fruits, [D]Thy love [E7]de[A]clare; [D]Where
+[G]har[D]vests [Em]ri[A]pen, [D]Thou [Bm]art [D]there, [Bm]Who [D]givest all.
 
 Verse 3
-For peaceful homes and healthful days,
-For all the blessings earth displays, We
-owe Thee thankfulness and praise, Who givest all.
+[D]For peaceful homes [G]and health[A]ful [D]days,
+For all the [G]bless[D]ings earth [E7]dis[A]plays, [D]We
+[G]owe [D]Thee [Em]thank[A]ful[D]ness [Bm]and [D]praise, [Bm]Who [D]givest all.
 
 Verse 4
-Thou didst not spare Thine only Son,
-But gav'st Him for a world undone, And
-freely, with that bless�d One, Thou givest all.
+[D]Thou didst not spare [G]Thine on[A]ly [D]Son,
+But gav'st Him [G]for [D]a world [E7]un[A]done, [D]And
+[G]free[D]ly, [Em]with [A]that [D]bless[Bm]èd [D]One, [Bm]Thou [D]givest all.
 
 Verse 5
-Thou giv'st the Spirit's bless�d dow'r,
-Spirit of life and love and pow'r, And
-dost His sev'nfold graces show'r Upon us all.`
+[D]Thou giv'st the Spir[G]it's bless[A]èd [D]dow'r,
+Spirit of [G]life [D]and love [E7]and [A]pow'r, [D]And
+[G]dost [D]His [Em]sev'n[A]fold [D]gra[Bm]ces [D]show'r [Bm]Up[D]on us all.`
   },
   {
     t: "O Lord We Praise Thee",
@@ -4378,28 +4378,28 @@ dost His sev'nfold graces show'r Upon us all.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O Lord, we praise Thee, bless Thee, and adore Thee, In thanksgiving
-bow before Thee Thou with Thy body and Thy blood didst nourish
-Our weak souls that they may flourish: O Lord, have mercy!
-May Thy body, Lord, born of Mary, That our sins and
-sorrows did carry, And Thy blood for us plead
-In all trial, fear, and need: O Lord, have mercy!
+[A]O [D]Lord, [F#m]we [E]praise [A]Thee, [Bm]bless Thee, [D]and [A]a[E]dore [A]Thee, [Em]In [Bm]thanks[A]giving
+[Em7]bow [Bm]be[F#7]fore [F#m7]Thee [A]Thou [D]with [F#m]Thy [E]bo[A]dy [Bm]and Thy [D]blood [A]didst [E]nou[A]rish
+[Em]Our [Bm]weak [A]souls that [Em7]they [Bm]may [F#7]flou[F#m7]rish: [D]O Lord, [A]have [Bm]mer[A]cy!
+May [F#m]Thy [E]bo[A]dy, [D]Lord, born [A]of [Em]Ma[A]ry, That [D]our [E]sins [A]and
+[D]sor[Bm]rows [A]did carry, [D]And Thy [A]blood [Bm]for [E]us [A]plead
+In [G]all [D]tri[A]al, [D]fear, [A]and [D]need: O Lord, [A]have [Bm]mer[A]cy!
 
 Verse 2
-Thy holy body into death was given, Life to win for
-us in heaven. No greater love than this to Thee could bind us;
-May this feast thereof remind us! O Lord, have mercy!
-Lord, Thy kindness did so constrain Thee That Thy blood should
-bless and sustain me. All our debt Thou hast paid;
-Peace with God once more is made: O Lord, have mercy.
+[A]Thy [D]ho[F#m]ly [E]bo[A]dy [Bm]into [D]death [A]was [E]gi[A]ven, [Em]Life [Bm]to [A]win for
+[Em7]us [Bm]in [F#7]hea[F#m7]ven. [A]No [D]great[F#m]er [E]love [A]than [Bm]this to [D]Thee [A]could [E]bind [A]us;
+[Em]May [Bm]this [A]feast there[Em7]of [Bm]re[F#7]mind [F#m7]us! [D]O Lord, [A]have [Bm]mer[A]cy!
+Lord, [F#m]Thy [E]kind[A]ness [D]did so [A]con[Em]strain [A]Thee That [D]Thy [E]blood [A]should
+[D]bless [Bm]and [A]sustain me. [D]All our [A]debt [Bm]Thou [E]hast [A]paid;
+Peace [G]with [D]God [A]once [D]more [A]is [D]made: O Lord, [A]have [Bm]mer[A]cy.
 
 Verse 3
-May God bestow on us His grace and favor To please Him with
-our behavior And live as brethren here in love and union
-Nor repent this blest Communion! O Lord, have mercy!
-Let not Thy good Spirit forsake us; Grant that heav'nly
-minded He make us; Give Thy Church, Lord, to see
-Days of peace and unity: O Lord, have mercy!`
+[A]May [D]God [F#m]be[E]stow [A]on [Bm]us His [D]grace [A]and [E]fa[A]vor [Em]To [Bm]please [A]Him with
+[Em7]our [Bm]be[F#7]ha[F#m7]vior [A]And [D]live [F#m]as [E]breth[A]ren [Bm]here in [D]love [A]and [E]un[A]ion
+[Em]Nor [Bm]re[A]pent this [Em7]blest [Bm]Co[F#7]mmun[F#m7]ion! [D]O Lord, [A]have [Bm]mer[A]cy!
+Let [F#m]not [E]Thy [A]good [D]Spirit [A]for[Em]sake [A]us; Grant [D]that [E]heav'n[A]ly-
+[D]min[Bm]ded [A]He make us; [D]Give Thy [A]Church, [Bm]Lord, [E]to [A]see
+Days [G]of [D]peace [A]and [D]u[A]ni[D]ty: O Lord, [A]have [Bm]mer[A]cy!`
   },
   {
     t: "O Love, How Deep, How Broad, How High",
@@ -4414,29 +4414,29 @@ Days of peace and unity: O Lord, have mercy!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O love, how deep, how broad, how high, How passing
-thought and fantasy, That God, the Son of
-God, should take Our mortal form for mortals' sake!
+[C#m]O love, [E]how [A]deep, [G#m]how [E]broad, [A]how [C#m]high, [A]How pass[E]ing
+[F#m]thought and [C#m]fantasy, That [G#m]God, [E]the [A]Son [F#m]of
+[E]God, should take [A]Our [E]mor[C#m]tal [F#m]form [C#m]for [A]mortals' [C#m]sake!
 
 Verse 2
-He sent no angel to our race Of higher
-or of lower place, But wore the robe of
-human frame And He Himself, to this world came.
+[C#m]He sent [E]no [A]an[G#m]gel [E]to [A]our [C#m]race [A]Of high[E]er
+[F#m]or of [C#m]lower place, But [G#m]wore [E]the [A]robe [F#m]of
+[E]human frame [A]And [E]He [C#m]Him[F#m]self, [C#m]to [A]this world [C#m]came.
 
 Verse 3
-Nor willed He only to appear; His pleasure
-was to tarry here; And God and Man with
-man would be The space of thirty years and three.
+[C#m]Nor willed [E]He [A]on[G#m]ly [E]to [A]ap[C#m]pear; [A]His plea[E]sure
+[F#m]was to [C#m]tarry here; And [G#m]God [E]and [A]Man [F#m]with
+[E]man would be [A]The [E]space [C#m]of [F#m]thir[C#m]ty [A]years and [C#m]three.
 
 Verse 4
-For us baptized, for us He bore His holy
-fast and hungered sore, For us temptations
-sharp He knew; For us the tempter overthrew.
+[C#m]For us [E]bap[A]tized, [G#m]for [E]us [A]He [C#m]bore [A]His ho[E]ly
+[F#m]fast and [C#m]hungered sore, For [G#m]us [E]temp[A]ta[F#m]tions
+[E]sharp He knew; [A]For [E]us [C#m]the [F#m]temp[C#m]ter [A]over[C#m]threw.
 
 Verse 5
-For us He prayed; for us He taught; For us His
-daily works He wrought; By words and signs and
-actions thus Still seeking not Himself, but us.`
+[C#m]For us [E]He [A]prayed; [G#m]for [E]us [A]He [C#m]taught; [A]For us [E]His
+[F#m]daily [C#m]works He wrought; By [G#m]words [E]and [A]signs [F#m]and
+[E]actions thus [A]Still [E]seek[C#m]ing [F#m]not [C#m]Him[A]self, but [C#m]us.`
   },
   {
     t: "O That The Lord Would Guide My Ways",
@@ -4451,24 +4451,24 @@ actions thus Still seeking not Himself, but us.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O that the Lord would guide my ways To keep His statutes still!
-O that my God would grant me grace To know and do His will!
+[Ab]O that the Lord [Eb7]would [Fm]guide my [Ab]ways To keep His [Fm]statutes [Eb]still!
+[Eb7]O [Ab]that my [Fm]God [Eb]would [Ab]grant me [Db]grace [Eb]To [Ab]know and do [Eb7]His [Ab]will!
 
 Verse 2
-O send Thy Spirit down to write Thy law upon my heart!
-Nor let my tongue indulge deceit, Nor act the liar's part.
+[Ab]O send Thy Spi[Eb7]rit [Fm]down to [Ab]write Thy law up[Fm]on my [Eb]heart!
+[Eb7]Nor [Ab]let my [Fm]tongue [Eb]in[Ab]dulge de[Db]ceit, [Eb]Nor [Ab]act the li[Eb7]ar's [Ab]part.
 
 Verse 3
-From vanity turn off mine eyes; Let no corrupt design,
-Nor covetous desires arise Within this soul of mine.
+[Ab]From vanity [Eb7]turn [Fm]off mine [Ab]eyes; Let no cor[Fm]rupt de[Eb]sign,
+[Eb7]Nor [Ab]covet[Fm]ous [Eb]de[Ab]sires a[Db]rise [Eb]With[Ab]in this soul [Eb7]of [Ab]mine.
 
 Verse 4
-Order my footsteps by Thy Word, And make my heart sincere;
-Let sin have no dominion, Lord, But keep my conscience clear.
+[Ab]Order my foot[Eb7]steps [Fm]by Thy [Ab]Word, And make my [Fm]heart sin[Eb]cere;
+[Eb7]Let [Ab]sin have [Fm]no [Eb]do[Ab]minion, [Db]Lord, [Eb]But [Ab]keep my con[Eb7]science [Ab]clear.
 
 Verse 5
-Assist my soul, too apt to stray, A stricter watch to keep;
-And should I e'er forget Thy way, Restore Thy wand'ring sheep.`
+[Ab]Assist my soul, [Eb7]too [Fm]apt to [Ab]stray, A stricter [Fm]watch to [Eb]keep;
+[Eb7]And [Ab]should I [Fm]e'er [Eb]for[Ab]get Thy [Db]way, [Eb]Re[Ab]store Thy wan[Eb7]d'ring [Ab]sheep.`
   },
   {
     t: "O Trinity of Blessed Light",
@@ -4483,16 +4483,16 @@ And should I e'er forget Thy way, Restore Thy wand'ring sheep.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O Trinity of bless�d light, O Unity of princely might,
-The fiery sun now goes his way; Shed Thou within our hearts a ray.
+[D]O [A]Trin[Em]ity of blessèd light, [D]O [A]U[D]nity of princely might,
+The [Bm]fiery [D]sun now goes his way; [Em]Shed [A]Thou [Em]within our hearts a ray.
 
 Verse 2
-To Thee our morning song of praise, To Thee our evening prayer we raise;
-O grant us with Thy saints on high To praise Thee through eternity.
+[D]To [A]Thee [Em]our morning song of praise, [D]To [A]Thee [D]our evening prayer we raise;
+O [Bm]grant us [D]with Thy saints on high [Em]To [A]praise [Em]Thee through eternity.
 
 Verse 3
-All laud to God the Father be, All praise, eternal Son, to Thee,
-All glory, as is ever meet, To God the holy Paraclete.`
+[D]All [A]laud [Em]to God the Father be, [D]All [A]praise, [D]eternal Son, to Thee,
+All [Bm]glory, [D]as is ever meet, [Em]To [A]God [Em]the holy Paraclete.`
   },
   {
     t: "O Wondrous Type, O Vision Fair",
@@ -4507,29 +4507,29 @@ All glory, as is ever meet, To God the holy Paraclete.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O wondrous type! O vision fair Of glory
-that the Church may share, Which Christ upon the
-mountain shows, where brighter than the sun He glows!
+[C#m]O won[E]drous [A]type! [G#m]O [E]vi[A]sion [C#m]fair [A]Of glo[E]ry
+[F#m]that the [C#m]Church may share, Which [G#m]Christ [E]up[A]on [F#m]the
+[E]mountain shows, [A]where [E]bright[C#m]er [F#m]than [C#m]the [A]sun He [C#m]glows!
 
 Verse 2
-From age to age the tale declare, How with the
-three disciples there, Where Moses and El
-ijah meet, The Lord holds converse high and sweet.
+[C#m]From age [E]to [A]age [G#m]the [E]tale [A]de[C#m]clare, [A]How with [E]the
+[F#m]three di[C#m]sciples there, Where [G#m]Mo[E]ses [A]and [F#m]El[E]ijah
+ijah meet, [A]The [E]Lord [C#m]holds [F#m]con[C#m]verse [A]high and [C#m]sweet.
 
 Verse 3
-The law and prophets there have place, Two chosen
-witnesses of grace; The Father's voice from
-out the cloud proclaims His only Son aloud.
+[C#m]The law [E]and [A]pro[G#m]phets [E]there [A]have [C#m]place, [A]Two cho[E]sen
+[F#m]witness[C#m]es of grace; The [G#m]Fa[E]ther's [A]voice [F#m]from
+[E]out the cloud [A]pro[E]claims [C#m]His [F#m]on[C#m]ly [A]Son a[C#m]loud.
 
 Verse 4
-With shining face and bright array, Christ deigns to
-manifest today What glory shall be
-theirs above who joy in God with perfect love.
+[C#m]With shin[E]ing [A]face [G#m]and [E]bright [A]ar[C#m]ray, [A]Christ deigns [E]to
+[F#m]mani[C#m]fest today What [G#m]glo[E]ry [A]shall [F#m]be
+[E]theirs above [A]who [E]joy [C#m]in [F#m]God [C#m]with [A]perfect [C#m]love.
 
 Verse 5
-And faithful hearts are raised on high by this great
-vision's mystery; For which in joyful
-strains we raise the voice of prayer, the hymn of praise.`
+[C#m]And faith[E]ful [A]hearts [G#m]are [E]raised [A]on [C#m]high [A]by this [E]great
+[F#m]vision's [C#m]mystery; For [G#m]which [E]in [A]joy[F#m]ful
+[E]strains we raise [A]the [E]voice [C#m]of [F#m]prayer, [C#m]the [A]hymn of [C#m]praise.`
   },
   {
     t: "Oh, Blest the House",
@@ -4544,24 +4544,24 @@ strains we raise the voice of prayer, the hymn of praise.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Oh blest the house, whate'er befall, Where Jesus Christ is All in All;
-Yea, if He were not dwelling there, How poor and dark and void it were!
+[Eb]Oh blest [Bb]the [Eb]house, [Bb]what[Eb]e'er be[Bb]fall, Where [Eb]Je[Bb]sus [Fm]Christ [Bb]is [Eb]All [Bb]in [Eb]All;
+Yea, [Ab]if He [Eb]were [Bb]not [Fm]dwelling [C]there, How [Gm]poor [Ab]and [Eb]dark [Cm]and [Fm]void [Bb]it [Eb]were!
 
 Verse 2
-Oh blest that house where faith ye find, And all within have set their mind
-To trust their God and serve Him still, And do in all His holy will.
+[Eb]Oh blest [Bb]that [Eb]house [Bb]where [Eb]faith ye [Bb]find, And [Eb]all [Bb]with[Fm]in [Bb]have [Eb]set [Bb]their [Eb]mind
+To [Ab]trust their [Eb]God [Bb]and [Fm]serve Him [C]still, And [Gm]do [Ab]in [Eb]all [Cm]His [Fm]ho[Bb]ly [Eb]will.
 
 Verse 3
-Blest, where their prayers shall daily rise As fragrant incense to the skies,
-While in their lives the world is taught That forms without the heart are naught.
+[Eb]Blest, where [Bb]their [Eb]prayers [Bb]shall [Eb]daily [Bb]rise As [Eb]frag[Bb]rant [Fm]in[Bb]cense [Eb]to [Bb]the [Eb]skies,
+While [Ab]in their [Eb]lives [Bb]the [Fm]world is [C]taught That [Gm]forms [Ab]with[Eb]out [Cm]the [Fm]heart [Bb]are [Eb]naught.
 
 Verse 4
-Blest, where the busy hands fulfil Their proper task with ready skill,
-While through their different works ye see One spirit run of unity.
+[Eb]Blest, where [Bb]the [Eb]bu[Bb]sy [Eb]hands ful[Bb]fil Their [Eb]pro[Bb]per [Fm]task [Bb]with [Eb]rea[Bb]dy [Eb]skill,
+While [Ab]through their [Eb]diff[Bb]erent [Fm]works ye [C]see One [Gm]spi[Ab]rit [Eb]run [Cm]of [Fm]u[Bb]ni[Eb]ty.
 
 Verse 5
-Blest such a house, it prospers well, In peace and joy the parents dwell,
-And in their children's lot is shown How richly God can bless His own.`
+[Eb]Blest such [Bb]a [Eb]house, [Bb]it [Eb]prospers [Bb]well, In [Eb]peace [Bb]and [Fm]joy [Bb]the [Eb]par[Bb]ents [Eb]dwell,
+And [Ab]in their [Eb]child[Bb]ren's [Fm]lot is [C]shown How [Gm]rich[Ab]ly [Eb]God [Cm]can [Fm]bless [Bb]His [Eb]own.`
   },
   {
     t: "On Jordan's Bank the Baptist's Cry",
@@ -4576,29 +4576,29 @@ And in their children's lot is shown How richly God can bless His own.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-On Jordan's bank the Baptist's cry Announces
-that the Lord is nigh; Come, then, and hearken,
-for he brings Glad tidings from the King of kings!
+[D]On [Bm]Jor[A]dan's [D]bank [G]the [D]Bap[A]tist's [D]cry [G]An[D]nounces
+[A]that the [D]Lord [G]is [D]nigh; [A]Come, [Bm]then, [E7]and [A]hear[D]ken,
+[G]for he [D]brings [Em]Glad [A]ti[D]dings [A]from [D]the [G]King [A]of [D]kings!
 
 Verse 2
-Then cleansed be every breast from sin; Make straight the
-way for God within; Prepare we in our
-hearts a home, Where such a mighty Guest may come.
+[D]Then [Bm]cleansed [A]be [D]ev[G]ery [D]breast [A]from [D]sin; [G]Make [D]straight the
+[A]way for [D]God [G]with[D]in; [A]Pre[Bm]pare [E7]we [A]in [D]our
+[G]hearts a [D]home, [Em]Where [A]such [D]a [A]might[D]y [G]Guest [A]may [D]come.
 
 Verse 3
-For Thou art our Salvation, Lord, Our Refuge,
-and our great Reward. Without Thy grace our
-souls must fade And wither like a flow'r decayed.
+[D]For [Bm]Thou [A]art [D]our [G]Sal[D]va[A]tion, [D]Lord, [G]Our [D]Refuge,
+[A]and our [D]great [G]Re[D]ward. [A]With[Bm]out [E7]Thy [A]grace [D]our
+[G]souls must [D]fade [Em]And [A]wi[D]ther [A]like [D]a [G]flow'r [A]de[D]cayed.
 
 Verse 4
-Stretch forth Thine hand, to heal our sore, And make us
-rise and fall no more; Once more upon Thy
-people shine, And fill the world with love divine.
+[D]Stretch [Bm]forth [A]Thine [D]hand, [G]to [D]heal [A]our [D]sore, [G]And [D]make us
+[A]rise and [D]fall [G]no [D]more; [A]Once [Bm]more [E7]up[A]on [D]Thy
+[G]people [D]shine, [Em]And [A]fill [D]the [A]world [D]with [G]love [A]di[D]vine.
 
 Verse 5
-To Him Who left the throne of Heav'n To save man
-kind, all praise be giv'n; Like praise be to the
-Father done, And Holy Spirit, Three in One.`
+[D]To [Bm]Him [A]Who [D]left [G]the [D]throne [A]of [D]Heav'n [G]To [D]save man[A]kind,
+kind, all [D]praise [G]be [D]giv'n; [A]Like [Bm]praise [E7]be [A]to [D]the
+[G]Father [D]done, [Em]And [A]Ho[D]ly [A]Spi[D]rit, [G]Three [A]in [D]One.`
   },
   {
     t: "On What Has Now Been Sown",
@@ -4613,19 +4613,19 @@ Father done, And Holy Spirit, Three in One.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-On what has now been sown Thy blessing, Lord, bestow; The pow'r
-is Thine alone To make it spring and grow. Do Thou in grace
-the harvest raise, And Thou alone shalt have the praise.
+[D]On what has [A]now [D]been [Bm]sown [Dmaj7]Thy [G]bless[D]ing, [A7]Lord, [D]be[A]stow; The [D]pow'r
+is [Bm]Thine [A]a[E]lone [E7]To [A]make [D]it [A]spring [E]and [A]grow. [D]Do [G]Thou in [D]grace
+the [C#dim]har[D]vest [G]raise, [D]And [G]Thou a[D]lone [Em]shalt [D]have [A7]the [D]praise.
 
 Verse 2
-To Thee our wants are known, From Thee are all our pow'rs; Accept
-what is Thine own And pardon what is ours. Our praises, Lord,
-and prayers receive And to Thy Word a blessing give.
+[D]To Thee our [A]wants [D]are [Bm]known, [Dmaj7]From [G]Thee [D]are [A7]all [D]our [A]pow'rs; Ac[D]cept
+what [Bm]is [A]Thine [E]own [E7]And [A]par[D]don [A]what [E]is [A]ours. [D]Our [G]praises, [D]Lord,
+and [C#dim]prayers [D]re[G]ceive [D]And [G]to Thy [D]Word [Em]a [D]bless[A7]ing [D]give.
 
 Verse 3
-Oh, grant that each of us Now met before Thee here May meet
-together thus When Thou and Thine appear And follow Thee
-to Heav'n, our home. E'en so, Amen, Lord Jesus, come!`
+[D]Oh, grant that [A]each [D]of [Bm]us [Dmaj7]Now [G]met [D]be[A7]fore [D]Thee [A]here May [D]meet
+to[Bm]ge[A]ther [E]thus [E7]When [A]Thou [D]and [A]Thine [E]ap[A]pear [D]And [G]follow [D]Thee
+to [C#dim]Heav'n, [D]our [G]home. [D]E'en [G]so, A[D]men, [Em]Lord [D]Je[A7]sus, [D]come!`
   },
   {
     t: "One Thing's Needful",
@@ -4640,39 +4640,39 @@ to Heav'n, our home. E'en so, Amen, Lord Jesus, come!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-One thing's needful: then, Lord Jesus, Keep this one thing in my mind;
-All beside, though first it please us, Soon a grievous yoke we find:
-Beneath it the heart is still fretting and striving, No true, lasting
-happiness ever deriving. The gain of this one thing all
-loss can requite And teach me in all things to find true delight.
+[Eb]One [Bb]thing's [Cm]need[Bb]ful: [Eb]then, [Cm]Lord Je[G]sus, [Ab]Keep [Cm]this [Bb]one [Eb]thing [Ab]in [Bb]my [Eb]mind;
+All [Bb]be[Cm]side, [Bb]though [Eb]first [Cm]it please [G]us, [Ab]Soon [Cm]a [Bb]griev[Eb]ous [Ab]yoke [Bb]we [Eb]find:
+Beneath [Gm]it [Eb]the heart [F7]is [Bb]still [Fm]fret[Ab]ting [Bb7]and stri[Eb]ving, No [Ab]true, [Cm]last[Fm]ing
+[Bb]happi[Eb]ness [Fm]ev[Eb]er [Bb7]de[Eb]riving. The gain [Gm]of [Eb]this one [F7]thing [Bb]all
+[Fm]loss [Ab]can [Bb7]re[Eb]quite And [Ab]teach [Cm]me [Fm]in [Bb]all things [Eb]to [Fm]find [Eb]true [Bb7]de[Eb]light.
 
 Verse 2
-Soul, wilt thou this one thing find thee? Seek not midst created things;
-What is earthly, leave behind thee, over nature stretch thy wings;
-For where God and man both in One are united, With God's perfect
-fullness the heart is delighted; There, there is the worthiest
-lot and the best, My One and my All, and my Joy, and my Rest.
+[Eb]Soul, [Bb]wilt [Cm]thou [Bb]this [Eb]one [Cm]thing find [G]thee? [Ab]Seek [Cm]not [Bb]midst [Eb]cre[Ab]a[Bb]ted [Eb]things;
+What [Bb]is [Cm]earth[Bb]ly, [Eb]leave [Cm]behind [G]thee, [Ab]ov[Cm]er [Bb]na[Eb]ture [Ab]stretch [Bb]thy [Eb]wings;
+For where [Gm]God [Eb]and man [F7]both [Bb]in [Fm]One [Ab]are [Bb7]uni[Eb]ted, With [Ab]God's [Cm]per[Fm]fect
+[Bb]fullness [Eb]the [Fm]heart [Eb]is [Bb7]de[Eb]lighted; There, there [Gm]is [Eb]the wor[F7]thi[Bb]est
+[Fm]lot [Ab]and [Bb7]the [Eb]best, My [Ab]One [Cm]and [Fm]my [Bb]All, and [Eb]my [Fm]Joy, [Eb]and [Bb7]my [Eb]Rest.
 
 Verse 3
-How were Mary's thoughts devoted, Her eternal joy to find,
-As intent each word she noted, At her Savior's feet reclined:
-How kindled her heart, how devout was its feeling, While hearing the
-lessons that Christ was revealing; For Jesus all earthly con
-cerns she forgot, And all was repaid in that one happy lot.
+[Eb]How [Bb]were [Cm]Mar[Bb]y's [Eb]thoughts [Cm]devot[G]ed, [Ab]Her [Cm]e[Bb]ter[Eb]nal [Ab]joy [Bb]to [Eb]find,
+As [Bb]in[Cm]tent [Bb]each [Eb]word [Cm]she not[G]ed, [Ab]At [Cm]her [Bb]Sa[Eb]vior's [Ab]feet [Bb]re[Eb]clined:
+How kind[Gm]led [Eb]her heart, [F7]how [Bb]de[Fm]vout [Ab]was [Bb7]its feel[Eb]ing, While [Ab]hear[Cm]ing [Fm]the
+[Bb]lessons [Eb]that [Fm]Christ [Eb]was [Bb7]re[Eb]vealing; For Je[Gm]sus [Eb]all earth[F7]ly [Bb]con[Fm]cerns
+cerns [Ab]she [Bb7]for[Eb]got, And [Ab]all [Cm]was [Fm]re[Bb]paid in [Eb]that [Fm]one [Eb]hap[Bb7]py [Eb]lot.
 
 Verse 4
-Thus my longings, heav'nward tending, Jesus, rest alone on Thee;
-Help me, thus on Thee depending, Savior! come and dwell in me:
-Although all the world should forsake and forget Thee, In love I will
-follow Thee, ne'er will I quit Thee; For Jesus, both Spirit and
-life is Thy Word, And is there a joy which Thou dost not afford?
+[Eb]Thus [Bb]my [Cm]long[Bb]ings, [Eb]heav'n[Cm]ward tend[G]ing, [Ab]Je[Cm]sus, [Bb]rest [Eb]a[Ab]lone [Bb]on [Eb]Thee;
+Help [Bb]me, [Cm]thus [Bb]on [Eb]Thee [Cm]depend[G]ing, [Ab]Sa[Cm]vior! [Bb]come [Eb]and [Ab]dwell [Bb]in [Eb]me:
+Although [Gm]all [Eb]the world [F7]should [Bb]for[Fm]sake [Ab]and [Bb7]forget [Eb]Thee, In [Ab]love [Cm]I [Fm]will
+[Bb]follow [Eb]Thee, [Fm]ne'er [Eb]will [Bb7]I [Eb]quit Thee; For Je[Gm]sus, [Eb]both Spi[F7]rit [Bb]and
+[Fm]life [Ab]is [Bb7]Thy [Eb]Word, And [Ab]is [Cm]there [Fm]a [Bb]joy which [Eb]Thou [Fm]dost [Eb]not [Bb7]af[Eb]ford?
 
 Verse 5
-Wisdom's highest noblest treasure, Jesus, lies conceal'd in Thee;
-Grant that this may still the measure Of my will and actions be:
-Humility there and simplicity reigning, My steps shall in
-wisdom for ever be training; Oh! if I of Christ have this
-knowledge divine, The fullness of heavenly wisdom is mine.`
+[Eb]Wis[Bb]dom's [Cm]high[Bb]est [Eb]nob[Cm]lest trea[G]sure, [Ab]Je[Cm]sus, [Bb]lies [Eb]con[Ab]ceal'd [Bb]in [Eb]Thee;
+Grant [Bb]that [Cm]this [Bb]may [Eb]still [Cm]the meas[G]ure [Ab]Of [Cm]my [Bb]will [Eb]and [Ab]ac[Bb]tions [Eb]be:
+Humil[Gm]i[Eb]ty there [F7]and [Bb]sim[Fm]pli[Ab]ci[Bb7]ty reign[Eb]ing, My [Ab]steps [Cm]shall [Fm]in
+[Bb]wisdom [Eb]for [Fm]ev[Eb]er [Bb7]be [Eb]training; Oh! if [Gm]I [Eb]of Christ [F7]have [Bb]this
+[Fm]know[Ab]ledge [Bb7]di[Eb]vine, The [Ab]full[Cm]ness [Fm]of [Bb]heaven[Eb]ly [Fm]wis[Eb]dom [Bb7]is [Eb]mine.`
   },
   {
     t: "Open Now Thy Gates of Beauty",
@@ -4687,29 +4687,29 @@ knowledge divine, The fullness of heavenly wisdom is mine.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Open now thy gates of beauty, Zion, let me enter there,
-Where my soul in joyful duty Waits for Him Who answers prayer.
-Oh, how bless�d is this place, Filled with solace, light and grace!
+[Bb]Open now thy gates [Eb]of [F]beauty, [Gm]Zi[Bbmaj7]on, [Bb]let me [Cm7]en[F]ter [Bb]there,
+Where my soul in joy[Eb]ful [F]duty [Gm]Waits [Bbmaj7]for [Bb]Him Who [Cm7]an[F]swers [Bb]prayer.
+Oh, how [F]blessèd [Gm]is this [D]place, [Eb]Filled with [Bb]so[Gm]lace, [Cm]light [F]and [Bb]grace!
 
 Verse 2
-Lord, my God, I come before Thee, Come Thou also unto me;
-Where we find Thee and adore Thee, There a heav'n on earth must be.
-To my heart, oh, enter Thou, Let it be Thy temple now!
+[Bb]Lord, my God, I come [Eb]be[F]fore Thee, [Gm]Come [Bbmaj7]Thou [Bb]also [Cm7]un[F]to [Bb]me;
+Where we find Thee and [Eb]a[F]dore Thee, [Gm]There [Bbmaj7]a [Bb]heav'n on [Cm7]earth [F]must [Bb]be.
+To my [F]heart, oh, [Gm]enter [D]Thou, [Eb]Let it [Bb]be [Gm]Thy [Cm]tem[F]ple [Bb]now!
 
 Verse 3
-Here Thy praise is gladly chanted, Here Thy seed is duly sown;
-Let my soul, where it is planted, Bring forth precious sheaves alone,
-So that all I hear may be Fruitful unto life in me.
+[Bb]Here Thy praise is glad[Eb]ly [F]chanted, [Gm]Here [Bbmaj7]Thy [Bb]seed is [Cm7]du[F]ly [Bb]sown;
+Let my soul, where it [Eb]is [F]planted, [Gm]Bring [Bbmaj7]forth [Bb]precious [Cm7]sheaves [F]a[Bb]lone,
+So that [F]all I [Gm]hear may [D]be [Eb]Fruitful [Bb]un[Gm]to [Cm]life [F]in [Bb]me.
 
 Verse 4
-Thou my faith increase and quicken, Let me keep Thy gift divine,
-Howsoe'er temptations thicken; May Thy Word still o'er me shine
-As my guiding star through life, As my comfort in my strife.
+[Bb]Thou my faith increase [Eb]and [F]quicken, [Gm]Let [Bbmaj7]me [Bb]keep Thy [Cm7]gift [F]di[Bb]vine,
+Howsoe'er tempta[Eb]tions [F]thicken; [Gm]May [Bbmaj7]Thy [Bb]Word still [Cm7]o'er [F]me [Bb]shine
+As my [F]guiding [Gm]star through [D]life, [Eb]As my [Bb]com[Gm]fort [Cm]in [F]my [Bb]strife.
 
 Verse 5
-Speak, O God, and I will hear Thee, Let Thy will be done indeed;
-May I undisturbed draw near Thee While Thou dost Thy people feed.
-Here of life the fountain flows, Here is balm for all our woes.`
+[Bb]Speak, O God, and I [Eb]will [F]hear Thee, [Gm]Let [Bbmaj7]Thy [Bb]will be [Cm7]done [F]in[Bb]deed;
+May I undisturbed [Eb]draw [F]near Thee [Gm]While [Bbmaj7]Thou [Bb]dost Thy [Cm7]peo[F]ple [Bb]feed.
+Here of [F]life the [Gm]fountain [D]flows, [Eb]Here is [Bb]balm [Gm]for [Cm]all [F]our [Bb]woes.`
   },
   {
     t: "Our Father Thou in Heaven Above",
@@ -4724,29 +4724,29 @@ Here of life the fountain flows, Here is balm for all our woes.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Our Father, Thou in heav'n above, Who biddest us to dwell in love,
-As brethren of one family, To cry in ev'ry need to Thee,
-Teach us no thoughtless word to say, But from our inmost heart to pray.
+[Cm]Our [Eb]Fa[Cm]ther, [Bb]Thou [Gm]in [Cm]heav'n [G]a[C]bove, [Cm]Who [Gm]bid[Dm]dest [Bb]us [Eb]to [Ab]dwell [Fm]in [G]love,
+[Cm]As [Gm]bre[F]thren [Eb]of [Bb]one [Cm]fami[C]ly, [F]To [Bb]cry [F]in [Bb]ev[F]'ry [Gm]need [D]to [G]Thee,
+[F]Teach [Bb]us [F]no [Gm]thought[Eb]less word [Bb]to [Eb]say, [Cm]But [Fm]from [G]our [Ab]in[Fm]most [Cm]heart [G]to [C]pray.
 
 Verse 2
-Thy name be hallowed. Help us, Lord, In purity to keep Thy Word,
-That to the glory of Thy Name We walk before Thee free from blame.
-Let no false doctrine us pervert; All poor, deluded souls convert.
+[Cm]Thy [Eb]name [Cm]be [Bb]hal[Gm]lowed. [Cm]Help [G]us, [C]Lord, [Cm]In [Gm]pur[Dm]i[Bb]ty [Eb]to [Ab]keep [Fm]Thy [G]Word,
+[Cm]That [Gm]to [F]the [Eb]glo[Bb]ry [Cm]of Thy [C]Name [F]We [Bb]walk [F]be[Bb]fore [F]Thee [Gm]free [D]from [G]blame.
+[F]Let [Bb]no [F]false [Gm]doc[Eb]trine us [Bb]per[Eb]vert; [Cm]All [Fm]poor, [G]de[Ab]lu[Fm]ded [Cm]souls [G]con[C]vert.
 
 Verse 3
-Thy kingdom come. Thine let it be In time and in eternity.
-Let Thy good Spirit e'er be nigh Our hearts with graces to supply.
-Break Satan's pow'r, defeat his rage; Preserve Thy Church from age to age.
+[Cm]Thy [Eb]king[Cm]dom [Bb]come. [Gm]Thine [Cm]let [G]it [C]be [Cm]In [Gm]time [Dm]and [Bb]in [Eb]e[Ab]ter[Fm]ni[G]ty.
+[Cm]Let [Gm]Thy [F]good [Eb]Spir[Bb]it [Cm]e'er be [C]nigh [F]Our [Bb]hearts [F]with [Bb]gra[F]ces [Gm]to [D]sup[G]ply.
+[F]Break [Bb]Sa[F]tan's [Gm]pow'r, [Eb]defeat [Bb]his [Eb]rage; [Cm]Pre[Fm]serve [G]Thy [Ab]Church [Fm]from [Cm]age [G]to [C]age.
 
 Verse 4
-Thy gracious will on earth be done As 'tis in heav'n before Thy throne;
-Obedience in our weal and woe And patience in all grief bestow.
-Curb flesh and blood and ev'ry ill That sets itself against Thy will.
+[Cm]Thy [Eb]gra[Cm]cious [Bb]will [Gm]on [Cm]earth [G]be [C]done [Cm]As [Gm]'tis [Dm]in [Bb]heav'n [Eb]be[Ab]fore [Fm]Thy [G]throne;
+[Cm]O[Gm]be[F]dience [Eb]in [Bb]our [Cm]weal and [C]woe [F]And [Bb]pa[F]tience [Bb]in [F]all [Gm]grief [D]be[G]stow.
+[F]Curb [Bb]flesh [F]and [Gm]blood [Eb]and ev[Bb]'ry [Eb]ill [Cm]That [Fm]sets [G]it[Ab]self [Fm]a[Cm]gainst [G]Thy [C]will.
 
 Verse 5
-Give us this day our daily bread And let us all be clothed and fed.
-From war and strife be our Defense, From famine and from pestilence,
-That we may live in godly peace, Free from all care and avarice.`
+[Cm]Give [Eb]us [Cm]this [Bb]day [Gm]our [Cm]dai[G]ly [C]bread [Cm]And [Gm]let [Dm]us [Bb]all [Eb]be [Ab]clothed [Fm]and [G]fed.
+[Cm]From [Gm]war [F]and [Eb]strife [Bb]be [Cm]our De[C]fense, [F]From [Bb]fa[F]mine [Bb]and [F]from [Gm]pes[D]ti[G]lence,
+[F]That [Bb]we [F]may [Gm]live [Eb]in god[Bb]ly [Eb]peace, [Cm]Free [Fm]from [G]all [Ab]care [Fm]and [Cm]a[G]va[C]rice.`
   },
   {
     t: "Our God, Our Help In Ages Past",
@@ -4761,24 +4761,24 @@ That we may live in godly peace, Free from all care and avarice.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Our God, our help in ages past, Our hope for years to come,
-Our shelter from the stormy blast, And our eternal home.
+[C]Our God, [F]our [C]help [Am]in [Dm7]a[G]ges [C]past, Our [Am]hope [Em]for [Am]years [D]to [G]come,
+Our [C]shel[F]ter [Dm]from [G]the [C]storm[Fmaj7]y [E]blast, [C]And [Dm]our [C]e[Dm]ter[G]nal [C]home.
 
 Verse 2
-Under the shadow of Thy throne Thy saints have dwelt secure;
-Sufficient is Thine arm alone, And our defense is sure.
+[C]Under [F]the [C]sha[Am]dow [Dm7]of [G]Thy [C]throne Thy [Am]saints [Em]have [Am]dwelt [D]se[G]cure;
+Suf[C]fic[F]ient [Dm]is [G]Thine [C]arm [Fmaj7]a[E]lone, [C]And [Dm]our [C]de[Dm]fense [G]is [C]sure.
 
 Verse 3
-Before the hills in order stood, Or earth received her frame,
-From everlasting Thou art God, To endless years the same.
+[C]Before [F]the [C]hills [Am]in [Dm7]or[G]der [C]stood, Or [Am]earth [Em]re[Am]ceived [D]her [G]frame,
+From [C]ev[F]er[Dm]last[G]ing [C]Thou [Fmaj7]art [E]God, [C]To [Dm]end[C]less [Dm]years [G]the [C]same.
 
 Verse 4
-Thy Word commands our flesh to dust, 'Return, ye sons of men:'
-All nations rose from earth at first, And turn to earth again.
+[C]Thy Word [F]com[C]mands [Am]our [Dm7]flesh [G]to [C]dust, 'Re[Am]turn, [Em]ye [Am]sons [D]of [G]men:'
+All [C]na[F]tions [Dm]rose [G]from [C]earth [Fmaj7]at [E]first, [C]And [Dm]turn [C]to [Dm]earth [G]a[C]gain.
 
 Verse 5
-A thousand ages in Thy sight Are like an evening gone;
-Short as the watch that ends the night Before the rising sun.`
+[C]A thou[F]sand [C]a[Am]ges [Dm7]in [G]Thy [C]sight Are [Am]like [Em]an [Am]eve[D]ning [G]gone;
+Short [C]as [F]the [Dm]watch [G]that [C]ends [Fmaj7]the [E]night [C]Be[Dm]fore [C]the [Dm]ris[G]ing [C]sun.`
   },
   {
     t: "Out of the Deep I Cry to Thee",
@@ -4793,34 +4793,34 @@ Short as the watch that ends the night Before the rising sun.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Out of the deep I cry to Thee; O Lord God, hear my crying:
-Incline Thy gracious ear to me, With prayer to Thee applying.
-For if Thou fix Thy searching eye On all sin and
-iniquity, Who, Lord, can stand before Thee?
+[E]Out [Am]of [E]the [Am]deep [G]I [C]cry [Am]to [E]Thee; O [Am]Lord [G7]God, [C]hear [F]my [C]cry[E]ing:
+In[Am]cline [E]Thy [Am]gra[G]cious [C]ear [Am]to [E]me, With [Am]prayer [G7]to [C]Thee [F]ap[C]ply[E]ing.
+[Am]For [G]if [Am]Thou [G]fix [Dm]Thy [G]search[E]ing [Am]eye On [Em]all sin [G]and
+[C]in[Bm]iqui[G]ty, [C]Who, [Am]Lord, [E]can [F]stand [C]be[Gm]fore [E7]Thee?
 
 Verse 2
-But love and grace with Thee prevail, O God, our sins forgiving;
-The holiest deeds can naught avail Of all before Thee living.
-Before Thee none can boast him clear; Therefore must each
-Thy judgment fear, And live on Thy compassion.
+[E]But [Am]love [E]and [Am]grace [G]with [C]Thee [Am]pre[E]vail, O [Am]God, [G7]our [C]sins [F]for[C]giv[E]ing;
+The [Am]ho[E]liest [Am]deeds [G]can [C]naught [Am]a[E]vail Of [Am]all [G7]be[C]fore [F]Thee [C]liv[E]ing.
+[Am]Be[G]fore [Am]Thee [G]none [Dm]can [G]boast [E]him [Am]clear; There[Em]fore must [G]each
+[C]Thy [Bm]judgment [G]fear, [C]And [Am]live [E]on [F]Thy [C]com[Gm]pas[E7]sion.
 
 Verse 3
-For this, my hope in God shall rest, Naught building on my merit;
-My heart confides, of Him possest, His goodness stays my spirit.
-His precious word assureth me; My solace, my
-sure Rock is he, Whereon my soul abideth.
+[E]For [Am]this, [E]my [Am]hope [G]in [C]God [Am]shall [E]rest, Naught [Am]build[G7]ing [C]on [F]my [C]mer[E]it;
+My [Am]heart [E]con[Am]fides, [G]of [C]Him [Am]pos[E]sest, His [Am]good[G7]ness [C]stays [F]my [C]spi[E]rit.
+[Am]His [G]prec[Am]ious [G]word [Dm]as[G]sur[E]eth [Am]me; My [Em]solace, [G]my
+[C]sure [Bm]Rock is [G]he, [C]Where[Am]on [E]my [F]soul [C]a[Gm]bid[E7]eth.
 
 Verse 4
-And though I wait the livelong night And till the morn returneth,
-My heart undoubting trusts His might Nor in impatience mourneth.
-Born of His Spirit, Israel In the right Way
-thus fareth well, And on his God reposeth
+[E]And [Am]though [E]I [Am]wait [G]the [C]live[Am]long [E]night And [Am]till [G7]the [C]morn [F]re[C]turn[E]eth,
+My [Am]heart [E]un[Am]doubt[G]ing [C]trusts [Am]His [E]might Nor [Am]in [G7]im[C]pa[F]tience [C]mourn[E]eth.
+[Am]Born [G]of [Am]His [G]Spi[Dm]rit, [G]Is[E]ra[Am]el In [Em]the right [G]Way
+[C]thus [Bm]fareth [G]well, [C]And [Am]on [E]his [F]God [C]re[Gm]pos[E7]eth
 
 Verse 5
-What though our sins are manifold? Supreme His mercy reigneth;
-No limit can His hand withhold, Where evil most obtaineth.
-He the good Shepherd is alone, Who Israel will
-redeem and own, Forgiving all transgression.`
+[E]What [Am]though [E]our [Am]sins [G]are [C]man[Am]i[E]fold? Su[Am]preme [G7]His [C]mer[F]cy [C]reign[E]eth;
+No [Am]lim[E]it [Am]can [G]His [C]hand [Am]with[E]hold, Where [Am]ev[G7]il [C]most [F]ob[C]tain[E]eth.
+[Am]He [G]the [Am]good [G]Shep[Dm]herd [G]is [E]a[Am]lone, Who [Em]Israel [G]will
+[C]re[Bm]deem and [G]own, [C]For[Am]giv[E]ing [F]all [C]trans[Gm]gres[E7]sion.`
   },
   {
     t: "Over Kidron Jesus Treadeth",
@@ -4835,34 +4835,34 @@ redeem and own, Forgiving all transgression.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Over Kidron Jesus treadeth To His passion for us all;
-Every human eye be weeping, Tears of bitter grief let fall!
-Round His Spirit flock the foes, Place their shafts and bend their bows, Aiming
-at the Savior solely, While the world forsakes Him wholly.
+[Fm]Over Kid[Db]ron [Fm]Jesus [C]tread[C7]eth [Db]To His [Fm]pas[Eb]sion [Ab]for [Eb]us [Ab]all;
+[Fm]Every hu[Db]man [Bbm7]eye be [C]weeping, [Dbmaj7]Tears of [Ab]bitter grief [Eb]let [Ab]fall!
+[Eb]Round [Eb7]His [Ab]Spi[Fm]rit [Gdim]flock [Ab]the [Eb]foes, [Ab]Place their [Bbm]shafts [Gb]and [Adim]bend [Bbm]their [F]bows, [Bbm]Aim[C]ing
+[Bbm]at [C]the [Fm]Savior sole[Bbm]ly, [C7]While the [Db]world forsakes Him whol[Fm]ly.
 
 Verse 2
-David once, with heart afflicted, Crossed the Kidron's narrow strand,
-Clouds of gloom and grief about him When an exile from his land.
-But, O Jesus, blacker now Bends the cloud above Thy brow, Hasting
-to death's dreary portals For the shame and sin of mortals.
+[Fm]David once, [Db]with [Fm]heart af[C]flic[C7]ted, [Db]Crossed the [Fm]Kid[Eb]ron's [Ab]nar[Eb]row [Ab]strand,
+[Fm]Clouds of gloom [Db]and [Bbm7]grief a[C]bout him [Dbmaj7]When an [Ab]exile from [Eb]his [Ab]land.
+[Eb]But, [Eb7]O [Ab]Je[Fm]sus, [Gdim]black[Ab]er [Eb]now [Ab]Bends the [Bbm]cloud [Gb]a[Adim]bove [Bbm]Thy [F]brow, [Bbm]Hast[C]ing
+[Bbm]to [C]death's [Fm]dreary por[Bbm]tals [C7]For the [Db]shame and sin of mor[Fm]tals.
 
 Verse 3
-See how, anguish struck, He falleth Prostrate, and with struggling breath,
-Three times on His God He calleth, Praying that the bitter death
-And the cup of doom may go, Still He cries, in all His woe: "Not My
-will, but Thine, O Father!" And the angels round Him gather.
+[Fm]See how, an[Db]guish [Fm]struck, He [C]fall[C7]eth [Db]Prostrate, [Fm]and [Eb]with [Ab]strug[Eb]gling [Ab]breath,
+[Fm]Three times on [Db]His [Bbm7]God He [C]calleth, [Dbmaj7]Praying [Ab]that the bit[Eb]ter [Ab]death
+[Eb]And [Eb7]the [Ab]cup [Fm]of [Gdim]doom [Ab]may [Eb]go, [Ab]Still He [Bbm]cries, [Gb]in [Adim]all [Bbm]His [F]woe: [Bbm]"Not [C]My
+[Bbm]will, [C]but [Fm]Thine, O Fa[Bbm]ther!" [C7]And the [Db]angels round Him ga[Fm]ther.
 
 Verse 4
-See how, in that hour of darkness, Battling with the evil pow'r,
-Agonies untold assail Him, On His soul the arrows show'r;
-All the garden flow'rs are wet With the drops of bloody sweat, From His
-anguished frame distillingWorld's redemption thus fulfilling!
+[Fm]See how, in [Db]that [Fm]hour of [C]dark[C7]ness, [Db]Battling [Fm]with [Eb]the [Ab]e[Eb]vil [Ab]pow'r,
+[Fm]Agonies [Db]un[Bbm7]told as[C]sail Him, [Dbmaj7]On His [Ab]soul the ar[Eb]rows [Ab]show'r;
+[Eb]All [Eb7]the [Ab]gar[Fm]den [Gdim]flow'rs [Ab]are [Eb]wet [Ab]With the [Bbm]drops [Gb]of [Adim]blood[Bbm]y [F]sweat, [Bbm]From [C]His
+[Bbm]an[C]guished [Fm]frame distill[Bbm]ing-[C7]World's re[Db]demption thus fulfill[Fm]ing!
 
 Verse 5
-But, O flow'rs, so sadly watered By this pure and precious dew,
-In some blessed hour your blossoms 'Neath the olive shadows grew!
-Eden's garden did not bear Aught that can with you compare, For the
-blood, thus freely given, Makes my soul the heir of heaven.`
+[Fm]But, O flow'rs, [Db]so [Fm]sadly [C]wa[C7]tered [Db]By this [Fm]pure [Eb]and [Ab]prec[Eb]ious [Ab]dew,
+[Fm]In some bless[Db]ed [Bbm7]hour your [C]blossoms [Dbmaj7]'Neath the [Ab]olive sha[Eb]dows [Ab]grew!
+[Eb]E[Eb7]den's [Ab]gar[Fm]den [Gdim]did [Ab]not [Eb]bear [Ab]Aught that [Bbm]can [Gb]with [Adim]you [Bbm]com[F]pare, [Bbm]For [C]the
+[Bbm]blood, [C]thus [Fm]freely giv[Bbm]en, [C7]Makes my [Db]soul the heir of hea[Fm]ven.`
   },
   {
     t: "Praise God From Whom All Blessings Flow",
@@ -4877,8 +4877,8 @@ blood, thus freely given, Makes my soul the heir of heaven.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Praise God, from Whom all blessings flow; Praise Him, all creatures here below;
-Praise Him above, ye heav'nly host; Praise Father, Son, and Holy Ghost.`
+[G]Praise God, [D]from Whom all [Em]bles[D]sings flow; [G]Praise Him, all creatures [C]here [G]below;
+[Em]Praise [D]Him [G]above, ye [C]heav'n[D]ly host; [G]Praise Fa[Em]ther, Son, and [G]Ho[D]ly [D7]Ghost.`
   },
   {
     t: "Rejoice, My Heart, Be Glad and Sing",
@@ -4893,24 +4893,24 @@ Praise Him above, ye heav'nly host; Praise Father, Son, and Holy Ghost.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Rejoice, my heart, be glad and sing, A cheerful trust maintain;
-For God, the Source of everything, Thy Portion shall remain.
+[Bb]Rejoice, [F]my [Bb]heart, [Gm]be [Cm]glad [F]and [Bb]sing, [F]A [C]cheer[F]ful [Gm7]trust [C]main[F]tain;
+For [Gm]God, [F]the [Bb]Source [Eb]of [Cm]ev[Bb]ery[F]thing, [Gm]Thy [F]Por[Bb]tion [Cm7]shall [F]re[Bb]main.
 
 Verse 2
-He is thy Treasure, He thy Joy, Thy Life and Light and Lord,
-Thy Counselor when doubts annoy, Thy Shield and great Reward.
+[Bb]He is [F]thy [Bb]Trea[Gm]sure, [Cm]He [F]thy [Bb]Joy, [F]Thy [C]Life [F]and [Gm7]Light [C]and [F]Lord,
+Thy [Gm]Coun[F]se[Bb]lor [Eb]when [Cm]doubts [Bb]an[F]noy, [Gm]Thy [F]Shield [Bb]and [Cm7]great [F]Re[Bb]ward.
 
 Verse 3
-Why spend the day in blank despair, In restless thought the night?
-On thy Creator cast thy care; He makes thy burdens light.
+[Bb]Why spend [F]the [Bb]day [Gm]in [Cm]blank [F]des[Bb]pair, [F]In [C]rest[F]less [Gm7]thought [C]the [F]night?
+On [Gm]thy [F]Cre[Bb]a[Eb]tor [Cm]cast [Bb]thy [F]care; [Gm]He [F]makes [Bb]thy [Cm7]bur[F]dens [Bb]light.
 
 Verse 4
-Did not His love and truth and pow'r Watch o'er thy childhood day?
-Has He not oft in threat'ning hour Turned dreaded ills away?
+[Bb]Did not [F]His [Bb]love [Gm]and [Cm]truth [F]and [Bb]pow'r [F]Watch [C]o'er [F]thy [Gm7]child[C]hood [F]day?
+Has [Gm]He [F]not [Bb]oft [Eb]in [Cm]threat[Bb]'ning [F]hour [Gm]Turned [F]dread[Bb]ed [Cm7]ills [F]a[Bb]way?
 
 Verse 5
-His wisdom never plans in vain, Ne'er falters or mistakes;
-All that His counsels did ordain A happy ending makes.`
+[Bb]His wis[F]dom [Bb]nev[Gm]er [Cm]plans [F]in [Bb]vain, [F]Ne'er [C]fal[F]ters [Gm7]or [C]mis[F]takes;
+All [Gm]that [F]His [Bb]coun[Eb]sels [Cm]did [Bb]or[F]dain [Gm]A [F]hap[Bb]py [Cm7]end[F]ing [Bb]makes.`
   },
   {
     t: "Rejoice, O Pilgrim Throng",
@@ -4925,27 +4925,27 @@ All that His counsels did ordain A happy ending makes.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Rejoice, O pilgrim throng! Rejoice, give thanks, and sing;
-Your festal banner wave on high, The cross of Christ your King.
+[F]Re[C]joice, [Am]O [Dm]pil[C]grim [F]throng! [Am7]Re[Dm]joice, give thanks, [G7]and [C]sing;
+[F7]Your [Bb]festal ban[Dm]ner wave [F]on [Dm]high, [Dm7]The [Gm]cross of Christ [Am]your [C]King.
 
 Verse 2
-With all the angel choirs, With all the saints on earth,
-Pour out the strains of joy and bliss, True rapture, noblest mirth.
+[F]With [C]all [Am]the [Dm]an[C]gel [F]choirs, [Am7]With [Dm]all the saints [G7]on [C]earth,
+[F7]Pour [Bb]out the strains [Dm]of joy [F]and [Dm]bliss, [Dm7]True [Gm]rapture, nob[Am]lest [C]mirth.
 
 Verse 3
-With voice as full and strong As ocean's surging praise,
-Send forth the hymns our fathers loved, The psalms of ancient days.
+[F]With [C]voice [Am]as [Dm]full [C]and [F]strong [Am7]As [Dm]ocean's sur[G7]ging [C]praise,
+[F7]Send [Bb]forth the hymns [Dm]our fa[F]thers [Dm]loved, [Dm7]The [Gm]psalms of an[Am]cient [C]days.
 
 Verse 4
-Still lift your standard high, Still march in firm array,
-As warriors through the darkness toil, Till dawns the golden day.
+[F]Still [C]lift [Am]your [Dm]stand[C]ard [F]high, [Am7]Still [Dm]march in firm [G7]ar[C]ray,
+[F7]As [Bb]warriors through [Dm]the dark[F]ness [Dm]toil, [Dm7]Till [Gm]dawns the gol[Am]den [C]day.
 
 Verse 5
-Yes, on through life's long path, Still chanting as ye go;
-From youth to age, by night and day, In gladness and in woe.
+[F]Yes, [C]on [Am]through [Dm]life's [C]long [F]path, [Am7]Still [Dm]chanting as [G7]ye [C]go;
+[F7]From [Bb]youth to age, [Dm]by night [F]and [Dm]day, [Dm7]In [Gm]gladness and [Am]in [C]woe.
 
 Chorus
-Rejoice, rejoice, rejoice, Give thanks and sing.`
+Rejoice, rejoice, [F7]re[Bb]joice, [F]Give thanks [C7]and [Aaug]sing.`
   },
   {
     t: "Salvation Unto Us Has Come",
@@ -4960,28 +4960,28 @@ Rejoice, rejoice, rejoice, Give thanks and sing.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Salvation unto us has come By God's free grace and favor;
-Good works cannot avert our doom, They help and save us never.
-Faith looks to Jesus Christ alone, Who did for all the
-world atone; He is our one Redeemer.
+[Eb]Salva[Bb]tion [Eb]un[Bbm]to [Ab]us [Eb]has [Ab]come By [Eb]God's [Ab]free [Eb]grace [Ab]and [Bb]favor;
+Good [Eb]works [Bb]can[Eb]not [Bbm]a[Ab]vert [Eb]our [Ab]doom, They [Eb]help [Ab]and [Eb]save [Ab]us [Bb]never.
+Faith [Cm]looks [Ab]to Je[Eb]sus [Ab]Christ a[Eb]lone, Who [Cm]did for [Bbm]all [Ab]the
+[Eb]world [Bb]a[Eb]tone; He [Db]is [Ab]our [Eb]one [Fm]Re[Eb]deemer.
 
 Verse 2
-What God did in His law demand And none to Him could render
-Caused wrath and woe on every hand For man, the vile offender.
-Our flesh has not those pure desires The spirit of the
-Law requires, And lost is our condition.
+[Eb]What God [Bb]did [Eb]in [Bbm]His [Ab]law [Eb]de[Ab]mand And [Eb]none [Ab]to [Eb]Him [Ab]could [Bb]render
+Caused [Eb]wrath [Bb]and [Eb]woe [Bbm]on [Ab]ev[Eb]ery [Ab]hand For [Eb]man, [Ab]the [Eb]vile [Ab]of[Bb]fender.
+Our [Cm]flesh [Ab]has not [Eb]those [Ab]pure de[Eb]sires The [Cm]spirit [Bbm]of [Ab]the
+[Eb]Law [Bb]re[Eb]quires, And [Db]lost [Ab]is [Eb]our [Fm]con[Eb]dition.
 
 Verse 3
-It was a false, misleading dream That God His Law had given
-So sinners could themselves redeem And by their works gain Heaven.
-The Law is but a mirror bright To bring the inbred
-sin to light That lurks within our nature.
+[Eb]It was [Bb]a [Eb]false, [Bbm]mis[Ab]lead[Eb]ing [Ab]dream That [Eb]God [Ab]His [Eb]Law [Ab]had [Bb]given
+So [Eb]sin[Bb]ners [Eb]could [Bbm]them[Ab]selves [Eb]re[Ab]deem And [Eb]by [Ab]their [Eb]works [Ab]gain [Bb]Heaven.
+The [Cm]Law [Ab]is but [Eb]a [Ab]mirror [Eb]bright To [Cm]bring the [Bbm]in[Ab]bred
+[Eb]sin [Bb]to [Eb]light That [Db]lurks [Ab]with[Eb]in [Fm]our [Eb]nature.
 
 Verse 4
-From sin our flesh could not abstain Sin held its sway unceasing;
-The task was useless and in vain, Our guilt was e'er increasing.
-None can remove sin's poisoned dart Or purify our
-guileful heart? So deep is our corruption.`
+[Eb]From sin [Bb]our [Eb]flesh [Bbm]could [Ab]not [Eb]ab[Ab]stain Sin [Eb]held [Ab]its [Eb]sway [Ab]un[Bb]ceasing;
+The [Eb]task [Bb]was [Eb]use[Bbm]less [Ab]and [Eb]in [Ab]vain, Our [Eb]guilt [Ab]was [Eb]e'er [Ab]in[Bb]creasing.
+None [Cm]can [Ab]remove [Eb]sin's [Ab]poisoned [Eb]dart Or [Cm]purif[Bbm]y [Ab]our
+[Eb]guile[Bb]ful [Eb]heart? So [Db]deep [Ab]is [Eb]our [Fm]cor[Eb]ruption.`
   },
   {
     t: "Savior Of The Nations Come",
@@ -4996,24 +4996,24 @@ guileful heart? So deep is our corruption.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Savior of the nations, come; Virgin's Son, here make Thy home!
-Marvel now, O heav'n and earth, That the Lord chose such a birth.
+[Gm]Sa[Cm]vior [Dm]of [Bb]the [Adim]na[D]tions, [Gm]come; Virgin's [Cm]Son, here [F]make [Bb]Thy home!
+Mar[F]vel [Bb]now, [Eb]O [Cm]heav'n [Gm]and earth, [Eb]That [Cm]the [Dm]Lord [Gm]chose [D]such a [Gm]birth.
 
 Verse 2
-Not by human flesh and blood; By the Spirit of our God
-Was the Word of God made flesh, Woman's offspring, pure and fresh.
+[Gm]Not [Cm]by [Dm]hu[Bb]man [Adim]flesh [D]and [Gm]blood; By the [Cm]Spirit [F]of [Bb]our God
+Was [F]the [Bb]Word [Eb]of [Cm]God [Gm]made flesh, [Eb]Wo[Cm]man's [Dm]off[Gm]spring, [D]pure and [Gm]fresh.
 
 Verse 3
-Wondrous birth! O wondrous Child Of the virgin undefiled!
-Though by all the world disowned, Still to be in heaven enthroned.
+[Gm]Won[Cm]drous [Dm]birth! [Bb]O [Adim]won[D]drous [Gm]Child Of the [Cm]virgin [F]un[Bb]defiled!
+Though [F]by [Bb]all [Eb]the [Cm]world [Gm]disowned, [Eb]Still [Cm]to [Dm]be [Gm]in [D]heaven en[Gm]throned.
 
 Verse 4
-From the Father forth He came And returneth to the same,
-Captive leading death and hell High the song of triumph swell!
+[Gm]From [Cm]the [Dm]Fa[Bb]ther [Adim]forth [D]He [Gm]came And re[Cm]turneth [F]to [Bb]the same,
+Cap[F]tive [Bb]lead[Eb]ing [Cm]death [Gm]and hell [Eb]High [Cm]the [Dm]song [Gm]of [D]triumph [Gm]swell!
 
 Verse 5
-Thou, the Father's only Son, Hast o'er sin the vict'ry won.
-Boundless shall Thy kingdom be; When shall we its glories see?`
+[Gm]Thou, [Cm]the [Dm]Fa[Bb]ther's [Adim]on[D]ly [Gm]Son, Hast o'er [Cm]sin the [F]vic[Bb]t'ry won.
+Bound[F]less [Bb]shall [Eb]Thy [Cm]king[Gm]dom be; [Eb]When [Cm]shall [Dm]we [Gm]its [D]glories [Gm]see?`
   },
   {
     t: "Savior When In Dust To Thee",
@@ -5028,34 +5028,34 @@ Boundless shall Thy kingdom be; When shall we its glories see?`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Savior, when in dust to Thee Low we bow th'adoring knee,
-When, repentant, to the skies Scarce we lift our weeping eyes,
-O by all the pains and woes Suffered once for man below,
-Bending from Thy throne on high, Hear our penitential cry!
+[Dm]Savior, when [F]in [Dm]dust [A]to [Dm]Thee Low [A]we [Dm]bow [A7]th'a[Dm]doring [A]knee,
+[Dm]When, repent[F]ant, [Dm]to [A]the [Dm]skies [A]Scarce [Dm]we [F]lift [A]our [Dm]weep[A]ing [Dm]eyes,
+[Bb]O [F]by [Bb]all the [F]pains [Am]and [F]woes [Dm]Suff[A]ered [Dm]once [C]for [F]man [Am]below,
+[Bb]Bending [F]from Thy [Dm]throne [Gm]on [A]high, [Dm]Hear our pen[F]i[Dm]ten[A]tial [Dm]cry!
 
 Verse 2
-By Thy helpless infant years, By Thy life of want and tears,
-By Thy days of sore distress In the savage wilderness,
-By the dread mysterious hour Of th'insulting tempter's pow'r,
-Turn, O turn a fav'ring eye, Hear our penitential cry!
+[Dm]By Thy help[F]less [Dm]in[A]fant [Dm]years, By [A]Thy [Dm]life [A7]of [Dm]want and [A]tears,
+[Dm]By Thy days [F]of [Dm]sore [A]dis[Dm]tress [A]In [Dm]the [F]sa[A]vage [Dm]wild[A]er[Dm]ness,
+[Bb]By [F]the [Bb]dread mys[F]ter[Am]ious [F]hour [Dm]Of [A]th'in[Dm]sult[C]ing [F]temp[Am]ter's pow'r,
+[Bb]Turn, O [F]turn a [Dm]fav'r[Gm]ing [A]eye, [Dm]Hear our pen[F]i[Dm]ten[A]tial [Dm]cry!
 
 Verse 3
-By the sacred griefs that wept O'er the grave where Laz'rus slept,
-By the boding tears that flowed Over Salem's loved abode,
-By the anguished sigh that told Treachery lurked within Thy fold,
-From Thy seat above the sky, Hear our penitential cry!
+[Dm]By the sac[F]red [Dm]griefs [A]that [Dm]wept O'er [A]the [Dm]grave [A7]where [Dm]Laz'rus [A]slept,
+[Dm]By the bod[F]ing [Dm]tears [A]that [Dm]flowed [A]O[Dm]ver [F]Sa[A]lem's [Dm]loved [A]a[Dm]bode,
+[Bb]By [F]the [Bb]anguished [F]sigh [Am]that [F]told [Dm]Treach[A]er[Dm]y [C]lurked [F]with[Am]in Thy fold,
+[Bb]From Thy [F]seat a[Dm]bove [Gm]the [A]sky, [Dm]Hear our pen[F]i[Dm]ten[A]tial [Dm]cry!
 
 Verse 4
-By Thine hour of dire despair, By Thine agony of prayer,
-By the cross, the nail, the thorn, Piercing spear, and torturing scorn,
-By the gloom that veiled the skies O'er the dreadful sacrifice,
-Listen to our humble cry, Hear our penitential cry!
+[Dm]By Thine hour [F]of [Dm]dire [A]de[Dm]spair, By [A]Thine [Dm]a[A7]go[Dm]ny of [A]prayer,
+[Dm]By the cross, [F]the [Dm]nail, [A]the [Dm]thorn, [A]Pier[Dm]cing [F]spear, [A]and [Dm]tor[A]turing [Dm]scorn,
+[Bb]By [F]the [Bb]gloom that [F]veiled [Am]the [F]skies [Dm]O'er [A]the [Dm]dread[C]ful [F]sac[Am]rifice,
+[Bb]Listen [F]to our [Dm]hum[Gm]ble [A]cry, [Dm]Hear our pen[F]i[Dm]ten[A]tial [Dm]cry!
 
 Verse 5
-By Thy deep expiring groan, By the sad sepulchral stone,
-By the vault whose dark abode Held in vain the rising God,
-O from earth to heaven restored, Mighty, reascended Lord,
-Listen, listen to the sigh Of our penitential cry!`
+[Dm]By Thy deep [F]ex[Dm]pir[A]ing [Dm]groan, By [A]the [Dm]sad [A7]sep[Dm]ulchral [A]stone,
+[Dm]By the vault [F]whose [Dm]dark [A]a[Dm]bode [A]Held [Dm]in [F]vain [A]the [Dm]ri[A]sing [Dm]God,
+[Bb]O [F]from [Bb]earth to [F]heaven [Am]re[F]stored, [Dm]Might[A]y, [Dm]re[C]as[F]cend[Am]ed Lord,
+[Bb]Listen, [F]listen [Dm]to [Gm]the [A]sigh [Dm]Of our pen[F]i[Dm]ten[A]tial [Dm]cry!`
   },
   {
     t: "Savior, Who Thy Flock Art Feeding",
@@ -5070,20 +5070,20 @@ Listen, listen to the sigh Of our penitential cry!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Savior, who Thy flock art feeding With the Shepherd's kindest care,
-All the feeble gently leading, While the lambs Thy bosom share.
+[F]Sa[C]vior, [F]who Thy flock [Bb]art [C]feeding [Bb]With [F]the [Gm]Shep[F]herd's [Gm]kindest [A]care,
+[Am]All [C7]the [F]feeble gent[C]ly lead[F]ing, [Dm]While [C]the [F]lambs [Bb]Thy [F]bos[C7]om [F]share.
 
 Verse 2
-Now, these little ones receiving, Fold them in Thy gracious arm;
-There, we know, Thy Word believing, Only there secure from harm.
+[F]Now, [C]these [F]little ones [Bb]re[C]ceiving, [Bb]Fold [F]them [Gm]in [F]Thy [Gm]gracious [A]arm;
+[Am]There, [C7]we [F]know, Thy Word [C]believ[F]ing, [Dm]On[C]ly [F]there [Bb]se[F]cure [C7]from [F]harm.
 
 Verse 3
-Never, from Thy pasture roving, Let them be the lion's prey;
-Let Thy tenderness, so loving, Keep them through life's dang'rous way.
+[F]Ne[C]ver, [F]from Thy pas[Bb]ture [C]roving, [Bb]Let [F]them [Gm]be [F]the [Gm]lion's [A]prey;
+[Am]Let [C7]Thy [F]tenderness, [C]so lov[F]ing, [Dm]Keep [C]them [F]through [Bb]life's [F]dan[C7]g'rous [F]way.
 
 Verse 4
-Then within Thy fold eternal Let them find a resting place,
-Feed in pastures ever vernal, Drink the rivers of Thy grace.`
+[F]Then [C]with[F]in Thy fold [Bb]e[C]ternal [Bb]Let [F]them [Gm]find [F]a [Gm]resting [A]place,
+[Am]Feed [C7]in [F]pastures ev[C]er ver[F]nal, [Dm]Drink [C]the [F]riv[Bb]ers [F]of [C7]Thy [F]grace.`
   },
   {
     t: "See Amid the Winter's Snow",
@@ -5098,28 +5098,28 @@ Feed in pastures ever vernal, Drink the rivers of Thy grace.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-See amid the winter's snow, Born for us on earth below,
-See, the gentle Lamb appears, Promised from eternal years.
+[G]See a[Am7]mid [Bm]the [C]winter's [G]snow, Born [Bm7]for [C]us [G]on earth be[D]low,
+[G]See, the [Am7]gen[Bm]tle [C]Lamb ap[G]pears, [Em]Pro[Am7]mised [G]from [C]eter[D7]nal [G]years.
 
 Verse 2
-Lo, within a manger lies He Who built the starry skies;
-He Who, thron�d in height sublime, Sits amid the cherubim.
+[G]Lo, with[Am7]in [Bm]a [C]manger [G]lies He [Bm7]Who [C]built [G]the starry [D]skies;
+[G]He Who, [Am7]thronèd [Bm]in [C]height sub[G]lime, [Em]Sits [Am7]a[G]mid [C]the cher[D7]u[G]bim.
 
 Verse 3
-Say, you holy shepherds, say, Tell your joyful news today.
-Why have you now left your sheep On the lonely mountain steep?
+[G]Say, you [Am7]ho[Bm]ly [C]shepherds, [G]say, Tell [Bm7]your [C]joy[G]ful news to[D]day.
+[G]Why have [Am7]you [Bm]now [C]left your [G]sheep [Em]On [Am7]the [G]lone[C]ly moun[D7]tain [G]steep?
 
 Verse 4
-"As we watched at dead of night, Lo, we saw a wondrous light;
-Angels singing 'Peace on earth' Told us of the Savior's birth."
+[G]"As we [Am7]watched [Bm]at [C]dead of [G]night, Lo, [Bm7]we [C]saw [G]a wondrous [D]light;
+[G]Angels [Am7]sing[Bm]ing [C]'Peace on [G]earth' [Em]Told [Am7]us [G]of [C]the Sa[D7]vior's [G]birth."
 
 Verse 5
-Sacred Infant, all divine, What a tender love was Thine,
-Thus to come from highest bliss Down to such a world as this.
+[G]Sacred [Am7]In[Bm]fant, [C]all di[G]vine, What [Bm7]a [C]ten[G]der love was [D]Thine,
+[G]Thus to [Am7]come [Bm]from [C]highest [G]bliss [Em]Down [Am7]to [G]such [C]a world [D7]as [G]this.
 
 Chorus
-Hail that ever bless�d morn, Hail redemption's happy dawn,
-Sing through all Jerusalem: Christ is born in Bethlehem.`
+Hail that [C]ev[G]er [D7]bles[G]sèd [D]morn, [G]Hail re[C]demp[G]tion's [Am]hap[G]py [D]dawn,
+[Em]Sing through [A7]all [Bm]Jer[Em7]u[A]sa[D]lem: [G]Christ is [C]born [Am7]in [Bm]Beth[D7]le[G]hem.`
   },
   {
     t: "See, The Lord Ascends In Triumph",
@@ -5134,54 +5134,54 @@ Sing through all Jerusalem: Christ is born in Bethlehem.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-See, the Lord ascends in triumph; see the King in royal state,
-Riding on the clouds, His chariot, To His heav'nly palace gate.
-Hark! the choirs of angel voices Joyful alleluias sing,
-And the portals high are lifted To receive their heav'nly King.
-Holy Ghost, Illuminator, shed Thy beams upon our eyes,
-Help us to look up with Stephen, and to see beyond the skies,
-Where the Son of Man in glory Standing is at God's right hand,
-Beck'ning on His martyr army, succoring His faithful band.
+[A]See, [E]the [F#m]Lord [E]as[A]cends in tri[E]umph; [A]see [F#m]the [Bm7]King [F#m]in [A]ro[E]yal [A]state,
+Ri[E]ding [A]on [E]the [F#m]clouds, [E]His char[B]iot, [B7]To [G#m]His [C#m]heav'n[E]ly pal[B]ace [E]gate.
+Hark! the choirs [Bm]of [A]an[E]gel [D]voi[A]ces [F#m]Joy[E]ful [A]al[C#m]le[E7]lu[A]ias [E]sing,
+[A]And [E]the [A]por[E]tals [A]high [F#m]are [A]lift[E]ed [A]To [F#m]re[D]ceive [A]their heav'n[E]ly [A]King.
+Holy [Bm7]Ghost, [A]Il[E]lum[C#m]in[F#m]a[Bm]tor, [E]shed [A]Thy [E]beams [A]up[E]on our eyes,
+[A]Help us [Bm7]to [A]look [C#m]up with [F#m]Ste[B]phen, [C#m]and to [E]see [A]be[E]yond [B]the [E]skies,
+[D]Where the [E]Son [A]of Man [D]in glo[A]ry [F#m]Stand[Bm]ing [F#m]is [Bm]at [F#m]God's [C#]right [F#m]hand,
+[E]Beck[A]'ning [D]on [A]His [F#m]mar[E]tyr [D]ar[A]my, [C#m]succor[F#m]ing [Bm7]His [A]faith[E]ful [A]band.
 
 Verse 2
-Who is this that comes in glory, with the trump of jubilee?
-Lord of battles, God of armies, He has gained the victory.
-He Who on the cross did suffer, He who from the grave arose,
-He has vanquished sin and Satan, He by death has spoiled His foes.
-See Him, Who is gone before us, Heav'nly mansions to prepare,
-See Him, who is ever pleading For us with prevailing prayer,
-See Him, who with sound of trumpet, and with His angelic train,
-Summoning the world to judgment, on the clouds will come again.
+[A]Who [E]is [F#m]this [E]that [A]comes in glo[E]ry, [A]with [F#m]the [Bm7]trump [F#m]of [A]ju[E]bi[A]lee?
+Lord [E]of [A]bat[E]tles, [F#m]God [E]of arm[B]ies, [B7]He [G#m]has [C#m]gained [E]the vic[B]tor[E]y.
+He Who on [Bm]the [A]cross [E]did [D]suf[A]fer, [F#m]He [E]who [A]from [C#m]the [E7]grave [A]a[E]rose,
+[A]He [E]has [A]van[E]quished [A]sin [F#m]and [A]Sa[E]tan, [A]He [F#m]by [D]death [A]has spoiled [E]His [A]foes.
+See Him, [Bm7]Who [A]is [E]gone [C#m]be[F#m]fore [Bm]us, [E]Heav'n[A]ly [E]man[A]sions [E]to prepare,
+[A]See Him, [Bm7]who [A]is [C#m]ever [F#m]plead[B]ing [C#m]For us [E]with [A]pre[E]vail[B]ing [E]prayer,
+[D]See Him, [E]who [A]with sound [D]of trum[A]pet, [F#m]and [Bm]with [F#m]His [Bm]an[F#m]gel[C#]ic [F#m]train,
+[E]Sum[A]mon[D]ing [A]the [F#m]world [E]to [D]judg[A]ment, [C#m]on the [F#m]clouds [Bm7]will [A]come [E]a[A]gain.
 
 Verse 3
-While He lifts His hands in blessing, He is parted from His friends
-While their eager eyes behold Him, He upon the cloud ascends;
-He Who walked with God and pleased Him, preaching truth and doom to come,
-He, our Enoch, is translated to His everlasting home.
-Raise us up from earth to Heaven, give us wings of faith and love,
-Gales of holy aspirations wafting us to realms above;
-That, with hearts and minds uplifted, we with Christ our Lord may dwell,
-Where He sits enthroned in glory in His heav'nly Citadel.
+[A]While [E]He [F#m]lifts [E]His [A]hands in bless[E]ing, [A]He [F#m]is [Bm7]part[F#m]ed [A]from [E]His [A]friends
+While [E]their [A]ea[E]ger [F#m]eyes [E]behold [B]Him, [B7]He [G#m]up[C#m]on [E]the cloud [B]as[E]cends;
+He Who walked [Bm]with [A]God [E]and [D]pleased [A]Him, [F#m]preach[E]ing [A]truth [C#m]and [E7]doom [A]to [E]come,
+[A]He, [E]our [A]E[E]noch, [A]is [F#m]trans[A]la[E]ted [A]to [F#m]His [D]ev[A]erlast[E]ing [A]home.
+Raise us [Bm7]up [A]from [E]earth [C#m]to [F#m]Hea[Bm]ven, [E]give [A]us [E]wings [A]of [E]faith and love,
+[A]Gales of [Bm7]ho[A]ly [C#m]aspir[F#m]a[B]tions [C#m]wafting [E]us [A]to [E]realms [B]a[E]bove;
+[D]That, with [E]hearts [A]and minds [D]uplift[A]ed, [F#m]we [Bm]with [F#m]Christ [Bm]our [F#m]Lord [C#]may [F#m]dwell,
+[E]Where [A]He [D]sits [A]en[F#m]throned [E]in [D]glo[A]ry [C#m]in His [F#m]heav'n[Bm7]ly [A]Cit[E]a[A]del.
 
 Verse 4
-Now our heav'nly Aaron enters, with His blood, within the veil;
-Joshua now is come to Canaan, and the kings before Him quail;
-Now He plants the tribes of Israel in their promised resting place;
-Now our great Elijah offers double portion of His grace.
-So at last, when He appeareth, we from out our graves may spring,
-With our youth renewed like eagles, flocking round our Heav'nly King.
-Caught up on the clouds of Heaven, and may meet Him in the air,
-Rise to realms where He is reigning, and may reign for ever there.
+[A]Now [E]our [F#m]heav'n[E]ly [A]Aaron en[E]ters, [A]with [F#m]His [Bm7]blood, [F#m]with[A]in [E]the [A]veil;
+Josh[E]ua [A]now [E]is [F#m]come [E]to Ca[B]naan, [B7]and [G#m]the [C#m]kings [E]before [B]Him [E]quail;
+Now He plants [Bm]the [A]tribes [E]of [D]Is[A]rael [F#m]in [E]their [A]pro[C#m]mised [E7]rest[A]ing [E]place;
+[A]Now [E]our [A]great [E]El[A]i[F#m]jah [A]of[E]fers [A]dou[F#m]ble [D]por[A]tion of [E]His [A]grace.
+So at [Bm7]last, [A]when [E]He [C#m]ap[F#m]pear[Bm]eth, [E]we [A]from [E]out [A]our [E]graves may spring,
+[A]With our [Bm7]youth [A]re[C#m]newed like [F#m]eag[B]les, [C#m]flocking [E]round [A]our [E]Heav'n[B]ly [E]King.
+[D]Caught up [E]on [A]the clouds [D]of Hea[A]ven, [F#m]and [Bm]may [F#m]meet [Bm]Him [F#m]in [C#]the [F#m]air,
+[E]Rise [A]to [D]realms [A]where [F#m]He [E]is [D]reign[A]ing, [C#m]and may [F#m]reign [Bm7]for [A]ev[E]er [A]there.
 
 Verse 5
-He has raised our human nature in the clouds to God's right hand;
-There we sit in heav'nly places, there with Him in glory stand:
-Jesus reigns, adored by angels; man with God is on the throne;
-Mighty Lord, in Thine ascension we by faith behold our own.
-Glory be to God the Father, Glory be to God the Son,
-Dying, ris'n, ascending for us, who the heav'nly realm has won;
-Glory to the Holy Spirit, To One God in Persons Three;
-Glory both in earth and Heaven, glory, endless glory, be.`
+[A]He [E]has [F#m]raised [E]our [A]human na[E]ture [A]in [F#m]the [Bm7]clouds [F#m]to [A]God's [E]right [A]hand;
+There [E]we [A]sit [E]in [F#m]heav'n[E]ly pla[B]ces, [B7]there [G#m]with [C#m]Him [E]in glo[B]ry [E]stand:
+Jesus reigns, [Bm]a[A]dored [E]by [D]an[A]gels; [F#m]man [E]with [A]God [C#m]is [E7]on [A]the [E]throne;
+[A]Might[E]y [A]Lord, [E]in [A]Thine [F#m]as[A]cen[E]sion [A]we [F#m]by [D]faith [A]behold [E]our [A]own.
+Glory [Bm7]be [A]to [E]God [C#m]the [F#m]Fa[Bm]ther, [E]Glo[A]ry [E]be [A]to [E]God the Son,
+[A]Dying, [Bm7]ris'n, [A]as[C#m]cending [F#m]for [B]us, [C#m]who the [E]heav'n[A]ly [E]realm [B]has [E]won;
+[D]Glory [E]to [A]the Ho[D]ly Spir[A]it, [F#m]To [Bm]One [F#m]God [Bm]in [F#m]Per[C#]sons [F#m]Three;
+[E]Glo[A]ry [D]both [A]in [F#m]earth [E]and [D]Hea[A]ven, [C#m]glory, [F#m]end[Bm7]less [A]glo[E]ry, [A]be.`
   },
   {
     t: "Sing, O Sing, This Blessed Morn",
@@ -5196,27 +5196,27 @@ Glory both in earth and Heaven, glory, endless glory, be.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Sing, O sing, this blessed morn, Unto us a Child is born,
-Unto us a Son is giv'n, God Himself comes down from Heav'n.
+[C]Sing, O sing, this [F]blessed [C]morn, [F]Unto [C]us [Am]a [G]Child [G7]is [C]born,
+[Am]Unto us a [E]Son is [Am]giv'n, God Him[D]self [Em]comes [G]down [D]from [G]Heav'n.
 
 Verse 2
-Jesus Christ, the King of kings, Maker of all worldly things,
-Now descends from Heav'n to Earth, To re-store us by His birth;
+[C]Jesus Christ, the [F]King of [C]kings, [F]Maker [C]of [Am]all [G]world[G7]ly [C]things,
+[Am]Now descends from [E]Heav'n to [Am]Earth, To re[D]store [Em]us [G]by [D]His [G]birth;
 
 Verse 3
-God of God, and Light of Light, Comes with mercies infinite;
-Joining in a wondrous plan Heav'n to earth and God to Man;
+[C]God of God, and [F]Light of [C]Light, [F]Comes with [C]mer[Am]cies [G]in[G7]fi[C]nite;
+[Am]Joining in a [E]wondrous [Am]plan Heav'n to [D]earth [Em]and [G]God [D]to [G]Man;
 
 Verse 4
-God with us, Emmanuel, Deigns for ever now to dwell;
-He on Adam's fallen race Sheds the fullness of His Grace;
+[C]God with us, Em[F]manu[C]el, [F]Deigns for [C]ev[Am]er [G]now [G7]to [C]dwell;
+[Am]He on Adam's [E]fallen [Am]race Sheds the [D]full[Em]ness [G]of [D]His [G]Grace;
 
 Verse 5
-Truth and Mercy show their face, And with loving kiss embrace;
-Righteousness looks down from Heav'n, God is pleased and Man forgiv'n;
+[C]Truth and Mercy [F]show their [C]face, [F]And with [C]lov[Am]ing [G]kiss [G7]em[C]brace;
+[Am]Righteousness looks [E]down from [Am]Heav'n, God is [D]pleased [Em]and [G]Man [D]for[G]giv'n;
 
 Chorus
-Sing, O sing, this blessed morn, Jesus Christ today is born.`
+[F]Sing, O [C]sing, this [F]blessed [C]morn, Je[Am]sus [G]Christ [C]to[F]day is [C]born.`
   },
   {
     t: "Songs of Thankfulness and Praise",
@@ -5231,34 +5231,34 @@ Sing, O sing, this blessed morn, Jesus Christ today is born.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Songs of thankfulness and praise, Jesus, Lord, to Thee we raise,
-Manifested by the star To the sages from afar;
-Branch of royal David's stem In Thy birth at Bethlehem;
-Anthems be to Thee addressed, God in man made manifest.
+[G]Songs of [D]thank[G]ful[Em]ness [D]and [G]praise, Jesus, [D]Lord, [G]to [Em]Thee [Am]we [B]raise,
+[Em]Mani[Am7]fested by the [Gmaj7]star To [A7]the [D]sa[Em7]ges [D]from afar;
+[Bm7]Branch [D]of royal [G]Da[Am7]vid's [G]stem [Em7]In [G]Thy birth at [G#maj7]Bethle[Am]hem;
+An[E7]thems [Am7]be to Thee [D7]add[G]ressed, God in man made man[D]i[Baug]fest.
 
 Verse 2
-Manifest at Jordan's stream, Prophet, Priest, and King supreme;
-And at Cana, wedding guest, In Thy Godhead manifest;
-Manifest in pow'r divine, Changing water into wine;
-Anthems be to Thee addressed, God in man made manifest.
+[G]Mani[D]fest [G]at [Em]Jor[D]dan's [G]stream, Prophet, [D]Priest, [G]and [Em]King [Am]su[B]preme;
+[Em]And at [Am7]Cana, wedding [Gmaj7]guest, In [A7]Thy [D]God[Em7]head [D]manifest;
+[Bm7]Man[D]ifest in [G]pow'r [Am7]di[G]vine, [Em7]Chang[G]ing water [G#maj7]into [Am]wine;
+An[E7]thems [Am7]be to Thee [D7]add[G]ressed, God in man made man[D]i[Baug]fest.
 
 Verse 3
-Manifest in making whole Palsied limbs and fainting soul;
-Manifest in valiant fight, Quelling all the devil's might;
-Manifest in gracious will, Ever bringing good from ill;
-Anthems be to Thee addressed, God in man made manifest.
+[G]Mani[D]fest [G]in [Em]mak[D]ing [G]whole Palsied [D]limbs [G]and [Em]faint[Am]ing [B]soul;
+[Em]Mani[Am7]fest in valiant [Gmaj7]fight, Quell[A7]ing [D]all [Em7]the [D]devil's might;
+[Bm7]Man[D]ifest in [G]grac[Am7]ious [G]will, [Em7]Ev[G]er bringing [G#maj7]good from [Am]ill;
+An[E7]thems [Am7]be to Thee [D7]add[G]ressed, God in man made man[D]i[Baug]fest.
 
 Verse 4
-Sun and moon shall darkened be, Stars shall fall, the heav'ns shall flee,
-Christ will then like lightning shine, All will see His glorious sign:
-All will then the trumpet hear; All will see the Judge appear;
-Thou by all wilt be confessed, God in man made manifest.
+[G]Sun and [D]moon [G]shall [Em]dark[D]ened [G]be, Stars shall [D]fall, [G]the [Em]heav'ns [Am]shall [B]flee,
+[Em]Christ will [Am7]then like lightning [Gmaj7]shine, All [A7]will [D]see [Em7]His [D]glorious sign:
+[Bm7]All [D]will then the [G]trum[Am7]pet [G]hear; [Em7]All [G]will see the [G#maj7]Judge ap[Am]pear;
+Thou [E7]by [Am7]all wilt be [D7]con[G]fessed, God in man made man[D]i[Baug]fest.
 
 Verse 5
-Grant us grace to see Thee, Lord, Mirrored in Thy holy Word;
-May we imitate Thee now, And be pure, as pure art Thou;
-That we like to Thee may be At Thy great Epiphany;
-And may praise Thee, ever blest, God in man made manifest.`
+[G]Grant us [D]grace [G]to [Em]see [D]Thee, [G]Lord, Mirrored [D]in [G]Thy [Em]ho[Am]ly [B]Word;
+[Em]May we [Am7]imitate Thee [Gmaj7]now, And [A7]be [D]pure, [Em7]as [D]pure art Thou;
+[Bm7]That [D]we like to [G]Thee [Am7]may [G]be [Em7]At [G]Thy great E[G#maj7]pipha[Am]ny;
+And [E7]may [Am7]praise Thee, ev[D7]er [G]blest, God in man made man[D]i[Baug]fest.`
   },
   {
     t: "Souls of Men! Why Will Ye Scatter",
@@ -5273,34 +5273,34 @@ And may praise Thee, ever blest, God in man made manifest.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Souls of men! why will ye scatter Like a crowd of frightened sheep?
-Foolish hearts! why will ye wander From a love so true and deep?
-Was there ever kinder shepherd Half so gentle, half so sweet,
-As the Savior who would have us Come and gather round His feet?
+[G]Souls of men! [Em]why [Am7]will [Em7]ye [G]scatter [Am7]Like [Bm]a [G]crowd of [F#dim]fright[Am]ened [G]sheep?
+Foolish hearts! [Em]why [Am7]will [Em7]ye [G]wander [Am7]From [Bm]a [G]love so [F#dim]true [Am]and [G]deep?
+[Em]Was [Dm]there [C]ev[Em]er [Am]kind[E]er [Am]shepherd [D]Half so [G]gen[Em]tle, [D]half [G]so [A7]sweet,
+[G]As the Sa[Em]vior [Am7]who [Em7]would [G]have us [Am7]Come [Bm]and [G]gather [F#dim]round [Am]His [G]feet?
 
 Verse 2
-It is God: His love looks mighty, But is mighti'r than it seems;
-'Tis our Father: and His fondness Goes far out beyond our dreams.
-There's a wideness in God's mercy, Like the wideness of the sea;
-There's a kindness in His justice, Which is more than liberty.
+[G]It is God: [Em]His [Am7]love [Em7]looks [G]mighty, [Am7]But [Bm]is [G]mighti'r [F#dim]than [Am]it [G]seems;
+'Tis our Fa[Em]ther: [Am7]and [Em7]His [G]fondness [Am7]Goes [Bm]far [G]out be[F#dim]yond [Am]our [G]dreams.
+[Em]There's [Dm]a [C]wide[Em]ness [Am]in [E]God's [Am]mercy, [D]Like the [G]wide[Em]ness [D]of [G]the [A7]sea;
+[G]There's a kind[Em]ness [Am7]in [Em7]His [G]justice, [Am7]Which [Bm]is [G]more than [F#dim]lib[Am]er[G]ty.
 
 Verse 3
-There is no place where earth's sorrows Are more felt than up in Heav'n;
-There is no place where earth's failings Have such wondrous judgment giv'n.
-There is welcome for the sinner, Grace poured out as in a flood
-There is mercy with the Savior; There is healing in His blood.
+[G]There is no [Em]place [Am7]where [Em7]earth's [G]sorrows [Am7]Are [Bm]more [G]felt than [F#dim]up [Am]in [G]Heav'n;
+There is no [Em]place [Am7]where [Em7]earth's [G]failings [Am7]Have [Bm]such [G]wondrous [F#dim]judg[Am]ment [G]giv'n.
+[Em]There [Dm]is [C]wel[Em]come [Am]for [E]the [Am]sinner, [D]Grace poured [G]out [Em]as [D]in [G]a [A7]flood
+[G]There is mer[Em]cy [Am7]with [Em7]the [G]Savior; [Am7]There [Bm]is [G]healing [F#dim]in [Am]His [G]blood.
 
 Verse 4
-There is grace enough for thousands Of new worlds as great as this;
-There is room for fresh creations In that upper home of bliss.
-For the love of God is broader Than the measure of man's mind;
-And the heart of the Eternal Is most wonderfully kind.
+[G]There is grace [Em]e[Am7]nough [Em7]for [G]thousands [Am7]Of [Bm]new [G]worlds as [F#dim]great [Am]as [G]this;
+There is room [Em]for [Am7]fresh [Em7]cre[G]ations [Am7]In [Bm]that [G]upper [F#dim]home [Am]of [G]bliss.
+[Em]For [Dm]the [C]love [Em]of [Am]God [E]is [Am]broader [D]Than the [G]mea[Em]sure [D]of [G]man's [A7]mind;
+[G]And the heart [Em]of [Am7]the [Em7]E[G]ternal [Am7]Is [Bm]most [G]wonder[F#dim]ful[Am]ly [G]kind.
 
 Verse 5
-There is plentiful redemption In Christ's blood that has been shed;
-There is joy for all the members In the sorrows of the Head.
-Not just all we owe to Jesus; It is something more than all;
-Greater good because of evil, Larger mercy through the fall.`
+[G]There is plen[Em]ti[Am7]ful [Em7]re[G]demption [Am7]In [Bm]Christ's [G]blood that [F#dim]has [Am]been [G]shed;
+There is joy [Em]for [Am7]all [Em7]the [G]members [Am7]In [Bm]the [G]sorrows [F#dim]of [Am]the [G]Head.
+[Em]Not [Dm]just [C]all [Em]we [Am]owe [E]to [Am]Jesus; [D]It is [G]some[Em]thing [D]more [G]than [A7]all;
+[G]Greater good [Em]be[Am7]cause [Em7]of [G]evil, [Am7]Lar[Bm]ger [G]mercy [F#dim]through [Am]the [G]fall.`
   },
   {
     t: "Stricken, Smitten, and Afflicted",
@@ -5315,28 +5315,28 @@ Greater good because of evil, Larger mercy through the fall.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Stricken, smitten, and afflicted, See Him dying on the tree!
-'Tis the Christ by man rejected; Yes, my soul, 'tis He, 'tis He!
-'Tis the long expected prophet, David's Son, yet David's Lord;
-Proofs I see sufficient of it: 'Tis a true and faithful Word.
+[Gm]Strick[D]en, [Gm]smitten, [Eb]and afflicted, [D]See Him [Eb]dying on the [Gm]tree!
+'Tis the Christ by [Eb]man rejected; [D]Yes, my [Eb]soul, 'tis He, 'tis [Gm]He!
+'Tis the [Bb]long ex[Gm]pected prophet, [F]David's [Gm]Son, yet [Eb]David's [D]Lord;
+Proofs I [Gm]see sufficient of it: [D]'Tis a [Eb]true and faithful [Gm]Word.
 
 Verse 2
-Tell me, ye who hear Him groaning, Was there ever grief like His?
-Friends through fear His cause disowning, Foes insulting his distress:
-Many hands were raised to wound Him, None would interpose to save;
-But the deepest stroke that pierced Him Was the stroke that Justice gave.
+[Gm]Tell [D]me, [Gm]ye who [Eb]hear Him groaning, [D]Was there [Eb]ever grief like [Gm]His?
+Friends through fear His [Eb]cause disowning, [D]Foes in[Eb]sulting his dis[Gm]tress:
+Many [Bb]hands were [Gm]raised to wound Him, [F]None would [Gm]inter[Eb]pose to [D]save;
+But the [Gm]deepest stroke that pierced Him [D]Was the [Eb]stroke that Justice [Gm]gave.
 
 Verse 3
-Ye who think of sin but lightly, Nor suppose the evil great,
-Here may view its nature rightly, Here its guilt may estimate.
-Mark the Sacrifice appointed! See Who bears the awful load!
-'Tis the Word, the Lord's Anointed, Son of Man, and Son of God.
+[Gm]Ye [D]who [Gm]think of [Eb]sin but lightly, [D]Nor sup[Eb]pose the evil [Gm]great,
+Here may view its [Eb]nature rightly, [D]Here its [Eb]guilt may esti[Gm]mate.
+Mark the [Bb]Sacri[Gm]fice appointed! [F]See Who [Gm]bears the [Eb]awful [D]load!
+'Tis the [Gm]Word, the Lord's Anointed, [D]Son of [Eb]Man, and Son of [Gm]God.
 
 Verse 4
-Here we have a firm foundation, Here the refuge of the lost.
-Christ the Rock of our salvation, Christ the Name of which we boast.
-Lamb of God for sinners wounded! Sacrifice to cancel guilt!
-None shall ever be confounded Who on Him their hope have built.`
+[Gm]Here [D]we [Gm]have a [Eb]firm foundation, [D]Here the [Eb]refuge of the [Gm]lost.
+Christ the Rock of [Eb]our salvation, [D]Christ the [Eb]Name of which we [Gm]boast.
+Lamb of [Bb]God for [Gm]sinners wounded! [F]Sacri[Gm]fice to [Eb]cancel [D]guilt!
+None shall [Gm]ever be confounded [D]Who on [Eb]Him their hope have [Gm]built.`
   },
   {
     t: "Take Thou My Hand and Lead Me",
@@ -5351,22 +5351,22 @@ None shall ever be confounded Who on Him their hope have built.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Take Thou my hand, and lead me o'er life's rough way,
-with Heav'nly Manna feed me from day to day.
-Alone my footsteps falter and straggle wide,
-Lord who my life canst alter be Thou my guide.
+[F]Take [Bb]Thou [F]my [Gm]hand, [F]and lead [C]me [F]o'er [Bb]life's [C]rough [F]way,
+with [Bb]Heav'n[F]ly [Gm]Man[F]na feed [C]me [F]from [Bb]day [C]to [F]day.
+A[Em]lone [C]my foot[Gm7]steps [C]falter [Dm]and [C]strag[G]gle [C]wide,
+[C7]Lord [F]who my life canst [Bb]al[F]ter [Gm]be [F]Thou [C]my [F]guide.
 
 Verse 2
-Take Thou my heart and hide it in folds of grace
-Though pain or woe betide it to know Thy face
-Draw, Lord, of Thy good pleasure Thy child to Thee,
-And grant me faith's full measure though naught I see.
+[F]Take [Bb]Thou [F]my [Gm]heart [F]and hide [C]it [F]in [Bb]folds [C]of [F]grace
+Though [Bb]pain [F]or [Gm]woe [F]betide [C]it [F]to [Bb]know [C]Thy [F]face
+Draw, [Em]Lord, [C]of Thy [Gm7]good [C]pleasure [Dm]Thy [C]child [G]to [C]Thee,
+[C7]And [F]grant me faith's full [Bb]mea[F]sure [Gm]though [F]naught [C]I [F]see.
 
 Verse 3
-Though oft I think Thou hidest Thy wondrous might,
-Still to my goal Thou guidest me through dark night,
-Take, then, my hands and lead me till life is o'er,
-With heav'nly manna feed me forevermore.`
+[F]Though [Bb]oft [F]I [Gm]think [F]Thou hid[C]est [F]Thy [Bb]won[C]drous [F]might,
+Still [Bb]to [F]my [Gm]goal [F]Thou guid[C]est [F]me [Bb]through [C]dark [F]night,
+Take, [Em]then, [C]my hands [Gm7]and [C]lead me [Dm]till [C]life [G]is [C]o'er,
+[C7]With [F]heav'nly manna [Bb]feed [F]me [Gm]for[F]ev[C]er[F]more.`
   },
   {
     t: "'Take Up Thy Cross', the Savior Said",
@@ -5381,24 +5381,24 @@ With heav'nly manna feed me forevermore.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-"Take up thy cross," the Savior said, "If thou wouldst My disciple be;
-Deny thyself, the world forsake, And humbly follow after Me."
+[G]"Take [D]up [Em]thy [D]cross," [G]the [Am]Sa[G]vior [C]said, [Em]"If [D]thou [G]wouldst [C]My [G]dis[Em]ci[D]ple [G]be;
+De[D]ny thy[G]self, the [Em]world [B]for[C]sake, [D]And [G]hum[Am]bly [G]fol[C]low [Em]after [G]Me."
 
 Verse 2
-Take up thy cross, let not its weight Fill thy weak spirit with alarm;
-His strength shall bear thy spirit up, And brace thy heart and nerve thine arm.
+[G]Take [D]up [Em]thy [D]cross, [G]let [Am]not [G]its [C]weight [Em]Fill [D]thy [G]weak [C]spi[G]rit [Em]with [D]a[G]larm;
+His [D]strength shall [G]bear thy [Em]spi[B]rit [C]up, [D]And [G]brace [Am]thy [G]heart [C]and [Em]nerve thine [G]arm.
 
 Verse 3
-Take up thy cross, nor heed the shame, Nor let thy foolish pride rebel;
-Thy Lord for thee the cross endured, And saved thy soul from death and hell.
+[G]Take [D]up [Em]thy [D]cross, [G]nor [Am]heed [G]the [C]shame, [Em]Nor [D]let [G]thy [C]fool[G]ish [Em]pride [D]re[G]bel;
+Thy [D]Lord for [G]thee the [Em]cross [B]en[C]dured, [D]And [G]saved [Am]thy [G]soul [C]from [Em]death and [G]hell.
 
 Verse 4
-Take up thy cross then in His strength, And calmly sin's wild deluge brave,
-'Twill guide thee to a better home, It points to glory o'er the grave.
+[G]Take [D]up [Em]thy [D]cross [G]then [Am]in [G]His [C]strength, [Em]And [D]calm[G]ly [C]sin's [G]wild [Em]de[D]luge [G]brave,
+'Twill [D]guide thee [G]to a [Em]bet[B]ter [C]home, [D]It [G]points [Am]to [G]glo[C]ry [Em]o'er the [G]grave.
 
 Verse 5
-Take up thy cross and follow Christ, Nor think til death to lay it down;
-For only those who bear the cross May hope to wear the glorious crown.`
+[G]Take [D]up [Em]thy [D]cross [G]and [Am]fol[G]low [C]Christ, [Em]Nor [D]think [G]til [C]death [G]to [Em]lay [D]it [G]down;
+For [D]only [G]those who [Em]bear [B]the [C]cross [D]May [G]hope [Am]to [G]wear [C]the [Em]glorious [G]crown.`
   },
   {
     t: "That Men a godly Life Might Live",
@@ -5413,29 +5413,29 @@ For only those who bear the cross May hope to wear the glorious crown.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-That man a godly life might live, God did these ten com
-mandments give By His true servant Moses, high
-Upon the mount Sinai. Have mercy, Lord.
+[G]That [Em]man [C]a [G]god[C]ly [G]life might [C]live, God [G]did [Dm]these [Am]ten [Em]com[Dm]mand[G]ments
+mandments [C]give [F]By [Dm]His true [Am]ser[Em]vant [F]Mo[C]ses, [Dm]high
+Upon [G]the [C]mount [Gm]Sinai. Have mer[Em7]cy, [G]Lord.
 
 Verse 2
-I am thy God and Lord alone, No other God be
-sides Me own; On My great mercy venture thee,
-With all thy heart love thou Me.
+[G]I [Em]am [C]thy [G]God [C]and [G]Lord a[C]lone, No [G]o[Dm]ther [Am]God [Em]be[Dm]sides
+sides [G]Me [C]own; [F]On [Dm]My great [Am]mer[Em]cy [F]ven[C]ture [Dm]thee,
+With all [G]thy [C]heart [Gm]love thou Me.
 
 Verse 3
-By idle word and speech profane Take not My holy
-Name in vain; And praise not aught as good and true
-But what God doth say and do.
+[G]By [Em]id[C]le [G]word [C]and [G]speech pro[C]fane Take [G]not [Dm]My [Am]ho[Em]ly
+[Dm]Name [G]in [C]vain; [F]And [Dm]praise not [Am]aught [Em]as [F]good [C]and [Dm]true
+But what [G]God [C]doth [Gm]say and do.
 
 Verse 4
-Hallow the day which God hath blest, That thou and all thy
-house may rest; Keep hand and heart from labor free,
-That God may so work in thee.
+[G]Hal[Em]low [C]the [G]day [C]which [G]God hath [C]blest, That [G]thou [Dm]and [Am]all [Em]thy
+[Dm]house [G]may [C]rest; [F]Keep [Dm]hand and [Am]heart [Em]from [F]la[C]bor [Dm]free,
+That God [G]may [C]so [Gm]work in thee.
 
 Verse 5
-Give to thy parents honor due, Be dutiful and
-loving too; And help them when their strength decays
-So shalt thou have length of days.`
+[G]Give [Em]to [C]thy [G]par[C]ents [G]honor [C]due, Be [G]dut[Dm]i[Am]ful [Em]and
+[Dm]lov[G]ing [C]too; [F]And [Dm]help them [Am]when [Em]their [F]strength [C]de[Dm]cays
+So shalt [G]thou [C]have [Gm]length of days.`
   },
   {
     t: "The Advent of Our God",
@@ -5450,24 +5450,24 @@ So shalt thou have length of days.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-The advent of our God Shall be our theme for prayer
-Come, let us meet him on the road And place for Him prepare.
+[G]The advent of [D]our God [G]Shall be [D7]our [Am]theme [G]for [D]prayer
+Come, [G]let us [D]meet him [G]on [Em]the [D]road And [C]place [G]for Him [D7]pre[G]pare.
 
 Verse 2
-The everlasting Son Incarnate stoops to be,
-Himself the servant's form puts on To set His people free.
+[G]The everlast[D]ing Son [G]Incar[D7]nate [Am]stoops [G]to [D]be,
+Him[G]self the [D]servant's [G]form [Em]puts [D]on To [C]set [G]His peo[D7]ple [G]free.
 
 Verse 3
-Come, Zion's daughter, rise To meet your lowly King,
-Nor let your faithless heart despise The peace He comes to bring.
+[G]Come, Zion's daugh[D]ter, rise [G]To meet [D7]your [Am]low[G]ly [D]King,
+Nor [G]let your [D]faithless [G]heart [Em]des[D]pise The [C]peace [G]He comes [D7]to [G]bring.
 
 Verse 4
-As judge, on clouds of light, He soon will come again
-And all His scattered saints unite With Him on high to reign.
+[G]As judge, on clouds [D]of light, [G]He soon [D7]will [Am]come [G]a[D]gain
+And [G]all His [D]scattered [G]saints [Em]u[D]nite With [C]Him [G]on high [D7]to [G]reign.
 
 Verse 5
-Before the dawning day Let sin be put to flight;
-No longer let the law hold sway, But walk in freedom's light.`
+[G]Before the dawn[D]ing day [G]Let sin [D7]be [Am]put [G]to [D]flight;
+No [G]longer [D]let the [G]law [Em]hold [D]sway, But [C]walk [G]in free[D7]dom's [G]light.`
   },
   {
     t: "The Bridegroom Soon Will Call Us",
@@ -5482,34 +5482,34 @@ No longer let the law hold sway, But walk in freedom's light.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-The Bridegroom soon will call us, Come, all ye wedding guests!
-May not His voice appall us, While slumber binds our breasts;
-May all our lamps be burning, And oil be found in store,
-That we, with Him returning, May open find the door.
+[G]The Bride[Em]groom [D]soon [Am]will [E]call [A]us, [D]Come, [G]all [C]ye [Am]wed[G]ding [D]guests!
+[Bm]May [Em]not [D]His [C]voice [Am]ap[D]pall us, [G]While slum[Bm]ber [Am]binds our [G]breasts;
+May all [D]our lamps [G]be [C]burn[G]ing, And oil [D]be [C]found [G]in [D]store,
+[G]That [D]we, [Em]with [Am]Him [D]re[G]turn[D]ing, [G]May [D]o[G]pen [C]find [D]the [G]door.
 
 Verse 2
-There shall we see delighted Our dear Redeemer's face,
-Who leads our souls benighted To glory by His grace;
-The patriarchs shall meet us, The prophets' holy band,
-Apostles, martyrs, greet us In that celestial land.
+[G]There shall [Em]we [D]see [Am]de[E]light[A]ed [D]Our [G]dear [C]Re[Am]deem[G]er's [D]face,
+[Bm]Who [Em]leads [D]our [C]souls [Am]be[D]nighted [G]To glo[Bm]ry [Am]by His [G]grace;
+The pa[D]triarchs [G]shall [C]meet [G]us, The pro[D]phets' [C]ho[G]ly [D]band,
+[G]A[D]pos[Em]tles, [Am]mar[D]tyrs, [G]greet [D]us [G]In [D]that [G]ce[C]les[D]tial [G]land.
 
 Verse 3
-They will not blush to own us As brothers, sisters dear,
-Love ever will be shown us When we with them appear;
-We all shall come before Him, Who for us Man became,
-As Lord and God adore Him, And ever bless His Name.
+[G]They will [Em]not [D]blush [Am]to [E]own [A]us [D]As [G]bro[C]thers, [Am]sis[G]ters [D]dear,
+[Bm]Love [Em]ev[D]er [C]will [Am]be [D]shown us [G]When we [Bm]with [Am]them ap[G]pear;
+We all [D]shall come [G]be[C]fore [G]Him, Who for [D]us [C]Man [G]be[D]came,
+[G]As [D]Lord [Em]and [Am]God [D]a[G]dore [D]Him, [G]And [D]ev[G]er [C]bless [D]His [G]Name.
 
 Verse 4
-Our Father, rich in blessing, Will give us crowns of gold
-And, to His bosom pressing, Impart a bliss untold,
-Will welcome with embraces Of never ending love,
-And deck us with His graces In blissful realms above.
+[G]Our Fa[Em]ther, [D]rich [Am]in [E]bless[A]ing, [D]Will [G]give [C]us [Am]crowns [G]of [D]gold
+[Bm]And, [Em]to [D]His [C]bo[Am]som [D]pressing, [G]Impart [Bm]a [Am]bliss un[G]told,
+Will wel[D]come with [G]em[C]bra[G]ces Of nev[D]er [C]end[G]ing [D]love,
+[G]And [D]deck [Em]us [Am]with [D]His [G]gra[D]ces [G]In [D]bliss[G]ful [C]realms [D]a[G]bove.
 
 Verse 5
-In yonder home shall never Be silent music's voice;
-With hearts and lips forever We shall in God rejoice;
-The angels shall adore Him, All saints shall sing His praise,
-And bring with joy before Him Their sweetest heav'nly lays.`
+[G]In yon[Em]der [D]home [Am]shall [E]ne[A]ver [D]Be [G]si[C]lent [Am]mu[G]sic's [D]voice;
+[Bm]With [Em]hearts [D]and [C]lips [Am]for[D]ever [G]We shall [Bm]in [Am]God re[G]joice;
+The an[D]gels shall [G]a[C]dore [G]Him, All saints [D]shall [C]sing [G]His [D]praise,
+[G]And [D]bring [Em]with [Am]joy [D]be[G]fore [D]Him [G]Their [D]sweet[G]est [C]heav'n[D]ly [G]lays.`
   },
   {
     t: "The Comforter Has Come",
@@ -5524,34 +5524,34 @@ And bring with joy before Him Their sweetest heav'nly lays.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-O spread the tidings 'round, wherever man is found, Wher
-ever human hearts and human woes abound; Let ev'ry Christian
-tongue proclaim the joyful sound: The Comforter has come!
+[C]O spread the tidings 'round, wher[F]ever man is found, Wher[C]ever
+ever human hearts and [Am]human [D7]woes a[G]bound; [G7]Let [C]ev'ry Christian
+tongue [C7]pro[F]claim the joyful sound: The [C]Comforter [G7]has [C]come!
 
 Verse 2
-The long, long night is past, the morning breaks at last, And
-hush'd the dreadful wail and fury of the blast, As o'er the golden
-hills the day advances fast! The Comforter has come!
+[C]The long, long night is past, the [F]morning breaks at last, And
+[C]hush'd the dreadful wail and [Am]fury [D7]of the [G]blast, [G7]As [C]o'er the golden
+hills [C7]the [F]day advances fast! The [C]Comforter [G7]has [C]come!
 
 Verse 3
-Lo, the great King of kings, with healing in His wings, To
-ev'ry captive soul a full deliv'rance brings; And thro' the vacant
-cells the song of triumph rings; The Comforter has come!
+[C]Lo, the great King of kings, with [F]healing in His wings, To
+[C]ev'ry captive soul a [Am]full de[D7]liv'rance [G]brings; [G7]And [C]thro' the vacant
+cells [C7]the [F]song of triumph rings; The [C]Comforter [G7]has [C]come!
 
 Verse 4
-O boundless love divine! how shall this tongue of mine To
-wond'ring mortals tell the matchless grace divine; That I, a child of
-hell, should in His image shine! The Comforter has come!
+[C]O boundless love divine! how [F]shall this tongue of mine To
+[C]wond'ring mortals tell the [Am]matchless [D7]grace di[G]vine; [G7]That [C]I, a child of
+hell, [C7]should [F]in His image shine! The [C]Comforter [G7]has [C]come!
 
 Verse 5
-Sing, till the echoes fly above the vaulted sky, And
-all the saints above to all below reply, In strains of endless
-love the song that ne'er will die: The Comforter has come!
+[C]Sing, till the echoes fly a[F]bove the vaulted sky, And
+[C]all the saints above to [Am]all be[D7]low re[G]ply, [G7]In [C]strains of endless
+love [C7]the [F]song that ne'er will die: The [C]Comforter [G7]has [C]come!
 
 Chorus
-The Comforter has come, The Comforter has come! The Holy Ghost from
-heav'n, The Father's promise giv'n; O spread the tidings
-'round, Wherever man is found: The Comforter has come!`
+The Comforter has come, The [F]Comforter has come! The [C]Holy Ghost from
+heav'n, The [Am]Father's [D7]promise [G]giv'n; [G7]O [C]spread the tidings
+'round, [C7]Wher[F]ever man is found: The [C]Comforter [G7]has [C]come!`
   },
   {
     t: "The Day is Surely Drawing Near",
@@ -5566,34 +5566,34 @@ heav'n, The Father's promise giv'n; O spread the tidings
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-The day is surely drawing near, When God's Son, the Anointed,
-Shall with great majesty appear, As Judge of all appointed.
-All mirth and laughter then shall cease When flames on flames will
-still increase, As Scripture truly teacheth.
+[G]The day is [D]sure[Em]ly [Am]draw[D]ing [G]near, [C]When [G]God's [C]Son, [D]the [G]Anointed,
+Shall with great [D]maj[Em]es[Am]ty [D]ap[G]pear, [C]As [G]Judge [C]of [D]all [G]appointed.
+All mirth [D]and [Em]laugh[B]ter [Em]then [A]shall [D]cease When [G]flames [C]on [G]flames [D]will
+[Em]still [D]in[G]crease, [C]As [G]Scrip[C]ture [D]tru[G]ly teacheth.
 
 Verse 2
-A trumpet loud shall then resound, And all the earth be shaken;
-Then all who in their graves are found Shall from their sleep awaken.
-But all that live shall in that hour, By the Almighty's
-boundless pow'r Be changed at His commanding.
+[G]A trumpet [D]loud [Em]shall [Am]then [D]re[G]sound, [C]And [G]all [C]the [D]earth [G]be shaken;
+Then all who [D]in [Em]their [Am]graves [D]are [G]found [C]Shall [G]from [C]their [D]sleep [G]awaken.
+But all [D]that [Em]live [B]shall [Em]in [A]that [D]hour, By [G]the [C]Al[G]might[D]y's
+[Em]bound[D]less [G]pow'r [C]Be [G]changed [C]at [D]His [G]commanding.
 
 Verse 3
-A book is opened then to all, A record truly telling
-What each hath done, both great and small, When he on earth was dwelling;
-And every heart be clearly seen, And all be known as
-they have been, In thoughts and words and actions.
+[G]A book is [D]o[Em]pened [Am]then [D]to [G]all, [C]A [G]re[C]cord [D]tru[G]ly telling
+What each hath [D]done, [Em]both [Am]great [D]and [G]small, [C]When [G]he [C]on [D]earth [G]was dwelling;
+And ev[D]ery [Em]heart [B]be [Em]clear[A]ly [D]seen, And [G]all [C]be [G]known [D]as
+[Em]they [D]have [G]been, [C]In [G]thoughts [C]and [D]words [G]and actions.
 
 Verse 4
-Then woe to those who scorned the Lord, And sought but carnal pleasures,
-Who here despised His precious Word, And loved their earthly treasures!
-With shame and trembling they will stand, And at the Judge's
-stern command To Satan be delivered.
+[G]Then woe to [D]those [Em]who [Am]scorned [D]the [G]Lord, [C]And [G]sought [C]but [D]car[G]nal pleasures,
+Who here des[D]pised [Em]His [Am]prec[D]ious [G]Word, [C]And [G]loved [C]their [D]earth[G]ly treasures!
+With shame [D]and [Em]trem[B]bling [Em]they [A]will [D]stand, And [G]at [C]the [G]Judg[D]e's
+[Em]stern [D]com[G]mand [C]To [G]Sa[C]tan [D]be [G]delivered.
 
 Verse 5
-O Jesus, who my debt didst pay And for my sin wast smitten
-Within the Book of Life, oh, may My name be also written!
-I will not doubt; I trust in Thee, From Satan Thou hast
-made me free And from all condemnation.`
+[G]O Jesus, [D]who [Em]my [Am]debt [D]didst [G]pay [C]And [G]for [C]my [D]sin [G]wast smitten
+Within the [D]Book [Em]of [Am]Life, [D]oh, [G]may [C]My [G]name [C]be [D]al[G]so written!
+I will [D]not [Em]doubt; [B]I [Em]trust [A]in [D]Thee, From [G]Sa[C]tan [G]Thou [D]hast
+[Em]made [D]me [G]free [C]And [G]from [C]all [D]con[G]demnation.`
   },
   {
     t: "The Galilean Fishers Toil",
@@ -5608,34 +5608,34 @@ made me free And from all condemnation.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-The Galilean fishers toil all night, and nothing take;
-But Jesus comes, a wondrous spoil is lifted from the lake.
-Lord, when our labors are in vain and vain the help of men,
-When fruitless is our care and pain, Come blessed Jesus then!
+[G]The [F#dim]Ga[C]li[G]le[Em]an [G]fish[D]ers [G]toil all [Am]night, [G]and [Am]no[D]thing [G]take;
+But [D]Je[Em]sus [D]comes,- [G]a won[A]drous [D]spoil [Bm]is [Em]lift[D]ed [G]from [D]the [G]lake.
+[D]Lord, [G]when [D]our [G]la[Em]bors [C]are in [G]vain and [Cmaj7]vain [B7]the [G]help [D]of [G]men,
+When fruit[C]less is [G]our care and [Em7]pain, [G]Come [B7]bless[G]ed [Cmaj7]Je[D]sus [G]then!
 
 Verse 2
-The night is dark, the surges fill the bark, the wild winds roar;
-But Jesus comes and all is still, the ship is at the shore.
-O Lord, when storms around us howl, and all is dark and drear,
-In all the tempests of the soul, O blessed Jesus hear.
+[G]The [F#dim]night [C]is [G]dark, [Em]the [G]sur[D]ges [G]fill the [Am]bark, [G]the [Am]wild [D]winds [G]roar;
+But [D]Je[Em]sus [D]comes [G]and all [A]is [D]still,- [Bm]the [Em]ship [D]is [G]at [D]the [G]shore.
+[D]O [G]Lord, [D]when [G]storms [Em]a[C]round us [G]howl, and [Cmaj7]all [B7]is [G]dark [D]and [G]drear,
+In all [C]the tem[G]pests of the [Em7]soul, [G]O [B7]bless[G]ed [Cmaj7]Je[D]sus [G]hear.
 
 Verse 3
-A frail one, thrice denying Thee saw mercy in Thine eyes,
-The penitent upon the tree was borne to Paradise.
-In hours of sin and deep distress o show us, Lord, Thy Face,
-In penitential loneliness, O give us Jesus grace!
+[G]A [F#dim]frail [C]one, [G]thrice [Em]de[G]ny[D]ing [G]Thee saw [Am]mer[G]cy [Am]in [D]Thine [G]eyes,
+The [D]pen[Em]i[D]tent [G]upon [A]the [D]tree [Bm]was [Em]borne [D]to [G]Par[D]a[G]dise.
+[D]In [G]hours [D]of [G]sin [Em]and [C]deep dis[G]tress o [Cmaj7]show [B7]us, [G]Lord, [D]Thy [G]Face,
+In pen[C]iten[G]tial loneli[Em7]ness, [G]O [B7]give [G]us [Cmaj7]Je[D]sus [G]grace!
 
 Verse 4
-The faithful few retire in fear to their closed upper room;
-But suddenly with joyful cheer they see their Master come.
-Lord come to us, unloose our bands and bid our terrors cease,
-Lift over us Thy blessed hands, Speak, holy Jesus Peace!
+[G]The [F#dim]faith[C]ful [G]few [Em]re[G]tire [D]in [G]fear to [Am]their [G]closed [Am]up[D]per [G]room;
+But [D]sud[Em]den[D]ly [G]with joy[A]ful [D]cheer [Bm]they [Em]see [D]their [G]Mast[D]er [G]come.
+[D]Lord [G]come [D]to [G]us, [Em]un[C]loose our [G]bands and [Cmaj7]bid [B7]our [G]ter[D]rors [G]cease,
+Lift o[C]ver us [G]Thy blessed [Em7]hands, [G]Speak, [B7]ho[G]ly [Cmaj7]Je[D]sus [G]Peace!
 
 Verse 5
-In days, when faith will scarce be found, and wolves be in the fold,
-When sin and sorrow will abound and charity wax cold,
-Then hear Thy saints, who to Thee pray to bring them to their home,
-Hear when the Bride and Spirit say, "Come, Blessed Jesus, Come!"`
+[G]In [F#dim]days, [C]when [G]faith [Em]will [G]scarce [D]be [G]found, and [Am]wolves [G]be [Am]in [D]the [G]fold,
+When [D]sin [Em]and [D]sor[G]row will [A]a[D]bound [Bm]and [Em]char[D]i[G]ty [D]wax [G]cold,
+[D]Then [G]hear [D]Thy [G]saints, [Em]who [C]to Thee [G]pray to [Cmaj7]bring [B7]them [G]to [D]their [G]home,
+Hear when [C]the Bride [G]and Spirit [Em7]say, [G]"Come, [B7]Bless[G]ed [Cmaj7]Je[D]sus, [G]Come!"`
   },
   {
     t: "The Gospel Shows The Father's Grace",
@@ -5650,24 +5650,24 @@ Hear when the Bride and Spirit say, "Come, Blessed Jesus, Come!"`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-The Gospel shows the Father's grace, Who sent his Son to save our race,
-Proclaims how Jesus lived and died That man might thus be justified.
+[F]The Gospel shows the Father's grace, [C]Who [F]sent his [C]Son to [Bb]save our race,
+[F]Proclaims how [C]Jesus lived and died That [Bb]man might [C]thus be [Bb]justified.
 
 Verse 2
-It sets the Lamb before our eyes, Who made th'atoning sacrifice,
-And calls the souls with guilt oppressed To come and find eternal rest.
+[F]It sets the Lamb before our eyes, [C]Who [F]made th'a[C]toning [Bb]sacrifice,
+[F]And calls the [C]souls with guilt oppressed To [Bb]come and [C]find e[Bb]ternal rest.
 
 Verse 3
-It brings the Savior's righteousness Our souls to robe in royal dress;
-From all our guilt it brings release And gives the troubled conscience peace.
+[F]It brings the Savior's righteousness [C]Our [F]souls to [C]robe in [Bb]royal dress;
+[F]From all our [C]guilt it brings release And [Bb]gives the [C]troubled [Bb]conscience peace.
 
 Verse 4
-It is the pow'r of God to save From sin and Satan and the grave;
-It works the faith, which firmly clings To all the treasures which it brings.
+[F]It is the pow'r of God to save [C]From [F]sin and [C]Satan [Bb]and the grave;
+[F]It works the [C]faith, which firmly clings To [Bb]all the [C]treasures [Bb]which it brings.
 
 Verse 5
-It bears to all the tidings glad And bids their hearts no more be sad;
-The heavy laden souls it cheers And banishes their guilty fears.`
+[F]It bears to all the tidings glad [C]And [F]bids their [C]hearts no [Bb]more be sad;
+[F]The heavy [C]laden souls it cheers And [Bb]banish[C]es their [Bb]guilty fears.`
   },
   {
     t: "The King Shall Come",
@@ -5682,24 +5682,24 @@ The heavy laden souls it cheers And banishes their guilty fears.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-The King shall come when morning dawns, And light triumphant breaks;
-When beauty gilds the eastern hills, And life to joy awakes.
+[C]The [Fm]King [C7]shall [Fm]come [Bbm]when [Cm]morning [Fm]dawns, [Cm]And [Bbm]light [Cm]tri[Fm]um[Eb]phant [Ab]breaks;
+When beau[Bbm]ty gilds [Bbm7]the [Eb]eastern [Fm]hills, And life [Eb]to [Ab]joy [Cm]a[Fm]wakes.
 
 Verse 2
-Not as of old a little child To bear, and fight, and die,
-But crowned with glory like the sun That lights the morning sky.
+[C]Not [Fm]as [C7]of [Fm]old [Bbm]a [Cm]little [Fm]child [Cm]To [Bbm]bear, [Cm]and [Fm]fight, [Eb]and [Ab]die,
+But crowned [Bbm]with glo[Bbm7]ry [Eb]like the [Fm]sun That lights [Eb]the [Ab]morn[Cm]ing [Fm]sky.
 
 Verse 3
-O brighter than the rising morn When He, victorious, rose,
-And left the lonesome place of death, Despite the rage of foes.
+[C]O [Fm]bright[C7]er [Fm]than [Bbm]the [Cm]rising [Fm]morn [Cm]When [Bbm]He, [Cm]vic[Fm]tor[Eb]ious, [Ab]rose,
+And left [Bbm]the lone[Bbm7]some [Eb]place of [Fm]death, Despite [Eb]the [Ab]rage [Cm]of [Fm]foes.
 
 Verse 4
-O brighter than that glorious morn Shall this fair morning be,
-When Christ, our King, in beauty comes, And we His face shall see.
+[C]O [Fm]bright[C7]er [Fm]than [Bbm]that [Cm]glorious [Fm]morn [Cm]Shall [Bbm]this [Cm]fair [Fm]morn[Eb]ing [Ab]be,
+When Christ, [Bbm]our King, [Bbm7]in [Eb]beauty [Fm]comes, And we [Eb]His [Ab]face [Cm]shall [Fm]see.
 
 Verse 5
-The King shall come when morning dawns, And earth's dark night is past;
-O haste the rising of that morn, The day that aye shall last.`
+[C]The [Fm]King [C7]shall [Fm]come [Bbm]when [Cm]morning [Fm]dawns, [Cm]And [Bbm]earth's [Cm]dark [Fm]night [Eb]is [Ab]past;
+O haste [Bbm]the ris[Bbm7]ing [Eb]of that [Fm]morn, The day [Eb]that [Ab]aye [Cm]shall [Fm]last.`
   },
   {
     t: "The Law Of God Is Good And Wise",
@@ -5751,25 +5751,25 @@ to die And has no pow'r to justify.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-I've found a friend in Jesus, He's everything to me, He's the fairest of ten
-thousand to my soul; The Lily of the Valley, in Him alone I see
-All I need to cleanse and make me fully whole. In sorrow He's my comfort,
-in trouble He's my stay; He tells me every care on Him to roll. He's the Lily
+[F]I've found a [Bb]friend [F]in Jesus, He's [Gm]every[Bb]thing to [F]me, He's the fairest of ten
+[Bb]thousand [F]to my [C]soul; [F]The Lily [Bb]of the [F]Valley, in [Gm]Him a[Bb]lone I [F]see
+All I need to [C7]cleanse and [Gm]make me [F]fully whole. In [Bb]sorrow He's my comfort,
+in trouble [F]He's my stay; He tells me every [Bb]care on [F]Him to [C]roll. [F]He's the Lily
 
 Verse 2
-He all my grief has taken, and all my sorrows borne; In temptation He's my
-strong and mighty tow'r; I'll all for Him forsake now, I'll all my idols tear
-From my heart for now He keeps me by His pow'r. Though all the world forsake me,
-and Satan tempt me sore, Through Jesus I shall safely reach the goal. He's the Lily
+[F]He all my [Bb]grief [F]has taken, and [Gm]all my [Bb]sorrows [F]borne; In temptation He's my
+[Bb]strong and [F]mighty [C]tow'r; [F]I'll all for [Bb]Him for[F]sake now, I'll [Gm]all my [Bb]idols [F]tear
+From my heart for [C7]now He [Gm]keeps me [F]by His pow'r. Though [Bb]all the world forsake me,
+and Satan [F]tempt me sore, Through Jesus I shall [Bb]safely [F]reach the [C]goal. [F]He's the Lily
 
 Verse 3
-He'll never, never leave me, nor yet forsake me here, So I live by faith and
-do His blessed will; A wall of fire about me, I've nothing now to fear,
-With His manna He my hungry soul shall fill. When crown'd at last in glory,
-I'll see His blessed face, Where rivers of delight shall ever roll. He's the Lily
+[F]He'll never, [Bb]ne[F]ver leave me, nor [Gm]yet for[Bb]sake me [F]here, So I live by faith and
+[Bb]do His [F]blessed [C]will; [F]A wall of [Bb]fire a[F]bout me, I've [Gm]nothing [Bb]now to [F]fear,
+With His manna [C7]He my [Gm]hungry [F]soul shall fill. When [Bb]crown'd at last in glory,
+I'll see His [F]blessed face, Where rivers of de[Bb]light shall [F]ever [C]roll. [F]He's the Lily
 
 Chorus
-of the Valley, the Bright and Morning Star, He's the fairest of ten thousand to my soul.`
+[Bb]of the [F]Valley, the [Gm]Bright and [Bb]Morning [F]Star, He's the fairest [C7]of ten [Gm]thousand [F]to my soul.`
   },
   {
     t: "The Love of God",
@@ -5784,26 +5784,26 @@ of the Valley, the Bright and Morning Star, He's the fairest of ten thousand to 
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-The love of God is greater far Than tongue or pen can ever tell,
-It goes beyond the highest star, And reaches to the lowest hell;
-The guilty pair, bowed down with care, God gave His Son to win;
-His erring child, He reconciled, And pardoned from his sin.
+[Db]The love of God is [Gb]greater [Db]far Than tongue or [Ab]pen can [Db]ever tell,
+It goes beyond the [Gb]highest [Db]star, And reaches [Ab7]to the [Db]lowest hell;
+The [Ebm7]guilty [Gb]pair, bowed down with [Db]care, God gave His [Ab]Son [Ab7]to [Db]win;
+His [Ebm7]erring [Gb]child, He recon[Db]ciled, And pardoned [Ab]from [Fm]his [Db]sin.
 
 Verse 2
-When hoary time shall pass away, And earthly thrones and kingdoms fall;
-When men who here refuse to pray, On rocks and hills and mountains call;
-God's love, so sure, shall still endure, All measureless and strong;
-Redeeming grace to Adam's raceThe saints' and angels' song.
+[Db]When hoary time shall [Gb]pass a[Db]way, And earthly [Ab]thrones and [Db]kingdoms fall;
+When men who here re[Gb]fuse to [Db]pray, On rocks and [Ab7]hills and [Db]mountains call;
+God's [Ebm7]love, so [Gb]sure, shall still en[Db]dure, All measure[Ab]less [Ab7]and [Db]strong;
+Re[Ebm7]deeming [Gb]grace to Adam's [Db]race-The saints' and [Ab]an[Fm]gels' [Db]song.
 
 Verse 3
-Could we with ink the ocean fill, And were the skies of parchment made,
-Were every stalk on earth a quill And every man a scribe by trade;
-To write the love of God above Would drain the ocean dry;
-Nor could the scroll contain the whole, Tho' stretched from sky to sky.
+[Db]Could we with ink the [Gb]ocean [Db]fill, And were the [Ab]skies of [Db]parchment made,
+Were every stalk on [Gb]earth a [Db]quill And every [Ab7]man a [Db]scribe by trade;
+To [Ebm7]write the [Gb]love of God a[Db]bove Would drain the [Ab]o[Ab7]cean [Db]dry;
+Nor [Ebm7]could the [Gb]scroll contain the [Db]whole, Tho' stretched from [Ab]sky [Fm]to [Db]sky.
 
 Chorus
-Oh love of God, how rich and pure! How measureless and strong!
-It shall forevermore endure, The saints' and angels' song.`
+Oh [Ebm7]love of [Gb]God, how rich and [Db]pure! How measure[Ab]less and [Db]strong!
+It [Ebm7]shall for[Gb]evermore en[Db]dure, The saints' and [Ab]an[Fm]gels' [Db]song.`
   },
   {
     t: "The Mouth of Fools Doth God Confess",
@@ -5818,34 +5818,34 @@ It shall forevermore endure, The saints' and angels' song.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-The mouth of fools doth God confess, But while their lips draw nigh Him,
-Their heart is full of wickedness, And all their deeds deny Him.
-Corrupt are they, and every one Abominable
-works hath done; There is not one welldoer.
+[G]The mouth [Am]of [Bm]fools [Em]doth [D]God [G]con[C]fess, [G]But [Em]while [Am]their [Bm]lips [Am]draw [D]nigh [G]Him,
+Their heart [Am]is [Bm]full [Em]of [D]wick[G]ed[C]ness, [G]And [Em]all [Am]their [Bm]deeds [Am]de[D]ny [G]Him.
+Co[C]rrupt [D]are [Em]they, [Am]and [Bm]ev[A]ery [D]one [G]A[Em]bom[Am]in[Bm]ab[Am]le
+[Em]works [Am]hath [G]done; [D]There [Em]is [Am]not [D]one [G]well[Am]do[G]er.
 
 Verse 2
-The Lord looked down from his high tow'r On all mankind below Him,
-To see if any owned His pow'r, And truly sought to know Him;
-Who all their understanding bent To search His holy
-Word, intent To do his will in earnest.
+[G]The Lord [Am]looked [Bm]down [Em]from [D]his [G]high [C]tow'r [G]On [Em]all [Am]man[Bm]kind [Am]be[D]low [G]Him,
+To see [Am]if [Bm]an[Em]y [D]owned [G]His [C]pow'r, [G]And [Em]tru[Am]ly [Bm]sought [Am]to [D]know [G]Him;
+Who [C]all [D]their [Em]un[Am]der[Bm]stand[A]ing [D]bent [G]To [Em]search [Am]His [Bm]ho[Am]ly
+[Em]Word, [Am]in[G]tent [D]To [Em]do [Am]his [D]will [G]in [Am]earn[G]est.
 
 Verse 3
-But none there was who walked with God, For all aside had slidden,
-Delusive paths of folly trod, And followed lusts forbidden;
-Not one there was who practiced good, And yet they deemed, in
-haughty mood, Their deeds must surely please Him.
+[G]But none [Am]there [Bm]was [Em]who [D]walked [G]with [C]God, [G]For [Em]all [Am]a[Bm]side [Am]had [D]slid[G]den,
+Delu[Am]sive [Bm]paths [Em]of [D]fol[G]ly [C]trod, [G]And [Em]fo[Am]llowed [Bm]lusts [Am]for[D]bid[G]den;
+Not [C]one [D]there [Em]was [Am]who [Bm]prac[A]ticed [D]good, [G]And [Em]yet [Am]they [Bm]deemed, [Am]in
+[Em]haugh[Am]ty [G]mood, [D]Their [Em]deeds [Am]must [D]sure[G]ly [Am]please [G]Him.
 
 Verse 4
-How long, by folly blindly led, Will ye oppress the needy,
-And eat my people up like bread? So fierce are ye, and greedy!
-In God they put no trust at all, Nor will on Him in
-trouble call, But be their own providers.
+[G]How long, [Am]by [Bm]fol[Em]ly [D]blind[G]ly [C]led, [G]Will [Em]ye [Am]op[Bm]press [Am]the [D]need[G]y,
+And eat [Am]my [Bm]peo[Em]ple [D]up [G]like [C]bread? [G]So [Em]fierce [Am]are [Bm]ye, [Am]and [D]greed[G]y!
+In [C]God [D]they [Em]put [Am]no [Bm]trust [A]at [D]all, [G]Nor [Em]will [Am]on [Bm]Him [Am]in
+[Em]trou[Am]ble [G]call, [D]But [Em]be [Am]their [D]own [G]pro[Am]vi[G]ders.
 
 Verse 5
-Therefore their heart is never still, A falling leaf dismays them;
-God is with him who doth His will, Who trusts him and obeys Him;
-But ye the poor man's hope despise, And laugh at him, e'en
-when he cries, That God is his sure comfort.`
+[G]Therefore [Am]their [Bm]heart [Em]is [D]ne[G]ver [C]still, [G]A [Em]fall[Am]ing [Bm]leaf [Am]dis[D]mays [G]them;
+God is [Am]with [Bm]him [Em]who [D]doth [G]His [C]will, [G]Who [Em]trusts [Am]him [Bm]and [Am]o[D]beys [G]Him;
+But [C]ye [D]the [Em]poor [Am]man's [Bm]hope [A]des[D]pise, [G]And [Em]laugh [Am]at [Bm]him, [Am]e'en
+[Em]when [Am]he [G]cries, [D]That [Em]God [Am]is [D]his [G]sure [Am]com[G]fort.`
   },
   {
     t: "The People That in Darkness Sat",
@@ -5860,29 +5860,29 @@ when he cries, That God is his sure comfort.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-The people that in darkness sat A glorious
-light have seen; The light has shined on them who long In
-shades of death have been. In shades of death have been.
+[F]The peo[C]ple [F]that in [Bb]dark[C7]ness [F]sat A [Bb]glo[C]rious
+[Dm7]light [G]have [C]seen; The [F]light [C]has [F]shined on them [Bb]who [C]long In
+[F]shades of [Gm7]death [C]have [F]been. In [C]shades [Dm]of [Gm]death [C]have [F]been.
 
 Verse 2
-To hail Thee, Sun of Righteousness, The gath'ring
-nations come; They joy as when the reapers bear Their
-harvest treasures home. Their harvest treasures home.
+[F]To hail [C]Thee, [F]Sun of [Bb]Right[C7]eous[F]ness, The [Bb]gath'r[C]ing
+[Dm7]na[G]tions [C]come; They [F]joy [C]as [F]when the reap[Bb]ers [C]bear Their
+[F]harvest [Gm7]trea[C]sures [F]home. Their [C]har[Dm]vest [Gm]trea[C]sures [F]home.
 
 Verse 3
-For Thou their burden dost remove And break the
-tyrant's rod As in the day when Midian fell Be
-fore the sword of God. Before the sword of God.
+[F]For Thou [C]their [F]burden [Bb]dost [C7]re[F]move And [Bb]break [C]the
+[Dm7]tyr[G]ant's [C]rod As [F]in [C]the [F]day when Mid[Bb]ian [C]fell Be[F]fore
+fore the [Gm7]sword [C]of [F]God. Be[C]fore [Dm]the [Gm]sword [C]of [F]God.
 
 Verse 4
-To us a Child of hope is born, To us a
-Son is giv'n, And on His shoulder ever rests All
-pow'r in earth and heav'n. All pow'r in earth and heav'n.
+[F]To us [C]a [F]Child of [Bb]hope [C7]is [F]born, To [Bb]us [C]a
+[Dm7]Son [G]is [C]giv'n, And [F]on [C]His [F]shoulder ev[Bb]er [C]rests All
+[F]pow'r in [Gm7]earth [C]and [F]heav'n. All [C]pow'r [Dm]in [Gm]earth [C]and [F]heav'n.
 
 Verse 5
-His name shall be the Prince of Peace, The Ever
-lasting Lord, The Wonderful, the Counselor. The
-God by all adored. The God by all adored.`
+[F]His name [C]shall [F]be the [Bb]Prince [C7]of [F]Peace, The [Bb]Ev[C]er[Dm7]last[G]ing
+lasting [C]Lord, The [F]Won[C]der[F]ful, the Coun[Bb]se[C]lor. The
+[F]God by [Gm7]all [C]a[F]dored. The [C]God [Dm]by [Gm]all [C]a[F]dored.`
   },
   {
     t: "The Star Proclaims the King is Here",
@@ -5897,24 +5897,24 @@ God by all adored. The God by all adored.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-The star proclaims the King is here; But, Herod, why this senseless fear?
-He takes no realms of earth away Who gives the realms of heav'nly day.
+[Eb]The star [Bb]pro[Eb]claims [Bb]the [Eb]King is [Bb]here; But, [Eb]Her[Bb]od, [Fm]why [Bb]this [Eb]sense[Bb]less [Eb]fear?
+He [Ab]takes no [Eb]realms [Bb]of [Fm]earth a[C]way Who [Gm]gives [Ab]the [Eb]realms [Cm]of [Fm]heav'n[Bb]ly [Eb]day.
 
 Verse 2
-The wiser Magi see from far And follow on His guiding star;
-And led by light, to light they press And by their gifts their God confess.
+[Eb]The wi[Bb]ser [Eb]Ma[Bb]gi [Eb]see from [Bb]far And [Eb]fol[Bb]low [Fm]on [Bb]His [Eb]guid[Bb]ing [Eb]star;
+And [Ab]led by [Eb]light, [Bb]to [Fm]light they [C]press And [Gm]by [Ab]their [Eb]gifts [Cm]their [Fm]God [Bb]con[Eb]fess.
 
 Verse 3
-Within the Jordan's crystal flood In meekness stands the Lamb of God
-And, sinless, sanctifies the wave, Mankind from sin to cleanse and save.
+[Eb]Within [Bb]the [Eb]Jor[Bb]dan's [Eb]crystal [Bb]flood In [Eb]meek[Bb]ness [Fm]stands [Bb]the [Eb]Lamb [Bb]of [Eb]God
+And, [Ab]sinless, [Eb]sanc[Bb]ti[Fm]fies the [C]wave, Man[Gm]kind [Ab]from [Eb]sin [Cm]to [Fm]cleanse [Bb]and [Eb]save.
 
 Verse 4
-At Cana first His pow'r is shown; His might the blushing waters own
-And, changing as He speaks the word, Flow wine, obedient to their Lord.
+[Eb]At Ca[Bb]na [Eb]first [Bb]His [Eb]pow'r is [Bb]shown; His [Eb]might [Bb]the [Fm]blush[Bb]ing [Eb]wa[Bb]ters [Eb]own
+And, [Ab]changing [Eb]as [Bb]He [Fm]speaks the [C]word, Flow [Gm]wine, [Ab]o[Eb]be[Cm]dient [Fm]to [Bb]their [Eb]Lord.
 
 Verse 5
-All glory, Jesus, be to Thee For this Thy glad epiphany;
-Whom with the Father we adore And Holy Ghost forevermore.`
+[Eb]All glo[Bb]ry, [Eb]Je[Bb]sus, [Eb]be to [Bb]Thee For [Eb]this [Bb]Thy [Fm]glad [Bb]e[Eb]pi[Bb]pha[Eb]ny;
+Whom [Ab]with the [Eb]Fa[Bb]ther [Fm]we a[C]dore And [Gm]Ho[Ab]ly [Eb]Ghost [Cm]for[Fm]ev[Bb]er[Eb]more.`
   },
   {
     t: "The Strife Is O'er, The Battle Done",
@@ -5929,28 +5929,28 @@ Whom with the Father we adore And Holy Ghost forevermore.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-The strife is o'er, the battle done; The triumph of the
-Lord is won; O Let the song of praise be sung: Alleluia!
+The strife is [Amaj7]o'er, [C#m7]the [G#m7]battle [Emaj7]done; [E]The tri[Emaj7]umph [C#m]of [C#7]the
+[Emaj7]Lord is [G#m7]won; O Let [E]the [Amaj7]song [C#m7]of [G#m7]praise be [B]sung: Alle[G#m]lu[E]ia!
 
 Verse 2
-The pow'rs of death have done their worst; and Jesus hath His
-foes dispersed; Let shouts of praise and joy outburst: Alleluia!
+The pow'rs [E]of [Amaj7]death [C#m7]have [G#m7]done their [Emaj7]worst; [E]and Je[Emaj7]sus [C#m]hath [C#7]His
+[Emaj7]foes dis[G#m7]persed; Let shouts [E]of [Amaj7]praise [C#m7]and [G#m7]joy out[B]burst: Alle[G#m]lu[E]ia!
 
 Verse 3
-On that third morn He rose again In glorious majes
-ty to reign; O let us swell the joyful strain. Alleluia!
+On that [E]third [Amaj7]morn [C#m7]He [G#m7]rose a[Emaj7]gain [E]In glor[Emaj7]ious [C#m]ma[C#7]jes[Emaj7]ty
+ty to [G#m7]reign; O let [E]us [Amaj7]swell [C#m7]the [G#m7]joyful [B]strain. Alle[G#m]lu[E]ia!
 
 Verse 4
-He closed the yawning gates of hell; The bars from heav'ns high
-portals fell; Let songs of joy His triumphs tell. Alleluia!
+He closed [E]the [Amaj7]yawn[C#m7]ing [G#m7]gates of [Emaj7]hell; [E]The bars [Emaj7]from [C#m]heav'ns [C#7]high
+[Emaj7]portals [G#m7]fell; Let songs [E]of [Amaj7]joy [C#m7]His [G#m7]triumphs [B]tell. Alle[G#m]lu[E]ia!
 
 Verse 5
-Lord, by the stripes which wounded Thee, From death's dread sting Thy
-servants free, That we may live, and sing to Thee. Alleluia!
+Lord, by [E]the [Amaj7]stripes [C#m7]which [G#m7]wounded [Emaj7]Thee, [E]From death's [Emaj7]dread [C#m]sting [C#7]Thy
+[Emaj7]servants [G#m7]free, That we [E]may [Amaj7]live, [C#m7]and [G#m7]sing to [B]Thee. Alle[G#m]lu[E]ia!
 
 Chorus
-Alleluia, Alleluia, Alleluia.
-Alleluia, Alleluia, Alleluia.`
+Alle[A]lu[E]ia, Alle[A]luia, [G#m7]Alle[B]lu[E]ia.
+[E]Alle[A]lu[E]ia, Alle[A]lu[E]ia, Alle[B]lu[E]ia.`
   },
   {
     t: "The Winds and Billows Loudly Roar",
@@ -5965,24 +5965,24 @@ Alleluia, Alleluia, Alleluia.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-The winds and billows loudly roar We flounder in the deep
-Our bark is frail, far off the shore, And Jesus is asleep.
+[C]The [Fm]winds [C7]and [Fm]bil[Bbm]lows [Cm]loudly [Fm]roar [Cm]We [Bbm]flound[Cm]er [Fm]in [Eb]the [Ab]deep
+Our bark [Bbm]is frail, [Bbm7]far [Eb]off the [Fm]shore, And Je[Eb]sus [Ab]is [Cm]a[Fm]sleep.
 
 Verse 2
-"Save us, we perish, Lord," they cry; To Thee we fly for aid;
-"Awake! awake!" they say; but why So faithless and afraid?
+[C]"Save [Fm]us, [C7]we [Fm]per[Bbm]ish, [Cm]Lord," they [Fm]cry; [Cm]To [Bbm]Thee [Cm]we [Fm]fly [Eb]for [Ab]aid;
+"Awake! [Bbm]awake!" [Bbm7]they [Eb]say; but [Fm]why So faith[Eb]less [Ab]and [Cm]a[Fm]fraid?
 
 Verse 3
-His head is pillow'd on the stern, As Man He is asleep;
-As God He all things does discern, And endless vigils keep.
+[C]His [Fm]head [C7]is [Fm]pil[Bbm]low'd [Cm]on the [Fm]stern, [Cm]As [Bbm]Man [Cm]He [Fm]is [Eb]a[Ab]sleep;
+As God [Bbm]He all [Bbm7]things [Eb]does dis[Fm]cern, And end[Eb]less [Ab]vig[Cm]ils [Fm]keep.
 
 Verse 4
-He does the elements control; By His Almighty Will.
-The angry waves their surges roll; And at His Word are still.
+[C]He [Fm]does [C7]the [Fm]el[Bbm]e[Cm]ments con[Fm]trol; [Cm]By [Bbm]His [Cm]Al[Fm]might[Eb]y [Ab]Will.
+The an[Bbm]gry waves [Bbm7]their [Eb]surges [Fm]roll; And at [Eb]His [Ab]Word [Cm]are [Fm]still.
 
 Verse 5
-O ye, who in the Church's Bark O'er life's rough ocean sail,
-When all around is drear and dark, and human efforts fail,`
+[C]O [Fm]ye, [C7]who [Fm]in [Bbm]the [Cm]Church's [Fm]Bark [Cm]O'er [Bbm]life's [Cm]rough [Fm]o[Eb]cean [Ab]sail,
+When all [Bbm]around [Bbm7]is [Eb]drear and [Fm]dark, and hu[Eb]man [Ab]ef[Cm]forts [Fm]fail,`
   },
   {
     t: "There's a Great Day Coming",
@@ -5997,21 +5997,21 @@ When all around is drear and dark, and human efforts fail,`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-There's a great day coming, A great day coming, There's a great day
-coming by and by; When the saints and the sinners shall be parted right and left,
+[G]There's a great day coming, A great day [Am7]coming, [C]There's a [G]great day
+coming [D]by and by; [G]When the saints and the sinners shall be [Am]parted [C]right and [G]left,
 
 Verse 2
-There's a bright day coming, A bright day coming, There's a bright day
-coming by and by; But its brightness shall only come to them that love the Lord,
+[G]There's a bright day coming, A bright day [Am7]coming, [C]There's a [G]bright day
+coming [D]by and by; [G]But its brightness shall only come to [Am]them that [C]love the [G]Lord,
 
 Verse 3
-There's a sad day coming, A sad day coming, There's a sad day
-coming by and by; When the sinner shall hear his doom, "Depart, I know ye not,"
+[G]There's a sad day coming, A sad day [Am7]coming, [C]There's a [G]sad day
+coming [D]by and by; [G]When the sinner shall hear his doom, "De[Am]part, I [C]know ye [G]not,"
 
 Chorus
-Are you ready for that day to come? Are you ready?
-Are you ready? Are you ready for the judgment day?
-Are you ready? Are you ready? For the judgment day?`
+Are you ready for that [D7]day to [G]come? Are you [C]ready?
+[G]Are you [C]ready? [G]Are you ready for the judg[A]ment [D]day?
+[G]Are you [C]ready? [G]Are you [C]ready? [G]For the [D7]judgment [G]day?`
   },
   {
     t: "Thine Arm, O Lord, in Days of Old",
@@ -6026,22 +6026,22 @@ Are you ready? Are you ready? For the judgment day?`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Thine arm, O Lord, in days of old, was strong to heal and save;
-It triumphed o'er disease and death, o'er darkness and the grave.
-To Thee they went, the blind, the dumb, the palsied and the lame,
-The leper with his tainted life, the sick with fevered frame.
+[Em]Thine arm, O [C]Lord, [D7]in [G]days [Em]of [D]old, [G]was strong to [Am]heal and save;
+[G]It tri[C]umphed [Am7]o'er [D]di[G]sease and [D]death, [G]o'er darkness [Am]and the [Em]grave.
+To [Bm]Thee they [Em7]went, [G]the [Am]blind, [D]the [Cmaj7]dumb, [G]the palsied and [C]the lame,
+[G]The leper [Am]with his [G]taint[Em7]ed [D]life, [G]the sick [Bm]with [Am]fevered [Em]frame.
 
 Verse 2
-And lo! Thy touch brought life and health, gave speech, and strength and sight;
-And youth renewed and fear relieved owned Thee, the Lord of light;
-And now, O Lord, be near to bless, Almighty as of yore,
-In crowded street, by restless couch, as by Gennesaret's shore.
+[Em]And lo! Thy [C]touch [D7]brought [G]life [Em]and [D]health, [G]gave speech, and [Am]strength and sight;
+[G]And youth [C]re[Am7]newed [D]and [G]fear re[D]lieved [G]owned Thee, the [Am]Lord of [Em]light;
+And [Bm]now, O [Em7]Lord, [G]be [Am]near [D]to [Cmaj7]bless, [G]Almighty as [C]of yore,
+[G]In crowded [Am]street, by [G]rest[Em7]less [D]couch, [G]as by [Bm]Gen[Am]nesaret's [Em]shore.
 
 Verse 3
-Be Thou our great Deliverer still, Thou Lord of life and death;
-Restore and quicken, soothe and bless, with Thine almighty breath.
-To hands that work and eyes that see, give wisdom's heavenly lore,
-That whole and sick, and weak and strong, may praise Thee evermore.`
+[Em]Be Thou our [C]great [D7]De[G]li[Em]verer [D]still, [G]Thou Lord of [Am]life and death;
+[G]Restore [C]and [Am7]quick[D]en, [G]soothe and [D]bless, [G]with Thine al[Am]mighty [Em]breath.
+To [Bm]hands that [Em7]work [G]and [Am]eyes [D]that [Cmaj7]see, [G]give wisdom's heaven[C]ly lore,
+[G]That whole and [Am]sick, and [G]weak [Em7]and [D]strong, [G]may praise [Bm]Thee [Am]ever[Em]more.`
   },
   {
     t: "Thou, Who at Thy First Eucharist",
@@ -6056,28 +6056,28 @@ That whole and sick, and weak and strong, may praise Thee evermore.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Thou, who at Thy first Eucharist didst pray That all Thy Church might
-be forever one, Grant us at ev'ry Eucharist to say
-With longing heart and soul, "Thy will be done." O may we all one
-bread, one body be, Through this blest sacrament of unity.
+[D]Thou, who at Thy [Em7]first [D]Eucharist [A7]didst [D]pray That [A7]all [D]Thy [Em]Church might
+[A7]be [D]forever [A]one, [D]Grant us at ev[Em7]'ry [D]Eucha[Bm]rist [Em7]to [D]say
+With [G]long[D]ing [E7]heart and [F#m]soul, [Bm7]"Thy [A]will [E7]be [A]done." [A7]O [D]may we [A7]all [D]one
+[G]bread, one body [D]be, Through [A7]this [D]blest [A7]sac[Bm]ra[G]ment of [D]un[A7]i[D]ty.
 
 Verse 2
-For all Thy Church, O Lord, we intercede; Make Thou our sad di
-visions soon to cease; Draw us the nearer each to each, we plead,
-By drawing all to Thee, O Prince of Peace; Thus may we all one
-bread, one body be, Through this blest sacrament of unity.
+[D]For all Thy Church, [Em7]O [D]Lord, we in[A7]ter[D]cede; Make [A7]Thou [D]our [Em]sad di[A7]vi[D]sions
+visions soon to [A]cease; [D]Draw us the near[Em7]er [D]each to [Bm]each, [Em7]we [D]plead,
+By [G]draw[D]ing [E7]all to [F#m]Thee, [Bm7]O [A]Prince [E7]of [A]Peace; [A7]Thus [D]may we [A7]all [D]one
+[G]bread, one body [D]be, Through [A7]this [D]blest [A7]sac[Bm]ra[G]ment of [D]un[A7]i[D]ty.
 
 Verse 3
-We pray Thee too for wand'rers from Thy fold; O bring them back, good
-Shepherd of the sheep, Back to the faith which saints believed of old,
-Back to the Church which still that faith doth keep; Soon may we all one
-bread, one body be, Through this blest sacrament of unity.
+[D]We pray Thee too [Em7]for [D]wand'rers from [A7]Thy [D]fold; O [A7]bring [D]them [Em]back, good
+[A7]Shep[D]herd of the [A]sheep, [D]Back to the faith [Em7]which [D]saints be[Bm]lieved [Em7]of [D]old,
+Back [G]to [D]the [E7]Church which [F#m]still [Bm7]that [A]faith [E7]doth [A]keep; [A7]Soon [D]may we [A7]all [D]one
+[G]bread, one body [D]be, Through [A7]this [D]blest [A7]sac[Bm]ra[G]ment of [D]un[A7]i[D]ty.
 
 Verse 4
-So, Lord, at length when sacraments shall cease, May we be one with
-all Thy Church above, One with Thy saints in one unbroken peace,
-One with Thy saints in one unbounded love; More bless�d still, in
-peace and love to be One with the Trinity in unity.`
+[D]So, Lord, at length [Em7]when [D]sacraments [A7]shall [D]cease, May [A7]we [D]be [Em]one with
+[A7]all [D]Thy Church a[A]bove, [D]One with Thy saints [Em7]in [D]one un[Bm]bro[Em7]ken [D]peace,
+One [G]with [D]Thy [E7]saints in [F#m]one [Bm7]un[A]bound[E7]ed [A]love; [A7]More [D]blessèd [A7]still, [D]in
+[G]peace and love to [D]be One [A7]with [D]the [A7]Trin[Bm]i[G]ty in [D]un[A7]i[D]ty.`
   },
   {
     t: "Though in the Midst of Life We Be",
@@ -6092,28 +6092,28 @@ peace and love to be One with the Trinity in unity.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Though in midst of life we be, Snares of death surround us; Where shall we for
-succor flee, Lest our foes confound us? To Thee alone, our Savior.
-We mourn our grievous sin which hath Stirr'd the fire of Thy fierce wrath.
-Savior! Thou eternal God! Save us, Lord, from sinking
-In the deep and bitter flood. Kyrie eleison.
+[Em]Though [C]in [F]midst [Em]of [C]life we [G]be, Snares [C]of [Dm]death [F]sur[C]round [A]us; [Em]Where [C]shall [F]we [Em]for
+[C]succor [G]flee, Lest [C]our [Dm]foes [F]con[C]found [A]us? To [C]Thee [Am]a[G]lone, [F]our [C]Savior.
+We mourn our [F]grie[G]vous [Am]sin which [Em7]hath [G]Stirr'd [C]the [Dm]fire [F]of [C]Thy [Dm]fierce [E]wrath.
+[C]Savior! [Dm]Thou [Am]e[C]ter[Dm]nal [A]God! [Am]Save [Em]us, [F]Lord, [Am]from [C]sink[G]ing
+[Am]In [Em]the [Dm]deep [F]and [C]bit[Dm]ter [A]flood. [Dm]Ky[Am]ri[C]e [Dm]e[Am]lei[E]son.
 
 Verse 2
-Whilst in midst of death we be, Hell's grim jaws o'ertake us; Who from such dis
-tress will free. Who secure will make us? Thou only, Lord, canst do it!
-It moves Thy tender heart to see Our great sin and misery.
-Savior! Thou eternal God! Let not hell dismay us
-With its deep and burning flood. Kyrie eleison.
+[Em]Whilst [C]in [F]midst [Em]of [C]death we [G]be, Hell's [C]grim [Dm]jaws [F]o'er[C]take [A]us; [Em]Who [C]from [F]such [Em]dis[C]tress
+tress will [G]free. Who [C]se[Dm]cure [F]will [C]make [A]us? Thou [C]on[Am]ly, [G]Lord, [F]canst [C]do it!
+It moves Thy [F]ten[G]der [Am]heart to [Em7]see [G]Our [C]great [Dm]sin [F]and [C]mis[Dm]er[E]y.
+[C]Savior! [Dm]Thou [Am]e[C]ter[Dm]nal [A]God! [Am]Let [Em]not [F]hell [Am]dis[C]may [G]us
+[Am]With [Em]its [Dm]deep [F]and [C]burn[Dm]ing [A]flood. [Dm]Ky[Am]ri[C]e [Dm]e[Am]lei[E]son.
 
 Verse 3
-Into hell's fierce agony Sin doth headlong drive us: Where shall we for
-succor flee, Who, O, who will hide us? Thou only, blessed Saviour.
-Thy precious blood was shed to win Peace and pardon for our sin.
-Savior! Let us not, we pray, From the true faith's comfort
-Fall in our last need away. Kyrie eleison.
+[Em]In[C]to [F]hell's [Em]fierce [C]ago[G]ny Sin [C]doth [Dm]head[F]long [C]drive [A]us: [Em]Where [C]shall [F]we [Em]for
+[C]succor [G]flee, Who, [C]O, [Dm]who [F]will [C]hide [A]us? Thou [C]on[Am]ly, [G]bless[F]ed [C]Saviour.
+Thy precious [F]blood [G]was [Am]shed to [Em7]win [G]Peace [C]and [Dm]par[F]don [C]for [Dm]our [E]sin.
+[C]Savior! [Dm]Let [Am]us [C]not, [Dm]we [A]pray, [Am]From [Em]the [F]true [Am]faith's [C]com[G]fort
+[Am]Fall [Em]in [Dm]our [F]last [C]need [Dm]a[A]way. [Dm]Ky[Am]ri[C]e [Dm]e[Am]lei[E]son.
 
 Chorus
-Holy and gracious God! Holy and mighty God! Holy and allmerciful`
+[Am]Ho[G]ly [C]and [Dm]gra[Gm]cious [A]God! [Am7]Ho[G]ly [C]and [Dm]might[Gm]y [A]God! [Am]Ho[Em]ly [F]and [Em]all-[Em7]mer[G]ci[Am]ful`
   },
   {
     t: "Through the Night of Doubt and Sorrow",
@@ -6128,28 +6128,28 @@ Holy and gracious God! Holy and mighty God! Holy and allmerciful`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Through the night of doubt and sorrow Onward goes the pilgrim band,
-Singing songs of expectation, Marching to the Promised Land.
-Clear before us through the darkness Gleams and burns the guiding light:
-Brother clasps the hand of brother, Stepping fearless through the night.
+[A]Through [E]the [F#m]night [E]of [A]doubt and sor[E]row [A]On[F#m]ward [Bm7]goes [F#m]the [A]pil[E]grim [A]band,
+Sing[E]ing [A]songs [E]of [F#m]ex[E]pecta[B]tion, [B7]March[G#m]ing [C#m]to [E]the Pro[B]mised [E]Land.
+Clear before [Bm]us [A]through [E]the [D]dark[A]ness [F#m]Gleams [E]and [A]burns [C#m]the [E7]gui[A]ding [E]light:
+[A]Bro[E]ther [A]clasps [E]the [A]hand [F#m]of [A]bro[E]ther, [A]Step[F#m]ping [D]fear[A]less through [E]the [A]night.
 
 Verse 2
-One the light of God's own presence, O'er His ransomed people shed,
-Chasing far the gloom and terror, Bright'ning all the path we tread:
-One the object of our journey, One the faith which never tires,
-One the earnest looking forward, One the hope our God inspires.
+[A]One [E]the [F#m]light [E]of [A]God's own pres[E]ence, [A]O'er [F#m]His [Bm7]ran[F#m]somed [A]peo[E]ple [A]shed,
+Cha[E]sing [A]far [E]the [F#m]gloom [E]and ter[B]ror, [B7]Bright[G#m]'ning [C#m]all [E]the path [B]we [E]tread:
+One the ob[Bm]ject [A]of [E]our [D]jour[A]ney, [F#m]One [E]the [A]faith [C#m]which [E7]nev[A]er [E]tires,
+[A]One [E]the [A]earn[E]est [A]look[F#m]ing [A]for[E]ward, [A]One [F#m]the [D]hope [A]our God [E]in[A]spires.
 
 Verse 3
-One the strain that lips of thousands Lift as from the heart of one;
-One the conflict, one the peril One the march in God begun:
-One the gladness of rejoicing On the far eternal shore,
-Where the One Almighty Father Reigns in love for evermore.
+[A]One [E]the [F#m]strain [E]that [A]lips of thou[E]sands [A]Lift [F#m]as [Bm7]from [F#m]the [A]heart [E]of [A]one;
+One [E]the [A]con[E]flict, [F#m]one [E]the per[B]il [B7]One [G#m]the [C#m]march [E]in God [B]be[E]gun:
+One the glad[Bm]ness [A]of [E]re[D]joi[A]cing [F#m]On [E]the [A]far [C#m]e[E7]ter[A]nal [E]shore,
+[A]Where [E]the [A]One [E]Al[A]might[F#m]y [A]Fa[E]ther [A]Reigns [F#m]in [D]love [A]for ev[E]er[A]more.
 
 Verse 4
-Onward, therefore, pilgrim brothers, Onward, with the cross our aid!
-Bear its shame, and fight its battle, Till we rest beneath its shade.
-Soon shall come the great awaking, Soon the rending of the tomb;
-Then the scatt'ring of all shadows, And the end of toil and gloom.`
+[A]On[E]ward, [F#m]there[E]fore, [A]pilgrim bro[E]thers, [A]On[F#m]ward, [Bm7]with [F#m]the [A]cross [E]our [A]aid!
+Bear [E]its [A]shame, [E]and [F#m]fight [E]its bat[B]tle, [B7]Till [G#m]we [C#m]rest [E]beneath [B]its [E]shade.
+Soon shall come [Bm]the [A]great [E]a[D]wak[A]ing, [F#m]Soon [E]the [A]rend[C#m]ing [E7]of [A]the [E]tomb;
+[A]Then [E]the [A]scatt[E]'ring [A]of [F#m]all [A]sha[E]dows, [A]And [F#m]the [D]end [A]of toil [E]and [A]gloom.`
   },
   {
     t: "Tis Good, Lord, To Be Here",
@@ -6164,24 +6164,24 @@ Then the scatt'ring of all shadows, And the end of toil and gloom.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-'Tis good, Lord, to be here, Thy glory fills the night;
-Thy face and garments, like the sun, Shine with unborrowed light.
+[E]'Tis [B]good, [A]Lord, [E]to [B]be [E]here, [B]Thy [C#m]glory [B]fills [F#]the [B]night;
+[E]Thy [A]face and [B]gar[B7]ments, [E]like [F#7]the [B]sun, [E]Shine [F#m]with un[E]bor[B]rowed [E]light.
 
 Verse 2
-'Tis good, Lord, to be here, Thy beauty to behold
-Where Moses and Elijah stand, Thy messengers of old.
+[E]'Tis [B]good, [A]Lord, [E]to [B]be [E]here, [B]Thy [C#m]beauty [B]to [F#]be[B]hold
+[E]Where [A]Moses [B]and [B7]El[E]i[F#7]jah [B]stand, [E]Thy [F#m]messen[E]gers [B]of [E]old.
 
 Verse 3
-Fulfiller of the past, Promise of things to be,
-We hail Thy body glorified And our redemption see.
+[E]Ful[B]fill[A]er [E]of [B]the [E]past, [B]Pro[C#m]mise of [B]things [F#]to [B]be,
+[E]We [A]hail Thy [B]bo[B7]dy [E]glor[F#7]i[B]fied [E]And [F#m]our re[E]demp[B]tion [E]see.
 
 Verse 4
-Before we taste of death, We see Thy Kingdom come;
-We fain would hold the vision bright And make this hill our home.
+[E]Be[B]fore [A]we [E]taste [B]of [E]death, [B]We [C#m]see Thy [B]King[F#]dom [B]come;
+[E]We [A]fain would [B]hold [B7]the [E]vi[F#7]sion [B]bright [E]And [F#m]make this [E]hill [B]our [E]home.
 
 Verse 5
-'Tis good, Lord, to be here. Yet we may not remain;
-But since Thou bidst us leave the mount, Come with us to the plain.`
+[E]'Tis [B]good, [A]Lord, [E]to [B]be [E]here. [B]Yet [C#m]we may [B]not [F#]re[B]main;
+[E]But [A]since Thou [B]bidst [B7]us [E]leave [F#7]the [B]mount, [E]Come [F#m]with us [E]to [B]the [E]plain.`
   },
   {
     t: "'Tis Midnight and On Olive's Brow",
@@ -6196,19 +6196,19 @@ But since Thou bidst us leave the mount, Come with us to the plain.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-'Tis midnight, and on Olive's brow The star is
-dimmed that lately shone; 'Tis midnight, in the
-garden now The suff'ring Savior prays alone.
+[Dm]'Tis mid[C]night, [F]and [Bb]on [F]Olive's brow [Dm]The [Fmaj7]star [Bb]is
+[F]dimmed [Dm]that [F]late[C]ly [F]shone; 'Tis mid[Dm]night, in [A]the
+[Dm]garden [A]now [D]The suff'ring [A]Sa[Gm]vior [Dm]prays alone.
 
 Verse 2
-'Tis midnight, and from all removed Immanuel
-wrestles, lone, with fears; E'en the disciple
-whom He loved Heeds not his Master's grief and tears.
+[Dm]'Tis mid[C]night, [F]and [Bb]from [F]all removed [Dm]Im[Fmaj7]man[Bb]uel
+[F]wres[Dm]tles, [F]lone, [C]with [F]fears; E'en the [Dm]disci[A]ple
+[Dm]whom He [A]loved [D]Heeds not his [A]Mas[Gm]ter's [Dm]grief and tears.
 
 Verse 3
-'Tis midnight, from the heav'nly plains Are borne the
-songs that angels know; Unheard by mortals
-are the strains That sweetly soothe the Savior's woe.`
+[Dm]'Tis mid[C]night, [F]from [Bb]the [F]heav'nly plains [Dm]Are [Fmaj7]borne [Bb]the
+[F]songs [Dm]that [F]an[C]gels [F]know; Unheard [Dm]by mor[A]tals
+[Dm]are the [A]strains [D]That sweetly [A]soothe [Gm]the [Dm]Savior's woe.`
   },
   {
     t: "To Avert From Men God's Wrath",
@@ -6223,29 +6223,29 @@ are the strains That sweetly soothe the Savior's woe.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-To avert from men God's wrath Jesus suffered in our stead;
-By an ignominious death He a full atonement made;
-And by His most precious blood, Brought us, sinners, nigh to God.
+[Eb]To a[Bb]vert [Eb]from [Ab]men God's [Eb]wrath Je[Cm]sus [Bb]suf[Eb]fered [Fm7]in [Bb]our [Eb]stead;
+By [Cm]an [Bb]ig[Eb]no[Ab]minious [Eb]death He a [Bb]full [Gm]a[Cm7]tone[F]ment [Bb]made;
+[Eb]And by His most [Ab]precious [Eb]blood, Brought us, sin[Fm]ners, [Eb]nigh [Bb]to [Eb]God.
 
 Verse 2
-That we never should forget This great Love on us bestowed,
-He gave us His flesh to eat, and to drink His precious blood;
-All who sick and needy are May receive in Him a share.
+[Eb]That we [Bb]nev[Eb]er [Ab]should for[Eb]get This [Cm]great [Bb]Love [Eb]on [Fm7]us [Bb]be[Eb]stowed,
+He [Cm]gave [Bb]us [Eb]His [Ab]flesh to [Eb]eat, and to [Bb]drink [Gm]His [Cm7]pre[F]cious [Bb]blood;
+[Eb]All who sick and [Ab]needy [Eb]are May receive [Fm]in [Eb]Him [Bb]a [Eb]share.
 
 Verse 3
-Hither each afflicted soul May repair, though filled with grief;
-To the sick, not to the whole, the Physician brings relief;
-Fear not, therefore, but draw nigh, Christ will all your wants supply.
+[Eb]Hither [Bb]each [Eb]af[Ab]flicted [Eb]soul May [Cm]re[Bb]pair, [Eb]though [Fm7]filled [Bb]with [Eb]grief;
+To [Cm]the [Bb]sick, [Eb]not [Ab]to the [Eb]whole, the Phy[Bb]si[Gm]cian [Cm7]brings [F]re[Bb]lief;
+[Eb]Fear not, therefore, [Ab]but draw [Eb]nigh, Christ will all [Fm]your [Eb]wants [Bb]sup[Eb]ply.
 
 Verse 4
-He who in selfrighteousness Fixes any hope or stay,
-Has not on a wedding dress, And with shame is sent away;
-To the hungry, weary heart, He will food and rest impart.
+[Eb]He who [Bb]in [Eb]self-[Ab]righteous[Eb]ness Fix[Cm]es [Bb]a[Eb]ny [Fm7]hope [Bb]or [Eb]stay,
+Has [Cm]not [Bb]on [Eb]a [Ab]wedding [Eb]dress, And with [Bb]shame [Gm]is [Cm7]sent [F]a[Bb]way;
+[Eb]To the hungry, [Ab]weary [Eb]heart, He will food [Fm]and [Eb]rest [Bb]im[Eb]part.
 
 Verse 5
-But examine first your case, Whether you be in the faith;
-Do you long for pard'ning grace? Is your only hope His death?
-Then, howe'er your soul's oppressed, Come, you are a worthy guest.`
+[Eb]But ex[Bb]am[Eb]ine [Ab]first your [Eb]case, Whe[Cm]ther [Bb]you [Eb]be [Fm7]in [Bb]the [Eb]faith;
+Do [Cm]you [Bb]long [Eb]for [Ab]pard'ning [Eb]grace? Is your [Bb]on[Gm]ly [Cm7]hope [F]His [Bb]death?
+[Eb]Then, howe'er your [Ab]soul's op[Eb]pressed, Come, you are [Fm]a [Eb]wor[Bb]thy [Eb]guest.`
   },
   {
     t: "To Jordan Came Our Lord, The Christ",
@@ -6260,34 +6260,34 @@ Then, howe'er your soul's oppressed, Come, you are a worthy guest.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-To Jordan came our Lord the Christ, To do God's pleasure willing, And
-there was by Saint John baptized, All righteousness fulfilling; There did He
-consecrate a bath To wash away transgression, And quench the bitterness
-of death By His own blood and passion; He would a new life give us.
+[Dm]To Jor[G]dan [Am]came [Em]our [Am]Lord [E]the [Am]Christ, [Dm]To [C]do [Em]God's [F]plea[C]sure [Dm]willing, And
+there [G]was [Am]by [Em]Saint [Am]John [E]bap[Am]tized, [Dm]All [C]right[Em]eous[F]ness [C]ful[Dm]filling; There [C]did [G]He
+[C]con[Am]se[Dm]crate [Em]a [Am]bath To [G]wash [Dm]a[E]way trans[Dm]gres[Am]sion, [F]And [C]quench [Em]the [F]bit[C]ter[Am]ness
+[Dm]of [A]death [Dm]By [A#]His [Gm]own [F]blood and [Gm]pas[Dm]sion; He would [G]a [C]new [Dm]life [Am]give [A]us.
 
 Verse 2
-So hear ye all, and well perceive What God doth call baptism, And
-what a Christian should believe Who error shuns and schism: That we should
-water use, the Lord Declareth it His pleasure; Not simple water, but
-the Word And Spirit without measure; He is the true Baptizer.
+[Dm]So hear [G]ye [Am]all, [Em]and [Am]well [E]per[Am]ceive [Dm]What [C]God [Em]doth [F]call [C]bap[Dm]tism, And
+what [G]a [Am]Christ[Em]ian [Am]should [E]be[Am]lieve [Dm]Who [C]er[Em]ror [F]shuns [C]and [Dm]schism: That [C]we [G]should
+[C]wa[Am]ter [Dm]use, [Em]the [Am]Lord De[G]clar[Dm]eth [E]it His [Dm]plea[Am]sure; [F]Not [C]sim[Em]ple [F]wa[C]ter, [Am]but
+[Dm]the [A]Word [Dm]And [A#]Spi[Gm]rit [F]without [Gm]mea[Dm]sure; He is [G]the [C]true [Dm]Bap[Am]ti[A]zer.
 
 Verse 3
-To show us this, He hath His Word With signs and symbols given; On
-Jordan's banks was plainly heard The Father's voice from Heaven: "This is My
-wellbeloved Son, In whom My soul delighteth; Hear Him." Yea, hear Him e
-very one Whom He Himself inviteth, Hear and obey His teaching.
+[Dm]To show [G]us [Am]this, [Em]He [Am]hath [E]His [Am]Word [Dm]With [C]signs [Em]and [F]sym[C]bols [Dm]given; On
+Jor[G]dan's [Am]banks [Em]was [Am]plain[E]ly [Am]heard [Dm]The [C]Fa[Em]ther's [F]voice [C]from [Dm]Heaven: "This [C]is [G]My
+[C]well-[Am]be[Dm]lo[Em]ved [Am]Son, In [G]whom [Dm]My [E]soul de[Dm]light[Am]eth; [F]Hear [C]Him." [Em]Yea, [F]hear [C]Him [Am]e[Dm]very
+very [A]one [Dm]Whom [A#]He [Gm]Him[F]self in[Gm]vi[Dm]teth, Hear and [G]o[C]bey [Dm]His [Am]teach[A]ing.
 
 Verse 4
-In tender manhood Jesus straight To holy Jordan wendeth; The
-Holy Ghost from Heaven's gate In dovelike shape descendeth; That thus the
-truth be not denied, Nor should our faith e'er waver, That the Three Persons all
-preside, At baptism's holy laver, And dwell with the believer.
+[Dm]In ten[G]der [Am]man[Em]hood [Am]Je[E]sus [Am]straight [Dm]To [C]ho[Em]ly [F]Jor[C]dan [Dm]wendeth; The
+Ho[G]ly [Am]Ghost [Em]from [Am]Hea[E]ven's [Am]gate [Dm]In [C]dove[Em]like [F]shape [C]de[Dm]scendeth; That [C]thus [G]the
+[C]truth [Am]be [Dm]not [Em]de[Am]nied, Nor [G]should [Dm]our [E]faith e'er [Dm]wa[Am]ver, [F]That [C]the [Em]Three [F]Per[C]sons [Am]all
+[Dm]pre[A]side, [Dm]At [A#]bap[Gm]tism's [F]holy [Gm]la[Dm]ver, And dwell [G]with [C]the [Dm]be[Am]lie[A]ver.
 
 Verse 5
-Thus Jesus His disciples sent: Go teach ye every nation, That
-lost in sin they must repent; And flee from condemnation: He that be
-lieves and is baptized, Obtains a mighty blessing; A newborn man, no more
-he dies, Eternal life possessing, A joyful heir of Heaven.`
+[Dm]Thus Je[G]sus [Am]His [Em]dis[Am]ci[E]ples [Am]sent: [Dm]Go [C]teach [Em]ye [F]e[C]very [Dm]nation, That
+lost [G]in [Am]sin [Em]they [Am]must [E]re[Am]pent; [Dm]And [C]flee [Em]from [F]con[C]dem[Dm]nation: He [C]that [G]be[C]lieves
+lieves [Am]and [Dm]is [Em]bap[Am]tized, Ob[G]tains [Dm]a [E]mighty [Dm]bless[Am]ing; [F]A [C]new[Em]born [F]man, [C]no [Am]more
+[Dm]he [A]dies, [Dm]E[A#]ter[Gm]nal [F]life pos[Gm]ses[Dm]sing, A joy[G]ful [C]heir [Dm]of [Am]Hea[A]ven.`
   },
   {
     t: "To Shepherds As They Watched By Night",
@@ -6302,24 +6302,24 @@ he dies, Eternal life possessing, A joyful heir of Heaven.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-To shepherds as they watched by night Appeared a host of angels bright;
-Behold the tender Babe, they said, In yonder lowly manger laid.
+[D]To [A]shep[E]herds [A]as [D]they [G]watched by [D]night Ap[Bm]peared [F#m]a [A]host [D]of an[Em]gels [Bm7]bright;
+Be[Bm]hold [G]the [A]tender [Bm]Babe, [E]they [A]said, In [F#m]yon[G]der [D]low[A]ly [G]manger [D]laid.
 
 Verse 2
-At Bethlehem, in David's town, As Micah did of old make known;
-'Tis Jesus Christ, your Lord and King, Who doth to all salvation bring.
+[D]At [A]Beth[E]le[A]hem, [D]in [G]David's [D]town, As [Bm]Mi[F#m]cah [A]did [D]of old [Em]make [Bm7]known;
+'Tis [Bm]Je[G]sus [A]Christ, your [Bm]Lord [E]and [A]King, Who [F#m]doth [G]to [D]all [A]sal[G]vation [D]bring.
 
 Verse 3
-Oh, then rejoice that through His Son God is with sinners now at one;
-Made like yourselves of flesh and blood, Your Brother is th'eternal God.
+[D]Oh, [A]then [E]re[A]joice [D]that [G]through His [D]Son God [Bm]is [F#m]with [A]sin[D]ners now [Em]at [Bm7]one;
+Made [Bm]like [G]your[A]selves of [Bm]flesh [E]and [A]blood, Your [F#m]Bro[G]ther [D]is [A]th'e[G]ternal [D]God.
 
 Verse 4
-What harm can sin and death then do? The true God now abides with you.
-Let hell and Satan rage and chafe, Christ is your Brother ye are safe.
+[D]What [A]harm [E]can [A]sin [D]and [G]death then [D]do? The [Bm]true [F#m]God [A]now [D]abides [Em]with [Bm7]you.
+Let [Bm]hell [G]and [A]Satan [Bm]rage [E]and [A]chafe, Christ [F#m]is [G]your [D]Bro[A]ther [G]ye are [D]safe.
 
 Verse 5
-Not one He will or can forsake Who Him his confidence doth make.
-Let all his wiles the Tempter try, You may his utmost pow'rs defy.`
+[D]Not [A]one [E]He [A]will [D]or [G]can for[D]sake Who [Bm]Him [F#m]his [A]con[D]fidence [Em]doth [Bm7]make.
+Let [Bm]all [G]his [A]wiles the [Bm]Temp[E]ter [A]try, You [F#m]may [G]his [D]ut[A]most [G]pow'rs de[D]fy.`
   },
   {
     t: "Today Thy Mercy Calls Me",
@@ -6334,28 +6334,28 @@ Let all his wiles the Tempter try, You may his utmost pow'rs defy.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Today Thy mercy calls me to wash away my sin;
-However great my trespass, whate'er I may have been;
-However long from mercy I may have turned away,
-Thy blood, O Christ, can wash me, and make me clean today.
+[A]Today [E]Thy [F#m]mer[E]cy [A]calls me to [D]wash [Bm7]a[A]way [E]my [A]sin;
+Howev[E]er [F#m]great [E]my [A]trespass, wha[D]te'er [Bm7]I [A]may [E]have [A]been;
+How[B]ev[C#m]er [F#m]long [B]from [E]mercy I [B]may [E7]have [A]turned [E]a[A]way,
+Thy [F#m]blood, [C#m]O [D]Christ, [A]can [E]wash me, [A]and [D]make [Bm]me [A]clean [E]to[A]day.
 
 Verse 2
-Today Thy gate is open, and all who enter in
-Shall find a Father's welcome, and pardon for their sin;
-The past shall be forgotten, a present joy be given;
-A future grace be promised, a glorious crown in Heav'n.
+[A]Today [E]Thy [F#m]gate [E]is [A]open, and [D]all [Bm7]who [A]en[E]ter [A]in
+Shall find [E]a [F#m]Fa[E]ther's [A]welcome, and [D]par[Bm7]don [A]for [E]their [A]sin;
+The [B]past [C#m]shall [F#m]be [B]for[E]gotten, a [B]pre[E7]sent [A]joy [E]be [A]given;
+A [F#m]fu[C#m]ture [D]grace [A]be [E]promised, [A]a [D]glo[Bm]rious [A]crown [E]in [A]Heav'n.
 
 Verse 3
-Today the Father calls me, the Holy Spirit waits,
-The bless�d angels gather around the heav'nly gates;
-No question will be asked me, how often I have come;
-Although I oft have wandered, it is my Father's home.
+[A]Today [E]the [F#m]Fa[E]ther [A]calls me, the [D]Ho[Bm7]ly [A]Spir[E]it [A]waits,
+The bless[E]èd [F#m]an[E]gels [A]gather a[D]round [Bm7]the [A]heav'n[E]ly [A]gates;
+No [B]ques[C#m]tion [F#m]will [B]be [E]asked me, how [B]of[E7]ten [A]I [E]have [A]come;
+Al[F#m]though [C#m]I [D]oft [A]have [E]wandered, [A]it [D]is [Bm]my [A]Fa[E]ther's [A]home.
 
 Verse 4
-O all embracing mercy, thou ever open door,
-What shall I do without thee when heart and eyes run o'er?
-When all things seem against me, to drive me to despair,
-I know one gate is open, one ear will hear my prayer.`
+[A]O all [E]em[F#m]brac[E]ing [A]mercy, thou [D]e[Bm7]ver [A]o[E]pen [A]door,
+What shall [E]I [F#m]do [E]with[A]out thee when [D]heart [Bm7]and [A]eyes [E]run [A]o'er?
+When [B]all [C#m]things [F#m]seem [B]a[E]gainst me, to [B]drive [E7]me [A]to [E]des[A]pair,
+I [F#m]know [C#m]one [D]gate [A]is [E]open, [A]one [D]ear [Bm]will [A]hear [E]my [A]prayer.`
   },
   {
     t: "'Twas On That Dark, That Doleful Night",
@@ -6370,29 +6370,29 @@ I know one gate is open, one ear will hear my prayer.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-'Twas on that dark, that doleful night When pow'rs of
-earth and hell arose Against the Son of
-God's delight, And friends betrayed Him to His foes:
+[Dm]'Twas on [C]that [F]dark, [Bb]that [F]doleful night [Dm]When [Fmaj7]pow'rs [Bb]of
+[F]earth [Dm]and [F]hell [C]a[F]rose Against [Dm]the Son [A]of
+[Dm]God's de[A]light, [D]And friends be[A]trayed [Gm]Him [Dm]to His foes:
 
 Verse 2
-Before the mournful scene began, He took the
-bread, and blessed, and brake: What love through all His
-actions ran! What wondrous words of grace He spake!
+[Dm]Before [C]the [F]mourn[Bb]ful [F]scene began, [Dm]He [Fmaj7]took [Bb]the
+[F]bread, [Dm]and [F]blessed, [C]and [F]brake: What love [Dm]through all [A]His
+[Dm]actions [A]ran! [D]What wondrous [A]words [Gm]of [Dm]grace He spake!
 
 Verse 3
-"This is My body, broke for sin; Receive and
-eat the living food:" Then took the cup, and
-blessed the wine; "'Tis the new cov'nant in My blood."
+[Dm]"This is [C]My [F]bo[Bb]dy, [F]broke for sin; [Dm]Re[Fmaj7]ceive [Bb]and
+[F]eat [Dm]the [F]liv[C]ing [F]food:" Then took [Dm]the cup, [A]and
+[Dm]blessed the [A]wine; [D]"'Tis the new [A]cov[Gm]'nant [Dm]in My blood."
 
 Verse 4
-For us His flesh with nails was torn, He bore the
-scourge, He felt the thorn; And justice poured up
-on His head Its heavy vengeance in our stead.
+[Dm]For us [C]His [F]flesh [Bb]with [F]nails was torn, [Dm]He [Fmaj7]bore [Bb]the
+[F]scourge, [Dm]He [F]felt [C]the [F]thorn; And jus[Dm]tice poured [A]up[Dm]on
+on His [A]head [D]Its heavy [A]ven[Gm]geance [Dm]in our stead.
 
 Verse 5
-For us His vital blood was spilt, To buy the
-pardon of our guilt, When, for black crimes of
-biggest size, He gave His soul a sacrifice.`
+[Dm]For us [C]His [F]vi[Bb]tal [F]blood was spilt, [Dm]To [Fmaj7]buy [Bb]the
+[F]par[Dm]don [F]of [C]our [F]guilt, When, for [Dm]black crimes [A]of
+[Dm]biggest [A]size, [D]He gave His [A]soul [Gm]a [Dm]sacrifice.`
   },
   {
     t: "Under His Wings",
@@ -6407,23 +6407,23 @@ biggest size, He gave His soul a sacrifice.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Under His wings I am safely abiding, Though the
-night deepens and tempests are wild, Still I can trust Him; I
-know He will keep me, He has redeemed me, and I am His child.
+[Db]Under His wings I am safely a[Ab]biding, Though the
+night deepens and [Fm]tempests are [Db]wild, Still I can trust Him; I
+[Ebm7]know He will [Gb]keep me, He has re[Db]deemed me, and [Fm]I am His [Db]child.
 
 Verse 2
-Under His wings, what a refuge in sorrow! How the
-heart yearningly turns to His rest! Often when earth has no
-balm for my healing, There I find comfort, and there I am blessed.
+[Db]Under His wings, what a refuge in [Ab]sorrow! How the
+heart yearningly [Fm]turns to His [Db]rest! Often when earth has no
+[Ebm7]balm for my [Gb]healing, There I find [Db]comfort, and [Fm]there I am [Db]blessed.
 
 Verse 3
-Under His wings, oh, what precious enjoyment! There will
-I hide till life's trials are o'er; Sheltered, protected, no
-evil can harm me, Resting in Jesus, I'm safe evermore.
+[Db]Under His wings, oh, what precious en[Ab]joyment! There will
+I hide till life's [Fm]trials are [Db]o'er; Sheltered, protected, no
+[Ebm7]evil can [Gb]harm me, Resting in [Db]Jesus, I'm [Fm]safe ever[Db]more.
 
 Chorus
-Under His wings, under His wings, Who from His love can sever?
-Under His wings my soul shall abide, Safely abide forever.`
+Under His wings, [Ab7]under His [Db]wings, Who from His [Gb]love can [Db]sever?
+Under His wings my [Ebm]soul shall a[Db]bide, [Gb]Safely a[Db]bide for[Ab7]ev[Db]er.`
   },
   {
     t: "Wake, Awake, for Night Is Flying",
@@ -6438,25 +6438,25 @@ Under His wings my soul shall abide, Safely abide forever.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Wake, awake, for night is flying; The watchmen on the heights are crying:
-Awake, Jerusalem, at last! Midnight hears the welcome voices
-And at the thrilling cry rejoices; Come forth, ye virgins, night is past;
-The Bridegroom comes, awake; Your lamps with gladness take; Alleluia!
-And for His marriage feast prepare For ye must go and meet Him there.
+[C]Wake, [Am]awake, for night is flying; [G]The [C]watchmen [G]on the heights are crying:
+A[C]wake, [Am]Je[Em]rusalem, at last! [C]Mid[Am]night hears the welcome voices
+[G]And [C]at the [G]thrilling cry rejoices; Come [C]forth, [Am]ye [Em]virgins, night is past;
+[C]The [G]Bride[C]groom comes, awake; Your lamps [Gm]with gladness take; [G]A[C]lle[Dm7]lu[G]ia!
+[C]And [F]for [C]His marriage feast prepare For [Am]ye [Em]must go and meet Him there.
 
 Verse 2
-Zion hears the watchmen singing, And all her heart with joy is springing;
-She wakes, she rises from her gloom; For her Lord comes down all glorious,
-The strong in grace, in truth victorious. Her Star is ris'n, her Light is come.
-Ah come, Thou blessed One, God's own beloved Son: Alleluia!
-We follow till the halls we see Where Thou hast bid us sup with Thee
+[C]Zi[Am]on hears the watchmen singing, [G]And [C]all her [G]heart with joy is springing;
+She [C]wakes, [Am]she [Em]rises from her gloom; [C]For [Am]her Lord comes down all glorious,
+[G]The [C]strong in [G]grace, in truth victorious. Her [C]Star [Am]is [Em]ris'n, her Light is come.
+[C]Ah [G]come, [C]Thou blessed One, God's own [Gm]beloved Son: [G]A[C]lle[Dm7]lu[G]ia!
+[C]We [F]fol[C]low till the halls we see Where [Am]Thou [Em]hast bid us sup with Thee
 
 Verse 3
-Now let all the heav'ns adore Thee, And saints and angels sing before Thee,
-With harp and cymbal's clearest tone; Of one pearl each shining portal,
-Where we are with the choir immortal Of angels round Thy dazzling throne;
-Nor eye hath seen, nor ear hath yet attained to hear What there is ours,
-but we rejoice and sing to Thee Our hymn of joy eternally.`
+[C]Now [Am]let all the heav'ns adore Thee, [G]And [C]saints and [G]angels sing before Thee,
+With [C]harp [Am]and [Em]cymbal's clearest tone; [C]Of [Am]one pearl each shining portal,
+[G]Where [C]we are [G]with the choir immortal Of [C]an[Am]gels [Em]round Thy dazzling throne;
+[C]Nor [G]eye [C]hath seen, nor ear hath yet [Gm]attained to hear [G]What [C]there [Dm7]is [G]ours,
+[C]but [F]we [C]rejoice and sing to Thee Our [Am]hymn [Em]of joy eternally.`
   },
   {
     t: "We All Believe in One True God",
@@ -6471,28 +6471,28 @@ but we rejoice and sing to Thee Our hymn of joy eternally.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-We all believe in one true God, Who created
-earth and heaven, The Father, who to us in love Hath the right of
-children given. He both soul and body feedeth, All we need He
-doth provide us; He through snares and perils leadeth,
-Watching that no harm betide us. He careth for us
-day and night, All things are governed by His might.
+[Dm]We all believe in one true God, Who cre[Am]ated
+earth and heaven, [F]The [Am]Fa[F]ther, who to us in love [Dm]Hath [Am]the [A#]right [Gm]of
+children given. [Dm]He [G]both soul and body feedeth, [C]All [G]we [Am]need [F]He
+doth provide us; He [C]through [F]snares and perils leadeth,
+[Em]Watch[Dm]ing that no harm betide us. [Gm]He [F]careth for us
+[Dm]day [F]and [Dm]night, All [C]things [A#]are [Gm]governed by His might.
 
 Verse 2
-We all believe in Jesus Christ, His own Son, our
-Lord, possessing An equal Godhead, throne, and might, Source of every
-grace and blessing. Born of Mary, virgin mother, By the power
-of the Spirit, Made true man, our elder Brother,
-That the lost might life inherit; Was crucified for
-sinful men And raised by God to life again.
+[Dm]We all believe in Jesus Christ, His own [Am]Son, our
+Lord, possessing [F]An [Am]e[F]qual Godhead, throne, and might, [Dm]Source [Am]of [A#]ev[Gm]ery
+grace and blessing. [Dm]Born [G]of Mary, virgin mother, [C]By [G]the [Am]pow[F]er
+of the Spirit, Made [C]true [F]man, our elder Brother,
+[Em]That [Dm]the lost might life inherit; [Gm]Was [F]crucified for
+[Dm]sin[F]ful [Dm]men And [C]raised [A#]by [Gm]God to life again.
 
 Verse 3
-We all confess the Holy Ghost, Who sweet grace and
-comfort giveth And with the Father and the Son In eternal
-glory liveth; Who the Church, His own creation, Keeps in uni
-ty of spirit. Here forgiveness and salvation
-Daily come through Jesus' merit. All flesh shall rise, and
-we shall be In bliss with God eternally.`
+[Dm]We all confess the Holy Ghost, Who sweet [Am]grace and
+comfort giveth [F]And [Am]with [F]the Father and the Son [Dm]In [Am]e[A#]ter[Gm]nal
+glory liveth; [Dm]Who [G]the Church, His own creation, [C]Keeps [G]in [Am]u[F]nity
+ty of spirit. Here [C]for[F]giveness and salvation
+[Em]Dai[Dm]ly come through Jesus' merit. [Gm]All [F]flesh shall rise, and
+[Dm]we [F]shall [Dm]be In [C]bliss [A#]with [Gm]God eternally.`
   },
   {
     t: "We Give Thee But Thine Own",
@@ -6507,24 +6507,24 @@ we shall be In bliss with God eternally.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-We give Thee but Thine own, Whate'er the gift may be;
-All that we have is Thine alone, A trust, O Lord, from Thee.
+[G]We [F#dim]give [G]Thee [Am7]but [Bm]Thine [G]own, What[D]e'er [Bm]the [Em7]gift [A]may [D]be;
+All [C]that we [G]have is [Am7]Thine [Am]a[B]lone, [G]A [Am]trust, [G]O [Am7]Lord, [D]from [G]Thee.
 
 Verse 2
-May we Thy bounties thus As stewards true receive,
-And gladly, as Thou blessest us, To Thee our firstfruits give.
+[G]May [F#dim]we [G]Thy [Am7]boun[Bm]ties [G]thus As [D]stew[Bm]ards [Em7]true [A]re[D]ceive,
+And [C]gladly, [G]as Thou [Am7]bless[Am]est [B]us, [G]To [Am]Thee [G]our [Am7]first[D]fruits [G]give.
 
 Verse 3
-O hearts are bruised and dead, And homes are bare and cold,
-And lambs for whom the Shepherd bled Are straying from the fold.
+[G]O [F#dim]hearts [G]are [Am7]bruised [Bm]and [G]dead, And [D]homes [Bm]are [Em7]bare [A]and [D]cold,
+And [C]lambs for [G]whom the [Am7]Shep[Am]herd [B]bled [G]Are [Am]stray[G]ing [Am7]from [D]the [G]fold.
 
 Verse 4
-To comfort and to bless, To find a balm for woe,
-To tend the lone and fatherless Is angels' work below.
+[G]To [F#dim]com[G]fort [Am7]and [Bm]to [G]bless, To [D]find [Bm]a [Em7]balm [A]for [D]woe,
+To [C]tend the [G]lone and [Am7]fa[Am]ther[B]less [G]Is [Am]an[G]gels' [Am7]work [D]be[G]low.
 
 Verse 5
-The captive to release, To God the lost to bring,
-To teach the way of life and peace? It is a Christlike thing.`
+[G]The [F#dim]cap[G]tive [Am7]to [Bm]re[G]lease, To [D]God [Bm]the [Em7]lost [A]to [D]bring,
+To [C]teach the [G]way of [Am7]life [Am]and [B]peace? [G]It [Am]is [G]a [Am7]Christ[D]like [G]thing.`
   },
   {
     t: "We Know Thee Who Thou Art",
@@ -6539,24 +6539,24 @@ To teach the way of life and peace? It is a Christlike thing.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-We know Thee who Thou art, Lord Jesus, Mary's Son;
-We know the yearnings of Thy heart To end Thy work begun.
+[D]We [G]know [D]Thee [G]who [D]Thou [A7]art, [D]Lord [Em7]Jesus, [D]Ma[G]ry's [A]Son;
+[D]We [Gmaj7]know [Em7]the [D]yearnings [C#dim]of [G]Thy [D]heart To [Em7]end [D]Thy [Em7]work [A]be[D]gun.
 
 Verse 2
-That sacred fount of grace, 'Mid all the bliss of Heav'n,
-Has joy whene'er we seek Thy face, And kneel to be forgiv'n.
+[D]That [G]sac[D]red [G]fount [D]of [A7]grace, [D]'Mid [Em7]all the [D]bliss [G]of [A]Heav'n,
+[D]Has [Gmaj7]joy [Em7]when[D]e'er we [C#dim]seek [G]Thy [D]face, And [Em7]kneel [D]to [Em7]be [A]for[D]giv'n.
 
 Verse 3
-Brought home from ways perverse, At peace Thine arms within,
-We pray Thee, shield us from the curse Of falling back to sin.
+[D]Brought [G]home [D]from [G]ways [D]per[A7]verse, [D]At [Em7]peace Thine [D]arms [G]with[A]in,
+[D]We [Gmaj7]pray [Em7]Thee, [D]shield us [C#dim]from [G]the [D]curse Of [Em7]fall[D]ing [Em7]back [A]to [D]sin.
 
 Verse 4
-We dare not ask to live Henceforth from trials free;
-But oh! when next they tempt us, give More strength to cling to Thee.
+[D]We [G]dare [D]not [G]ask [D]to [A7]live [D]Hence[Em7]forth from [D]tri[G]als [A]free;
+[D]But [Gmaj7]oh! [Em7]when [D]next they [C#dim]tempt [G]us, [D]give More [Em7]strength [D]to [Em7]cling [A]to [D]Thee.
 
 Verse 5
-We know Thee who Thou art, Our own redeeming Lord;
-Be Thou by will, and mind, and heart, Accepted, loved, adored.`
+[D]We [G]know [D]Thee [G]who [D]Thou [A7]art, [D]Our [Em7]own re[D]deem[G]ing [A]Lord;
+[D]Be [Gmaj7]Thou [Em7]by [D]will, and [C#dim]mind, [G]and [D]heart, Ac[Em7]cep[D]ted, [Em7]loved, [A]a[D]dored.`
   },
   {
     t: "We Now Implore God the Holy Ghost",
@@ -6571,28 +6571,28 @@ Be Thou by will, and mind, and heart, Accepted, loved, adored.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-We now implore God the Holy Ghost For the
-true faith, which we need the most, That in our last
-moments He may befriend us And, as homeward
-we journey, attend us. Lord, have mercy.
+[F]We [C]now im[F]plore [Bb]God [F]the [Bb]Holy [F]Ghost For the
+[Bb]true [C]faith, [Dm]which [F]we [Bb]need the [F]most, That in our [C]last
+[F]moments [Dm]He [C]may [Gm]be[A]friend [Dm]us [Gm]And, [C]as [F]homeward
+[Bb]we [Dm]jour[F]ney, [C]at[Dm]tend [C]us. [Bb]Lord, have [F]mercy.
 
 Verse 2
-Shine in our hearts, O most precious Light, That we
-Jesus Christ may know aright, Clinging to our
-Savior, whose blood hath bought us. Who again to
-our homeland hath brought us. Lord, have mercy.
+[F]Shine [C]in our [F]hearts, [Bb]O [F]most [Bb]precious [F]Light, That we
+[Bb]Je[C]sus [Dm]Christ [F]may [Bb]know a[F]right, Clinging to [C]our
+[F]Savior, [Dm]whose [C]blood [Gm]hath [A]bought [Dm]us. [Gm]Who [C]a[F]gain to
+[Bb]our [Dm]home[F]land [C]hath [Dm]brought [C]us. [Bb]Lord, have [F]mercy.
 
 Verse 3
-Thou sacred Love, grace on us bestow, Set our
-hearts with heav'nly fire aglow That with hearts u
-nited we love each other, Of one mind, in
-peace with ev'ry brother. Lord, have mercy!
+[F]Thou [C]sacred [F]Love, [Bb]grace [F]on [Bb]us be[F]stow, Set our
+[Bb]hearts [C]with [Dm]heav'n[F]ly [Bb]fire a[F]glow That with hearts [C]u[F]nited
+nited [Dm]we [C]love [Gm]each [A]o[Dm]ther, [Gm]Of [C]one [F]mind, in
+[Bb]peace [Dm]with [F]ev[C]'ry [Dm]bro[C]ther. [Bb]Lord, have [F]mercy!
 
 Verse 4
-Thou highest Comfort in ev'ry need, Grant that
-neither shame nor death we heed, That e'en then our
-courage may never fail us When the Foe shall
-accuse and assail us. Lord, have mercy!`
+[F]Thou [C]highest [F]Com[Bb]fort [F]in [Bb]ev'ry [F]need, Grant that
+[Bb]nei[C]ther [Dm]shame [F]nor [Bb]death we [F]heed, That e'en then [C]our
+[F]courage [Dm]may [C]ne[Gm]ver [A]fail [Dm]us [Gm]When [C]the [F]Foe shall
+[Bb]ac[Dm]cuse [F]and [C]as[Dm]sail [C]us. [Bb]Lord, have [F]mercy!`
   },
   {
     t: "Where He Leads Me",
@@ -6607,24 +6607,24 @@ accuse and assail us. Lord, have mercy!`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-I can hear my Savior calling, I can hear my Savior calling,
-I can hear my Savior calling, "Take thy cross and follow, follow Me."
+[F]I can hear my [Bb]Savior [F]calling, [C7]I can hear my [F]Savior calling,
+I can hear my [Bb]Savior calling, "Take thy [F]cross and follow, [C7]follow [F]Me."
 
 Verse 2
-I'll go with Him through the garden, I'll go with Him through the garden,
-I'll go with Him through the garden, I'll go with Him, with Him all the way.
+[F]I'll go with Him [Bb]through the [F]garden, [C7]I'll go with Him [F]through the garden,
+I'll go with Him [Bb]through the garden, I'll go [F]with Him, with Him [C7]all the [F]way.
 
 Verse 3
-I'll go with Him through the judgment, I'll go with Him through the judgment,
-I'll go with Him through the judgment, I'll go with Him, with Him all the way.
+[F]I'll go with Him [Bb]through the [F]judgment, [C7]I'll go with Him [F]through the judgment,
+I'll go with Him [Bb]through the judgment, I'll go [F]with Him, with Him [C7]all the [F]way.
 
 Verse 4
-He will give me grace and glory, He will give me grace and glory,
-He will give me grace and glory, And go with me, with me all the way.
+[F]He will give me [Bb]grace and [F]glory, [C7]He will give me [F]grace and glory,
+He will give me [Bb]grace and glory, And go [F]with me, with me [C7]all the [F]way.
 
 Chorus
-Where He leads me I will follow, Where He leads me I will follow,
-Where He leads me I will follow; I'll go with Him, with Him, all the way.`
+Where He leads me [Bb]I will [F]follow, [C7]Where He leads me [F]I will follow,
+Where He leads me [Bb]I will follow; I'll go [F]with Him, with Him, [C7]all the [F]way.`
   },
   {
     t: "While O'er Our Guilty Land, O Lord",
@@ -6639,29 +6639,29 @@ Where He leads me I will follow; I'll go with Him, with Him, all the way.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-While o'er our guilty land, O Lord, We view the terrors
-of Your sword, O where can all the helpless
-fly? To whom but You direct their cry?
+[F]While o'er our [Bb]guil[F]ty [C]land, [C7]O [F]Lord, [C7]We view the [F]terrors
+[Bdim]of [G7]Your [C]sword, [F]O [C]where [C7]can [F]all the [C]help[C7]less
+fly? [F]To [Bb]whom but [F]You direct [C7]their [F]cry?
 
 Verse 2
-On You, our guardian God, we call; Before Your throne of
-grace we fall; But is there no deliv'rance
-there? And must we perish in despair?
+[F]On You, our [Bb]guar[F]dian [C]God, [C7]we [F]call; [C7]Before Your [F]throne of
+[Bdim]grace [G7]we [C]fall; [F]But [C]is [C7]there [F]no de[C]liv'r[C7]ance
+there? [F]And [Bb]must we [F]perish in [C7]des[F]pair?
 
 Verse 3
-See, we repent, we weep, we mourn; To our forsaken
-God we turn; O spare our guilty country,
-spare The Church which You have planted there.
+[F]See, we re[Bb]pent, [F]we [C]weep, [C7]we [F]mourn; [C7]To our for[F]saken
+[Bdim]God [G7]we [C]turn; [F]O [C]spare [C7]our [F]guilty [C]coun[C7]try,
+spare [F]The [Bb]Church which [F]You have plant[C7]ed [F]there.
 
 Verse 4
-We are the old, the sick, the lame; We blind and deaf cry
-Jesus' Name. We plead Your mercy for His
-sake, And trust that You will not forsake.
+[F]We are the [Bb]old, [F]the [C]sick, [C7]the [F]lame; [C7]We blind and [F]deaf cry
+[Bdim]Je[G7]sus' [C]Name. [F]We [C]plead [C7]Your [F]mercy [C]for [C7]His
+sake, [F]And [Bb]trust that [F]You will not [C7]for[F]sake.
 
 Verse 5
-Christ is our only righteousness, His death for us is
-our redress. Your promise stronger than our
-sin; Blot out O Lord what we have been.`
+[F]Christ is our [Bb]on[F]ly [C]right[C7]eous[F]ness, [C7]His death for [F]us is
+[Bdim]our [G7]re[C]dress. [F]Your [C]pro[C7]mise [F]stronger [C]than [C7]our
+sin; [F]Blot [Bb]out O [F]Lord what we [C7]have [F]been.`
   },
   {
     t: "Wilt Thou, O Man, Live Happily",
@@ -6676,29 +6676,29 @@ sin; Blot out O Lord what we have been.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Wilt thou, O man, live happily, And dwell with God
-eternally, The ten commandments keep, for thus
-Our God Himself biddeth us. Kyr' eleison!
+[Em]Wilt [C]thou, [G]O [Am]man, [Em]live [Am]hap[E]pi[Am]ly, [E]And [Am]dwell [G]with [Am]God
+e[G]ter[Dm]nal[A]ly, [G]The [C]ten [G]com[C]mand[Dm]ments [E]keep, [Am]for [E]thus
+[Em]Our [Bdim]God [C]Him[G]self [Am]bid[Dm]deth [Am]us. [G]Kyr' e[Am]lei[E]son!
 
 Verse 2
-I am the Lord and God! take heed No other god
-doth thee mislead; Thy heart shall trust alone in Me,
-My kingdom then thou shalt be.
+[Em]I [C]am [G]the [Am]Lord [Em]and [Am]God! [E]take [Am]heed [E]No [Am]o[G]ther [Am]god
+doth [G]thee [Dm]mis[A]lead; [G]Thy [C]heart [G]shall [C]trust [Dm]a[E]lone [Am]in [E]Me,
+[Em]My [Bdim]king[C]dom [G]then [Am]thou [Dm]shalt [Am]be.
 
 Verse 3
-Honor My Name in word and deed, And call on Me
-in time of need: Hallow the Sabbath, that I may
-Work in thy heart on that day.
+[Em]Ho[C]nor [G]My [Am]Name [Em]in [Am]word [E]and [Am]deed, [E]And [Am]call [G]on [Am]Me
+in [G]time [Dm]of [A]need: [G]Hal[C]low [G]the [C]Sab[Dm]bath, [E]that [Am]I [E]may
+[Em]Work [Bdim]in [C]thy [G]heart [Am]on [Dm]that [Am]day.
 
 Verse 4
-Obedient always, next to Me, To father and
-to mother be; Kill no man: even anger dread;
-Keep sacred thy marriage bed.
+[Em]O[C]be[G]dient [Am]al[Em]ways, [Am]next [E]to [Am]Me, [E]To [Am]fa[G]ther [Am]and
+to [G]mo[Dm]ther [A]be; [G]Kill [C]no [G]man: [C]e[Dm]ven [E]an[Am]ger [E]dread;
+[Em]Keep [Bdim]sa[C]cred [G]thy [Am]mar[Dm]riage [Am]bed.
 
 Verse 5
-Steal not, nor do thy neighbor wrong By bearing wit
-ness with false tongue; Thy neighbor's wife desire thou not,
-Nor grudge him aught he hath got.`
+[Em]Steal [C]not, [G]nor [Am]do [Em]thy [Am]neigh[E]bor [Am]wrong [E]By [Am]bear[G]ing [Am]witness
+ness [G]with [Dm]false [A]tongue; [G]Thy [C]neigh[G]bor's [C]wife [Dm]de[E]sire [Am]thou [E]not,
+[Em]Nor [Bdim]grudge [C]him [G]aught [Am]he [Dm]hath [Am]got.`
   },
   {
     t: "Within the Father's House",
@@ -6713,24 +6713,24 @@ Nor grudge him aught he hath got.`
     lic: "PD",
     cong: 0,
     chordPro: `Verse 1
-Within the Father's house The Son hath found His home;
-And to His temple suddenly The Lord of Life hath come.
+[Eb]With[Bb]in [Eb]the [Ab]Fa[Bb]ther's [Eb]house The [Ab]Son [Eb]hath [Ab]found [Eb]His [Bb]home;
+And [Eb]to [Bb]His [Cm]tem[Gm]ple sud[F]den[Bb]ly The [Cm]Lord [Eb]of [Fm7]Life [Bb]hath [Eb]come.
 
 Verse 2
-The doctors of the law Gaze on the wondrous child,
-And marvel at His gracious words Of wisdom undefiled.
+[Eb]The [Bb]doc[Eb]tors [Ab]of [Bb]the [Eb]law Gaze [Ab]on [Eb]the [Ab]won[Eb]drous [Bb]child,
+And [Eb]mar[Bb]vel [Cm]at [Gm]His gra[F]cious [Bb]words Of [Cm]wis[Eb]dom [Fm7]un[Bb]de[Eb]filed.
 
 Verse 3
-Yet not to them is giv'n The mighty truth to know,
-To lift the fleshly veil which hides Incarnate God below.
+[Eb]Yet [Bb]not [Eb]to [Ab]them [Bb]is [Eb]giv'n The [Ab]might[Eb]y [Ab]truth [Eb]to [Bb]know,
+To [Eb]lift [Bb]the [Cm]flesh[Gm]ly veil [F]which [Bb]hides In[Cm]car[Eb]nate [Fm7]God [Bb]be[Eb]low.
 
 Verse 4
-The secret of the Lord Escapes each human eye,
-And faithful pond'ring hearts await The full epiphany.
+[Eb]The [Bb]se[Eb]cret [Ab]of [Bb]the [Eb]Lord Es[Ab]capes [Eb]each [Ab]hu[Eb]man [Bb]eye,
+And [Eb]faith[Bb]ful [Cm]pon[Gm]d'ring hearts [F]a[Bb]wait The [Cm]full [Eb]e[Fm7]pi[Bb]pha[Eb]ny.
 
 Verse 5
-Lord, vis-it Thou our souls, And teach us by Thy grace
-Each dim revealing of Thyself With loving awe to trace;`
+[Eb]Lord, [Bb]vis[Eb]it [Ab]Thou [Bb]our [Eb]souls, And [Ab]teach [Eb]us [Ab]by [Eb]Thy [Bb]grace
+Each [Eb]dim [Bb]re[Cm]veal[Gm]ing of [F]Thy[Bb]self With [Cm]lo[Eb]ving [Fm7]awe [Bb]to [Eb]trace;`
   },
   {
     t: "You Parents Hear What Jesus Taught",
