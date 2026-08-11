@@ -32,7 +32,8 @@ def norm_word(w):
     return re.sub(r"[^a-z0-9]", "", w.lower())
 
 def melody_streams(abc_path):
-    # per lyric-number streams of words; each word = (syllables text, [(offset, dur_ql), ...])
+    # per lyric-number streams of words; each word = (syllables text, [(offset, dur_ql), ...], shared)
+    # shared = the word's note carries a single lyric (refrain in a multi-verse tune)
     from music21 import converter
     with tempfile.TemporaryDirectory() as td:
         subprocess.run([sys.executable, ABC2XML, "-o", td, str(abc_path)],
@@ -45,19 +46,71 @@ def melody_streams(abc_path):
     streams = {}
     for n in melody:
         off, dur = float(n.offset), float(n.duration.quarterLength)
-        for lyr in n.lyrics:
-            if not lyr.text:
-                continue
-            text = STRIP.sub("", lyr.text)
+        lyrics = [l for l in n.lyrics if l.text]
+        for lyr in lyrics:
+            text = STRIP.sub("", lyr.text).replace("~", " ")
             st = streams.setdefault(lyr.number, {"words": [], "open": False})
             if st["open"] and st["words"]:
-                t, notes = st["words"][-1]
-                st["words"][-1] = (t + text, notes + [(off, dur)])
+                t, notes, sh = st["words"][-1]
+                st["words"][-1] = (t + text, notes + [(off, dur)], sh)
             else:
-                st["words"].append((text, [(off, dur)]))
+                st["words"].append((text, [(off, dur)], len(lyrics) == 1))
             st["open"] = lyr.syllabic in ("begin", "middle")
     onsets = sorted({float(n.offset) for n in melody})
     return {k: v["words"] for k, v in streams.items()}, onsets
+
+def split_lines(words):
+    # phrase-boundary line breaks: long phrase-final note or a rest before the next word
+    lines, cur = [], []
+    for i, w in enumerate(words):
+        cur.append((w[0], w[1]))
+        last_off, last_dur = w[1][-1]
+        brk = last_dur >= 1.9 and len(cur) >= 3
+        if not brk and i + 1 < len(words):
+            gap = words[i + 1][1][0][0] - (last_off + last_dur)
+            brk = gap > 0.05 and len(cur) >= 2
+        if brk:
+            lines.append(cur)
+            cur = []
+        elif len(cur) >= 12:
+            # overlong line: retro-split after its longest note (phrase-ish boundary)
+            best = max(range(2, len(cur) - 1), key=lambda j: cur[j][1][-1][1])
+            lines.append(cur[:best + 1])
+            cur = cur[best + 1:]
+    if cur:
+        lines.append(cur)
+    return lines
+
+def texts_match(body, streams):
+    # tunes are shared across hymns (and translations) — only trust the ABC's own
+    # lyric text when the song's chordPro first verse matches it
+    import difflib
+    words = []
+    for stanza in body.split("\n\n"):
+        lines = [l for l in stanza.split("\n") if l.strip()]
+        words = [w for line in lines[1:] for w in CHORD.sub("", line).split()]
+        if words:
+            break
+    if not words or not streams:
+        return False
+    k = sorted(streams)[0]
+    a = "".join(norm_word(w) for w in words[:10])
+    b = "".join(norm_word(w[0]) for w in streams[k][:14])
+    return bool(a) and (a in b or difflib.SequenceMatcher(None, a, b[:len(a) + 10]).ratio() > 0.8)
+
+def abc_lyrics(streams):
+    # build stanzas straight from the ABC w: text — for songs whose chordPro is
+    # partial (curated hymns hold just verse 1) or diverges from the OH lyrics
+    multi = len(streams) > 1
+    out = []
+    shared = [w for w in streams.get(1, []) if w[2]] if multi else []
+    for verse, k in enumerate(sorted(streams), start=1):
+        words = list(streams[k]) if not multi or k == 1 else list(streams[k]) + shared
+        words.sort(key=lambda w: w[1][0][0])
+        if not words:
+            return None
+        out.append({"label": f"Verse {verse}", "verse": verse if multi else None, "lines": split_lines(words)})
+    return out
 
 def align_line(lw, words, cur):
     # edit-distance alignment of chordPro words onto stream words (see backfill-chords.py)
@@ -272,15 +325,26 @@ def main():
     title_to_file = dict(re.findall(r'"((?:[^"\\]|\\.)*)": \{ file: "([^"]+)"', map_text))
     src = HYMNS_OH.read_text(encoding="utf-8")
     entry_re = re.compile(r't: ("(?:[^"\\]|\\.)*"),.*?chordPro: `((?:[^`\\]|\\.)*)`', re.S)
-    OUT_DIR.mkdir(exist_ok=True)
-    lyric_map, stats, failures = {}, {"done": 0, "skipped": 0, "no_abc": 0}, []
-
+    oh_bodies = {}
     for m in entry_re.finditer(src):
-        title = json.loads(m.group(1))
+        body = m.group(2).replace("\\`", "`").replace("\\${", "${").replace("\\\\", "\\")
+        oh_bodies[json.loads(m.group(1))] = body
+    # curated titles' (partial) chordPro comes from the running dev API — used only
+    # to verify the ABC lyrics belong to this song before trusting them
+    import urllib.request
+    songs_url = os.environ.get("WC_SONGS_URL", "http://localhost:8098/songs")
+    try:
+        api_bodies = {s["title"]: s.get("chordPro") or "" for s in json.load(urllib.request.urlopen(songs_url))}
+    except Exception as e:
+        api_bodies = {}
+        print(f"warn: {songs_url} unreachable ({e}) - curated titles will be skipped")
+    bodies = {**api_bodies, **oh_bodies}
+    OUT_DIR.mkdir(exist_ok=True)
+    lyric_map, stats, failures = {}, {"chordpro": 0, "abc_text": 0, "skipped": 0, "no_abc": 0}, []
+
+    for title, fname in sorted(title_to_file.items()):
         if ONLY and title != ONLY:
             continue
-        body = m.group(2).replace("\\`", "`").replace("\\${", "${").replace("\\\\", "\\")
-        fname = title_to_file.get(title, "??")
         abc = ABCDIR / fname.replace(".mid", ".abc")
         midi = MIDI_DIR / fname
         if not abc.exists() or not midi.exists():
@@ -288,15 +352,32 @@ def main():
             continue
         try:
             streams, verse_onsets_ql = melody_streams(abc)
-            aligned = align_song(body, streams)
-            if aligned:
-                aligned = [{**st, "lines": merge_untimed(st["lines"])} for st in aligned]
-                if any(st["lines"] is None for st in aligned):
-                    aligned = None
-            if not aligned:
-                raise ValueError("alignment mismatch")
             tpb, span, to_sec, tempo_ticks, melody_ticks = midi_timing(str(midi))
-            data, err = build_json(aligned, verse_onsets_ql, tpb, span, to_sec, tempo_ticks, melody_ticks)
+
+            def attempt(aligned):
+                if not aligned:
+                    return None, "alignment mismatch"
+                return build_json(aligned, verse_onsets_ql, tpb, span, to_sec, tempo_ticks, melody_ticks)
+
+            data, err, mode = None, "no chordPro", "chordpro"
+            body = oh_bodies.get(title)
+            if body:
+                aligned = align_song(body, streams)
+                if aligned:
+                    aligned = [{**st, "lines": merge_untimed(st["lines"])} for st in aligned]
+                    if any(st["lines"] is None for st in aligned):
+                        aligned = None
+                data, err = attempt(aligned)
+            if err:
+                mode = "abc_text"
+                # trust the ABC's own text if the song's chordPro matches it, or the
+                # file is named for this very hymn (curated stubs have fake chordPro)
+                import difflib
+                fname_title = norm_word(fname.split("-")[0].replace("_", " "))
+                titled = difflib.SequenceMatcher(None, norm_word(title), fname_title).ratio() >= 0.85
+                if not (titled or texts_match(bodies.get(title, ""), streams)):
+                    raise ValueError(f"{err}; abc lyrics are a different text")
+                data, err = attempt(abc_lyrics(streams))
             if err:
                 raise ValueError(err)
         except Exception as e:
@@ -306,7 +387,7 @@ def main():
         out_name = fname.replace(".mid", ".json")
         (OUT_DIR / out_name).write_text(json.dumps(data), encoding="utf-8")
         lyric_map[title] = out_name
-        stats["done"] += 1
+        stats[mode] += 1
         if ONLY:
             print(json.dumps(data, indent=1)[:2000])
 
