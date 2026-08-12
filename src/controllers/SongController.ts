@@ -60,6 +60,20 @@ export class SongController extends WorshipCommonsBaseController {
     });
   }
 
+  @httpPost("/:id/abc")
+  public async submitAbc(req: express.Request, res: express.Response): Promise<any> {
+    return this.actionWrapper(req, res, async (au) => {
+      if (!au.id) return this.json({ errors: ["Sign in required"] }, 401);
+      const song = await this.repositories.song.loadById(String(req.params.id));
+      if (!song || song.status !== "approved") return this.json({}, 404);
+      const abc = typeof req.body?.abc === "string" ? req.body.abc.trim() : "";
+      if (!abc || abc.length > 100000) return this.json({ errors: ["abc text is required (max 100KB)"] }, 400);
+      // no server-side notation validation — the editor shows warnings and an admin re-renders on review
+      const sub = await this.repositories.abcSubmission.create({ songId: song.id, abc, submittedBy: au.id });
+      return { id: sub.id, status: "pending" };
+    });
+  }
+
   @httpGet("/:id")
   public async get(req: express.Request, res: express.Response): Promise<any> {
     return this.actionWrapperAnon(req, res, async () => {

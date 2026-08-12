@@ -52,6 +52,15 @@ export interface Report {
   createdAt?: Date;
 }
 
+export interface AbcSubmission {
+  id?: string;
+  songId?: string;
+  abc?: string;
+  submittedBy?: string;
+  status?: string;
+  createdAt?: Date;
+}
+
 export interface Admin {
   userId?: string;
   email?: string;

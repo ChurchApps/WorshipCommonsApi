@@ -1,4 +1,4 @@
-import { Song, Report, Admin, Sing, LibrarySong } from "../models";
+import { Song, Report, Admin, Sing, LibrarySong, AbcSubmission } from "../models";
 
 export interface Database {
   songs: Song;
@@ -6,4 +6,5 @@ export interface Database {
   admins: Admin;
   sings: Sing;
   libraries: LibrarySong;
+  abcSubmissions: AbcSubmission;
 }

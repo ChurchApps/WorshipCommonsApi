@@ -48,6 +48,34 @@ export class AdminController extends WorshipCommonsBaseController {
     });
   }
 
+  @httpGet("/abc-submissions")
+  public async abcSubmissions(req: express.Request, res: express.Response): Promise<any> {
+    return this.actionWrapper(req, res, async (au) => {
+      if (!(await this.isAdmin(au.id))) return this.json({}, 401);
+      return await this.repositories.abcSubmission.loadPending();
+    });
+  }
+
+  @httpPost("/abc-submissions/:id/approve")
+  public async approveAbc(req: express.Request, res: express.Response): Promise<any> {
+    return this.setAbcStatus(req, res, "approved");
+  }
+
+  @httpPost("/abc-submissions/:id/reject")
+  public async rejectAbc(req: express.Request, res: express.Response): Promise<any> {
+    return this.setAbcStatus(req, res, "rejected");
+  }
+
+  // status is bookkeeping only — an approved .abc is promoted by hand to
+  // tools/seed-assets/abc/ per .notes/source-of-truth.md
+  private setAbcStatus(req: express.Request, res: express.Response, status: string) {
+    return this.actionWrapper(req, res, async (au) => {
+      if (!(await this.isAdmin(au.id))) return this.json({}, 401);
+      await this.repositories.abcSubmission.updateStatus(String(req.params.id), status);
+      return { status };
+    });
+  }
+
   @httpPost("/songs/:id/approve")
   public async approve(req: express.Request, res: express.Response): Promise<any> {
     return this.setSongStatus(req, res, "approved");
