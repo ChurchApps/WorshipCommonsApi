@@ -89,6 +89,11 @@ export function buildCatalog(contentRoot: string) {
     row.lyricsUrl = lyr ? `${contentRoot}/songs/${id}/lyrics.json` : null;
     if (lyr) files.push({ songId: id, src: `lyrics/${lyr.file}`, key: `songs/${id}/lyrics.json` });
 
+    // ABC engraving source exists only for Open Hymnal tunes (MIDI_MAP, not the merged MIDI)
+    const abc = MIDI_MAP[s.t];
+    row.abcUrl = abc ? `${contentRoot}/songs/${id}/tune.abc` : null;
+    if (abc) files.push({ songId: id, src: `abc/${abc.file.replace(/\.mid$/, ".abc")}`, key: `songs/${id}/tune.abc` });
+
     const vid = VIDEO_MAP[s.t];
     row.videoUrl = vid ? `https://www.youtube.com/watch?v=${vid.id}` : null;
 

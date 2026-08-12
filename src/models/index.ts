@@ -22,6 +22,7 @@ export interface Song {
   midiUrl?: string;
   midiBytes?: number;
   lyricsUrl?: string;
+  abcUrl?: string;
   videoUrl?: string;
   writerPortraitUrl?: string;
   writerBio?: string;

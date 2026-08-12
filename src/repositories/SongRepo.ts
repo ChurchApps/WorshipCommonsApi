@@ -25,6 +25,7 @@ const SUMMARY_COLS = [
   "midiUrl",
   "midiBytes",
   "lyricsUrl",
+  "abcUrl",
   "parentSongId",
   "relationLabel",
   "qualityScore"
@@ -81,6 +82,7 @@ export class SongRepo {
       midiUrl: song.midiUrl,
       midiBytes: song.midiBytes,
       lyricsUrl: song.lyricsUrl,
+      abcUrl: song.abcUrl,
       parentSongId: song.parentSongId,
       relationLabel: song.relationLabel,
       status: song.status || "pending",

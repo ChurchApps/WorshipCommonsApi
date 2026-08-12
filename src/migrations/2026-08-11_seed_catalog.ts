@@ -8,9 +8,9 @@ export async function up(db: Kysely<any>): Promise<void> {
   const existing = await db.selectFrom("songs").select("id").limit(1).execute();
   if (existing.length > 0) return;
 
-  // midi columns arrive in 2026-08-11_tune_midis, lyricsUrl in 2026-08-14_lyric_timings
+  // midi columns arrive in 2026-08-11_tune_midis, lyricsUrl in 2026-08-14_lyric_timings, abcUrl in 2026-08-20_abc_sources
   const { rows } = buildCatalog(Environment.contentRoot);
-  const inserts = rows.map(({ midiUrl, midiBytes, lyricsUrl, ...r }) => r);
+  const inserts = rows.map(({ midiUrl, midiBytes, lyricsUrl, abcUrl, ...r }) => r);
   for (let i = 0; i < inserts.length; i += 50) {
     await db.insertInto("songs").values(inserts.slice(i, i + 50)).execute();
   }
