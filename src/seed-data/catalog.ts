@@ -4,6 +4,7 @@ import { HYMNS2 } from "./hymns2.js";
 import { HYMNS_OH } from "./hymns-oh.js";
 import { HYMNS_ES } from "./hymns-es.js";
 import { HYMNS_ES_TCH } from "./hymns-es-tch.js";
+import { HYMNS_ES_HYMNARY } from "./hymns-es-hymnary.js";
 import { MIDI_MAP_ES } from "./midi-map-es.js";
 import { MIDI_MAP } from "./midi-map.js";
 import { MIDI_MAP_HYMNSITE } from "./midi-map-hymnsite.js";
@@ -46,7 +47,7 @@ export interface CatalogFile { songId: string; src: string; key: string; }
 // Demo audio and stems come from real uploads only; melody MIDIs are real,
 // PD-verified Open Hymnal files (see tools/import-openhymnal.ts).
 export function buildCatalog(contentRoot: string) {
-  const defs: any[] = [...SONGS, ...HYMNS, ...HYMNS2, ...HYMNS_OH, ...HYMNS_ES, ...HYMNS_ES_TCH];
+  const defs: any[] = [...SONGS, ...HYMNS, ...HYMNS2, ...HYMNS_OH, ...HYMNS_ES, ...HYMNS_ES_TCH, ...HYMNS_ES_HYMNARY];
   const rows: any[] = [];
   const files: CatalogFile[] = [];
   const seen = new Set<string>();

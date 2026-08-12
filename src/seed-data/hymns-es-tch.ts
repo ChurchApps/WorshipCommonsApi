@@ -71,7 +71,7 @@ export const HYMNS_ES_TCH = [
   },
   {
     "t": "¡Oh Maestro y mi Señor!",
-    "a": "Enrique Someillan (1856-?)",
+    "a": "Enrique Someillan",
     "y": null,
     "th": null,
     "k": null,
@@ -85,7 +85,7 @@ export const HYMNS_ES_TCH = [
   },
   {
     "t": "¡Oh Padre, Eterno Dios!",
-    "a": "Vicente Mendoza (1875-1955)",
+    "a": "Vicente Mendoza",
     "y": null,
     "th": null,
     "k": null,
@@ -309,7 +309,7 @@ export const HYMNS_ES_TCH = [
   },
   {
     "t": "Al Que en Busca de la Luz",
-    "a": "Erdmann Neumeister · tr. Emma Bevan (1858) y Thomas Westrup (1837-1909)",
+    "a": "Erdmann Neumeister · tr. Emma Bevan y Thomas Westrup",
     "y": 1718,
     "th": "Grace,Confession",
     "k": "G",
@@ -321,7 +321,7 @@ export const HYMNS_ES_TCH = [
     "cong": 0,
     "chordPro": "Verse 1\nAl que en busca de la luz,\nVague ciego y con temor,\nLo recibe el buen Jesús\nEn los brazos de su amor.\n\nChorus\nVolvere mos a cantar;\nCristo acoge al pecador;\nClaro haced lo resonar;\nCristo acoge al pecador\n\nVerse 2\nA sus pies descansarás;\nEjercita en él la fe.\nY con él recibe paz;\nA Jesús, tu amigo, vé.\n\nVerse 3\nHazlo, pues, y así dirás:\nDe la pena yo escapé;\nY la ley no exige más;\nEn Jesús perdón hallé.\n\nVerse 4\nRecibirte prometió;\nDate prisa en acudir.\nNecesitas como yo,\nVida que él hará vivir.",
     "parent": "Christ Receiveth Sinful Men",
-    "rel": "Spanish translation · tr. Emma Bevan (1858) y Thomas Westrup (1837-1909)"
+    "rel": "Spanish translation · tr. Emma Bevan y Thomas Westrup"
   },
   {
     "t": "Al Salvador Jesús",
@@ -515,7 +515,7 @@ export const HYMNS_ES_TCH = [
   },
   {
     "t": "Cuanto Soy y Cuanto Encierro",
-    "a": "Juan Cabrera (1837-1916)",
+    "a": "Juan Cabrera",
     "y": null,
     "th": null,
     "k": null,
@@ -601,7 +601,7 @@ export const HYMNS_ES_TCH = [
   },
   {
     "t": "Dicha Grande Es la del Hombre",
-    "a": "Thomas Westrup (1837-1909)",
+    "a": "Thomas Westrup",
     "y": null,
     "th": null,
     "k": null,
@@ -737,7 +737,7 @@ export const HYMNS_ES_TCH = [
   },
   {
     "t": "Gozo Da Servir a Cristo",
-    "a": "Bentley Ackley (1872-1958)",
+    "a": "Bentley Ackley",
     "y": null,
     "th": null,
     "k": null,
@@ -765,7 +765,7 @@ export const HYMNS_ES_TCH = [
   },
   {
     "t": "Gracias Dad a Jesucristo",
-    "a": "Juan de los Santos (1876-1944)",
+    "a": "Juan de los Santos",
     "y": null,
     "th": null,
     "k": null,
@@ -1017,7 +1017,7 @@ export const HYMNS_ES_TCH = [
   },
   {
     "t": "Nunca, Dios Mío",
-    "a": "Juan Cabrera (1837-1916)",
+    "a": "Juan Cabrera",
     "y": null,
     "th": null,
     "k": null,
@@ -1075,7 +1075,7 @@ export const HYMNS_ES_TCH = [
   },
   {
     "t": "Padre, Tu Palabra Es",
-    "a": "Juan Cabrera (1837-1916)",
+    "a": "Juan Cabrera",
     "y": null,
     "th": null,
     "k": null,
@@ -1259,7 +1259,7 @@ export const HYMNS_ES_TCH = [
   },
   {
     "t": "Sólo a Ti, Dios y Señor",
-    "a": "Pedro Castro (1840-1887)",
+    "a": "Pedro Castro",
     "y": null,
     "th": null,
     "k": null,
@@ -1335,7 +1335,7 @@ export const HYMNS_ES_TCH = [
   },
   {
     "t": "Ved al Cristo, Rey de Gloria",
-    "a": "Thomas Kelly (1769-1855)",
+    "a": "Thomas Kelly",
     "y": null,
     "th": null,
     "k": null,

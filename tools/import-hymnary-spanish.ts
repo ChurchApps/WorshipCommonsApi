@@ -34,12 +34,15 @@ async function getText(url: string): Promise<string | null> {
         await new Promise(r => setTimeout(r, DELAY));
         return text;
       }
-      if (resp.status !== 429 && resp.status < 500) return null;
+      if (resp.status === 403 || resp.status === 429) { blocked++; await new Promise(r => setTimeout(r, attempt * 60000)); continue; }
+      if (resp.status < 500) return null;
     } catch { /* retry */ }
     await new Promise(r => setTimeout(r, attempt * 10000));
   }
   return null;
 }
+// Consecutive 403/429s mean the site has cut us off — abort rather than burn the list.
+let blocked = 0;
 
 function parseCsv(text: string): string[][] {
   const rows: string[][] = [];
@@ -92,8 +95,14 @@ console.log(`Spanish texts on hymnary: ${list.length}`);
 
 // --- Existing catalog for dedupe + parent tune matching ---
 const { rows: catRows } = buildCatalog("");
+// Exclude this tool's own previous output from dedupe so reruns regenerate cleanly.
+const own = new Set<string>();
+try {
+  const { HYMNS_ES_HYMNARY } = await import("../src/seed-data/hymns-es-hymnary.js");
+  for (const s of HYMNS_ES_HYMNARY as any[]) own.add(norm(s.t));
+} catch { /* first run */ }
 const existing = new Set<string>();
-for (const r of catRows.filter((x: any) => x.language === "Spanish")) {
+for (const r of catRows.filter((x: any) => x.language === "Spanish" && !own.has(norm(x.title)))) {
   existing.add(norm(r.title));
   const first = (r.chordPro || "").split("\n").find((l: string) => l.trim() && !/^(Verse|Chorus|Coro)/i.test(l.trim()));
   if (first) existing.add(norm(first.replace(/\[[^\]]*\]/g, "")));
@@ -126,7 +135,9 @@ for (const item of list) {
   if (!item.slug) continue;
   if (existing.has(norm(item.title)) || existing.has(norm(item.firstLine))) continue;
   checked++;
+  const before = blocked;
   const html = await getText(`https://hymnary.org/text/${item.slug}`);
+  if (blocked > before && blocked >= 4) { console.error("Blocked by hymnary.org (repeated 403/429) — rerun later; cache resumes where this left off."); break; }
   if (!html) { rejected++; continue; }
 
   const infoTable = html.match(/<table class="infoTable"[\s\S]*?<\/table>/i)?.[0] || "";

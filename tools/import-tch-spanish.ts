@@ -95,8 +95,14 @@ const findParent = (englishTitle: string) => {
   return byNorm.get(n) || byNorm.get(n.replace(/^o /, "oh ")) || byNorm.get(n.replace(/^oh /, "o "))
     || byNorm.get(n.replace(/\bye\b/, "you")) || byNorm.get(n.replace(/\byou\b/, "ye")) || null;
 };
+// Exclude this tool's own previous output from dedupe so reruns regenerate cleanly.
+const own = new Set<string>();
+try {
+  const { HYMNS_ES_TCH } = await import("../src/seed-data/hymns-es-tch.js");
+  for (const s of HYMNS_ES_TCH as any[]) own.add(norm(s.t));
+} catch { /* first run */ }
 const existingSpanish = new Set<string>();
-for (const r of rows.filter((x: any) => x.language === "Spanish")) {
+for (const r of rows.filter((x: any) => x.language === "Spanish" && !own.has(norm(x.title)))) {
   existingSpanish.add(norm(r.title));
   const first = (r.chordPro || "").split("\n").find((l: string) => l.trim() && !/^(Verse|Chorus|Coro)/i.test(l.trim()));
   if (first) existingSpanish.add(norm(first.replace(/\[[^\]]*\]/g, "")));
