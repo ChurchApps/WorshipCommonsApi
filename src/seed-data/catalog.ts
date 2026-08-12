@@ -6,6 +6,13 @@ import { HYMNS_ES } from "./hymns-es.js";
 import { HYMNS_ES_TCH } from "./hymns-es-tch.js";
 import { HYMNS_ES_HYMNARY } from "./hymns-es-hymnary.js";
 import { HYMNS_MODERN } from "./hymns-modern.js";
+import { HYMNS_TCH_DE, MIDI_TCH_DE } from "./hymns-tch-de.js";
+import { HYMNS_TCH_FR, MIDI_TCH_FR } from "./hymns-tch-fr.js";
+import { HYMNS_TCH_PT, MIDI_TCH_PT } from "./hymns-tch-pt.js";
+import { HYMNS_TCH_RU, MIDI_TCH_RU } from "./hymns-tch-ru.js";
+import { HYMNS_TCH_ML, MIDI_TCH_ML } from "./hymns-tch-ml.js";
+import { HYMNS_TCH_SQ, MIDI_TCH_SQ } from "./hymns-tch-sq.js";
+import { HYMNS_TCH_HU, MIDI_TCH_HU } from "./hymns-tch-hu.js";
 import { MIDI_MAP_ES } from "./midi-map-es.js";
 import { MIDI_MAP } from "./midi-map.js";
 import { MIDI_MAP_HYMNSITE } from "./midi-map-hymnsite.js";
@@ -15,7 +22,8 @@ import { WRITER_MAP } from "./writer-map.js";
 import { VIDEO_MAP } from "./video-map.js";
 import { HYMNAL_COUNT } from "./popularity-map.js";
 
-const MIDI: Record<string, { file: string; bytes: number }> = { ...MIDI_MAP_TCH, ...MIDI_MAP_HYMNSITE, ...MIDI_MAP, ...MIDI_MAP_ES };
+const MIDI: Record<string, { file: string; bytes: number }> = { ...MIDI_MAP_TCH, ...MIDI_MAP_HYMNSITE, ...MIDI_MAP, ...MIDI_MAP_ES,
+  ...MIDI_TCH_DE, ...MIDI_TCH_FR, ...MIDI_TCH_PT, ...MIDI_TCH_RU, ...MIDI_TCH_ML, ...MIDI_TCH_SQ, ...MIDI_TCH_HU };
 
 // deterministic char(11) id in UniqueIdHelper.shortId's base64url format — stable across reseeds
 export const idFor = (title: string) => crypto.createHash("sha1").update("wcsong:" + title).digest("base64url").slice(0, 11);
@@ -50,7 +58,8 @@ export interface CatalogFile { songId: string; src: string; key: string; }
 // PD-verified Open Hymnal files (see tools/import-openhymnal.ts).
 export function buildCatalog(contentRoot: string) {
   const defs: any[] = [
-    ...SONGS, ...HYMNS, ...HYMNS2, ...HYMNS_OH, ...HYMNS_ES, ...HYMNS_ES_TCH, ...HYMNS_ES_HYMNARY, ...HYMNS_MODERN
+    ...SONGS, ...HYMNS, ...HYMNS2, ...HYMNS_OH, ...HYMNS_ES, ...HYMNS_ES_TCH, ...HYMNS_ES_HYMNARY, ...HYMNS_MODERN,
+    ...HYMNS_TCH_DE, ...HYMNS_TCH_FR, ...HYMNS_TCH_PT, ...HYMNS_TCH_RU, ...HYMNS_TCH_ML, ...HYMNS_TCH_SQ, ...HYMNS_TCH_HU
   ];
   const rows: any[] = [];
   const files: CatalogFile[] = [];
