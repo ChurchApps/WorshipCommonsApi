@@ -1,4 +1,4 @@
-Amazing Grace  ->  Amazing Grace  (youtu.be/5iou_pSEbEY)
+Amazing Grace  ->  Amazing Grace [With Lyrics]  (youtu.be/NIBeO5bn6fA)
 Be Thou My Vision  ->  BE THOU MY VISION -- My Favorite Irish Hymn! :)  (youtu.be/ihJAJA4ibEs)
 Holy, Holy, Holy  ->  Holy, Holy, Holy! Lord God Almighty (Tune: Nicea - 4vv) [with lyrics for congregations] {Robin Mark}  (youtu.be/zzM9P_Gqw-s)
 Come Thou Fount  ->  Come Thou Fount of Every Blessing (with lyrics) The most BEAUTIFUL hymn you've EVER heard!  (youtu.be/4xJXzgonLdQ)
@@ -8,446 +8,561 @@ All Creatures of Our God and King  ->  All Creatures of Our God and King • Pr
 Ein feste Burg ist unser Gott  ->  The Wartburg Choir: Ein feste Burg ist unser Gott, arr. W. B. Olds  (youtu.be/nDdHtOSHIXE)
 Silent Night  ->  Silent Night (with lyrics) - The most BEAUTIFUL Christmas carol / hymn!  (youtu.be/91aX3qBUm6I)
 Stille Nacht  ->  Stille Nacht (Silent Night) – Lyric Video  (youtu.be/9p97sxREC00)
-Joy to the World  ->  ERROR fetch failed
-Hark! The Herald Angels Sing  ->  ERROR fetch failed
-O Come, All Ye Faithful  ->  ERROR fetch failed
-Adeste Fideles  ->  ERROR fetch failed
-O Little Town of Bethlehem  ->  ERROR fetch failed
-Away in a Manger  ->  ERROR fetch failed
-The First Noel  ->  ERROR fetch failed
-Angels We Have Heard on High  ->  ERROR fetch failed
-It Came Upon the Midnight Clear  ->  ERROR fetch failed
-What Child Is This  ->  ERROR fetch failed
-God Rest You Merry, Gentlemen  ->  ERROR fetch failed
-We Three Kings  ->  ERROR fetch failed
-O Come, O Come, Emmanuel  ->  ERROR fetch failed
-Come, Thou Long-Expected Jesus  ->  ERROR fetch failed
-Lo, How a Rose E'er Blooming  ->  ERROR fetch failed
-O Holy Night  ->  ERROR fetch failed
-Go, Tell It on the Mountain  ->  ERROR fetch failed
-Christ the Lord Is Risen Today  ->  ERROR fetch failed
-Low in the Grave He Lay  ->  ERROR fetch failed
-Thine Be the Glory  ->  ERROR fetch failed
-Were You There  ->  ERROR fetch failed
-Crown Him with Many Crowns  ->  ERROR fetch failed
-All Hail the Power of Jesus' Name  ->  ERROR fetch failed
-When I Survey the Wondrous Cross  ->  ERROR fetch failed
-O Sacred Head, Now Wounded  ->  ERROR fetch failed
-Alas! and Did My Savior Bleed  ->  ERROR fetch failed
-Nothing but the Blood  ->  ERROR fetch failed
-There Is a Fountain  ->  ERROR fetch failed
-The Old Rugged Cross  ->  ERROR fetch failed
-At Calvary  ->  ERROR fetch failed
-There Is Power in the Blood  ->  ERROR fetch failed
-Are You Washed in the Blood?  ->  ERROR fetch failed
-Jesus Paid It All  ->  ERROR fetch failed
-Praise to the Lord, the Almighty  ->  ERROR fetch failed
-Immortal, Invisible, God Only Wise  ->  ERROR fetch failed
-Come, Thou Almighty King  ->  ERROR fetch failed
-O Worship the King  ->  ERROR fetch failed
-Praise, My Soul, the King of Heaven  ->  ERROR fetch failed
-O For a Thousand Tongues to Sing  ->  ERROR fetch failed
-Love Divine, All Loves Excelling  ->  ERROR fetch failed
-And Can It Be  ->  ERROR fetch failed
-Fairest Lord Jesus  ->  ERROR fetch failed
-For the Beauty of the Earth  ->  ERROR fetch failed
-This Is My Father's World  ->  ERROR fetch failed
-All Things Bright and Beautiful  ->  ERROR fetch failed
-Come, Christians, Join to Sing  ->  ERROR fetch failed
-Rejoice, the Lord Is King  ->  ERROR fetch failed
-A Mighty Fortress Is Our God  ->  ERROR fetch failed
-To God Be the Glory  ->  ERROR fetch failed
-Joyful, Joyful, We Adore Thee  ->  ERROR fetch failed
-Holy God, We Praise Thy Name  ->  ERROR fetch failed
-When Morning Gilds the Skies  ->  ERROR fetch failed
-My Faith Looks Up to Thee  ->  ERROR fetch failed
-Abide with Me  ->  ERROR fetch failed
-Be Still, My Soul  ->  ERROR fetch failed
-What a Friend We Have in Jesus  ->  ERROR fetch failed
-Leaning on the Everlasting Arms  ->  ERROR fetch failed
-Rock of Ages  ->  ERROR fetch failed
-Nearer, My God, to Thee  ->  ERROR fetch failed
-Just as I Am  ->  ERROR fetch failed
-Softly and Tenderly  ->  ERROR fetch failed
-I Need Thee Every Hour  ->  ERROR fetch failed
-Sweet Hour of Prayer  ->  ERROR fetch failed
-He Leadeth Me  ->  ERROR fetch failed
-Great Is Thy Faithfulness  ->  ERROR fetch failed
-Turn Your Eyes upon Jesus  ->  ERROR fetch failed
-In the Garden  ->  ERROR fetch failed
-His Eye Is on the Sparrow  ->  ERROR fetch failed
-Blessed Assurance  ->  ERROR fetch failed
-Like a River Glorious  ->  ERROR fetch failed
-Day by Day  ->  ERROR fetch failed
-Children of the Heavenly Father  ->  ERROR fetch failed
-Savior, Like a Shepherd Lead Us  ->  ERROR fetch failed
-The King of Love My Shepherd Is  ->  ERROR fetch failed
-Jesus, Lover of My Soul  ->  ERROR fetch failed
-O God, Our Help in Ages Past  ->  ERROR fetch failed
-Guide Me, O Thou Great Jehovah  ->  ERROR fetch failed
-Wayfaring Stranger  ->  ERROR fetch failed
-Lead, Kindly Light  ->  ERROR fetch failed
-I Surrender All  ->  ERROR fetch failed
-Have Thine Own Way, Lord  ->  ERROR fetch failed
-Trust and Obey  ->  ERROR fetch failed
-Standing on the Promises  ->  ERROR fetch failed
-'Tis So Sweet to Trust in Jesus  ->  ERROR fetch failed
-Take My Life and Let It Be  ->  ERROR fetch failed
-Come, Ye Sinners, Poor and Needy  ->  ERROR fetch failed
-Pass Me Not, O Gentle Savior  ->  ERROR fetch failed
-All the Way My Savior Leads Me  ->  ERROR fetch failed
-I Am Thine, O Lord  ->  ERROR fetch failed
-Near the Cross  ->  ERROR fetch failed
-Redeemed, How I Love to Proclaim It  ->  ERROR fetch failed
-Take Time to Be Holy  ->  ERROR fetch failed
-Open My Eyes, That I May See  ->  ERROR fetch failed
-Jesus Shall Reign  ->  ERROR fetch failed
-I Love to Tell the Story  ->  ERROR fetch failed
-Onward, Christian Soldiers  ->  ERROR fetch failed
-Stand Up, Stand Up for Jesus  ->  ERROR fetch failed
-We've a Story to Tell to the Nations  ->  ERROR fetch failed
-Send the Light  ->  ERROR fetch failed
-Rescue the Perishing  ->  ERROR fetch failed
-O Master, Let Me Walk with Thee  ->  ERROR fetch failed
-Where Cross the Crowded Ways of Life  ->  ERROR fetch failed
-In Christ There Is No East or West  ->  ERROR fetch failed
-Battle Hymn of the Republic  ->  ERROR fetch failed
-Revive Us Again  ->  ERROR fetch failed
-Let Us Break Bread Together  ->  ERROR fetch failed
-Here, O My Lord, I See Thee Face to Face  ->  ERROR fetch failed
-According to Thy Gracious Word  ->  ERROR fetch failed
-The Church's One Foundation  ->  ERROR fetch failed
-Blest Be the Tie That Binds  ->  ERROR fetch failed
-Break Thou the Bread of Life  ->  ERROR fetch failed
-Come, Ye Thankful People, Come  ->  ERROR fetch failed
-We Gather Together  ->  ERROR fetch failed
-Now Thank We All Our God  ->  ERROR fetch failed
-Count Your Blessings  ->  ERROR fetch failed
-Bringing in the Sheaves  ->  ERROR fetch failed
-Swing Low, Sweet Chariot  ->  ERROR fetch failed
-Give Me Jesus  ->  ERROR fetch failed
-Down to the River to Pray  ->  ERROR fetch failed
-I Want Jesus to Walk with Me  ->  ERROR fetch failed
-Steal Away  ->  ERROR fetch failed
-Every Time I Feel the Spirit  ->  ERROR fetch failed
-My Hope Is Built on Nothing Less  ->  ERROR fetch failed
-How Firm a Foundation  ->  ERROR fetch failed
-Sweet By and By  ->  ERROR fetch failed
-Shall We Gather at the River  ->  ERROR fetch failed
-When the Roll Is Called Up Yonder  ->  ERROR fetch failed
-When We All Get to Heaven  ->  ERROR fetch failed
-Higher Ground  ->  ERROR fetch failed
-Since Jesus Came into My Heart  ->  ERROR fetch failed
-Love Lifted Me  ->  ERROR fetch failed
-Praise Him! Praise Him!  ->  ERROR fetch failed
-Wonderful Words of Life  ->  ERROR fetch failed
-Santo, Santo, Santo  ->  ERROR fetch failed
-Castillo Fuerte  ->  ERROR fetch failed
-Noche de Paz  ->  ERROR fetch failed
-While Shepherds Watched Their Flocks  ->  ERROR fetch failed
-Once in Royal David's City  ->  ERROR fetch failed
-As with Gladness Men of Old  ->  ERROR fetch failed
-Good Christian Men, Rejoice  ->  ERROR fetch failed
-Angels from the Realms of Glory  ->  ERROR fetch failed
-I Heard the Bells on Christmas Day  ->  ERROR fetch failed
-Thou Didst Leave Thy Throne  ->  ERROR fetch failed
-Infant Holy, Infant Lowly  ->  ERROR fetch failed
-Of the Father's Love Begotten  ->  ERROR fetch failed
-Lo! He Comes with Clouds Descending  ->  ERROR fetch failed
-All Glory, Laud, and Honor  ->  ERROR fetch failed
-Hosanna, Loud Hosanna  ->  ERROR fetch failed
-Ride On, Ride On in Majesty  ->  ERROR fetch failed
-The Strife Is O'er  ->  ERROR fetch failed
-Come, Ye Faithful, Raise the Strain  ->  ERROR fetch failed
-I Know That My Redeemer Lives  ->  ERROR fetch failed
-Go to Dark Gethsemane  ->  ERROR fetch failed
-Beneath the Cross of Jesus  ->  ERROR fetch failed
-Hallelujah! What a Savior  ->  ERROR fetch failed
-In the Cross of Christ I Glory  ->  ERROR fetch failed
-Lead Me to Calvary  ->  ERROR fetch failed
-Down at the Cross  ->  ERROR fetch failed
-Grace Greater than Our Sin  ->  ERROR fetch failed
-Whiter than Snow  ->  ERROR fetch failed
-I Gave My Life for Thee  ->  ERROR fetch failed
-O the Deep, Deep Love of Jesus  ->  ERROR fetch failed
-Jesus, the Very Thought of Thee  ->  ERROR fetch failed
-Majestic Sweetness Sits Enthroned  ->  ERROR fetch failed
-The God of Abraham Praise  ->  ERROR fetch failed
-Ancient of Days  ->  ERROR fetch failed
-All People That on Earth Do Dwell  ->  ERROR fetch failed
-The Lord's My Shepherd  ->  ERROR fetch failed
-Praise the Lord! Ye Heavens, Adore Him  ->  ERROR fetch failed
-Ye Servants of God  ->  ERROR fetch failed
-Arise, My Soul, Arise  ->  ERROR fetch failed
-I Sing the Mighty Power of God  ->  ERROR fetch failed
-O Could I Speak the Matchless Worth  ->  ERROR fetch failed
-Gloria Patri  ->  ERROR fetch failed
-If Thou But Suffer God to Guide Thee  ->  ERROR fetch failed
-Jesus, Priceless Treasure  ->  ERROR fetch failed
-Come, Ye Disconsolate  ->  ERROR fetch failed
-Unto the Hills  ->  ERROR fetch failed
-Eternal Father, Strong to Save  ->  ERROR fetch failed
-Now the Day Is Over  ->  ERROR fetch failed
-Spirit of God, Descend upon My Heart  ->  ERROR fetch failed
-Breathe on Me, Breath of God  ->  ERROR fetch failed
-Holy Spirit, Faithful Guide  ->  ERROR fetch failed
-Faith of Our Fathers  ->  ERROR fetch failed
-For All the Saints  ->  ERROR fetch failed
-God of Our Fathers  ->  ERROR fetch failed
-Here Is Love  ->  ERROR fetch failed
-Jesus Loves Me  ->  ERROR fetch failed
-My Jesus, I Love Thee  ->  ERROR fetch failed
-I Stand Amazed in the Presence  ->  ERROR fetch failed
-O That Will Be Glory  ->  ERROR fetch failed
-Brighten the Corner Where You Are  ->  ERROR fetch failed
-He Hideth My Soul  ->  ERROR fetch failed
-Safe in the Arms of Jesus  ->  ERROR fetch failed
-Tell Me the Story of Jesus  ->  ERROR fetch failed
-Saved by Grace  ->  ERROR fetch failed
-Close to Thee  ->  ERROR fetch failed
-I Will Sing of My Redeemer  ->  ERROR fetch failed
-Let the Lower Lights Be Burning  ->  ERROR fetch failed
-Almost Persuaded  ->  ERROR fetch failed
-The Ninety and Nine  ->  ERROR fetch failed
-I Will Sing the Wondrous Story  ->  ERROR fetch failed
-Since I Have Been Redeemed  ->  ERROR fetch failed
-O Happy Day  ->  ERROR fetch failed
-Only Trust Him  ->  ERROR fetch failed
-Christ Receiveth Sinful Men  ->  ERROR fetch failed
-More Love to Thee  ->  ERROR fetch failed
-More About Jesus  ->  ERROR fetch failed
-Footsteps of Jesus  ->  ERROR fetch failed
-Yield Not to Temptation  ->  ERROR fetch failed
-I Must Tell Jesus  ->  ERROR fetch failed
-No, Not One  ->  ERROR fetch failed
-Tell Me the Old, Old Story  ->  ERROR fetch failed
-Throw Out the Lifeline  ->  ERROR fetch failed
-Anywhere with Jesus  ->  ERROR fetch failed
-The Haven of Rest  ->  ERROR fetch failed
-He Keeps Me Singing  ->  ERROR fetch failed
-Dwelling in Beulah Land  ->  ERROR fetch failed
-Beulah Land  ->  ERROR fetch failed
-He Lifted Me  ->  ERROR fetch failed
-Sunshine in My Soul  ->  ERROR fetch failed
-Blessed Quietness  ->  ERROR fetch failed
-Sweet Peace, the Gift of God's Love  ->  ERROR fetch failed
-Living for Jesus  ->  ERROR fetch failed
-In My Heart There Rings a Melody  ->  ERROR fetch failed
-Ivory Palaces  ->  ERROR fetch failed
-One Day  ->  ERROR fetch failed
-Nearer, Still Nearer  ->  ERROR fetch failed
-Sweeter as the Years Go By  ->  ERROR fetch failed
-What If It Were Today?  ->  ERROR fetch failed
-Did You Think to Pray?  ->  ERROR fetch failed
-When I Can Read My Title Clear  ->  ERROR fetch failed
-At the Cross  ->  ERROR fetch failed
-We're Marching to Zion  ->  ERROR fetch failed
-Am I a Soldier of the Cross  ->  ERROR fetch failed
-Soldiers of Christ, Arise  ->  ERROR fetch failed
-A Charge to Keep I Have  ->  ERROR fetch failed
-We'll Understand It Better By and By  ->  ERROR fetch failed
-Stand by Me  ->  ERROR fetch failed
-Nothing Between  ->  ERROR fetch failed
-Leave It There  ->  ERROR fetch failed
-Deep River  ->  ERROR fetch failed
-There Is a Balm in Gilead  ->  ERROR fetch failed
-Nobody Knows the Trouble I've Seen  ->  ERROR fetch failed
-My Lord, What a Morning  ->  ERROR fetch failed
-Standing in the Need of Prayer  ->  ERROR fetch failed
-When the Saints Go Marching In  ->  ERROR fetch failed
-On Jordan's Stormy Banks  ->  ERROR fetch failed
-Face to Face  ->  ERROR fetch failed
-We Plow the Fields and Scatter  ->  ERROR fetch failed
-Tell Me the Stories of Jesus  ->  ERROR fetch failed
-A Child of The King  ->  ERROR fetch failed
-A Great and Mighty Wonder  ->  ERROR fetch failed
-A Lamb Goes Uncomplaining Forth  ->  ERROR fetch failed
-Abide, O Dearest Jesus  ->  ERROR fetch failed
-All Depends On Our Possessing  ->  ERROR fetch failed
-All My Heart This Night Rejoices  ->  ERROR fetch failed
-All Praise To Thee, My God, This Night  ->  ERROR fetch failed
-All Praise to Jesus' Hallowed Name  ->  ERROR fetch failed
-All Who Believe and Are Baptized  ->  ERROR fetch failed
-Alleluia, Alleluia! Hearts to Heaven and Voices Raise  ->  ERROR fetch failed
-Alleluia, Sing To Jesus!  ->  ERROR fetch failed
-Almighty God Your Word Is Cast  ->  ERROR fetch failed
-Angel Voices, Ever Singing  ->  ERROR fetch failed
-Awake, My Heart, With Gladness  ->  ERROR fetch failed
-Awake, My Soul, And With The Sun  ->  ERROR fetch failed
-Baptized Into Thy Name Most Holy  ->  ERROR fetch failed
-Beautiful Savior  ->  ERROR fetch failed
-Behold, A Host, Arrayed in White  ->  ERROR fetch failed
-Blessed Jesus at Thy Word  ->  ERROR fetch failed
-Blind Bartimaeus  ->  ERROR fetch failed
-Built on the Rock  ->  ERROR fetch failed
-By Grace I'm Saved  ->  ERROR fetch failed
-Christ Arose  ->  ERROR fetch failed
-Christ Jesus Lay In Death's Strong Bands  ->  ERROR fetch failed
-Christ Returneth  ->  ERROR fetch failed
-Christ The Lord Is Risen Today (Lyra)  ->  ERROR fetch failed
-Come Down, O Love Divine  ->  ERROR fetch failed
-Come, God Creator, Holy Ghost  ->  ERROR fetch failed
-Come Holy Spirit, Lord Our God  ->  ERROR fetch failed
-Come Thou Fount Of Every Blessing  ->  ERROR fetch failed
-Come, Your Heart and Voices Raising  ->  ERROR fetch failed
-Comfort, Comfort Ye My People  ->  ERROR fetch failed
-Day of Wrath, O Day of Mourning  ->  ERROR fetch failed
-Dear Christians, One and All Rejoice  ->  ERROR fetch failed
-Despair Not, O Heart  ->  ERROR fetch failed
-Every Morning Mercies New  ->  ERROR fetch failed
-Far, Far Away On Judea's Plains  ->  ERROR fetch failed
-Fear Not, O Little Flock  ->  ERROR fetch failed
-From Heaven Above To Earth I Come  ->  ERROR fetch failed
-From Nazareth  ->  ERROR fetch failed
-Gabriel's Message  ->  ERROR fetch failed
-Gentle Mary Laid Her Child  ->  ERROR fetch failed
-Glorious Things of Thee are Spoken  ->  ERROR fetch failed
-God Himself is Present  ->  ERROR fetch failed
-God, That Madest Earth and Heaven  ->  ERROR fetch failed
-God the Father Be Our Stay  ->  ERROR fetch failed
-God, Whose Almighty Word  ->  ERROR fetch failed
-God Will Take Care of You  ->  ERROR fetch failed
-Bonus Carol: Good King Wenceslas  ->  ERROR fetch failed
-Happy the Man Who Feareth God  ->  ERROR fetch failed
-Hark, Hark, My Soul!  ->  ERROR fetch failed
-Hark the Glad Sound  ->  ERROR fetch failed
-Hark, the Voice of Jesus Calling  ->  ERROR fetch failed
-He Was Not Willing  ->  ERROR fetch failed
-He Who Would Valiant Be  ->  ERROR fetch failed
-Holy Ghost, with Light Divine  ->  ERROR fetch failed
-Holy Spirit, Ever Dwelling  ->  ERROR fetch failed
-I Am Jesus' Little Lamb  ->  ERROR fetch failed
-I Bind Unto Myself Today  ->  ERROR fetch failed
-I Come, O Savior, To Thy Table  ->  ERROR fetch failed
-I Know Whom I Have Believed  ->  ERROR fetch failed
-I Place My Trust In God  ->  ERROR fetch failed
-If God Had Not Been on Our Side  ->  ERROR fetch failed
-If God Himself Be For Me  ->  ERROR fetch failed
-I'm But A Stranger Here  ->  ERROR fetch failed
-In His Temple Now Behold Him  ->  ERROR fetch failed
-In Peace and Joy I Now Depart  ->  ERROR fetch failed
-In The Bleak MidWinter  ->  ERROR fetch failed
-In These Our Days So Perilous  ->  ERROR fetch failed
-Isaiah, Mighty Seer, In Days of Old  ->  ERROR fetch failed
-It Came Upon A Midnight Clear  ->  ERROR fetch failed
-Jerusalem the Golden  ->  ERROR fetch failed
-Jesus Came, the Heavens Adoring  ->  ERROR fetch failed
-Jesus Christ Is Risen Today  ->  ERROR fetch failed
-Jesus Christ, Our Blessed Savior  ->  ERROR fetch failed
-Jesus Christ Who Came to Save  ->  ERROR fetch failed
-Jesus Grant That Balm and Healing  ->  ERROR fetch failed
-Jesus, In Thy Dying Woes  ->  ERROR fetch failed
-Jesus Is All the World To Me  ->  ERROR fetch failed
-Jesus, King of Glory  ->  ERROR fetch failed
-Jesus Sinners Doth Receive  ->  ERROR fetch failed
-Jesus, Tender Shepherd, Hear Me  ->  ERROR fetch failed
-Jesus, Thy Boundless Love To Me  ->  ERROR fetch failed
-Jesus Wants All Of His Children  ->  ERROR fetch failed
-Lamp of Our Feet  ->  ERROR fetch failed
-Let All Mortal Flesh Keep Silence  ->  ERROR fetch failed
-Let Children Hear The Mighty Deeds  ->  ERROR fetch failed
-Let Our Gladness Have No End  ->  ERROR fetch failed
-Lift High The Cross  ->  ERROR fetch failed
-Lift Up Your Heads, Ye Mighty Gates  ->  ERROR fetch failed
-Lo, God To Heav'n Ascendeth  ->  ERROR fetch failed
-Look Down, O Lord, From Heaven Behold  ->  ERROR fetch failed
-Lord, Dismiss Us With Thy Blessing  ->  ERROR fetch failed
-Lord, Enthroned in Heavenly Splendor  ->  ERROR fetch failed
-Lord Jesus Think On Me  ->  ERROR fetch failed
-Lord, Keep Us Steadfast in Thy Word  ->  ERROR fetch failed
-Lord Of Our Life  ->  ERROR fetch failed
-Lord, Thee I Love with All My Heart  ->  ERROR fetch failed
-Lord, Who at Cana's Wedding Feast  ->  ERROR fetch failed
-Lord Who Throughout These Forty Days  ->  ERROR fetch failed
-Lord of Glory, Who Hast Bought Us  ->  ERROR fetch failed
-Lord of Life, All Praise Excelling  ->  ERROR fetch failed
-May God Bestow on Us His Grace  ->  ERROR fetch failed
-Moment By Moment  ->  ERROR fetch failed
-My Hope Is Built  ->  ERROR fetch failed
-My Jesus, As Thou Wilt  ->  ERROR fetch failed
-My Savior's Love  ->  ERROR fetch failed
-My Song Shall Be Of Jesus  ->  ERROR fetch failed
-My Soul, Now Praise Thy Maker  ->  ERROR fetch failed
-None Other Lamb  ->  ERROR fetch failed
-Not Worthy, Lord, to Gather Up the Crumbs  ->  ERROR fetch failed
-Now Praise We Christ, the Holy One  ->  ERROR fetch failed
-Now Rest Beneath Night's Shadow  ->  ERROR fetch failed
-Now the Light Has Gone Away  ->  ERROR fetch failed
-O Chief of Cities Bethlehem  ->  ERROR fetch failed
-O Day of Rest And Gladness  ->  ERROR fetch failed
-O Father, All Creating  ->  ERROR fetch failed
-O For A Thousand Tongues  ->  ERROR fetch failed
-O Holy, Blessed Trinity  ->  ERROR fetch failed
-O Holy Spirit, Enter In  ->  ERROR fetch failed
-O Lord, How Shall I Meet Thee  ->  ERROR fetch failed
-O Lord, I Am Not Worthy  ->  ERROR fetch failed
-O Lord My Soul Convicted  ->  ERROR fetch failed
-O Lord of Heav'n and Earth and Sea  ->  ERROR fetch failed
-O Lord We Praise Thee  ->  ERROR fetch failed
-O Love, How Deep, How Broad, How High  ->  ERROR fetch failed
-O That The Lord Would Guide My Ways  ->  ERROR fetch failed
-O Trinity of Blessed Light  ->  ERROR fetch failed
-O Wondrous Type, O Vision Fair  ->  ERROR fetch failed
-Oh, Blest the House  ->  ERROR fetch failed
-On Jordan's Bank the Baptist's Cry  ->  ERROR fetch failed
-On What Has Now Been Sown  ->  ERROR fetch failed
-One Thing's Needful  ->  ERROR fetch failed
-Open Now Thy Gates of Beauty  ->  ERROR fetch failed
-Our Father Thou in Heaven Above  ->  ERROR fetch failed
-Our God, Our Help In Ages Past  ->  ERROR fetch failed
-Out of the Deep I Cry to Thee  ->  ERROR fetch failed
-Over Kidron Jesus Treadeth  ->  ERROR fetch failed
-Praise God From Whom All Blessings Flow  ->  ERROR fetch failed
-Rejoice, My Heart, Be Glad and Sing  ->  ERROR fetch failed
-Rejoice, O Pilgrim Throng  ->  ERROR fetch failed
-Salvation Unto Us Has Come  ->  ERROR fetch failed
-Savior Of The Nations Come  ->  ERROR fetch failed
-Savior When In Dust To Thee  ->  ERROR fetch failed
-Savior, Who Thy Flock Art Feeding  ->  ERROR fetch failed
-See Amid the Winter's Snow  ->  ERROR fetch failed
-See, The Lord Ascends In Triumph  ->  ERROR fetch failed
-Sing, O Sing, This Blessed Morn  ->  ERROR fetch failed
-Songs of Thankfulness and Praise  ->  ERROR fetch failed
-Souls of Men! Why Will Ye Scatter  ->  ERROR fetch failed
-Stricken, Smitten, and Afflicted  ->  ERROR fetch failed
-Take Thou My Hand and Lead Me  ->  ERROR fetch failed
-'Take Up Thy Cross', the Savior Said  ->  ERROR fetch failed
-That Men a godly Life Might Live  ->  ERROR fetch failed
-The Advent of Our God  ->  ERROR fetch failed
-The Bridegroom Soon Will Call Us  ->  ERROR fetch failed
-The Comforter Has Come  ->  ERROR fetch failed
-The Day is Surely Drawing Near  ->  ERROR fetch failed
-The Galilean Fishers Toil  ->  ERROR fetch failed
-The Gospel Shows The Father's Grace  ->  ERROR fetch failed
-The King Shall Come  ->  ERROR fetch failed
-The Law Of God Is Good And Wise  ->  ERROR fetch failed
-The Lily of the Valley  ->  ERROR fetch failed
-The Love of God  ->  ERROR fetch failed
-The Mouth of Fools Doth God Confess  ->  ERROR fetch failed
-The People That in Darkness Sat  ->  ERROR fetch failed
-The Star Proclaims the King is Here  ->  ERROR fetch failed
-The Strife Is O'er, The Battle Done  ->  ERROR fetch failed
-The Winds and Billows Loudly Roar  ->  ERROR fetch failed
-There's a Great Day Coming  ->  ERROR fetch failed
-Thine Arm, O Lord, in Days of Old  ->  ERROR fetch failed
-Thou, Who at Thy First Eucharist  ->  ERROR fetch failed
-Though in the Midst of Life We Be  ->  ERROR fetch failed
-Through the Night of Doubt and Sorrow  ->  ERROR fetch failed
-Tis Good, Lord, To Be Here  ->  ERROR fetch failed
-'Tis Midnight and On Olive's Brow  ->  ERROR fetch failed
-To Avert From Men God's Wrath  ->  ERROR fetch failed
-To Jordan Came Our Lord, The Christ  ->  ERROR fetch failed
-To Shepherds As They Watched By Night  ->  ERROR fetch failed
-Today Thy Mercy Calls Me  ->  ERROR fetch failed
-'Twas On That Dark, That Doleful Night  ->  ERROR fetch failed
-Under His Wings  ->  ERROR fetch failed
-Wake, Awake, for Night Is Flying  ->  ERROR fetch failed
-We All Believe in One True God  ->  ERROR fetch failed
-We Give Thee But Thine Own  ->  ERROR fetch failed
-We Know Thee Who Thou Art  ->  ERROR fetch failed
-We Now Implore God the Holy Ghost  ->  ERROR fetch failed
-Where He Leads Me  ->  ERROR fetch failed
-While O'er Our Guilty Land, O Lord  ->  ERROR fetch failed
-Wilt Thou, O Man, Live Happily  ->  ERROR fetch failed
-Within the Father's House  ->  ERROR fetch failed
-You Parents Hear What Jesus Taught  ->  ERROR fetch failed
+Joy to the World  ->  Joy to the World with Lyrics | Christmas Carol & Song  (youtu.be/30OaM6b48k8)
+Hark! The Herald Angels Sing  ->  Hark the Herald Angels Sing with Lyrics | Christmas Carol & Song  (youtu.be/xqooC4ZG75Y)
+O Come, All Ye Faithful  ->  O Come All Ye Faithful (with lyrics) - BEAUTIFUL Christmas carol / hymn  (youtu.be/BIdRKXtn6MQ)
+Adeste Fideles  ->  "Adeste Fideles" (O Come, All Ye Faithful) - Christian Christmas Carol [LATIN LYRICS]  (youtu.be/uQwoCFLBiG8)
+O Little Town of Bethlehem  ->  O little town of Bethlehem  (youtu.be/71ppzuPARXg)
+Away in a Manger  ->  Away In A Manger (with lyrics) - The most BEAUTIFUL Christmas carol / hymn!  (youtu.be/3dxzdsfJp2s)
+The First Noel  ->  The First Noel (with lyrics) - The most Beautiful Christmas carol / hymn  (youtu.be/wNpwKJtOJ_Y)
+Angels We Have Heard on High  ->  Angels We Have Heard On High  (youtu.be/WHWqj6gKS9g)
+It Came Upon the Midnight Clear  ->  It Came Upon The Midnight Clear | Christmas Lyric Video | Reawaken Hymns  (youtu.be/HusH56d-Omw)
+What Child Is This  ->  What Child Is This | Choir with Lyrics | Christmas Carol | Dix/Stainer | Sunday 7pm Choir  (youtu.be/R2Un5nwlL5w)
+God Rest You Merry, Gentlemen  ->  God Rest You Merry Gentlemen | Christmas Lyric Video | Reawaken Hymns  (youtu.be/o0grjzmVKBM)
+We Three Kings  ->  We Three Kings of Orient Are  (youtu.be/ANXV46f3jo0)
+O Come, O Come, Emmanuel  ->  O Come, O Come Emmanuel - Traditional Choir  (youtu.be/7xtpJ4Q_Q-4)
+Come, Thou Long-Expected Jesus  ->  Come, Thou Long Expected Jesus | Celtic Worship  (youtu.be/5lwtbnU-1Tw)
+Lo, How a Rose E'er Blooming  ->  Lo, How a Rose E'er Blooming | The Tabernacle Choir  (youtu.be/kU-E46o0sp0)
+O Holy Night  ->  O Holy Night | Beautiful Christmas Carol | All Verses | Solo & Piano w/ Lyrics  | Sat. 5pm Choir  (youtu.be/SqIjlIjt-nI)
+Go, Tell It on the Mountain  ->  Go, Tell It on the Mountain (Hymn Charts with Lyrics, Contemporary)  (youtu.be/UAfIKeh04KU)
+Christ the Lord Is Risen Today  ->  Christ the Lord Is Risen Today (2019) | The Tabernacle Choir  (youtu.be/cErtpg5hBSw)
+Low in the Grave He Lay  ->  Christ Arose! (Low in the Grave He Lay)  (youtu.be/CtxSWcfH9hk)
+Thine Be the Glory  ->  Thine Be the Glory (Tune: Maccabeus - 3vv+refrain) [with lyrics for congregations]  (youtu.be/Tjz4yXUJrgU)
+Were You There  ->  Were You There - Good Friday Hymn Sing Along with Lyrics Onscreen  (youtu.be/lleK1Z_k69U)
+Crown Him with Many Crowns  ->  Crown Him with Many Crowns  (youtu.be/If-svStcvS8)
+All Hail the Power of Jesus' Name  ->  All Hail the Power of Jesus' Name (Tune: Diadem - 3vv) [with lyrics for congregations]  (youtu.be/_hmtxrFgrEA)
+When I Survey the Wondrous Cross  ->  When I Survey the Wondrous Cross  (youtu.be/4_fvFfPqjO4)
+O Sacred Head, Now Wounded  ->  O Sacred Head, Now Wounded (Hymn 271) - Hymnology (Official Video)  (youtu.be/wcrS8rFWMXQ)
+Alas! and Did My Savior Bleed  ->  Alas! And Did My Savior Bleed? (Hymn Charts with Lyrics, Contemporary)  (youtu.be/MGBxvsvulGU)
+Nothing but the Blood  ->  Charity Gayle - Nothing But the Blood (Live)  (youtu.be/XYgmMwAxBS8)
+There Is a Fountain  ->  There is a Fountain Filled With Blood - piano instrumental hymn with lyrics  (youtu.be/nfgLAupAXpM)
+The Old Rugged Cross  ->  The Old Rugged Cross  (youtu.be/CltrLsjsQl0)
+At Calvary  ->  At Calvary  (youtu.be/Gt3BrYsVzQ8)
+There Is Power in the Blood  ->  There Is Power In The Blood  (youtu.be/Tr_PS_qe6Ks)
+Are You Washed in the Blood?  ->  Alan Jackson - Are You Washed In The Blood? / I'll Fly Away (Medley/Live)  (youtu.be/bJWgpljckbA)
+Jesus Paid It All  ->  Jesus Paid It All - Kim Walker-Smith | Worship Circle Hymns  (youtu.be/Ymkl0t0FOcw)
+Praise to the Lord, the Almighty  ->  Praise to the Lord, the Almighty (Nockels, Hymn with Lyrics, Contemporary)  (youtu.be/BNq0WtMSmIY)
+Immortal, Invisible, God Only Wise  ->  Immortal, invisible, God only wise Hymn - St Paul's Cathedral Platinum Jubilee Service  (youtu.be/PS3QinSmPHI)
+Come, Thou Almighty King  ->  Come Thou Almighty King (Live from Sing! '21) Keith & Kristyn Getty, Tommy Bailey  (youtu.be/NT4IvKk8Yko)
+O Worship the King  ->  O Worship the King (Grace Community Church)  (youtu.be/u0a1Pq9avbg)
+Praise, My Soul, the King of Heaven  ->  Praise, my soul the King of heaven  (youtu.be/GyRIVbdsi4c)
+O For a Thousand Tongues to Sing  ->  O For a Thousand Tongues to Sing | Official Lyric Video | Reawaken Hymns  (youtu.be/vFMAlhxnJrE)
+Love Divine, All Loves Excelling  ->  Love Divine, All Loves Excelling • Congregational  (youtu.be/aBEAM07t44I)
+And Can It Be  ->  And Can It Be? (Hymn 180)  (youtu.be/A3U0G7OiKJw)
+Fairest Lord Jesus  ->  Fairest Lord Jesus • Congregational  (youtu.be/VCxdMl1AjLI)
+For the Beauty of the Earth  ->  For the Beauty of the Earth (Michelle Swift, Hymn with Lyrics, Contemporary)  (youtu.be/Zy7t2Uasqe8)
+This Is My Father's World  ->  This is My Father's World (Hymn 31) - Hymnology (Official Video)  (youtu.be/-y93uhtTibM)
+All Things Bright and Beautiful  ->  All Things Bright  And Beautiful by Kidzup with lyrics  (youtu.be/FT_oDqOEGpc)
+Come, Christians, Join to Sing  ->  Come, Christians, Join to Sing  (youtu.be/xeZLDY8fJ1Y)
+Rejoice, the Lord Is King  ->  Rejoice, the Lord Is King!  (youtu.be/WFYMhF2GA4E)
+A Mighty Fortress Is Our God  ->  A Mighty Fortress is our God  - Christian Hymns with Lyrics / Choir / Martin Luther / Psalm 46  (youtu.be/8XUYZoguhEQ)
+To God Be the Glory  ->  To God be the glory  (youtu.be/2CeBoSQsBR0)
+Joyful, Joyful, We Adore Thee  ->  Joyful Joyful We Adore Thee | Official Lyric Video | Reawaken Hymns  (youtu.be/2yZVweZ2Cvg)
+Holy God, We Praise Thy Name  ->  Holy God, We Praise Thy Name | Traditional Christian Hymn | Choir with Lyrics | Sunday 7pm Choir  (youtu.be/SuUGPniE1D4)
+When Morning Gilds the Skies  ->  When Morning Gilds the Skies (Tune: Laudes Domini - 5vv) [with lyrics for congregations]  (youtu.be/pCsC0CUH34I)
+My Faith Looks Up to Thee  ->  My Faith Looks Up to Thee (Metropolitan Tabernacle)  (youtu.be/jeMcpnYLwJg)
+Abide with Me  ->  Abide With Me | Christian Church Hymn | Choral Version (SATB) with Lyrics | Sunday 7pm Choir  (youtu.be/PzmvagnGTYY)
+Be Still, My Soul  ->  Be Still, My Soul | Traditional Christian Hymn of Healing & Comfort | FINLANDIA | Choir with Lyrics  (youtu.be/aFj68DbbHRI)
+What a Friend We Have in Jesus  ->  What A Friend We Have In Jesus | Lyric Video | Lydia Walker | Acoustic Hymns with Lyrics  (youtu.be/TAyaXdvvbGU)
+Leaning on the Everlasting Arms  ->  Alan Jackson - Leaning On The Everlasting Arms (Live)  (youtu.be/DObsJ1PSdnQ)
+Rock of Ages  ->  Rock of Ages  (youtu.be/gM7gt_cSxjw)
+Nearer, My God, to Thee  ->  Nearer My God To Thee (with lyrics) - The Most BEAUTIFUL hymn you’ve EVER Heard!  (youtu.be/gWz4feHp0ko)
+Just as I Am  ->  Just as I am worship video ( modern)  (youtu.be/G0XjqRZ9W_8)
+Softly and Tenderly  ->  Softly & Tenderly (Official Lyric Video) - Kristyn Getty, Vince Gill, Ellie Holcomb, Sierra Hull  (youtu.be/Ck58d3BMBX0)
+I Need Thee Every Hour  ->  Bill & Gloria Gaither - I Need Thee Every Hour [Live] ft. Randy Owen  (youtu.be/tfPZ9mRIKgs)
+Sweet Hour of Prayer  ->  Sweet Hour of Prayer (with lyrics) - The most Beautiful Hymn!  (youtu.be/0POs0TKMMFs)
+He Leadeth Me  ->  He Leadeth Me | 2 Hours of Relaxing Piano Hymns with lyrics | 30 Peaceful Hymns  (youtu.be/r5qkYQ8hI6Q)
+Great Is Thy Faithfulness  ->  Carrie Underwood - Great Is Thy Faithfulness ft. CeCe Winans (Official Performance Video)  (youtu.be/NT0HcAr9aeI)
+Turn Your Eyes upon Jesus  ->  Turn Your Eyes Upon Jesus  (youtu.be/q5x0MclH3l0)
+In the Garden  ->  In The Garden (with lyrics) The most BEAUTIFUL hymn you've EVER heard!  (youtu.be/3_dMzucjEaw)
+His Eye Is on the Sparrow  ->  His Eye Is On The Sparrow | Tennessee Ernie Ford | May 4, 1961  (youtu.be/vOwgQq70XBE)
+Blessed Assurance  ->  Blessed Assurance  (youtu.be/H1VMHEMOMZY)
+Like a River Glorious  ->  Like A River Glorious  (youtu.be/bnIcKms_IUY)
+Day by Day  ->  Day By Day - Hymn  (youtu.be/AzrhqjzQCi4)
+Children of the Heavenly Father  ->  Children of the Heavenly Father  (youtu.be/f1Le7-y9xVI)
+Savior, Like a Shepherd Lead Us  ->  Savior, Like a Shepherd Lead Us (Hymn 170) - Hymnology (Official Video)  (youtu.be/yJvtPgekH0o)
+The King of Love My Shepherd Is  ->  The King Of Love My Shepherd Is | Christian Hymn | Psalm 23 | Choir with Lyrics | Sunday 7pm Choir  (youtu.be/WLdPoQnylnA)
+Jesus, Lover of My Soul  ->  Jesus, Lover Of My Soul - Fernando Ortega  (youtu.be/NsXcCdWjsmg)
+O God, Our Help in Ages Past  ->  O God, Our Help in Ages Past (Grace Community Church)  (youtu.be/yKP_XxCBDZY)
+Guide Me, O Thou Great Jehovah  ->  Guide Me, O Thou Great Jehovah (Grace Community Church)  (youtu.be/K5uwi04ttjA)
+Wayfaring Stranger  ->  Wayfaring Stranger (With Lyrics) - feat. Heidi Loves Hymns  (youtu.be/50-KD6dyDJw)
+Lead, Kindly Light  ->  Lead, Kindly Light (2012) | The Tabernacle Choir  (youtu.be/PnIYLEXHeFk)
+I Surrender All  ->  I Surrender All (with lyrics) - The most BEAUTIFUL hymn!  (youtu.be/j04Bx9pKwpU)
+Have Thine Own Way, Lord  ->  Have Thine Own Way, Lord | Songs and Everlasting Joy  (youtu.be/0CYI1zgiWzc)
+Trust and Obey  ->  Trust and Obey (Hymns with Lyrics)  (youtu.be/KB4KcleYiWM)
+Standing on the Promises  ->  Standing On The Promises [Live Hymn] – Gerald Wolfe Gospel Music Hymn Sing | #FirstBaptistAtlanta  (youtu.be/xLlJR61wKW0)
+'Tis So Sweet to Trust in Jesus  ->  TIS SO SWEET TO TRUST IN JESUS  (youtu.be/-DdgkvnsHjM)
+Take My Life and Let It Be  ->  Take My Life and Let It Be | Reawaken Hymns | Official Lyric Video  (youtu.be/y3gWwGDGgVA)
+Come, Ye Sinners, Poor and Needy  ->  Come, Ye Sinners, Poor and Needy • T4G Live IV [Official Lyric Video]  (youtu.be/slQ6MTJLU4I)
+Pass Me Not, O Gentle Savior  ->  🎵 'Pass Me Not, O Gentle Savior' - Beautiful Hymn of Grace and Mercy 🙏  (youtu.be/FExofOqBJgw)
+All the Way My Savior Leads Me  ->  All The Way My Savior Leads Me | Fanny Crosby (For Lyrics Turn on Closed Captions)  (youtu.be/AF3o3hzVGC4)
+I Am Thine, O Lord  ->  I Am Thine, O Lord with Lyrics  (youtu.be/IMrgaV9pqUo)
+Near the Cross  ->  Jesus, Keep Me Near the Cross (Hymn Charts with Lyrics, Contemporary)  (youtu.be/Xrmlv806bGM)
+Redeemed, How I Love to Proclaim It  ->  Redeemed How I Love to Proclaim It ~ Gaither Homecoming ~ lyric video  (youtu.be/W8idr58JpxQ)
+Take Time to Be Holy  ->  Take Time to Be Holy (with lyrics) - Beautiful Hymn  (youtu.be/dMJHVoKzP14)
+Open My Eyes, That I May See  ->  Open My Eyes That I May See ~ Joslin Grove Choral Society ~ lyric video  (youtu.be/GDceaG7kFQA)
+Jesus Shall Reign  ->  Jesus Shall Reign (Official Lyric Video) - Keith & Kristyn Getty  (youtu.be/BE4DDB5whyk)
+I Love to Tell the Story  ->  Alan Jackson - I Love To Tell The Story (Live)  (youtu.be/OrCpKa_xOcE)
+Onward, Christian Soldiers  ->  Onward Christian Soldiers  (youtu.be/64K7HmLM54Y)
+Stand Up, Stand Up for Jesus  ->  "Stand up Stand up for Jesus" UMH514 with lyrics  (youtu.be/TbnhUlj2PZ4)
+We've a Story to Tell to the Nations  ->  WE’VE STORY TO TELL TO THE NATIONS (Lyrics With Voice)  (youtu.be/LFf_7rlMltg)
+Send the Light  ->  Send the Light  (youtu.be/4RjmtL7nmw0)
+Rescue the Perishing  ->  Rescue the perishing  (youtu.be/m_e4RXHF6Yk)
+O Master, Let Me Walk with Thee  ->  O Master, Let Me Walk with Thee (11 am, webstream)  (youtu.be/-CCX5sChezQ)
+Where Cross the Crowded Ways of Life  ->  Hymn 609 Where cross the crowded ways of life  (youtu.be/ov9HKiAdJOE)
+In Christ There Is No East or West  ->  In Christ There Is No East or West  (youtu.be/GG8hzY1OoM4)
+Battle Hymn of the Republic  ->  🔴BEST VERSION: THE BATTLE HYMN OF THE REPUBLIC  (youtu.be/iE3pSpZkKc4)
+Revive Us Again  ->  Revive Us Again | Reawaken Hymns | Official Lyric Video  (youtu.be/fmIidg70inc)
+Let Us Break Bread Together  ->  Let Us Break Bread Together  (youtu.be/Egk-pX_1nHg)
+Here, O My Lord, I See Thee Face to Face  ->  Here, O My Lord, I See Thee Face To Face - Hymn 231 - Lyric Video  (youtu.be/js8sKAcRb3U)
+According to Thy Gracious Word  ->  According to Thy Gracious Word - New Scottish Hymns  (youtu.be/JnSCKObBYrM)
+The Church's One Foundation  ->  The Church’s One Foundation  (youtu.be/w1YBYrJ8Hzg)
+Blest Be the Tie That Binds  ->  Blest be the tie that binds | lyric video  (youtu.be/TQ0Epw1rwbc)
+Break Thou the Bread of Life  ->  Break Thou the Bread of Life  (youtu.be/NQpj4TSe-Ec)
+Come, Ye Thankful People, Come  ->  Come, Ye Thankful People, Come (Tune: St George's Windsor - 4vv) [with lyrics for congregations]  (youtu.be/5FqdCskC0QE)
+We Gather Together  ->  We Gather Together  (youtu.be/CqOXEf-DVkU)
+Now Thank We All Our God  ->  Now Thank We All Our God - Classic Christian Hymn (Choir & Lyrics)  (youtu.be/42ZqYk1YwRA)
+Count Your Blessings  ->  Count Your Blessings (Ingrid DuMosch & The London Fox Singers) - MVL - roncobb1  (youtu.be/Hb4JBNDWhOA)
+Bringing in the Sheaves  ->  Bringing in the sheaves  (youtu.be/ad54bH-nQTM)
+Swing Low, Sweet Chariot  ->  Swing Low, Sweet Chariot | Hymn with Lyrics | Dementia friendly  (youtu.be/N195OCcgV0o)
+Give Me Jesus  ->  Fernando Ortega - Give me Jesus  (youtu.be/9rZ8k9m2hwo)
+Down to the River to Pray  ->  Down To The River To Pray (From “O Brother, Where Art Thou” Soundtrack)  (youtu.be/4SZv7JJqcNY)
+I Want Jesus to Walk with Me  ->  I Want Jesus to Walk with Me | Help in Daily Living  (youtu.be/TO1a6yiAdrM)
+Steal Away  ->  Fisk Jubilee Singers - Steal Away to Jesus  (youtu.be/Wo0AOf9b6fU)
+Every Time I Feel the Spirit  ->  Every Time I Feel the Spirit - Hymn with Lyrics  (youtu.be/64iQpEaVKNI)
+My Hope Is Built on Nothing Less  ->  My Hope Is Built on Nothing Less  (youtu.be/rkMapZB8qMk)
+How Firm a Foundation  ->  How Firm a Foundation | Reawaken Hymns | Official Lyric Video  (youtu.be/3vZfzYSEGwk)
+Sweet By and By  ->  Sweet By and By with Lyrics Sung by Bird Youmans  (youtu.be/0zWZu-QupWU)
+Shall We Gather at the River  ->  BEAUTIFUL Hymn about Heaven - Shall We Gather At the River (With Lyrics)  (youtu.be/v1qnjd23YQM)
+When the Roll Is Called Up Yonder  ->  When The Roll Is Called Up Yonder  (youtu.be/z7qOLe9gfVE)
+When We All Get to Heaven  ->  When We All Get to Heaven (Hymns with Lyrics)  (youtu.be/qwpTceQfqGw)
+Higher Ground  ->  Higher Ground hymn lyrics  (youtu.be/jYCkqCG933M)
+Since Jesus Came into My Heart  ->  Since Jesus Came Into My Heart [Live]  (youtu.be/eoCC1NjIHPE)
+Love Lifted Me  ->  Love Lifted Me • Congregational  (youtu.be/Lk5XNtNBhQY)
+Praise Him! Praise Him!  ->  Praise Him! Praise Him! • Congregational  (youtu.be/kWFAk7gQWgA)
+Wonderful Words of Life  ->  Wonderful words of life  (youtu.be/U7x3OX6v5_o)
+Santo, Santo, Santo  ->  HA62 Himno 70 | Santo, Santo, Santo |  (youtu.be/X57AnzP5xDw)
+Castillo Fuerte  ->  Castillo Fuerte  (youtu.be/gQOJFZaw-vw)
+Noche de Paz  ->  Danny Gokey, David Archuleta - Noche De Paz  (youtu.be/jCRsxvSs_vA)
+While Shepherds Watched Their Flocks  ->  While Shepherds Watched Their Flocks By Night with Lyrics | Christmas Carol & Song  (youtu.be/eSyUvOUZwxQ)
+Once in Royal David's City  ->  Once in Royal David's City / Carols from King's 2013  (youtu.be/PtiCLJvyePw)
+As with Gladness Men of Old  ->  As With Gladness, Men of Old (Tune: Dix - 5vv) [with lyrics for congregations]  (youtu.be/UB8rKNrlpDQ)
+Good Christian Men, Rejoice  ->  Good Christian Men Rejoice | Christmas Lyric Video | Reawaken Hymns  (youtu.be/f5E6N1g22xk)
+Angels from the Realms of Glory  ->  Angels from the Realms of Glory UMH 220; FUMC Houston, 12/31/2023  (youtu.be/7iF80qpbIGo)
+I Heard the Bells on Christmas Day  ->  Casting Crowns - I Heard The Bells on Christmas Day Live  (youtu.be/M7670CXvPX0)
+Thou Didst Leave Thy Throne  ->  Thou Did'st Leave Thy Throne & Thy Kingly Crown (Tune: Margaret-5vv) [with lyrics for congregations]  (youtu.be/P7w_z8o2SQI)
+Infant Holy, Infant Lowly  ->  Infant Holy, Infant Lowly - Christmas Sing Along with Lyrics  (youtu.be/EMfVGdHjPAc)
+Of the Father's Love Begotten  ->  Of the Father's Love Begotten - Advent Hymn Lyric VIdeo  (youtu.be/AACo2zzHMbQ)
+Lo! He Comes with Clouds Descending  ->  Lo! He comes with clouds descending | The Choir of Trinity College Cambridge  (youtu.be/w98-VuKi-4Q)
+All Glory, Laud, and Honor  ->  All Glory, Laud, And Honor  (youtu.be/mVzIr_jDkj0)
+Hosanna, Loud Hosanna  ->  Hosanna, Loud Hosanna (Lyric Video)  (youtu.be/L8VgZTC0FSo)
+Ride On, Ride On in Majesty  ->  Ride on ride on in majesty (Hymn with lyrics)  (youtu.be/uHeIX8xTpYs)
+The Strife Is O'er  ->  The Strife is O'er Hymn lyrics  (youtu.be/BeZVkRstr7M)
+Come, Ye Faithful, Raise the Strain  ->  Come, Ye Faithful, Raise The Strain  (youtu.be/ZXS4TRMrspo)
+I Know That My Redeemer Lives  ->  I Know That My Redeemer Lives | Song of Farewell | Funeral Hymn | S. Soper | Catholic Choir w/Lyrics  (youtu.be/9l4W0_56sAg)
+Go to Dark Gethsemane  ->  Go to Dark Gethsemane  (youtu.be/vD6tcMroY0A)
+Beneath the Cross of Jesus  ->  Beneath The Cross of Jesus (with lyrics) - Beautiful Easter Hymn  (youtu.be/Gf6ff1oYn9g)
+Hallelujah! What a Savior  ->  Hallelujah, What a Savior #296  (youtu.be/x4WVT-_Xt7M)
+In the Cross of Christ I Glory  ->  In the Cross of Christ I Glory (Hymn 285) | Grace Community Church Congregation & Orchestra  (youtu.be/pApIxr977Zk)
+Lead Me to Calvary  ->  LEAD ME TO CALVARY (2020 1080P)  (youtu.be/rE6qReRGmaY)
+Down at the Cross  ->  DOWN AT THE CROSS by Bart Millard  (youtu.be/FHRB4pHvvWg)
+Grace Greater than Our Sin  ->  Grace Greater Than Our Sin • Congregational  (youtu.be/HsEFQeUj5to)
+Whiter than Snow  ->  Whiter Than Snow | Help in Daily Living  (youtu.be/bVWOV8_PPCk)
+I Gave My Life for Thee  ->  I Gave My Life For Thee (with lyrics) - Beautiful Easter Hymn  (youtu.be/fznpu_dM9H4)
+O the Deep, Deep Love of Jesus  ->  O THE DEEP, DEEP LOVE OF JESUS - Selah  (youtu.be/9hzYKovRsJ8)
+Jesus, the Very Thought of Thee  ->  Jesus, the Very Thought of Thee  (youtu.be/62J434N0w1c)
+Majestic Sweetness Sits Enthroned  ->  Majestic Sweetness Sits Enthroned  (youtu.be/D692P5618DI)
+The God of Abraham Praise  ->  The God of Abraham Praise (Grace Community Church)  (youtu.be/OvTgzJ2nZGo)
+Ancient of Days  ->  Ancient of Days (Live) - Ron Kenoly  (youtu.be/V4dR_zuB3qk)
+All People That on Earth Do Dwell  ->  All people that on earth do dwell Hymn - Westminster Abbey  (youtu.be/5QgakrRvsX8)
+The Lord's My Shepherd  ->  The Lord’s My Shepherd, I’ll Not Want (Metropolitan Tabernacle)  (youtu.be/-Msh0PAJfPU)
+Praise the Lord! Ye Heavens, Adore Him  ->  Praise the Lord, Ye Heavens Adore Him (Tune: Austria - 3vv) [with lyrics for congregations]  (youtu.be/wxcqtO8fYK0)
+Ye Servants of God  ->  Ye Servants of God! Your Master Proclaim (Tune: Laudate Dominum - 4vv) [lyrics for congregations]  (youtu.be/ptLLr_WjCz8)
+Arise, My Soul, Arise  ->  Arise, My Soul, Arise #291  (youtu.be/Cr6vMGPxYjI)
+I Sing the Mighty Power of God  ->  I Sing the Mighty Power of God  (youtu.be/eeSoE1Kmmv0)
+O Could I Speak the Matchless Worth  ->  177. O Could I Speak the Matchless Worth, Trinity Hymnal  (youtu.be/A-gYVfM4axw)
+Gloria Patri  ->  Gloria Patri (Glory Be to the Father)  (youtu.be/QUBxpypSblw)
+If Thou But Suffer God to Guide Thee  ->  If Thou But Suffer God to Guide Thee - Hymn 147 - Lyric Video  (youtu.be/uPQUMvrGfCc)
+Jesus, Priceless Treasure  ->  Jesus, Priceless Treasure Hymn with lyrics (Jesu, Meine Freude)  (youtu.be/Ep8mB9Wlg2s)
+Come, Ye Disconsolate  ->  Come, Ye Disconsolate - Hymn Sing-Along [With Lyrics Onscreen]  (youtu.be/L3jLeJQuXWc)
+Unto the Hills  ->  Unto the Hills  (youtu.be/h-OPPkenXvY)
+Eternal Father, Strong to Save  ->  Eternal Father strong to save  (youtu.be/bDjwUzUnNpU)
+Now the Day Is Over  ->  Now the Day Is Over (w/ lyrics)  (youtu.be/Ll1sxSPhd3E)
+Spirit of God, Descend upon My Heart  ->  Spirit of God Descend Upon My Heart - The Joslin Grove Choral Society  (youtu.be/igV63aKSqb8)
+Breathe on Me, Breath of God  ->  Breathe on Me, Breath of God | Keith & Kristyn Getty | Official Lyric Video  (youtu.be/RzCbfqc9y7s)
+Holy Spirit, Faithful Guide  ->  Holy Spirit Faithful Guide | God So Loved the World  (youtu.be/UYiuhC8vkUE)
+Faith of Our Fathers  ->  Faith of Our Fathers (with lyrics) - The most Beautiful Hymn!  (youtu.be/Ay9EcTD2gzs)
+For All the Saints  ->  For All the Saints | October 2023 General Conference  (youtu.be/8lM64ukI9D8)
+God of Our Fathers  ->  God Of Our Fathers (Hymn 431) | Grace Community Church Congregation & Orchestra  (youtu.be/kGxXZOs6oK4)
+Here Is Love  ->  Here Is Love, Vast as the Ocean (Everlasting Praise) Live from Sing! - The Gettys, Sandra McCracken  (youtu.be/ffnOZN6wXLo)
+Jesus Loves Me  ->  Jesus Loves Me (Hymns with lyrics)  (youtu.be/LD1_CPqJusg)
+My Jesus, I Love Thee  ->  My Jesus I Love Thee - Classic Hymn  (Lyrics)  (youtu.be/xvOpNk4jVis)
+I Stand Amazed in the Presence  ->  I Stand Amazed in the Presence | Reawaken Hymns | Official Lyric Video  (youtu.be/hXB78cLK2dg)
+O That Will Be Glory  ->  O That Will Be Glory  (youtu.be/41Yl1KzSNdA)
+Brighten the Corner Where You Are  ->  Homer Rodeheaver   Brighten The Corner Where You Are  (youtu.be/_Ll_pGKGmLE)
+He Hideth My Soul  ->  He Hideth My Soul • Congregational  (youtu.be/zoDYpGjXvl8)
+Safe in the Arms of Jesus  ->  Safe in the Arms of Jesus  (youtu.be/akCa9fqzgQg)
+Tell Me the Story of Jesus  ->  Tell Me the Story of Jesus | Songs and Everlasting Joy  (youtu.be/qSDlShWZcvo)
+Saved by Grace  ->  Saved by Grace | Some Day the Silver Cord Will Break | Songs and Everlasting Joy  (youtu.be/nx1yvbYdYkc)
+Close to Thee  ->  Close To Thee (Live)  (youtu.be/tveOMT65mO8)
+I Will Sing of My Redeemer  ->  I Will Sing of My Redeemer with Lyrics by Fernando Ortega  (youtu.be/HU5hhE9cN6A)
+Let the Lower Lights Be Burning  ->  Let the Lower Lights Be Burning  (youtu.be/BUOMWDbT6iI)
+Almost Persuaded  ->  “Almost Persuaded” hymn with lyrics by Marty Robbins.  (youtu.be/ok0aOhHs6gY)
+The Ninety and Nine  ->  Gaither - The Ninety and Nine (Live) ft. Guy Penrod, The Nelons  (youtu.be/3NbHZjlnWos)
+I Will Sing the Wondrous Story  ->  I Will Sing the Wondrous Story  (youtu.be/9ahjKfVb4Lc)
+Since I Have Been Redeemed  ->  Since I Have Been Redeemed • Congregational  (youtu.be/BYCHBkkY7qQ)
+O Happy Day  ->  O Happy Day • Congregational  (youtu.be/Iqx0XUmrk-A)
+Only Trust Him  ->  Only Trust Him with Lyrics by Alan Jackson  (youtu.be/d2pW71L6ymc)
+Christ Receiveth Sinful Men  ->  Christ Receiveth Sinful Men (Weekly Hymn Project)  (youtu.be/KW6w_Jl8N0c)
+More Love to Thee  ->  More Love to Thee - HBBC Chancel Choir and Orchestra  (youtu.be/svx4MdZPZ64)
+More About Jesus  ->  Bill & Gloria Gaither - More About Jesus [Live] ft. The Blackwood Brothers  (youtu.be/K7pDDG-VaFI)
+Footsteps of Jesus  ->  Footsteps Of Jesus • Congregational  (youtu.be/M1y96xHIXIk)
+Yield Not to Temptation  ->  Yield Not To Temptation | Classic Gospel Hymn  (youtu.be/CQm4gfoAtwk)
+I Must Tell Jesus  ->  I Must Tell Jesus • Congregational  (youtu.be/5PbKBx870fw)
+No, Not One  ->  No, Not One! • Congregational  (youtu.be/4Ea5NzRueOQ)
+Tell Me the Old, Old Story  ->  Tell Me the Old, Old Story  (youtu.be/XqSIMQaeAds)
+Throw Out the Lifeline  ->  Throw Out The Lifeline  (youtu.be/PjXr9tQT6bU)
+Anywhere with Jesus  ->  Anywhere With Jesus- Congregational Singing  (youtu.be/relTdq8-ThA)
+The Haven of Rest  ->  Bill & Gloria Gaither - The Haven of Rest [Live] ft. Glen Payne, Guy Penrod  (youtu.be/xU4HgK-R6C4)
+He Keeps Me Singing  ->  Bill & Gloria Gaither - He Keeps Me Singing [Live] ft. Jake Hess  (youtu.be/2gT-f8sDBJI)
+Dwelling in Beulah Land  ->  Dwelling In Beulah Land • Congregational  (youtu.be/DNX75GAAagA)
+Beulah Land  ->  Bill & Gloria Gaither - Sweet Beulah Land [Live] ft. Squire Parsons  (youtu.be/5WdeC4vWRpo)
+He Lifted Me  ->  He Lifted Me • Congregational  (youtu.be/_QWOcQVpeAE)
+Sunshine in My Soul  ->  Sunshine In My Soul • Congregational  (youtu.be/I6ODNyCOxW0)
+Blessed Quietness  ->  Blessed Quietness  (youtu.be/ZbMXCMRK7uc)
+Sweet Peace, the Gift of God's Love  ->  Sweet Peace, the Gift of God's Love  (youtu.be/tkBGLb_ifdo)
+Living for Jesus  ->  Living for Jesus - Marjolein van Hoef  (youtu.be/pzrNMoCJhyI)
+In My Heart There Rings a Melody  ->  In My Heart There Rings a Melody - Andy Harsant [with lyrics]  (youtu.be/BqXBm5-Y_kI)
+Ivory Palaces  ->  Ivory Palaces  (youtu.be/VyMIpGzflY0)
+One Day  ->  One Day • Congregational  (youtu.be/7R9YFAceXnM)
+Nearer, Still Nearer  ->  Nearer, Still Nearer  (youtu.be/gCF2D98szaU)
+Sweeter as the Years Go By  ->  SBBC Choir - Sweeter as the Years Go by  (youtu.be/3smhZRYV_FU)
+What If It Were Today?  ->  What If It Were Today? - Dede Hauser - June 29, 2014  (youtu.be/0JD6Jxt0sZg)
+Did You Think to Pray?  ->  Did you Think to Pray?  (youtu.be/2NSFmCduZGU)
+When I Can Read My Title Clear  ->  WHEN I CAN READ MY TITLE CLEAR (AN AMERICAN FOLK HYMN MEDLEY) (SATB Choir)  - arr. John Purifoy  (youtu.be/w3g1BD8VI7c)
+At the Cross  ->  AT THE CROSS ( where I first saw the light ) Lyrics  (youtu.be/X23Fu2j0HFs)
+We're Marching to Zion  ->  Bill & Gloria Gaither - We're Marching to Zion [Live] ft. Jim Hill  (youtu.be/4-EUg3LVj6s)
+Am I a Soldier of the Cross  ->  Am I A Soldier Of The Cross (Hymn 421)  (youtu.be/KU5ct0iY-Ds)
+Soldiers of Christ, Arise  ->  Soldiers of Christ, Arise  (youtu.be/44GUiMdFApA)
+A Charge to Keep I Have  ->  Troy Ramey - A Charge to Keep I Have  (youtu.be/_nQPlvT9U5c)
+We'll Understand It Better By and By  ->  We'll Understand It Better By and By | Classic Gospel Hymn  (youtu.be/fLzLJXETn0A)
+Stand by Me  ->  Ben E. King - Stand By Me (Audio)  (youtu.be/hwZNL7QVJjE)
+Nothing Between  ->  Nothing Between | Songs and Everlasting Joy  (youtu.be/1h2TRFEiZoQ)
+Leave It There  ->  Leave It There  (youtu.be/9nelWOiu-iI)
+Deep River  ->  UNT A Cappella Choir: Deep River  (youtu.be/EVMgiwR5igo)
+There Is a Balm in Gilead  ->  There is a Balm in Gilead | Songs and Everlasting Joy  (youtu.be/TQ3EjnKs1Zo)
+Nobody Knows the Trouble I've Seen  ->  Louis Armstrong - Nobody Knows the Trouble I've Seen (1962)  (youtu.be/SVKKRzemX_w)
+My Lord, What a Morning  ->  My Lord What a Morning  (youtu.be/HRuKqHokbTU)
+Standing in the Need of Prayer  ->  Standing In the Need of Prayer - Christian video for kids  (youtu.be/LAnAuLMarvk)
+When the Saints Go Marching In  ->  When the Saints Go Marching In | Hymn with Lyrics | Dementia friendly  (youtu.be/vipoxy3P1ec)
+On Jordan's Stormy Banks  ->  Keith & Kristyn Getty - On Jordan's Stormy Banks (Lyric Video)  (youtu.be/8f7Emjm6oys)
+Face to Face  ->  Face to Face with Christ, My Saviour  (youtu.be/SuLig-W4wSU)
+We Plow the Fields and Scatter  ->  We Plow the Fields and Scatter | Digital Reading Session  (youtu.be/YM1ZneB6oXI)
+Tell Me the Stories of Jesus  ->  Tell Me the Stories of Jesus LDS Primary Song Lyric Video - Vocals and Lyrics for Practice  (youtu.be/lf5uc0aA8Yg)
+A Child of The King  ->  Gaither Vocal Band - Child Of The King (Live At Gaither Studios)  (youtu.be/zL20ETnYnjw)
+A Great and Mighty Wonder  ->  A Great And Mighty Wonder I Hymn with Lyrics  (youtu.be/A_gUEfoNWDA)
+A Lamb Goes Uncomplaining Forth  ->  A Lamb Goes Uncomplaining Forth  (youtu.be/_FRRfak00g0)
+Abide, O Dearest Jesus  ->  919. Abide, O Dearest Jesus - The Congregation sing from The LSB  (youtu.be/3JVBz9JowWw)
+All Depends On Our Possessing  ->  Hymn 732: All Depends on Our Possessing  (youtu.be/-Pzfq2kOKa4)
+All My Heart This Night Rejoices  ->  SMF - All My Heart This Night Rejoices  (youtu.be/zzfdVU32vUc)
+All Praise To Thee, My God, This Night  ->  All Praise to Thee My God This Night -- HOTM for August 2023  (youtu.be/aQonZsmhP-w)
+All Praise to Jesus' Hallowed Name  ->  All Praise to Jesus' Hallowed Name  (youtu.be/txs0vIZWTqE)
+All Who Believe and Are Baptized  ->  2023 01 15 All Who Believe and Are Baptized  (youtu.be/1jMjBPj9FL8)
+Alleluia, Alleluia! Hearts to Heaven and Voices Raise  ->  Alleluia, Alleluia! Hearts to Heaven and Voices Raise  (youtu.be/HKqBY5Hsfik)
+Alleluia, Sing To Jesus!  ->  Alleluia! Sing to Jesus  (youtu.be/Wh61poqcnpA)
+Almighty God Your Word Is Cast  ->  577 - Almighty God, Your Word Is Cast - The Congregation sings from The Lutheran Service Book.  (youtu.be/1c2mjT5schA)
+Angel Voices, Ever Singing  ->  ♫ Hymn | Angel-voices ever singing | with LYRICS  (youtu.be/dRI1XlsFXoM)
+Awake, My Heart, With Gladness  ->  Awake, My Heart, with Gladness  (youtu.be/7vkwarcV5kI)
+Awake, My Soul, And With The Sun  ->  Awake, My Soul, and With the Sun (Tune: Morning Hymn - 5vv) [with lyrics for congregations]  (youtu.be/P6TaygvxHrc)
+Baptized Into Thy Name Most Holy  ->  Baptized into Thy Name Most Holy (O Dass ich Tausend - Dretzel)  (youtu.be/P6Ljb8Cb9ro)
+Beautiful Savior  ->  Beautiful Savior - Hymn Sing-Along [with Lyrics Onscreen]  (youtu.be/bhrA-myM44s)
+Behold, A Host, Arrayed in White  ->  Behold a Host, Arrayed in White - LSB 676 (Te Deum Conference - 2015 NE)  (youtu.be/O3bq2MiCRZw)
+Blessed Jesus at Thy Word  ->  060 SDA Hymn - Blessed Jesus, at Thy Word (Singing w/ Lyrics)  (youtu.be/dRkXFahdXJU)
+Blind Bartimaeus  ->  Bill & Gloria Gaither - Blind Bartimaeus [Live] ft. The Bishops  (youtu.be/3xu-6RZ7mzI)
+Built on the Rock  ->  Built on the Rock - Lutheran Service Book 645  (youtu.be/wkOo_acptjE)
+By Grace I'm Saved  ->  By Grace I'm Saved - LSB 566 (Crucified Conference - WI 2014)  (youtu.be/tKJyb_oiNOw)
+Christ Arose  ->  Christ Arose! • Congregational  (youtu.be/6BYMCZNHPmg)
+Christ Jesus Lay In Death's Strong Bands  ->  Christ Jesus Lay in Death's Strong Bands - LSB 458 (Te Deum Conference - 2015 NE)  (youtu.be/nKx2J4Llcso)
+Christ Returneth  ->  Christ Returneth - Hymn with Lyrics  (youtu.be/PHmQ7mNX7u4)
+Christ The Lord Is Risen Today (Lyra)  ->  Christ the Lord is risen today - Easter Hymn (Worgan)  (youtu.be/BpT3Xxts4qs)
+Come Down, O Love Divine  ->  Come Down, O Love Divine  (youtu.be/wMFIj8jysOQ)
+Come, God Creator, Holy Ghost  ->  Come, God Creator, Holy Ghost  (youtu.be/WcqHPmoHnQw)
+Come Holy Spirit, Lord Our God  ->  (no confident match)
+Come Thou Fount Of Every Blessing  ->  Come Thou Fount of Every Blessing (with lyrics) The most BEAUTIFUL hymn you've EVER heard!  (youtu.be/4xJXzgonLdQ)
+Come, Your Heart and Voices Raising  ->  Come, Your Hearts and Voices Raising (John A. Behnke)  (youtu.be/r2pr86ey7gU)
+Comfort, Comfort Ye My People  ->  Comfort, Comfort, Ye My People  (youtu.be/GGURM_EVT8M)
+Day of Wrath, O Day of Mourning  ->  Day of Wrath! O Day of Mourning! (Dies Irae)  (youtu.be/d9Rde7iKrB0)
+Dear Christians, One and All Rejoice  ->  Dear Christians One And All Rejoice  (youtu.be/mX309aMcVb4)
+Despair Not, O Heart  ->  Traditional: Despair Not, O Heart (Arr. Danish String Quartet)  (youtu.be/JOxU6ZiBJAo)
+Every Morning Mercies New  ->  Every Morning Mercies New (Praise)  (youtu.be/qLbPMJob03o)
+Far, Far Away On Judea's Plains  ->  (#212) Far, Far Away on Judea's Plains (LDS Hymns - organ instrumental)  (youtu.be/7r8T0DopXeE)
+Fear Not, O Little Flock  ->  Fear not oh little flock  (youtu.be/p_iJLi8C6r4)
+From Heaven Above To Earth I Come  ->  From Heaven Above To Earth I Come - Classic Christmas Hymn (Lyric Video)  (youtu.be/Oq7zuISQ3I4)
+From Nazareth  ->  Man from Nazareth (Live)  (youtu.be/GP4rgCfH7BY)
+Gabriel's Message  ->  Gabriel's Message / The Angel Gabriel | Annunciation to Mary | Advent | Sunday 7pm Choir  (youtu.be/CSiEeFhXsLQ)
+Gentle Mary Laid Her Child  ->  Gentle Mary Laid Her Child - Hymn with Lyrics  (youtu.be/mr8R3IzWfoM)
+Glorious Things of Thee are Spoken  ->  Glorious Things of Thee Are Spoken (Tune: Austria - 4vv) [with lyrics for congregations]  (youtu.be/SNQOcpECk4A)
+God Himself is Present  ->  907. God Himself is Present - The Congregation sing from The LSB  (youtu.be/ZmZ43Z2I6QA)
+God, That Madest Earth and Heaven  ->  God That Madest Earth And Heaven Hymn - Gods Country  (youtu.be/t1VzHv3_9uQ)
+God the Father Be Our Stay  ->  God the Father, Be Our Stay (Gott der Vater Wohn')  (youtu.be/2CUSks046PM)
+God, Whose Almighty Word  ->  God Whose Almighty Word- Hymn Sing-Along  (youtu.be/8HShj_UCsnI)
+God Will Take Care of You  ->  God Will Take Care of You (with lyrics) The most BEAUTIFUL hymn you've EVER heard!  (youtu.be/bRwYXOkNq70)
+Bonus Carol: Good King Wenceslas  ->  The Goldentones sing Good King Wenceslas - Advent Caroldar day 26  (youtu.be/OvQx7Ieo3tk)
+Happy the Man Who Feareth God  ->  Happy the Man Who Feareth God (Psalm 128)  (youtu.be/6w-7ADyB-d0)
+Hark, Hark, My Soul!  ->  Hark Hark My Soul | Frederick William Faber | Hymn | Harmony Of A Decade  (youtu.be/4n4F8xK5Nl4)
+Hark the Glad Sound  ->  Hark, The Glad Sound (Hymn 261) - HYMNOLOGY Season 6  (youtu.be/gJ08bjaGgkQ)
+Hark, the Voice of Jesus Calling  ->  Hark, the Voice of Jesus Calling Adventist Hymn 359🌷🌼  (youtu.be/aZaONaAykrE)
+He Was Not Willing  ->  He Was Not Willing Hymn with Lyrics - Congregational  (youtu.be/a3fJapFM0eM)
+He Who Would Valiant Be  ->  He who would valiant be Hymn - Westminster Abbey  (youtu.be/d2wEYuTgQCk)
+Holy Ghost, with Light Divine  ->  Holy Ghost, with Light Divine (MERCY)  (youtu.be/Kizfju0a0S4)
+Holy Spirit, Ever Dwelling  ->  2023 05 28 Holy Spirit Ever Dwelling  (youtu.be/nHW2zOmLhe8)
+I Am Jesus' Little Lamb  ->  I Am Jesus' Little Lamb  (youtu.be/hTqzFTVPRP4)
+I Bind Unto Myself Today  ->  I Bind Unto Myself This Day (Tune: St Patrick's Breastplate - 11vv) [with lyrics for congregations]  (youtu.be/KUrERen9Vyc)
+I Come, O Savior, To Thy Table  ->  I Come, O Savior, to Thy Table - LSB 618  (youtu.be/4QLFZApE6AY)
+I Know Whom I Have Believed  ->  I Know Whom I Have Believed  (youtu.be/_bRV3J4n8cc)
+I Place My Trust In God  ->  I Place My Trust in God  (youtu.be/4YmhDjR37a8)
+If God Had Not Been on Our Side  ->  If God Had Not Been On Our Side - Christian Hymn with Lyrics  (youtu.be/8U-VWEhQ-04)
+If God Himself Be For Me  ->  If God Himself Be for Me  (youtu.be/673BVWwbsL8)
+I'm But A Stranger Here  ->  Heaven is My Home (I'm But A Stranger Here)  (youtu.be/KIv0TdmJ5uU)
+In His Temple Now Behold Him  ->  In His Temple Now Behold Him (Music: TANTUM ERGO) - Henry J. Pyle  (youtu.be/FRd56TT1fFY)
+In Peace and Joy I Now Depart  ->  Score Video: CW'93 269 In Peace and Joy I Now Depart | Lutheran Hymn Sing  (youtu.be/No5yAAwEcpI)
+In The Bleak MidWinter  ->  In the Bleak Midwinter (Tune: Cranham - 4vv) [with lyrics for congregations]  (youtu.be/xAzQIS4-MpY)
+In These Our Days So Perilous  ->  Verleih uns Frieden gnädiglich / In these our days so perilous  (youtu.be/ilzrC37qEk8)
+Isaiah, Mighty Seer, In Days of Old  ->  Isaiah, Mighty Seer in Days of Old - Christian Song - Music with Lyrics  (youtu.be/zImJXrJaeVc)
+It Came Upon A Midnight Clear  ->  It Came Upon a Midnight Clear  (youtu.be/Xw3wDU5YAaM)
+Jerusalem the Golden  ->  Jerusalem the Golden  (youtu.be/HJBPYXkWKUg)
+Jesus Came, the Heavens Adoring  ->  Jesus Came, the Heavens Adoring (#097 Common Praise 1998 - Advent)  (youtu.be/NQP7lyHy5pQ)
+Jesus Christ Is Risen Today  ->  Jesus Christ is Risen Today (Hymn with lyrics)  (youtu.be/PcTP3Pj6Smo)
+Jesus Christ, Our Blessed Savior  ->  Jesus Christ, Our Blessed Savior - LSB 627  (youtu.be/J1QxrWUqEsw)
+Jesus Christ Who Came to Save  ->  ThanksGiving to our Lord and Savior Jesus Christ who came to save us and the World for Eternity.  (youtu.be/heqaEwwz83A)
+Jesus Grant That Balm and Healing  ->  Score Video: LSB 421 Jesus, Grant That Balm and Healing | Lutheran Hymn Sing  (youtu.be/65bC9z6qT6Q)
+Jesus, In Thy Dying Woes  ->  “Jesus, in Your Dying Woes” Lutheran Service Book LSB #447  (youtu.be/bkYS-f4vhzY)
+Jesus Is All the World To Me  ->  Jesus Is All the World to Me 🌍 (WITH LYRICS) Beautiful Christian Hymn of Worship & Praise  (youtu.be/RQF9gja2vKc)
+Jesus, King of Glory  ->  Jesus, King of glory  (youtu.be/qHlbR7mb8a8)
+Jesus Sinners Doth Receive  ->  Score Video: LSB 609 Jesus Sinners Doth Receive | Lutheran Hymn Sing  (youtu.be/82GxNSeYrZI)
+Jesus, Tender Shepherd, Hear Me  ->  Jesus, Tender Shepherd, Hear Me Lyric Video  (youtu.be/AhwDAJX0uZQ)
+Jesus, Thy Boundless Love To Me  ->  JESUS, THY BOUNDLESS LOVE TO ME (SATB Choir) - Paul Gerhardt/Greg Gilpin  (youtu.be/iNxHAcknMxw)
+Jesus Wants All Of His Children  ->  (no confident match)
+Lamp of Our Feet  ->  Hymn 627, Lamp of our feet  (youtu.be/bVjS2-fPWOA)
+Let All Mortal Flesh Keep Silence  ->  Let All Mortal Flesh Keep Silence - Catholic Music Initiative - Dave Moore, Lauren Moore  (youtu.be/DfH2o2-LG08)
+Let Children Hear The Mighty Deeds  ->  Let The Children Hear the Mighty Deeds - Hymn 293  (youtu.be/xr_PpCTRuM8)
+Let Our Gladness Have No End  ->  Sara Groves - Let Our Gladness Have No End (Official Audio)  (youtu.be/t4YNj7dv1mI)
+Lift High The Cross  ->  Lift High The Cross | Traditional Christian Hymn with Lyrics | Choir & Piano | Sunday 7pm Choir  (youtu.be/RzUz3ny4Uzw)
+Lift Up Your Heads, Ye Mighty Gates  ->  Lift Up Your Heads, Ye Mighty Gates  (youtu.be/Iy2JyS0F-F0)
+Lo, God To Heav'n Ascendeth  ->  (no confident match)
+Look Down, O Lord, From Heaven Behold  ->  (no confident match)
+Lord, Dismiss Us With Thy Blessing  ->  Lord Dismiss us with thy Blessings, Thanks for mercies past receive -  Buckoll, Henry James (H.J.B)  (youtu.be/F-Bf_f2NM_8)
+Lord, Enthroned in Heavenly Splendor  ->  Lord, enthroned in heavenly splendor (Bryn Calfaria)  (youtu.be/nxkbBakVGuM)
+Lord Jesus Think On Me  ->  Lord Jesus, Think on Me (Tune: Southwell - 6vv) [with lyrics for congregations]  (youtu.be/gtPD24Bvn38)
+Lord, Keep Us Steadfast in Thy Word  ->  Lord, Keep Us Steadfast in Thy Word - LSB 655 (Te Deum Conference - 2015 NE)  (youtu.be/eSoP-MF6Zs0)
+Lord Of Our Life  ->  Score Video: LSB 659 Lord of Our Life | Lutheran Hymn Sing  (youtu.be/JqdiJikX55k)
+Lord, Thee I Love with All My Heart  ->  2020 03 08 Lord Thee I Love With All My Heart  (youtu.be/vSm7lD_tT-k)
+Lord, Who at Cana's Wedding Feast  ->  Lord, Who at Cana's Wedding Feast (Bethlehem - Lutheran)  (youtu.be/CvmhJhObFgI)
+Lord Who Throughout These Forty Days  ->  Lord, Who Throughout These Forty Days  (youtu.be/vAGMA8NrGmU)
+Lord of Glory, Who Hast Bought Us  ->  Lord of Glory, Who Hast Bought Us (Hyfrydol)  (youtu.be/y6IaFz0wb-4)
+Lord of Life, All Praise Excelling  ->  (no confident match)
+May God Bestow on Us His Grace  ->  Hymn 824 May God Bestow on Us His Grace  (youtu.be/DFG3SQL-Ouw)
+Moment By Moment  ->  Moment by Moment | Steps to Christ  (youtu.be/b7b0cf_kM8c)
+My Hope Is Built  ->  My Hope Is Built on Nothing Less  (youtu.be/rkMapZB8qMk)
+My Jesus, As Thou Wilt  ->  My Jesus, as Thou Wilt (Weekly Hymn Project)  (youtu.be/PGQ4YZJL7a0)
+My Savior's Love  ->  My Savior’s Love • Congregational  (youtu.be/LYd9krIRxZE)
+My Song Shall Be Of Jesus  ->  244 SDA Hymn -  My Song Shall Be Of Jesus (Singing w/ Lyrics)  (youtu.be/tgh8yVcLdgM)
+My Soul, Now Praise Thy Maker  ->  Hymn 820 My Soul, Now Praise Your Maker  (youtu.be/1q9hj9nurYA)
+None Other Lamb  ->  None Other Lamb - Hymn Lyric Video  (youtu.be/ldrGGn5Pb54)
+Not Worthy, Lord, to Gather Up the Crumbs  ->  Not Worthy, Lord! to Gather up the Crumbs (Consolation)  (youtu.be/N_1hWTb42y8)
+Now Praise We Christ, the Holy One  ->  2021 12 25 Now Praise We Christ the Holy One  (youtu.be/IO9bYDniLiw)
+Now Rest Beneath Night's Shadow  ->  Score Video: LSB 880 Now Rest beneath Night's Shadow | Lutheran Hymn Sing  (youtu.be/XrFnbDRrh0o)
+Now the Light Has Gone Away  ->  Now The Light Has Gone Away - Christian Song with Lyrics  (youtu.be/ABeKkGkmyM0)
+O Chief of Cities Bethlehem  ->  O chief of cities, Bethlehem  (youtu.be/6pceoKCMco8)
+O Day of Rest And Gladness  ->  #393 O Day of Rest and Gladness  (youtu.be/m8gGfqL31KQ)
+O Father, All Creating  ->  O Father, All-Creating  (youtu.be/GCPv49PBBKM)
+O For A Thousand Tongues  ->  O For a Thousand Tongues to Sing | Official Lyric Video | Reawaken Hymns  (youtu.be/vFMAlhxnJrE)
+O Holy, Blessed Trinity  ->  O Holy, Blessed Trinity (Ward)  (youtu.be/Hg9l_hVODtQ)
+O Holy Spirit, Enter In  ->  O Holy Spirit, enter in - WIE SCHÖN LEUCHTET (FRANKFORT)  (youtu.be/gnwNk53m9ps)
+O Lord, How Shall I Meet Thee  ->  O Lord, How Shall I Meet You by Michael D. Costello - Scrolling Score  (youtu.be/-lP7nVxqbhA)
+O Lord, I Am Not Worthy  ->  O Lord, I Am Not Worthy  (youtu.be/1OrU2VcGr7Q)
+O Lord My Soul Convicted  ->  O Lord, My Soul Convicted Stands (Baca)  (youtu.be/KFGJYX693RI)
+O Lord of Heav'n and Earth and Sea  ->  O Lord Of Heavn And Earth And Sea - Hymn Lyrics & Music  (youtu.be/2u9XzbKcQIA)
+O Lord We Praise Thee  ->  Hymn 617: O Lord, We Praise Thee  (youtu.be/kh6Q9U-UoIE)
+O Love, How Deep, How Broad, How High  ->  Hymn 448 O Love, How Deep, How Broad, How High  (youtu.be/wMgjUwl_Oig)
+O That The Lord Would Guide My Ways  ->  Oh That the Lord Would Guide My Way - Hymn with Lyrics  (youtu.be/Uw-r7x4R6kU)
+O Trinity of Blessed Light  ->  O Trinity of blessed light- #29 The Hymnal 1982  (youtu.be/XDuTADt0MiI)
+O Wondrous Type, O Vision Fair  ->  O Wondrous Type! O Vision Fair I Hymn with Lyrics  (youtu.be/gdMeImkIl7I)
+Oh, Blest the House  ->  Oh, Blest the House, Whate'er Befall  (youtu.be/0uZ_hbUZLV8)
+On Jordan's Bank the Baptist's Cry  ->  On Jordan's Bank the Baptist's Cry (Tune: Winchester New - 5vv) [with lyrics for congregations]  (youtu.be/pIr21lLgFpg)
+On What Has Now Been Sown  ->  921 On What Has Now Been Sown - The Congregation sings from The Lutheran Service Book.  (youtu.be/K9YhZxgnkL8)
+One Thing's Needful  ->  536 - One Thing's Needful - The Congregation sings from The Lutheran Service Book.  (youtu.be/v1XnQLubH-k)
+Open Now Thy Gates of Beauty  ->  901 - Open Now Thy Gates of Beauty - The Congregation sings from The Lutheran Service Book.  (youtu.be/sl9bw7ol_EA)
+Our Father Thou in Heaven Above  ->  Lutheran Hymn   Our Father, Thou in Heaven Above  (youtu.be/ZR5y1N1VFlI)
+Our God, Our Help In Ages Past  ->  O God, Our Help in Ages Past (Grace Community Church)  (youtu.be/yKP_XxCBDZY)
+Out of the Deep I Cry to Thee  ->  Grace Church Piano Postlude - Feb. 21, 2016 - "Out of the Deep I Cry to Thee"  (youtu.be/hI1Kj1j6MPc)
+Over Kidron Jesus Treadeth  ->  Over Kidron Jesus Treadeth  (youtu.be/ZAw_uG60qcA)
+Praise God From Whom All Blessings Flow  ->  Praise God From Whom All Blessings Flow Hymn with Lyrics  (youtu.be/UPwFLDPZ-GM)
+Rejoice, My Heart, Be Glad and Sing  ->  Score Video: LSB 737 Rejoice, My Heart, Be Glad and Sing | Lutheran Hymn Sing  (youtu.be/xzTrO-9ljv8)
+Rejoice, O Pilgrim Throng  ->  2022 08 07 Rejoice O Pilgrim Throng  (youtu.be/15JVB76d6f4)
+Salvation Unto Us Has Come  ->  Hymn 555 Salvation Unto Us Has Come  (youtu.be/iSmmXVYl-i8)
+Savior Of The Nations Come  ->  Savior of the Nations, Come  (youtu.be/lKO-C5NTNvA)
+Savior When In Dust To Thee  ->  Savior, When In Dust To Thee  (youtu.be/Y-ug5EoB3vI)
+Savior, Who Thy Flock Art Feeding  ->  Savior, Who Thy Flock Art Feeding (Brocklesbury)  (youtu.be/rcyfoOH4J2w)
+See Amid the Winter's Snow  ->  See Amid the Winter's Snow  (youtu.be/EM508nyh6jo)
+See, The Lord Ascends In Triumph  ->  2022 05 29 See the Lord Ascends in Triumph  (youtu.be/UZy_tU_x1fU)
+Sing, O Sing, This Blessed Morn  ->  SING, O SING THIS BLESSED MORN (SATB Choir) - Christopher Wordsworth/Stan Pethel  (youtu.be/HNoVnzyhWCA)
+Songs of Thankfulness and Praise  ->  Hymn 394 Songs of Thankfulness and Praise  (youtu.be/YOwiBa4EVdI)
+Souls of Men! Why Will Ye Scatter  ->  Souls Of Men, Why Will Ye Scatter(ST. MABYN ) - Old Hymn Lyrics & Music  (youtu.be/DS3_-NvpXpY)
+Stricken, Smitten, and Afflicted  ->  Fernando Ortega, "Stricken, Smitten And Afflicted" (Lyric Video)  (youtu.be/x-QFx5RRqFM)
+Take Thou My Hand and Lead Me  ->  Take Thou My Hand, o Father (So Nimm Denn Meine Haende)  (youtu.be/CjEbiJgS-BM)
+'Take Up Thy Cross', the Savior Said  ->  Take Up Your Cross (The Saviour Said) | Traditional Christian Hymn | Choir+Lyrics | Sunday 7pm Choir  (youtu.be/pKsh9ZPM0tY)
+That Men a godly Life Might Live  ->  That Men a Godly Life Might Live (Old 100th)  (youtu.be/CBa_5SPclkc)
+The Advent of Our God  ->  The Advent Of Our God  (youtu.be/dS9SHZ7zCcQ)
+The Bridegroom Soon Will Call Us  ->  The Bridegroom Soon Will Call Us  (youtu.be/y8qMFAecZ-4)
+The Comforter Has Come  ->  The Comforter Has Come  (youtu.be/sfnRwDoPijY)
+The Day is Surely Drawing Near  ->  Hymn 508 The Day Is Surely Drawing Near  (youtu.be/xdyx9lVQjIU)
+The Galilean Fishers Toil  ->  The Galilean Fishers toil...#Hymn MHB 509  (youtu.be/Z3ADGIz5c0w)
+The Gospel Shows The Father's Grace  ->  LSB 580 - The Gospel Shows the Father's Grace  (youtu.be/EZAM-mIW5aY)
+The King Shall Come  ->  The King Shall Come When Morning Dawns | Advent Christian Hymn | John Brownlie | Choir w/ Lyrics  (youtu.be/sq3gEtTr5lQ)
+The Law Of God Is Good And Wise  ->  The Law of God Is Good and Wise  (youtu.be/5uwEesCWjc0)
+The Lily of the Valley  ->  The Lily of the Valley  (youtu.be/QS6KMx_0NDQ)
+The Love of God  ->  The Love Of God (Hymn 91) - HYMNOLOGY Season 6  (youtu.be/ojTQzJ3CBW0)
+The Mouth of Fools Doth God Confess  ->  The Mouth of Fools Doth God Confess (Allein Gott en der Hoch sie Ehr)  (youtu.be/eHm3bipyKyc)
+The People That in Darkness Sat  ->  The People That in Darkness Sat (#080 Hymns Ancient & Modern 1889) DUNDEE Epiphany  (youtu.be/QqEAE6C8h7Q)
+The Star Proclaims the King is Here  ->  Hymn 399 The Star Proclaims the King Is Here  (youtu.be/7Ado6M0JzpI)
+The Strife Is O'er, The Battle Done  ->  The Strife Is O’er, the Battle Done — Traditional Easter Hymn (Public Domain)  (youtu.be/8qFb2p0Tu3U)
+The Winds and Billows Loudly Roar  ->  MUSIC: The Winds And Billows Loudly Roar Consolation Morning Song  (youtu.be/_0Z2gw85odI)
+There's a Great Day Coming  ->  There's a great day coming, a great day coming  (youtu.be/MxNZKfGLJ98)
+Thine Arm, O Lord, in Days of Old  ->  Hymn 567 Thine arm, O Lord, in days of old  (youtu.be/Wf-8YTllrQ8)
+Thou, Who at Thy First Eucharist  ->  O Thou Who at Thy Eucharist Didst Pray (Tune: Song 1 - 4vv) [with lyrics for congregations]  (youtu.be/u4FERL8Xeno)
+Though in the Midst of Life We Be  ->  Though in Midst of Life We Be (Stark uns, Mittler, dein sind wir)  (youtu.be/V7u-OQ_AGjw)
+Through the Night of Doubt and Sorrow  ->  Through The Night Of Doubt And Sorrow- Hymn of the Week  (youtu.be/5vFh2uHtfF4)
+Tis Good, Lord, To Be Here  ->  'Tis Good Lord To Be Here | Transfiguration Hymn | Choir & Lyrics | Sunday 7pm Choir  (youtu.be/9-BlO8trHII)
+'Tis Midnight and On Olive's Brow  ->  'Tis Midnight, and on Olive's Brow - A Cappella Hymn  (youtu.be/UrECAcBvbjY)
+To Avert From Men God's Wrath  ->  To Avert from Men God's Wrath (ARFON) with descant by Bruce A. Larsen  (youtu.be/FwdLaSwbzt8)
+To Jordan Came Our Lord, The Christ  ->  To Jordan Came the Christ, Our Lord  (youtu.be/gmDzL03cs_E)
+To Shepherds As They Watched By Night  ->  To Shepherds as They Watched by Night - Christmas Song - Christian Hymn  (youtu.be/j3iLbxlmyNU)
+Today Thy Mercy Calls Me  ->  313 Today Thy mercy calls me  (youtu.be/LlaamLDgFu8)
+'Twas On That Dark, That Doleful Night  ->  'Twas on that Doleful Night  (youtu.be/O76OXhGVPSI)
+Under His Wings  ->  Under His Wings  (youtu.be/qeHcf_EtZ6A)
+Wake, Awake, for Night Is Flying  ->  St. Olaf Christmas Festival (2018) - "Wake Awake, For Night is Flying"  (youtu.be/wdN7vC2q9Mc)
+We All Believe in One True God  ->  We All Believe in One True God  (youtu.be/O9VolOFsnPI)
+We Give Thee But Thine Own  ->  670 SDA Hymnal - We Give Thee But Thine Own (Singing w/ Lyrics)  (youtu.be/jC4O8JPMEQ4)
+We Know Thee Who Thou Art  ->  We Know Thee Who Thou Art Lyrics  (Sellinge) # Lent Hymns  (youtu.be/GImQpr44LWA)
+We Now Implore God the Holy Ghost  ->  TLH 231 We Now Implore God the Holy Ghost  (youtu.be/GAXsmYN0hpg)
+Where He Leads Me  ->  Where He Leads Me (I Can Hear My Saviour Calling)  (youtu.be/e9FqFC0WA-o)
+While O'er Our Guilty Land, O Lord  ->  While O'er Our Guilty Land, O Lord (Federal Street)  (youtu.be/yi4Zg8IvpXw)
+Wilt Thou, O Man, Live Happily  ->  Wilt Thou, O Man, Live Happily (Ten Commandments)  (youtu.be/KNOniN4Hf28)
+Within the Father's House  ->  Hymn 410 Within the Father's House  (youtu.be/Q2zszDHzegE)
+You Parents Hear What Jesus Taught  ->  You Parents, Hear What JEsus Taught LW 473  (youtu.be/ZhlWXVEnQHE)
+Sublime Gracia  ->  Sublime Gracia- Amazing Grace en español con letra  (youtu.be/Hc-8A7NA-Uk)
+Al Mundo Paz  ->  AL MUNDO PAZ | Himno Majestuoso #187  (youtu.be/muJxxGsJ3ZA)
+Venid, Fieles Todos  ->  Venid fieles todos  y Ángeles cantando  (youtu.be/VXlZtXA4au4)
+¡Oh, Qué Amigo Nos Es Cristo!  ->  Oh, que amigo nos es Cristo  (youtu.be/a9D18Swl7hk)
+Cariñoso Salvador  ->  HA62 | Himno 420 | Cariñoso Salvador  (youtu.be/97PRX1R_r6U)
+Roca de la Eternidad  ->  HA62 | Himno 236 | Roca de la eternidad  (youtu.be/pMdou3pUfPs)
+Cuán Firme Cimiento  ->  371 - Cuán firme cimiento (Pista/Letra Himnario Bautista)  (youtu.be/u2n7EgliQV4)
+A Solas al Huerto  ->  A solas Al huerto Cantado Rut Ramirez  (youtu.be/SKUo7V5ztSk)
+Firmes y Adelante  ->  225 Onward Christian Soldiers (Firmes Y Adelante) | English LLDM Hymn  (youtu.be/nUwRscOrbr8)
+Estad por Cristo Firmes  ->  HIMNO ESTAD POR CRISTO FIRMES  (youtu.be/B7iipUMrfYk)
+Alcancé Salvación  ->  ALCANCÉ SALVACIÓN | Himno Bautista #330 | Música y Letra  (youtu.be/ZYL1tKtdrFk)
+Cristo Me Ama  ->  Cristo Me Ama (Jesus Loves Me) - Animado Con Letras  (youtu.be/NyxAy-MGlKU)
+Dulce Oración  ->  HA62 | Himno 344 | Dulce oración  (youtu.be/Q7P1iT9xnvw)
+La Cruz Excelsa  ->  La Cruz Excelsa Al Contemplar | Fielder Worship  (youtu.be/CvLtOvHNaAE)
+¡Cuán Grande Amor!  ->  Himno - ¡Cuán Grande Amor! - Paul Bolivar  (youtu.be/7Q5zcFLwp_0)
+¡Gloria! ¡Gloria!  ->  Clapping Gloria - Mike Anderson - original version  (youtu.be/U0SrN4B-HTU)
+¡Oh Aldehuela de Belén!  ->  Himno 88 Oh, aldehuela de Belén Nuevo himnario Adventista  (youtu.be/c_AVn4U21zQ)
+¡Oh Cuan Dulce Es Fiar en Cristo!  ->  Oh cuan dulce es fiar en Cristo - Cuarteto OLAM  (youtu.be/3GPRca3W9To)
+¡Oh Maestro y mi Señor!  ->  214 OH MAESTRO Y MI SEÑOR (Infantil)  (youtu.be/6ITfrWuR_Ak)
+¡Oh Padre, Eterno Dios!  ->  HA62 | Himno 23 | Oh padre, eterno Dios  (youtu.be/yxHVEEAmhoE)
+¡Oh Rostro Ensangrentado!  ->  Oh Rostro Ensangrentado  (youtu.be/6WICng2W90I)
+¡Oh Santísimo, Felicísimo!  ->  HIMNO #121   ¡OH SANTISIMO, FELICÍSIMO!  (youtu.be/Ry_78NI7mic)
+¡Oh! Soldados, en los Cielos  ->  (no confident match)
+¡Seguridad en Cristo Jesús!  ->  Blessed Assurance / Seguridad En Cristo Jesús  (youtu.be/EOYiSGb2auU)
+¿Has Hallado en Cristo?  ->  ¿HAS HALLADO EN CRISTO?  (youtu.be/6srstccRxxU)
+¿Qué Me Puede Da Perdón?  ->  (no confident match)
+¿Quieres Ser Salvo de Toda Maldad?  ->  HA62 | Himno 290 | ¿Quieres ser salvo de toda maldad?  (youtu.be/JfZ0T40f6VY)
+A Cristo Coronad  ->  Himno Adventista 156 - A Cristo coronad  (youtu.be/uGSjQ_v_dp4)
+A Dios, Naciones, Dad Loor  ->  A DIOS, NACIONES, DAD LOOR  (youtu.be/7K-yuLMyDhM)
+A Jesús Alabaremos  ->  A Jesus Alabaremos  (youtu.be/rgnpKE4ShvY)
+A Media Noche Resonó  ->  68 - A media noche resonó (Pista/Letra Himnario Bautista)  (youtu.be/CCli8oWzNCY)
+A Nuestro Padre Dios  ->  HA62 | Himno 5 | A nuestro Padre Dios  (youtu.be/uRh4gpqPxJI)
+Abba Padre, Te Adoramos  ->  ¡Abba Padre! Te adoramos  (Abba, Father, we approach thee) | Acompañamiento con piano y 𝑳𝒆𝒕𝒓𝒂  ♩ ♫ ♬  (youtu.be/S2K1EFeo9_A)
+Abre Mis Ojos a la Luz  ->  HIMNO 357 ABRE MIS OJOS A LA LUZ  (youtu.be/LaE0nQGGIbo)
+Al Que en Busca de la Luz  ->  Coro agua viva "AL QUE EN BUSCA DE LA LUZ"  (youtu.be/aTo0M2SzXgo)
+Al Salvador Jesús  ->  Al Salvador Jesús / Himno con letra / piano / Crown Him with Many Crowns in Spanish  (youtu.be/nP6323akQ1w)
+Allá en el Pesebre  ->  ALLA EN EL PESEBRE-CORO  (youtu.be/m1-bz7BS1f8)
+Amigo Hallé  ->  Amigo Hallé  (youtu.be/jdlvL7pe9Zk)
+Ángeles Cantando Están  ->  Himno Adventista 92 - Ángeles cantando están  (youtu.be/hxLj36-ZYlQ)
+Ángeles de Alta Gloria  ->  ÁNGELES DE ALTA GLORIA | Himno Majestuoso #186  (youtu.be/PjiDS0xleeM)
+Anhelo Trabajar por el Señor  ->  Anhelo trabajar Por el Señor  - (Alabanza con letra)  (youtu.be/I0WCXWSxP4Y)
+Bellas Palabras de Vida  ->  BELLAS PALABRAS DE VIDA | HIMNOS Y COROS l BETHEL TELEVISIÓN  (youtu.be/Hnf1GeT-Xog)
+Con Cánticos, Señor  ->  CON CÁNTICOS SEÑOR | Himno Majestuoso #1  (youtu.be/rZ4c_YIWz0A)
+Cristianos Todos, a Prepararse  ->  Himno 128 Cristianos todos a prepararse (cover con letra) - IC Re  (youtu.be/zA3nnaIWqVc)
+Cristo Divino, Hijo Unigénito  ->  53 - Cristo divino, Hijo unigénito (Pista/Letra Himnario Bautista)  (youtu.be/KfTPHlrnmyA)
+Cristo Su Preciosa Sangre  ->  Cristo Su Preciosa Sangre  (youtu.be/0zE09FfWo8Q)
+Cristo, Eres Justo Rey  ->  HA62 | Himno 155 | Cristo, eres justo Rey  (youtu.be/e0EA66zKmes)
+Cuando Oigo la Historia de Jesús  ->  Cuando Oigo La Historia De Jesús 🎵 Letra  (youtu.be/gTff_6fECA4)
+Cuanto Soy y Cuanto Encierro  ->  HIMNO #38 - CUANTO SOY Y CUANTO ENCIERRO  (youtu.be/8yazwrMiBqI)
+Cúmplase, Oh Cristo, Tu Voluntad  ->  HA62 | Himno 260 | Cúmplase, oh Cristo, tu voluntad  (youtu.be/HWBxoMkrW7Q)
+Dad Loor a Dios  ->  A Dios, Naciones, Dad Loor - Himnario Bautista 27  (youtu.be/vvfc5vMMGbs)
+De Quien Pagó Mi Redención  ->  43 - De quien pagó mi redención (Pista/Letra - Himnario Bautista)  (youtu.be/ljeRO4Icp1o)
+De Tierra Lejana Venimos  ->  Carol: "De tierra lejana venimos / Song of the Wise Men" (Puerto Rico), arr. Gary Fry  (youtu.be/4GYdD1Uohwk)
+Del Santo Amor de Cristo  ->  DEL SANTO AMOR DE CRISTO | Himno Bautista #90 | Música y Letra (Interp. Enoc Sangama)  (youtu.be/ReqrH9S4Hv4)
+Dicha Grande Es la del Hombre  ->  “Dicha grande es la del hombre” #141 Himnario Bautista  (youtu.be/PjjzGM_G1Ug)
+Digno Es Jesús  ->  HIMNO 244   DIGNO ES JESÚS  (youtu.be/Cj4q5Qy6VOg)
+Dulce Comunión  ->  HA62 | Himno 335 | Dulce comunión  (youtu.be/QEM8RgVkHOk)
+El Mundo Entero Es del Padre  ->  "El Mundo Entero Es del Padre" [Iglesia de Madrid] - 주의 음성은 내가 들으니  (youtu.be/RwoMAk975mk)
+En el Monte Calvario  ->  En el Monte Calvario (¡Oh! yo siempre amaré esa cruz) / Himno con letra /  The Old Rugged Cross  (youtu.be/TdfHIYvdDVY)
+En la Cruz  ->  En la cruz - Coros Cristianos  (youtu.be/06UfT88g918)
+En la Noche los Pastores Velan  ->  Himno No.337: En la noche los pastores velan - Himnario Corazón y Vida  (youtu.be/uTBs64WehaM)
+Es Cristo Quien por Mí Murió  ->  49 - Es Cristo quien por mí murió (Pista/Letra Himnario Bautista)  (youtu.be/OgNSq5ChABw)
+Fuente de la Vida Eterna  ->  HA62 | Himno 281 | Fuente de la vida eterna  (youtu.be/gW_wIPXpMsU)
+Gozo Da Servir a Cristo  ->  Gozo da servir a Cristo  (youtu.be/HoRXwzOdyLw)
+Gozo la Santa Palabra Leer  ->  HIMNO GOZO LA SANTA PALABRA AL LEER  (youtu.be/AP4wp2Fx508)
+Gracias Dad a Jesucristo  ->  Gracias dad a Jesucristo  (youtu.be/QUZkxyfJ60I)
+Grato Es Contar la Historia  ->  HA62 | Himno 329 | Grato es contar la historia  (youtu.be/S6nzcXFy97A)
+Hay una Fuente sin Igual  ->  Himno 286 - Hay una fuente sin igual | Himnario Adventista Nuevo  (youtu.be/T0z0jeySOfA)
+Hoy Gozoso Medito en la Tierra Mejor  ->  (no confident match)
+Jesucristo Resucitó  ->  Jesucristo Resucitó - Himnario Bautista 115  (youtu.be/lheFB2bCuRk)
+Jesús Es Mi Rey Soberano  ->  JESÚS ES MI REY SOBERANO | Himno Majestuoso #61 | Música y Letra (Interp. Enoc Sangama)  (youtu.be/_8R1RpxUUFA)
+La Cruz Sólo Me Guiará  ->  Himno 171 La cruz sólo me guiará (cover con letra) - IC Re  (youtu.be/reh4yrC-00o)
+La Ley de Dios Perfecta Es  ->  HIMNO #12 - LA LEY DE DIOS PERFECTA ES  (youtu.be/eUW_O-ac9oM)
+La Tierna Voz del Salvador  ->  HA62 | Himno 124 | La tierna voz del Salvador  (youtu.be/CBZ48XLDlQM)
+Lejos de Mi Padre Dios  ->  HA62 | Himno 299 | Lejos de mi Padre Dios  (youtu.be/ezLuMymE7Dg)
+Levantado Fue Jesús  ->  Levantado fue Jesús  (youtu.be/a_JQQZoxKUs)
+Loores Dad a Cristo el Rey  ->  Loores Dad a Cristo el Rey / himno con letra / piano / All Hail the Power of Jesus' Name  (youtu.be/Ge4gu-3EMA4)
+Mas Cerca de Tu Cruz  ->  himno 36 de sion ; Tuyo soy Jesus , Aun mas cerca de tu Cruz  (youtu.be/Xn14hR1YOYQ)
+Me Agrada Cantar  ->  ME AGRADA CANTAR | Himno Bautista #41 | Música y Letra  (youtu.be/NfGabyPeakY)
+Me Guía Él  ->  ME GUÍA ÉL | Himno Majestuoso #446 y Bautista #227 | Música y Letra  (youtu.be/SGRDubbNYIk)
+Niño Santo, Sufres Tanto  ->  NIÑO SANTO SUFRES TANTO / Hna. Ruth García @hermanasgarciaoficial8886  (youtu.be/1ku3UJOGhTI)
+No Te Dé Temor Hablar por Cristo  ->  No Te De Temor Hablar Por Cristo  (youtu.be/Pt8snAaEKGY)
+Nunca, Dios Mío  ->  HIMNO 15 NUNCA, DIOS MIÓ  (youtu.be/HBAWRigCV14)
+Oh Ven, Emanuel  ->  Oh ven Emanuel - Alfarero (Video Lyric)  (youtu.be/XgSCp_GEe2k)
+Oh, Hermanos, Dad a Cristo  ->  HIMNO OH HERMANOS, DAD A CRISTO  (youtu.be/d1XHJ4b_OSo)
+Omnipotente Padre Dios  ->  Himno: Omnipotente Padre Dios  (youtu.be/Du7o1q2u4vM)
+Padre, Tu Palabra Es  ->  Padre, Tu Palabra Es - Cantos Espirituales  (youtu.be/_UgTrIdZL6c)
+Por la Excelsa Majestad  ->  Por la excelsa majestad - Himno 370 - Nuevo Himnario Adventista 🎶  (youtu.be/zRHR-wRK8Mk)
+Por la Justicia de Jesús  ->  HA62 | Himno 256 | Por la justicia de Jesús  (youtu.be/Q8-sLlkczvc)
+Por los Santos Que Descansan Ya  ->  HIMNO: HOY POR LOS SANTOS, QUE DESCANSAN YA  (youtu.be/_913MDyOu6Q)
+Qué Preciosas Mañanitas  ->  QUE PRECIOSAS MAÑANITAS (Tradicional) LETRA, ACORDES Y TONOS - ROSARIO DE NOCHE BUENA - NAVIDAD  (youtu.be/PmW0xu_RCzg)
+Rey de Mi Vida  ->  REY DE MI VIDA | Himno Majestuoso #228 | Música y Letra - 2° Edición  (youtu.be/8VpaoKng-Mc)
+Salvador, a Ti Acudo  ->  Himno#186 [himnario IBG] - Salvador a ti acudo  (youtu.be/dS7yeAtwPsU)
+Salvador, a Ti Me Rindo  ->  HA62 | Himno 277 | Salvador, a ti me rindo  (youtu.be/-GwOB9czuHQ)
+Santa Biblia, para Mí  ->  Santa Biblia Para Mi  (youtu.be/ZaphjwLuxso)
+Se Oye un Son en Alta Esfera  ->  Himno 79 Se oye un canto en alta esfera Nuevo himnario Adventista  (youtu.be/ES7QS_muiuY)
+Señor Jehová, Omnipotente Dios  ->  Señor Jehová, omnipotente Dios  (youtu.be/q4__ykcO4Wk)
+Sin Límite Océano  ->  Coro 'SIN LÍMITE OCÉANO'  (youtu.be/XB3Y_MPb1EM)
+Sólo a Ti, Dios y Señor  ->  HIMNO #30 - SÓLO A TI, DIOS Y SEÑOR  (youtu.be/5oebxZYiT48)
+Suenen Dulces Himnos  ->  HA62 | Himno 18 | ¡Suenen dulces himnos!  (youtu.be/7V6-0vMwvCU)
+Te Loamos, ¡Oh Dios!  ->  Te loamos, oh Dios  (youtu.be/0nUNeczPtek)
+Tú Dejaste Tu Trono y Corona por Mí  ->  TU DEJASTE TU TRONO Y CORONA POR MÍ | Himno Bautista #60  (youtu.be/gVG_2FBFbB4)
+Un Día  ->  J Balvin, Dua Lipa, Bad Bunny, Tainy - UN DIA (ONE DAY)  (youtu.be/BjhW3vBA1QU)
+Ved al Cristo, Rey de Gloria  ->  HIMNO #229 - VED AL CRISTO, REY DE GLORIA  (youtu.be/5iwNzdwba4I)
+Ven, Jesús Muy Esperado  ->  Ven Jesus Muy Esperado - Hno Danny Gonzalez  (youtu.be/msn0gM7SCTs)
+Vengo, Jesús, a Ti  ->  Vengo, Jesús, a Ti  (youtu.be/51aBMO_dXFE)
+Venid, Pastorcitos  ->  70 - Venid, pastorcitos (Pista/Letra Himnario Bautista)  (youtu.be/k9fafr6GP2s)
+Viene Otra Vez  ->  HA62 | Himno 162 | Viene otra vez nuestro Salvador  (youtu.be/8kwl9_722bo)
+Divina Luz  ->  Divina Luz - Himno SUD con Letra  (youtu.be/yz99TU7Nqx8)
+Grato es decir la historia  ->  Grato es decir la historia  (youtu.be/BYIukyNuAQ8)
+Inmensa y sin Igual Piedad  ->  Himno Inmensa y sin igual piedad  Iglesia bautista  (youtu.be/1Ly-eh8qVks)
+Lluvias de Gracia  ->  Himno: Lluvias de gracia, Hna. María Luisa Piraquive  (youtu.be/e-5kFzw-Gto)
+Todas las promesas  ->  HA62 | Himno 249 | Todas las promesas  (youtu.be/HQMQ2jZvcf4)
+Venid, pastorcillos  ->  Himnario Adventista   85   Venid, pastorcillos  (youtu.be/t8BSjKG3m10)
+Yo Escucho, Mi Jesús  ->  HA62 | himno 226 | Yo escucho, buen Jesús  (youtu.be/xg42JO28D-E)

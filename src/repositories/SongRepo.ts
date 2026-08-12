@@ -102,6 +102,20 @@ export class SongRepo {
     return Number(result.numInsertedOrUpdatedRows || 0) > 0;
   }
 
+  public async loadLibraryIds(userId: string): Promise<string[]> {
+    const rows = await getDb().selectFrom("libraries").select("songId").where("userId", "=", userId).orderBy("createdAt", "desc").execute();
+    return rows.map(r => r.songId as string);
+  }
+
+  public async addToLibrary(userId: string, songId: string): Promise<boolean> {
+    const result = await getDb().insertInto("libraries").ignore().values({ userId, songId }).executeTakeFirst();
+    return Number(result.numInsertedOrUpdatedRows || 0) > 0;
+  }
+
+  public async removeFromLibrary(userId: string, songId: string): Promise<void> {
+    await getDb().deleteFrom("libraries").where("userId", "=", userId).where("songId", "=", songId).execute();
+  }
+
   public async incrementChurchCount(id: string): Promise<number> {
     await getDb().updateTable("songs").set(eb => ({ churchCount: eb("churchCount", "+", 1) })).where("id", "=", id).execute();
     const row = await this.loadById(id);

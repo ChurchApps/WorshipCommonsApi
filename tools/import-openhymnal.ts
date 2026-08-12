@@ -6,7 +6,10 @@ import { fileURLToPath } from "url";
 //   tsx tools/import-openhymnal.ts <dir>   (dir holds abc/*.abc + midi/*.mid from the OH bulk zips)
 // Only hymns whose ABC copyright line declares the whole score public domain are used.
 // Generates src/seed-data/hymns-oh.ts + src/seed-data/midi-map.ts and copies the
-// referenced MIDI files into tools/seed-assets/midi/.
+// referenced MIDI files into tools/seed-assets/midi/ and their ABC masters into
+// tools/seed-assets/abc/ (ABC is the tune's source of truth — see .notes/source-of-truth.md).
+// Rerunning rewrites hymns-oh.ts from the raw ABC lyrics: follow with backfill-chords.py
+// (idempotent) and trim-midi-tails.py, or the backfilled chords and trimmed tails are lost.
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const srcDir = process.argv[2];
 if (!srcDir) { console.error("Usage: tsx tools/import-openhymnal.ts <openhymnal-dir>"); process.exit(1); }
@@ -184,16 +187,24 @@ for (const p of pdHymns) {
 }
 console.log(`MIDI matches for existing songs: ${Object.keys(midiMap).length - expansion.length}, expansion hymns: ${expansion.length}`);
 
-// copy referenced MIDIs into seed assets
+// copy referenced MIDIs + their ABC masters into seed assets
 const assetDir = path.join(__dirname, "seed-assets", "midi");
-fs.rmSync(assetDir, { recursive: true, force: true });
+const abcDir = path.join(__dirname, "seed-assets", "abc");
+fs.rmSync(abcDir, { recursive: true, force: true });
 fs.mkdirSync(assetDir, { recursive: true });
+fs.mkdirSync(abcDir, { recursive: true });
+// only OH-owned files — tch-/umh midis belong to the other importers
+for (const f of fs.readdirSync(assetDir)) {
+  if (!/^(tch-|umh)/.test(f)) fs.rmSync(path.join(assetDir, f));
+}
 const bytes: Record<string, number> = {};
 for (const mid of new Set(Object.values(midiMap))) {
   const src = path.join(srcDir, "midi", mid);
   if (!fs.existsSync(src)) { console.error(`Missing MIDI: ${mid}`); process.exit(1); }
   fs.copyFileSync(src, path.join(assetDir, mid));
   bytes[mid] = fs.statSync(src).size;
+  const abc = mid.replace(/\.mid$/, ".abc");
+  fs.copyFileSync(path.join(srcDir, "abc", abc), path.join(abcDir, abc));
 }
 
 const esc = (s: string) => s.replace(/\\/g, "\\\\").replace(/`/g, "\\`").replace(/\$\{/g, "\\${");

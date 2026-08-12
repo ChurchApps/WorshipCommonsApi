@@ -61,3 +61,9 @@ export interface Sing {
   ipHash?: string;
   createdAt?: Date;
 }
+
+export interface LibrarySong {
+  userId?: string;
+  songId?: string;
+  createdAt?: Date;
+}

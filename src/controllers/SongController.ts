@@ -1,4 +1,4 @@
-import { controller, httpGet, httpPost } from "inversify-express-utils";
+import { controller, httpDelete, httpGet, httpPost } from "inversify-express-utils";
 import express from "express";
 import * as crypto from "crypto";
 import { FileStorageHelper } from "@churchapps/apihelper";
@@ -27,6 +27,36 @@ export class SongController extends WorshipCommonsBaseController {
     return this.actionWrapper(req, res, async (au) => {
       if (!au.id) return this.json({ errors: ["Sign in required"] }, 401);
       return await this.repositories.song.loadBySubmitter(au.id);
+    });
+  }
+
+  @httpGet("/library")
+  public async library(req: express.Request, res: express.Response): Promise<any> {
+    return this.actionWrapper(req, res, async (au) => {
+      if (!au.id) return this.json({ errors: ["Sign in required"] }, 401);
+      return await this.repositories.song.loadLibraryIds(au.id);
+    });
+  }
+
+  @httpPost("/:id/library")
+  public async addToLibrary(req: express.Request, res: express.Response): Promise<any> {
+    return this.actionWrapper(req, res, async (au) => {
+      if (!au.id) return this.json({ errors: ["Sign in required"] }, 401);
+      const song = await this.repositories.song.loadById(String(req.params.id));
+      if (!song || song.status !== "approved") return this.json({}, 404);
+      const added = await this.repositories.song.addToLibrary(au.id, song.id);
+      // a save counts toward churchCount once per user and, like /sing, never decrements — removing it later doesn't unsing it
+      const churchCount = added ? await this.repositories.song.incrementChurchCount(song.id) : song.churchCount;
+      return { inLibrary: true, churchCount };
+    });
+  }
+
+  @httpDelete("/:id/library")
+  public async removeFromLibrary(req: express.Request, res: express.Response): Promise<any> {
+    return this.actionWrapper(req, res, async (au) => {
+      if (!au.id) return this.json({ errors: ["Sign in required"] }, 401);
+      await this.repositories.song.removeFromLibrary(au.id, String(req.params.id));
+      return { inLibrary: false };
     });
   }
 

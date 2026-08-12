@@ -9,8 +9,8 @@
 # greedy matching that absorbs the cumulative stretch. Songs where matching fails
 # (internal repeats, D.C., text mismatch) are skipped — no lyrics.json means no
 # sing-along button, never bad sync.
-# Deps: pip install music21 mido; abc2xml.py from wim.vree.org/svgParse; OH abc corpus dir.
-# Usage: python tools/generate-lyric-timings.py <abc2xml.py> <abc-dir> [--only "Title"]
+# Deps: pip install music21 mido; abc2xml.py from wim.vree.org/svgParse.
+# Usage: python tools/generate-lyric-timings.py <abc2xml.py> tools/seed-assets/abc [--only "Title"]
 import json, os, re, subprocess, sys, tempfile
 from functools import lru_cache
 from pathlib import Path

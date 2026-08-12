@@ -1,8 +1,8 @@
 # Backfills inline chord symbols into hymns-oh.ts chordPro from Open Hymnal ABC sources.
 # Chords are detected from the PD four-part harmony (chordify) and placed at the exact
 # syllable via the ABC lyric alignment; output stays PD.
-# Deps: pip install music21; abc2xml.py from wim.vree.org/svgParse; OH abc corpus dir.
-# Usage: python tools/backfill-chords.py <abc2xml.py> <abc-dir> [--only "Title"]
+# Deps: pip install music21; abc2xml.py from wim.vree.org/svgParse.
+# Usage: python tools/backfill-chords.py <abc2xml.py> tools/seed-assets/abc [--only "Title"]
 import re, subprocess, sys, tempfile
 from pathlib import Path
 
