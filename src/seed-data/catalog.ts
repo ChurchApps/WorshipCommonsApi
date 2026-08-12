@@ -5,6 +5,7 @@ import { HYMNS_OH } from "./hymns-oh.js";
 import { HYMNS_ES } from "./hymns-es.js";
 import { HYMNS_ES_TCH } from "./hymns-es-tch.js";
 import { HYMNS_ES_HYMNARY } from "./hymns-es-hymnary.js";
+import { HYMNS_MODERN } from "./hymns-modern.js";
 import { MIDI_MAP_ES } from "./midi-map-es.js";
 import { MIDI_MAP } from "./midi-map.js";
 import { MIDI_MAP_HYMNSITE } from "./midi-map-hymnsite.js";
@@ -12,6 +13,7 @@ import { MIDI_MAP_TCH } from "./midi-map-tch.js";
 import { LYRIC_MAP } from "./lyric-map.js";
 import { WRITER_MAP } from "./writer-map.js";
 import { VIDEO_MAP } from "./video-map.js";
+import { HYMNAL_COUNT } from "./popularity-map.js";
 
 const MIDI: Record<string, { file: string; bytes: number }> = { ...MIDI_MAP_TCH, ...MIDI_MAP_HYMNSITE, ...MIDI_MAP, ...MIDI_MAP_ES };
 
@@ -47,7 +49,9 @@ export interface CatalogFile { songId: string; src: string; key: string; }
 // Demo audio and stems come from real uploads only; melody MIDIs are real,
 // PD-verified Open Hymnal files (see tools/import-openhymnal.ts).
 export function buildCatalog(contentRoot: string) {
-  const defs: any[] = [...SONGS, ...HYMNS, ...HYMNS2, ...HYMNS_OH, ...HYMNS_ES, ...HYMNS_ES_TCH, ...HYMNS_ES_HYMNARY];
+  const defs: any[] = [
+    ...SONGS, ...HYMNS, ...HYMNS2, ...HYMNS_OH, ...HYMNS_ES, ...HYMNS_ES_TCH, ...HYMNS_ES_HYMNARY, ...HYMNS_MODERN
+  ];
   const rows: any[] = [];
   const files: CatalogFile[] = [];
   const seen = new Set<string>();
@@ -73,6 +77,7 @@ export function buildCatalog(contentRoot: string) {
       scriptureText: s.scrText || null,
       license: s.lic,
       churchCount: s.cong,
+      hymnalCount: HYMNAL_COUNT[s.t] ?? 0,
       chordPro: s.chordPro || HYMN_TEXTS[s.t],
       parentSongId: s.parent ? idFor(s.parent) : null,
       relationLabel: s.rel || null,
