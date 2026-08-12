@@ -2,6 +2,9 @@ import * as crypto from "crypto";
 import { HYMNS, HYMN_TEXTS } from "./hymns.js";
 import { HYMNS2 } from "./hymns2.js";
 import { HYMNS_OH } from "./hymns-oh.js";
+import { HYMNS_ES } from "./hymns-es.js";
+import { HYMNS_ES_TCH } from "./hymns-es-tch.js";
+import { MIDI_MAP_ES } from "./midi-map-es.js";
 import { MIDI_MAP } from "./midi-map.js";
 import { MIDI_MAP_HYMNSITE } from "./midi-map-hymnsite.js";
 import { MIDI_MAP_TCH } from "./midi-map-tch.js";
@@ -9,7 +12,7 @@ import { LYRIC_MAP } from "./lyric-map.js";
 import { WRITER_MAP } from "./writer-map.js";
 import { VIDEO_MAP } from "./video-map.js";
 
-const MIDI: Record<string, { file: string; bytes: number }> = { ...MIDI_MAP_TCH, ...MIDI_MAP_HYMNSITE, ...MIDI_MAP };
+const MIDI: Record<string, { file: string; bytes: number }> = { ...MIDI_MAP_TCH, ...MIDI_MAP_HYMNSITE, ...MIDI_MAP, ...MIDI_MAP_ES };
 
 // deterministic char(11) id in UniqueIdHelper.shortId's base64url format — stable across reseeds
 export const idFor = (title: string) => crypto.createHash("sha1").update("wcsong:" + title).digest("base64url").slice(0, 11);
@@ -43,7 +46,7 @@ export interface CatalogFile { songId: string; src: string; key: string; }
 // Demo audio and stems come from real uploads only; melody MIDIs are real,
 // PD-verified Open Hymnal files (see tools/import-openhymnal.ts).
 export function buildCatalog(contentRoot: string) {
-  const defs: any[] = [...SONGS, ...HYMNS, ...HYMNS2, ...HYMNS_OH];
+  const defs: any[] = [...SONGS, ...HYMNS, ...HYMNS2, ...HYMNS_OH, ...HYMNS_ES, ...HYMNS_ES_TCH];
   const rows: any[] = [];
   const files: CatalogFile[] = [];
   const seen = new Set<string>();

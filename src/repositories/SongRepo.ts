@@ -36,6 +36,11 @@ export class SongRepo {
     return await getDb().selectFrom("songs").select(SUMMARY_COLS).where("status", "=", "approved").orderBy("churchCount", "desc").execute() as Song[];
   }
 
+  public async loadBySubmitter(submittedBy: string): Promise<Song[]> {
+    return await getDb().selectFrom("songs").select([...SUMMARY_COLS, "status", "createdAt"])
+      .where("submittedBy", "=", submittedBy).orderBy("createdAt", "desc").execute() as Song[];
+  }
+
   public async loadPending(): Promise<Song[]> {
     return await getDb().selectFrom("songs").selectAll().where("status", "=", "pending")
       .orderBy(sql`qualityScore is null`).orderBy("qualityScore", "desc").orderBy("createdAt", "asc").execute() as Song[];

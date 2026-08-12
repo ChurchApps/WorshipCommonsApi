@@ -953,10 +953,10 @@ beautiful words, [Bb]wonderful words, [C]wonderful words of [F]life.`),
 [D]¡Santo, santo, [G]santo! Se[D]ñor omnipo[A]tente,
 [D]siempre el labio [Bm]mío [E]loores te da[A]rá;
 [D]santo, santo, [G]santo, te a[D]doro reve[A]rente,
-[D]Dios en tres per[G]sonas, ben[D]dita Trini[A]dad.`, { lang: "Spanish" }),
+[D]Dios en tres per[G]sonas, ben[D]dita Trini[A]dad.`, { lang: "Spanish", parent: "Holy, Holy, Holy", rel: "Spanish translation · tr. Juan Bautista Cabrera, 1871" }),
   h("Castillo Fuerte", "Martín Lutero · tr. Juan Bautista Cabrera", 1885, "Trust,Assurance", "C", 92, "Salmo 46", 334, `Verse 1
 Cas[C]tillo fuerte [G]es nuestro [C]Dios, de[F]fensa y [C]buen es[G]cu[C]do;
-con su poder nos [G]librará en [F]este [C]trance a[G]gu[C]do.`, { lang: "Spanish" }),
+con su poder nos [G]librará en [F]este [C]trance a[G]gu[C]do.`, { lang: "Spanish", parent: "A Mighty Fortress Is Our God", rel: "Spanish translation · tr. Juan Bautista Cabrera, 1885" }),
   h("Noche de Paz", "Joseph Mohr · tr. Federico Fliedner", 1871, "Christmas,Comfort", "Bb", 60, "Lucas 2:7", 423, `Verse 1
 [Bb]Noche de paz, noche de amor —
 [F]todo duerme en [Bb]derredor;

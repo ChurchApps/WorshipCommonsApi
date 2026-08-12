@@ -22,6 +22,14 @@ export class SongController extends WorshipCommonsBaseController {
     return this.actionWrapperAnon(req, res, async () => await this.repositories.song.loadApprovedSummaries());
   }
 
+  @httpGet("/mine")
+  public async mine(req: express.Request, res: express.Response): Promise<any> {
+    return this.actionWrapper(req, res, async (au) => {
+      if (!au.id) return this.json({ errors: ["Sign in required"] }, 401);
+      return await this.repositories.song.loadBySubmitter(au.id);
+    });
+  }
+
   @httpGet("/:id")
   public async get(req: express.Request, res: express.Response): Promise<any> {
     return this.actionWrapperAnon(req, res, async () => {
