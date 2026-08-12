@@ -16,6 +16,7 @@ const SUMMARY_COLS = [
   "scripture",
   "license",
   "churchCount",
+  "hymnalCount",
   "demoAudioUrl",
   "demoAudioBytes",
   "sheetPdfUrl",
@@ -34,7 +35,7 @@ const SUMMARY_COLS = [
 export class SongRepo {
   // list payload omits chordPro (heavy) and moderation-only fields
   public async loadApprovedSummaries(): Promise<Song[]> {
-    return await getDb().selectFrom("songs").select(SUMMARY_COLS).where("status", "=", "approved").orderBy("churchCount", "desc").execute() as Song[];
+    return await getDb().selectFrom("songs").select(SUMMARY_COLS).where("status", "=", "approved").orderBy("churchCount", "desc").orderBy("hymnalCount", "desc").execute() as Song[];
   }
 
   public async loadBySubmitter(submittedBy: string): Promise<Song[]> {

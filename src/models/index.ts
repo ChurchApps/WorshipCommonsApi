@@ -12,6 +12,7 @@ export interface Song {
   scriptureText?: string;
   license?: string;
   churchCount?: number;
+  hymnalCount?: number;
   chordPro?: string;
   demoAudioUrl?: string;
   demoAudioBytes?: number;
