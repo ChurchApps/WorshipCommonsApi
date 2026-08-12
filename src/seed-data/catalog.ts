@@ -6,6 +6,8 @@ import { MIDI_MAP } from "./midi-map.js";
 import { MIDI_MAP_HYMNSITE } from "./midi-map-hymnsite.js";
 import { MIDI_MAP_TCH } from "./midi-map-tch.js";
 import { LYRIC_MAP } from "./lyric-map.js";
+import { WRITER_MAP } from "./writer-map.js";
+import { VIDEO_MAP } from "./video-map.js";
 
 const MIDI: Record<string, { file: string; bytes: number }> = { ...MIDI_MAP_TCH, ...MIDI_MAP_HYMNSITE, ...MIDI_MAP };
 
@@ -45,6 +47,7 @@ export function buildCatalog(contentRoot: string) {
   const rows: any[] = [];
   const files: CatalogFile[] = [];
   const seen = new Set<string>();
+  const writerSlugs = new Set<string>();
 
   defs.forEach(s => {
     const id = idFor(s.t);
@@ -81,6 +84,17 @@ export function buildCatalog(contentRoot: string) {
     const lyr = LYRIC_MAP[s.t];
     row.lyricsUrl = lyr ? `${contentRoot}/songs/${id}/lyrics.json` : null;
     if (lyr) files.push({ songId: id, src: `lyrics/${lyr.file}`, key: `songs/${id}/lyrics.json` });
+
+    const vid = VIDEO_MAP[s.t];
+    row.videoUrl = vid ? `https://www.youtube.com/watch?v=${vid.id}` : null;
+
+    const wr = WRITER_MAP[s.a];
+    row.writerPortraitUrl = wr ? `${contentRoot}/writers/${wr.slug}.jpg` : null;
+    row.writerBio = wr ? wr.bio : null;
+    if (wr && !writerSlugs.has(wr.slug)) {
+      writerSlugs.add(wr.slug);
+      files.push({ songId: id, src: `writers/${wr.slug}.jpg`, key: `writers/${wr.slug}.jpg` });
+    }
     rows.push(row);
   });
 
