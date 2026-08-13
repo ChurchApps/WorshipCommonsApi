@@ -18,6 +18,7 @@ import { MIDI_MAP } from "./midi-map.js";
 import { MIDI_MAP_HYMNSITE } from "./midi-map-hymnsite.js";
 import { MIDI_MAP_TCH } from "./midi-map-tch.js";
 import { LYRIC_MAP } from "./lyric-map.js";
+import { VERSE_EXPANSION } from "./verse-expansion.js";
 import { WRITER_MAP } from "./writer-map.js";
 import { VIDEO_MAP } from "./video-map.js";
 import { HYMNAL_COUNT } from "./popularity-map.js";
@@ -112,7 +113,8 @@ export function buildCatalog(contentRoot: string) {
       license: s.lic,
       churchCount: s.cong,
       hymnalCount: HYMNAL_COUNT[s.t] ?? 0,
-      chordPro: s.chordPro || HYMN_TEXTS[s.t],
+      // original seed batches carried Verse 1 only — verse-expansion.ts appends the rest
+      chordPro: [s.chordPro || HYMN_TEXTS[s.t], VERSE_EXPANSION[s.t]].filter(Boolean).join("\n\n"),
       parentSongId: s.parent ? idFor(s.parent) : null,
       relationLabel: s.rel || null,
       status: "approved",
