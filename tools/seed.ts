@@ -2,13 +2,12 @@ import * as fs from "fs";
 import * as path from "path";
 import { fileURLToPath } from "url";
 import { ensureEnvironment, createKysely } from "./kysely-config.js";
-import { syncCoverArt } from "./sync-cover-art.js";
-// pick up any art dropped in tools/seed-assets/cover-art before the catalog loads
-const unmatchedArt = await syncCoverArt();
-const { buildCatalog } = await import("../src/seed-data/catalog.js");
+import { buildCatalog } from "../src/seed-data/catalog.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CONTENT_DIR = path.join(__dirname, "..", "content");
+// content masters live in the WorshipCommonsContent checkout
+const LIBRARY_DIR = path.resolve(process.env.CONTENT_LIBRARY_DIR || path.join(__dirname, "..", "..", "WorshipCommonsContent"));
 const CONTENT_ROOT = "http://localhost:8098/content";
 const CORE_API = process.env.CORE_API || "http://localhost:8084";
 const ADMIN_EMAIL = "demo@b1.church";
@@ -45,15 +44,13 @@ async function run() {
 
     const { rows, files } = buildCatalog(CONTENT_ROOT);
 
-    if (unmatchedArt.length) console.warn(`WARNING: cover art matches no song title: ${unmatchedArt.join(", ")}`);
-
     for (const row of rows) await db.insertInto("songs").values(row).execute();
 
     fs.rmSync(path.join(CONTENT_DIR, "songs"), { recursive: true, force: true });
     for (const f of files) {
       const target = path.join(CONTENT_DIR, ...f.key.split("/"));
       fs.mkdirSync(path.dirname(target), { recursive: true });
-      fs.copyFileSync(path.join(__dirname, "seed-assets", ...f.src.split("/")), target);
+      fs.copyFileSync(path.join(LIBRARY_DIR, ...f.src.split("/")), target);
     }
 
     console.log(`Seeded ${rows.length} songs (${files.length} content files), admin ${ADMIN_EMAIL} (${adminUserId}).`);

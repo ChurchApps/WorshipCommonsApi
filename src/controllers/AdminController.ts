@@ -66,8 +66,8 @@ export class AdminController extends WorshipCommonsBaseController {
     return this.setAbcStatus(req, res, "rejected");
   }
 
-  // status is bookkeeping only — an approved .abc is promoted by hand to
-  // tools/seed-assets/abc/ per .notes/source-of-truth.md
+  // status is bookkeeping only — an approved .abc is promoted by hand to the
+  // song's folder in the WorshipCommonsContent repo per .notes/source-of-truth.md
   private setAbcStatus(req: express.Request, res: express.Response, status: string) {
     return this.actionWrapper(req, res, async (au) => {
       if (!(await this.isAdmin(au.id))) return this.json({}, 401);

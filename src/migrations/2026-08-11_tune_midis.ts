@@ -1,6 +1,6 @@
 import { type Kysely, sql } from "kysely";
-import { buildCatalog, idFor } from "../seed-data/catalog.js";
-import { HYMNS_OH } from "../seed-data/hymns-oh.js";
+import { buildCatalog } from "../seed-data/catalog.js";
+import { OPEN_HYMNAL_IDS } from "../seed-data/frozen-ids.js";
 import { Environment } from "../helpers/Environment.js";
 
 // Adds melody MIDI columns, then upserts the expanded catalog: existing songs get
@@ -34,8 +34,7 @@ export async function up(db: Kysely<any>): Promise<void> {
 }
 
 export async function down(db: Kysely<any>): Promise<void> {
-  const ids = HYMNS_OH.map((h: any) => idFor(h.t));
-  await db.deleteFrom("songs").where("id", "in", ids).execute();
+  await db.deleteFrom("songs").where("id", "in", OPEN_HYMNAL_IDS).execute();
   await db.schema.alterTable("songs").dropColumn("midiUrl").execute();
   await db.schema.alterTable("songs").dropColumn("midiBytes").execute();
 }

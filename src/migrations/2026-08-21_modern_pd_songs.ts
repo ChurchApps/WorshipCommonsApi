@@ -1,11 +1,10 @@
 import { type Kysely } from "kysely";
-import { buildCatalog, idFor } from "../seed-data/catalog.js";
-import { HYMNS_MODERN } from "../seed-data/hymns-modern.js";
+import { buildCatalog } from "../seed-data/catalog.js";
+import { MODERN_PD_IDS as IDS } from "../seed-data/frozen-ids.js";
 import { Environment } from "../helpers/Environment.js";
 
 // Adds the 20th-century public-domain catalog (spirituals, global folk hymnody,
 // anonymous choruses). None have seed assets, so no content files to copy.
-const IDS = HYMNS_MODERN.map(s => idFor(s.t));
 
 export async function up(db: Kysely<any>): Promise<void> {
   const existing = await db.selectFrom("songs").select("id").where("id", "in", IDS).execute();

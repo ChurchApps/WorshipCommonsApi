@@ -19,7 +19,7 @@
     "migrate:status": "tsx tools/migrate.ts --action=status",
     "migrate:create": "tsx tools/migrate-create.ts",
     "seed": "tsx tools/seed.ts",
-    "sync-art": "tsx tools/sync-cover-art.ts",
+    "sync-catalog": "tsx tools/sync-catalog.ts",
     "lint": "eslint --fix src/",
     "lint:check": "eslint src/",
     "tsc": "tsc",

@@ -1,7 +1,7 @@
 import { type Kysely, sql } from "kysely";
 
 // community ABC transcriptions awaiting review — approved ones are promoted
-// by hand to the git master in tools/seed-assets/abc/ (see .notes/source-of-truth.md)
+// by hand to the song's folder in the WorshipCommonsContent repo (see .notes/source-of-truth.md)
 export async function up(db: Kysely<any>): Promise<void> {
   await db.schema
     .createTable("abcSubmissions")
