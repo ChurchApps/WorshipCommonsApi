@@ -3,13 +3,23 @@
 // tools/seed-assets/cover-art and are served as songs/<songId>/art.webp.
 export const ART_MAP: Record<string, { file: string }> = {
   "A Great and Mighty Wonder": { file: "a-great-and-mighty-wonder.webp" },
+  "Blessed Assurance": { file: "blessed-assurance.webp" },
+  "Christ the Lord Is Risen Today": { file: "christ-the-lord-is-risen-today.webp" },
+  "Great Is Thy Faithfulness": { file: "great-is-thy-faithfulness.webp" },
+  "Hark! The Herald Angels Sing": { file: "hark-the-herald-angels-sing.webp" },
   "I Need Thee Every Hour": { file: "i-need-thee-every-hour.webp" },
   "I Surrender All": { file: "i-surrender-all.webp" },
   "It Is Well with My Soul": { file: "it-is-well-with-my-soul.webp" },
+  "Jesus Loves Me": { file: "jesus-loves-me.webp" },
+  "Joy to the World": { file: "joy-to-the-world.webp" },
   "Low in the Grave He Lay": { file: "low-in-the-grave-he-lay.webp" },
   "My Soul, Now Praise Thy Maker": { file: "my-soul-now-praise-thy-maker.webp" },
+  "O Come, All Ye Faithful": { file: "o-come-all-ye-faithful.webp" },
   "Shall We Gather at the River": { file: "shall-we-gather-at-the-river.webp" },
+  "Silent Night": { file: "silent-night.webp" },
   "Softly and Tenderly": { file: "softly-and-tenderly.webp" },
+  "The Old Rugged Cross": { file: "the-old-rugged-cross.webp" },
   "Wayfaring Stranger": { file: "wayfaring-stranger.webp" },
-  "We Plow the Fields and Scatter": { file: "we-plow-the-fields-and-scatter.webp" }
+  "We Plow the Fields and Scatter": { file: "we-plow-the-fields-and-scatter.webp" },
+  "What a Friend We Have in Jesus": { file: "what-a-friend-we-have-in-jesus.webp" }
 };

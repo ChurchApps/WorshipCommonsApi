@@ -116,6 +116,76 @@
       "scripture": "Hebrews 11:13",
       "file": "wayfaring-stranger.webp",
       "scenePrompt": "A long weathered pilgrim road winds through an indigo-violet mountain wilderness and crosses the Jordan River on the right, continuing toward a distant bright homeland of modest pale-stone architecture on the far-right horizon. One amber-gold glow from that homeland is the sole warm source, reflected faintly in the river. A simple abandoned walking staff and small travel satchel rest near the right roadside. Bottom-left is a broad empty dark slope under mist. Avoid people, silhouettes, faces, fantasy metropolis, road signs, and readable markings."
+    },
+    {
+      "title": "Jesus Loves Me",
+      "themes": ["Assurance", "Trust"],
+      "scripture": "1 John 4:19",
+      "file": "jesus-loves-me.webp",
+      "scenePrompt": "A gentle high-key mid-morning meadow in honey and cream light, with a soft-grass path curving toward a welcoming whitewashed country chapel and sheltering apple tree in the right third. Soft spring green, pale blue haze, restrained blush wildflowers, and natural daylight create an intimate sense of care and safety. Bottom-left remains a simple pale meadow shadow with sparse grass. No violet night palette or isolated amber glow."
+    },
+    {
+      "title": "Silent Night",
+      "themes": ["Christmas", "Comfort"],
+      "scripture": "Luke 2:7",
+      "file": "silent-night.webp",
+      "scenePrompt": "A cold winter night with deep undisturbed snow around a humble ancient stone stable in the right third. One small doorway gives the only warm light, gently touching nearby snow; bare olive branches and a low stone wall rest beneath a vast clear sky. Cold Prussian and steel blue with restrained warm ochre, no dominant star, purple fantasy glow, celestial beams, or excessive gold. Bottom-left is broad, smooth dark-blue snow shadow."
+    },
+    {
+      "title": "Great Is Thy Faithfulness",
+      "themes": ["Trust", "Provision"],
+      "scripture": "Lamentations 3:22-23",
+      "file": "great-is-thy-faithfulness.webp",
+      "scenePrompt": "A genuinely bright high-key sunrise over broad open cultivated fields. Dew-bright young grain and hedgerows lead toward a modest farmhouse in the right third while ivory morning mist lifts and burns away. Pale straw gold, dew green, and clear robin-egg blue convey dependable renewal. Bottom-left is a smooth misted field with minimal detail; no orange spectacle, violet shadows, night atmosphere, or dramatic rays."
+    },
+    {
+      "title": "Joy to the World",
+      "themes": ["Christmas", "Praise"],
+      "scripture": "Psalm 98:4",
+      "file": "joy-to-the-world.webp",
+      "scenePrompt": "A sparkling alpine winter valley at bright noon, with brilliant blue sky, crisp sunlit snow, and rich green evergreens clustered on the right around a small stone chapel; clear white mountains rise beyond. Clean cobalt and cyan, brilliant white, fresh evergreen, and cool blue shadows provide joyful high contrast. Bottom-left is an open smooth snowfield. No sunset, violet night, amber windows, misty gloom, or isolated glow."
+    },
+    {
+      "title": "Blessed Assurance",
+      "themes": ["Assurance", "Praise"],
+      "scripture": "Hebrews 10:22",
+      "file": "blessed-assurance.webp",
+      "scenePrompt": "An immense open sea beneath a wide midday sky with a perfectly steady horizon. A low pale stone harbor wall and steadfast beacon tower occupy the far right while calm teal swells and whitecaps lead toward them. Bright teal water, clean white foam and clouds, pale limestone, aqua, and clear sky blue convey confidence and clarity. Bottom-left is calm open water with broad low-detail brushwork; no storm, sunset, warm window, violet, or dramatic rays."
+    },
+    {
+      "title": "The Old Rugged Cross",
+      "themes": ["Grace", "Comfort"],
+      "scripture": "Galatians 6:14",
+      "file": "the-old-rugged-cross.webp",
+      "scenePrompt": "An overcast windswept rural hillside with a single rough weathered timber cross placed modestly on the right beside remnants of an old dry-stone wall. Long grasses bend beneath layered grey clouds. Muted grey-green grass, brown-grey timber, lichen stone, and pewter sky remain somber but not dark. Bottom-left is a broad simple subdued slope; no dramatic shaft, halo, glow, sunset, purple, lightning, or theatrical atmosphere."
+    },
+    {
+      "title": "O Come, All Ye Faithful",
+      "themes": ["Christmas", "Adoration"],
+      "scripture": "Luke 2:15",
+      "file": "o-come-all-ye-faithful.webp",
+      "scenePrompt": "Blue hour over an ancient pale-stone village on a gentle slope, with a snowy lane winding toward the right through simple Levantine buildings. Restrained warm lantern light spills from doorways, creating invitation without travelers. Muted cobalt and slate-blue snow shadows, chalky limestone, and warm ochre lanterns; the sky retains visible twilight. Bottom-left is a quiet bank of blue-grey snow. No violet-gold fantasy styling, huge star, celestial beams, or excessive illumination."
+    },
+    {
+      "title": "Hark! The Herald Angels Sing",
+      "themes": ["Christmas", "Praise"],
+      "scripture": "Luke 2:14",
+      "file": "hark-the-herald-angels-sing.webp",
+      "scenePrompt": "An expansive high-key winter landscape at dawn, with rolling snowfields and distant hills beneath a very wide cloud break flooding the right side with white-gold daylight. A small stone village rests on the far-right horizon. Clean white snow, pearl cloud, pale ice blue, white-gold daylight, and faint cool-grey shadows keep the scene airy. Bottom-left is calm untracked snow; no figure-like clouds, violet night, or theatrical spotlight."
+    },
+    {
+      "title": "What a Friend We Have in Jesus",
+      "themes": ["Comfort", "Trust"],
+      "scripture": "Philippians 4:6",
+      "file": "what-a-friend-we-have-in-jesus.webp",
+      "scenePrompt": "Soft steady rain falls on a quiet walled garden path. Wet flagstones curve toward an open garden gate in the right third, framed by rain-dark shrubs, ferns, and a sheltering tree. Silver-grey sky, wet fern and moss green, sage, weathered stone, and diffuse cool daylight create muted low contrast. Bottom-left is a smooth rain-dark lawn and puddled shadow; no sunbeam, glowing doorway, violet, or golden-hour warmth."
+    },
+    {
+      "title": "Christ the Lord Is Risen Today",
+      "themes": ["Easter", "Praise"],
+      "scripture": "1 Corinthians 15:20",
+      "file": "christ-the-lord-is-risen-today.webp",
+      "scenePrompt": "The brightest image in the set: a spring garden tomb at full natural sunrise, with the empty rock-hewn opening and rolled-away round stone in the right third. Fresh grass, new leaves, white blossom branches, and small flowers surround it beneath a clear pale-blue sky. High-key leaf green, pale lemon-gold, white and blush blossom, and warm limestone. Bottom-left is a bright calm lawn; no purple, dark tomb drama, supernatural interior glow, or theatrical beam."
     }
   ],
   "note": "Masters were 1536x1024 PNG from the generator; stored here as WebP (q80) — the exact bytes the seed and S3 serve. File name is the song id (idFor(title))."
