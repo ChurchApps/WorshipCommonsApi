@@ -29,7 +29,8 @@ const SUMMARY_COLS = [
   "abcUrl",
   "parentSongId",
   "relationLabel",
-  "qualityScore"
+  "qualityScore",
+  "artUrl"
 ] as const;
 
 export class SongRepo {

@@ -27,6 +27,7 @@ export interface Song {
   videoUrl?: string;
   writerPortraitUrl?: string;
   writerBio?: string;
+  artUrl?: string;
   parentSongId?: string;
   relationLabel?: string;
   status?: string;

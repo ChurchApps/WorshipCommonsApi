@@ -70,5 +70,13 @@ functions:
           path: /
           method: ANY
 
+  # no http events — IAM-invoked only (see lambda.js migrate)
+  migrate:
+    handler: lambda.migrate
+    timeout: 300
+    vpc: ${self:custom.vpcSettings.current, ''}
+    layers:
+      - { Ref: DependenciesLambdaLayer }
+
 plugins:
   - serverless-plugin-utils

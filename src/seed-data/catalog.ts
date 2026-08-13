@@ -21,9 +21,21 @@ import { LYRIC_MAP } from "./lyric-map.js";
 import { WRITER_MAP } from "./writer-map.js";
 import { VIDEO_MAP } from "./video-map.js";
 import { HYMNAL_COUNT } from "./popularity-map.js";
+import { ART_MAP } from "./art-map.js";
 
-const MIDI: Record<string, { file: string; bytes: number }> = { ...MIDI_MAP_TCH, ...MIDI_MAP_HYMNSITE, ...MIDI_MAP, ...MIDI_MAP_ES,
-  ...MIDI_TCH_DE, ...MIDI_TCH_FR, ...MIDI_TCH_PT, ...MIDI_TCH_RU, ...MIDI_TCH_ML, ...MIDI_TCH_SQ, ...MIDI_TCH_HU };
+const MIDI: Record<string, { file: string; bytes: number }> = {
+  ...MIDI_MAP_TCH,
+  ...MIDI_MAP_HYMNSITE,
+  ...MIDI_MAP,
+  ...MIDI_MAP_ES,
+  ...MIDI_TCH_DE,
+  ...MIDI_TCH_FR,
+  ...MIDI_TCH_PT,
+  ...MIDI_TCH_RU,
+  ...MIDI_TCH_ML,
+  ...MIDI_TCH_SQ,
+  ...MIDI_TCH_HU
+};
 
 // deterministic char(11) id in UniqueIdHelper.shortId's base64url format — stable across reseeds
 export const idFor = (title: string) => crypto.createHash("sha1").update("wcsong:" + title).digest("base64url").slice(0, 11);
@@ -58,8 +70,21 @@ export interface CatalogFile { songId: string; src: string; key: string; }
 // PD-verified Open Hymnal files (see tools/import-openhymnal.ts).
 export function buildCatalog(contentRoot: string) {
   const defs: any[] = [
-    ...SONGS, ...HYMNS, ...HYMNS2, ...HYMNS_OH, ...HYMNS_ES, ...HYMNS_ES_TCH, ...HYMNS_ES_HYMNARY, ...HYMNS_MODERN,
-    ...HYMNS_TCH_DE, ...HYMNS_TCH_FR, ...HYMNS_TCH_PT, ...HYMNS_TCH_RU, ...HYMNS_TCH_ML, ...HYMNS_TCH_SQ, ...HYMNS_TCH_HU
+    ...SONGS,
+    ...HYMNS,
+    ...HYMNS2,
+    ...HYMNS_OH,
+    ...HYMNS_ES,
+    ...HYMNS_ES_TCH,
+    ...HYMNS_ES_HYMNARY,
+    ...HYMNS_MODERN,
+    ...HYMNS_TCH_DE,
+    ...HYMNS_TCH_FR,
+    ...HYMNS_TCH_PT,
+    ...HYMNS_TCH_RU,
+    ...HYMNS_TCH_ML,
+    ...HYMNS_TCH_SQ,
+    ...HYMNS_TCH_HU
   ];
   const rows: any[] = [];
   const files: CatalogFile[] = [];
@@ -110,6 +135,10 @@ export function buildCatalog(contentRoot: string) {
 
     const vid = VIDEO_MAP[s.t];
     row.videoUrl = vid ? `https://www.youtube.com/watch?v=${vid.id}` : null;
+
+    const art = ART_MAP[s.t];
+    row.artUrl = art ? `${contentRoot}/songs/${id}/art.webp` : null;
+    if (art) files.push({ songId: id, src: `cover-art/${art.file}`, key: `songs/${id}/art.webp` });
 
     const wr = WRITER_MAP[s.a];
     row.writerPortraitUrl = wr ? `${contentRoot}/writers/${wr.slug}.jpg` : null;

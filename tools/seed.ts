@@ -2,7 +2,10 @@ import * as fs from "fs";
 import * as path from "path";
 import { fileURLToPath } from "url";
 import { ensureEnvironment, createKysely } from "./kysely-config.js";
-import { buildCatalog } from "../src/seed-data/catalog.js";
+import { syncCoverArt } from "./sync-cover-art.js";
+// pick up any art dropped in tools/seed-assets/cover-art before the catalog loads
+const unmatchedArt = await syncCoverArt();
+const { buildCatalog } = await import("../src/seed-data/catalog.js");
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CONTENT_DIR = path.join(__dirname, "..", "content");
@@ -41,6 +44,9 @@ async function run() {
     await db.insertInto("admins").values({ userId: adminUserId, email: ADMIN_EMAIL }).execute();
 
     const { rows, files } = buildCatalog(CONTENT_ROOT);
+
+    if (unmatchedArt.length) console.warn(`WARNING: cover art matches no song title: ${unmatchedArt.join(", ")}`);
+
     for (const row of rows) await db.insertInto("songs").values(row).execute();
 
     fs.rmSync(path.join(CONTENT_DIR, "songs"), { recursive: true, force: true });

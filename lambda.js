@@ -37,3 +37,12 @@ export const universal = async (event, context) => {
     };
   }
 };
+
+// Prod's RDS is VPC-only, so migrations can't run from a laptop. This function sits in the
+// same VPC and is IAM-invoked (no HTTP route, no JWT):
+//   aws lambda invoke --region us-east-2 --function-name worshipcommons-api-Prod-migrate out.json
+export const migrate = async () => {
+  await checkInit();
+  const { MigrationHelper } = await import("./dist/helpers/MigrationHelper.js");
+  return { applied: await MigrationHelper.migrateToLatest() };
+};
