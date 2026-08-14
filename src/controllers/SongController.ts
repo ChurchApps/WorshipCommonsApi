@@ -4,6 +4,7 @@ import * as crypto from "crypto";
 import { FileStorageHelper } from "@churchapps/apihelper";
 import { WorshipCommonsBaseController } from "./WorshipCommonsBaseController";
 import { ChordProHelper } from "../helpers/ChordProHelper";
+import { ContentLibraryHelper } from "../helpers/ContentLibraryHelper";
 import { QualityHelper } from "../helpers/QualityHelper";
 import { Environment } from "../helpers/Environment";
 import { Song } from "../models";
@@ -114,6 +115,7 @@ export class SongController extends WorshipCommonsBaseController {
       if (!au.id) return this.json({ errors: ["Sign in to share a song"] }, 401);
       const body = req.body;
       if (!body.title || !body.chordPro || !body.certified) return this.json({ errors: ["title, chordPro and certification are required"] }, 400);
+      body.chordPro = body.chordPro.replace(/\r\n/g, "\n"); // library files are LF; body must roundtrip byte-identical
 
       const song: Song = {
         title: body.title,
@@ -145,12 +147,15 @@ export class SongController extends WorshipCommonsBaseController {
         const buffer = Buffer.from(f.file.base64, "base64");
         if (buffer.length === 0 || buffer.length > MAX_FILE_BYTES) continue;
         const safeName = (f.file.name || f.field).replace(/[^a-zA-Z0-9._-]/g, "_");
-        const key = `songs/${song.id}/${safeName}`;
+        const key = `${ContentLibraryHelper.folderKey(song)}/${safeName}`;
         await FileStorageHelper.store(key, f.file.contentType || "application/octet-stream", buffer);
         (updates as any)[f.urlCol] = `${Environment.contentRoot}/${key}`;
         (updates as any)[f.bytesCol] = buffer.length;
       }
       if (Object.keys(updates).length > 0) await this.repositories.song.update(song.id, updates);
+
+      // the bucket is the content master — mirror the submission as a library-shaped folder
+      await ContentLibraryHelper.writeSongFolder({ ...song, ...updates });
 
       // must await: Lambda freezes after the response, fire-and-forget never completes
       const scoreFields = await QualityHelper.score({ ...song, ...updates });

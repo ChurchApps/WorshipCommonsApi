@@ -3,6 +3,7 @@ import express from "express";
 import { WorshipCommonsBaseController } from "./WorshipCommonsBaseController";
 import { MigrationHelper } from "../helpers/MigrationHelper";
 import { QualityHelper } from "../helpers/QualityHelper";
+import { ContentLibraryHelper } from "../helpers/ContentLibraryHelper";
 import { Environment } from "../helpers/Environment";
 
 @controller("/admin")
@@ -119,6 +120,8 @@ export class AdminController extends WorshipCommonsBaseController {
       const song = await this.repositories.song.loadById(String(req.params.id));
       if (!song) return this.json({}, 404);
       await this.repositories.song.update(song.id, { status });
+      // bucket is the content master — keep the submission's song.json truthful
+      if (song.submittedBy) await ContentLibraryHelper.writeSongFolder({ ...song, status });
       return { status };
     });
   }

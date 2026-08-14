@@ -14,5 +14,5 @@ if (!fs.existsSync(src)) {
 }
 const target = path.join(__dirname, "..", "config", "catalog.json");
 fs.copyFileSync(src, target);
-const { rows, files } = JSON.parse(fs.readFileSync(target, "utf8"));
-console.log(`config/catalog.json ← ${src} (${rows.length} songs, ${files.length} files)`);
+const { rows } = JSON.parse(fs.readFileSync(target, "utf8"));
+console.log(`config/catalog.json ← ${src} (${rows.length} songs)`);

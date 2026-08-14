@@ -42,18 +42,17 @@ async function run() {
     await db.deleteFrom("sings").execute();
     await db.insertInto("admins").values({ userId: adminUserId, email: ADMIN_EMAIL }).execute();
 
-    const { rows, files } = buildCatalog(CONTENT_ROOT);
+    const { rows } = buildCatalog(CONTENT_ROOT);
 
     for (const row of rows) await db.insertInto("songs").values(row).execute();
 
-    fs.rmSync(path.join(CONTENT_DIR, "songs"), { recursive: true, force: true });
-    for (const f of files) {
-      const target = path.join(CONTENT_DIR, ...f.key.split("/"));
-      fs.mkdirSync(path.dirname(target), { recursive: true });
-      fs.copyFileSync(path.join(LIBRARY_DIR, ...f.src.split("/")), target);
+    // content/ mirrors the library repo layout, exactly like the prod bucket
+    for (const dir of ["songs", "writers"]) {
+      fs.rmSync(path.join(CONTENT_DIR, dir), { recursive: true, force: true });
+      fs.cpSync(path.join(LIBRARY_DIR, dir), path.join(CONTENT_DIR, dir), { recursive: true });
     }
 
-    console.log(`Seeded ${rows.length} songs (${files.length} content files), admin ${ADMIN_EMAIL} (${adminUserId}).`);
+    console.log(`Seeded ${rows.length} songs (content/ mirrors the library), admin ${ADMIN_EMAIL} (${adminUserId}).`);
   } finally {
     await db.destroy();
   }
