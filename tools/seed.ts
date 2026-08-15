@@ -47,7 +47,7 @@ async function run() {
     for (const row of rows) await db.insertInto("songs").values(row).execute();
 
     // content/ mirrors the library repo layout, exactly like the prod bucket
-    for (const dir of ["songs", "writers"]) {
+    for (const dir of ["songs", "writers", "works"]) {
       fs.rmSync(path.join(CONTENT_DIR, dir), { recursive: true, force: true });
       fs.cpSync(path.join(LIBRARY_DIR, dir), path.join(CONTENT_DIR, dir), { recursive: true });
     }
