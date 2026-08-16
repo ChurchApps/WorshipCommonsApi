@@ -37,8 +37,34 @@ export class AdminController extends WorshipCommonsBaseController {
   public async pendingSongs(req: express.Request, res: express.Response): Promise<any> {
     return this.actionWrapper(req, res, async (au) => {
       if (!(await this.isAdmin(au.id))) return this.json({}, 401);
-      return await this.repositories.song.loadPending();
+      const apiBase = ContentLibraryHelper.requestApiBase(req);
+      return await Promise.all((await this.repositories.song.loadPending()).map(s => ContentLibraryHelper.withReviewUrls(s, apiBase)));
     });
+  }
+
+  @httpGet("/pending-files/:id/:field")
+  public async pendingFile(req: express.Request, res: express.Response): Promise<any> {
+    const id = String(req.params.id);
+    const field = String(req.params.field);
+    const exp = Number(req.query.exp);
+    const sig = String(req.query.sig || "");
+    if (!ContentLibraryHelper.verifyPendingFile(id, field, exp, sig)) {
+      res.status(404).json({});
+      return;
+    }
+    const song = await this.repositories.song.loadById(id);
+    if (!song || song.status !== "pending") {
+      res.status(404).json({});
+      return;
+    }
+    const file = await ContentLibraryHelper.readPendingField(song, field);
+    if (!file) {
+      res.status(404).json({});
+      return;
+    }
+    res.setHeader("Content-Type", file.contentType);
+    res.setHeader("Cache-Control", "private, max-age=300");
+    res.send(file.buffer);
   }
 
   @httpGet("/reports")
@@ -119,9 +145,13 @@ export class AdminController extends WorshipCommonsBaseController {
       if (!(await this.isAdmin(au.id))) return this.json({}, 401);
       const song = await this.repositories.song.loadById(String(req.params.id));
       if (!song) return this.json({}, 404);
-      await this.repositories.song.update(song.id, { status });
-      // bucket is the content master — keep the submission's song.json truthful
-      if (song.submittedBy) await ContentLibraryHelper.writeSongFolder({ ...song, status });
+      if (status === "approved") {
+        const updates = await ContentLibraryHelper.publishSong({ ...song, status });
+        await this.repositories.song.update(song.id, { status, ...updates });
+      } else {
+        await ContentLibraryHelper.removeSongObjects(song);
+        await this.repositories.song.update(song.id, { status });
+      }
       return { status };
     });
   }
