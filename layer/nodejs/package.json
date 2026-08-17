@@ -3,6 +3,8 @@
   "private": true,
   "dependencies": {
     "@aws-sdk/client-cloudwatch-logs": "^3.1037.0",
+    "@aws-sdk/client-s3": "^3.1037.0",
+    "@aws-sdk/s3-request-presigner": "^3.1037.0",
     "@churchapps/apihelper": "^0.7.1",
     "@churchapps/helpers": "^1.10.1",
     "@codegenie/serverless-express": "^4.17.1",
