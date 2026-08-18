@@ -5,10 +5,13 @@ import { WorshipCommonsBaseController } from "./WorshipCommonsBaseController";
 import { ChordProHelper } from "../helpers/ChordProHelper";
 import { ContentLibraryHelper } from "../helpers/ContentLibraryHelper";
 import { QualityHelper } from "../helpers/QualityHelper";
+import { demoOwnershipMissing } from "../helpers/SubmitValidation";
 import { Song } from "../models";
 
 interface UploadedFile { name: string; contentType: string; base64: string; }
 interface SongSubmission extends Song {
+  recordingOwned?: boolean;
+  demoOwned?: boolean;
   files?: { demoAudio?: UploadedFile; sheetPdf?: UploadedFile; stemsZip?: UploadedFile };
 }
 
@@ -113,6 +116,7 @@ export class SongController extends WorshipCommonsBaseController {
       if (!au.id) return this.json({ errors: ["Sign in to share a song"] }, 401);
       const body = req.body;
       if (!body.title || !body.chordPro || !body.certified) return this.json({ errors: ["title, chordPro and certification are required"] }, 400);
+      if (demoOwnershipMissing(body)) return this.json({ errors: ["recording ownership confirmation is required when attaching a demo"] }, 400);
       body.chordPro = body.chordPro.replace(/\r\n/g, "\n"); // library files are LF; body must roundtrip byte-identical
 
       const song: Song = {
