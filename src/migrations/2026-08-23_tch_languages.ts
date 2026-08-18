@@ -11,7 +11,7 @@ export async function up(db: Kysely<any>): Promise<void> {
   const existing = await db.selectFrom("songs").select("id").where("id", "in", IDS).execute();
   const have = new Set(existing.map((r: any) => r.id));
   const ids = new Set(IDS);
-  const rows = buildCatalog(Environment.contentRoot).rows.filter(r => ids.has(r.id) && !have.has(r.id));
+  const rows = buildCatalog(Environment.contentRoot).rows.filter(r => ids.has(r.id) && !have.has(r.id)).map(({ artUrl, ...r }) => r);
   for (let i = 0; i < rows.length; i += 50) {
     await db.insertInto("songs").values(rows.slice(i, i + 50)).execute();
   }

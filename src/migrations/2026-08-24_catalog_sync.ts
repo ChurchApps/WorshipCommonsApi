@@ -9,7 +9,7 @@ export async function up(db: Kysely<any>): Promise<void> {
   const { rows } = buildCatalog(Environment.contentRoot);
   const existing = await db.selectFrom("songs").select("id").where("id", "in", rows.map(r => r.id)).execute();
   const have = new Set(existing.map((r: any) => r.id));
-  const missing = rows.filter(r => !have.has(r.id));
+  const missing = rows.filter(r => !have.has(r.id)).map(({ artUrl, ...r }) => r);
   for (let i = 0; i < missing.length; i += 50) {
     await db.insertInto("songs").values(missing.slice(i, i + 50)).execute();
   }

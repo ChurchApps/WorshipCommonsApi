@@ -12,7 +12,7 @@ export async function up(db: Kysely<any>): Promise<void> {
   // hymnalCount arrives in 2026-08-22_hymnal_popularity — strip it so this runs first
   const rows = buildCatalog(Environment.contentRoot).rows
     .filter(r => IDS.includes(r.id) && !have.has(r.id))
-    .map(({ hymnalCount, ...r }) => r);
+    .map(({ hymnalCount, artUrl, ...r }) => r);
   if (rows.length) await db.insertInto("songs").values(rows).execute();
 }
 
