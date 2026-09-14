@@ -15,6 +15,26 @@ const URL_COLS = [
   "midiUrl", "lyricsUrl", "abcUrl", "artUrl", "writerPortraitUrl", "demoAudioUrl", "sheetPdfUrl", "stemsZipUrl"
 ];
 
+/** Columns that exist on songs. Catalog.json may carry extra keys (meter, confidence, licenseUrl). */
+export const SONG_INSERT_COLS = [
+  "id", "title", "writer", "year", "themes", "songKey", "bpm", "timeSignature",
+  "language", "scripture", "scriptureText", "license", "churchCount", "hymnalCount",
+  "chordPro", "demoAudioUrl", "demoAudioBytes", "sheetPdfUrl", "sheetPdfBytes",
+  "stemsZipUrl", "stemsZipBytes", "midiUrl", "midiBytes", "lyricsUrl", "abcUrl",
+  "videoUrl", "writerPortraitUrl", "writerBio", "artUrl", "parentSongId",
+  "relationLabel", "status", "submittedBy", "proAnswer", "certified"
+] as const;
+
+export function songInsert(r: Record<string, unknown>): Record<string, unknown> {
+  const out: Record<string, unknown> = {};
+  for (const k of SONG_INSERT_COLS) if (k in r) out[k] = r[k];
+  if (out.status == null) out.status = "approved";
+  if (out.certified == null) out.certified = true;
+  if (out.churchCount == null) out.churchCount = 0;
+  if (out.hymnalCount == null) out.hymnalCount = 0;
+  return out;
+}
+
 export function buildCatalog(contentRoot: string) {
   // cwd-relative like EnvironmentBase's config loading — works under tsx and in the Lambda task root
   const raw = JSON.parse(fs.readFileSync(path.resolve(process.cwd(), "config", "catalog.json"), "utf8"));

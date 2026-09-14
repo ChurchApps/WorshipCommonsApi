@@ -1,5 +1,5 @@
-import { type Kysely } from "kysely";
-import { buildCatalog } from "../seed-data/catalog.js";
+import { type Kysely, sql } from "kysely";
+import { buildCatalog, songInsert } from "../seed-data/catalog.js";
 import { Environment } from "../helpers/Environment.js";
 
 // Content #8 added public-domain tune.mid for 46 catalog songs. Vendored
@@ -9,10 +9,13 @@ import { Environment } from "../helpers/Environment.js";
 // songs. Existing rows keep churchCount, hymnalCount, certified, status,
 // and user-submitted fields.
 export async function up(db: Kysely<any>): Promise<void> {
+  // Custom grant ids (larry-holder) are longer than PD/WC. Widen before inserts.
+  await sql`ALTER TABLE songs MODIFY COLUMN license varchar(32)`.execute(db);
+
   const { rows } = buildCatalog(Environment.contentRoot);
   const existing = await db.selectFrom("songs").select("id").where("id", "in", rows.map(r => r.id)).execute();
   const have = new Set(existing.map((r: any) => r.id));
-  const missing = rows.filter(r => !have.has(r.id));
+  const missing = rows.filter(r => !have.has(r.id)).map(songInsert);
 
   for (const row of rows) {
     if (!have.has(row.id)) continue;
