@@ -25,6 +25,7 @@ provider:
     APP_ENV: ${self:custom.env}
     # resolved at deploy time — inside the VPC there is no runtime SSM access
     CONNECTION_STRING: ${ssm:/${self:custom.env}/worshipCommonsApi/connectionString, ''}
+    COMMONS_CONNECTION_STRING: ${ssm:/${self:custom.env}/commonsApi/connectionString, ''}
     JWT_SECRET: ${ssm:/${self:custom.env}/jwtSecret, ''}
     ENCRYPTION_KEY: ${ssm:/${self:custom.env}/encryptionKey, ''}
     OPENAI_API_KEY: ${ssm:/${self:custom.env}/openAIKey, ''}
