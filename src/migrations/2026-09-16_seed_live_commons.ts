@@ -1,16 +1,30 @@
 import { type Kysely } from "kysely";
-import { createPool, type Pool } from "mysql2/promise";
+import { createPool } from "mysql2/promise";
 import { readFileSync } from "node:fs";
 import { randomBytes } from "node:crypto";
 
 // The public site reads api.churchapps.org/commons (the core commons DB), not this
 // service's own songs table. Insert any catalog songs missing from that DB so
 // Custom writer grants (Larry Holder, etc.) show up in the library filter.
-const FILE_COLS = ["artUrl", "midiUrl", "lyricsUrl", "abcUrl", "demoAudioUrl", "sheetPdfUrl", "stemsZipUrl"];
+const FILE_COLS = ["artUrl", "midiUrl", "lyricsUrl", "abcUrl", "demoAudioUrl", "sheetPdfUrl", "stemsZipUrl", "previewUrl", "instrumentalUrl"];
 const SONG_COLS = [
-  "year", "songKey", "bpm", "timeSignature", "meter", "scripture", "scriptureText",
-  "hymnalCount", "chordPro", "videoUrl", "parentSongId", "relationLabel",
-  "licenseVersion", "licenseUrl", "proAnswer", "certified", "confidence"
+  "year",
+  "songKey",
+  "bpm",
+  "timeSignature",
+  "meter",
+  "scripture",
+  "scriptureText",
+  "hymnalCount",
+  "chordPro",
+  "videoUrl",
+  "parentSongId",
+  "relationLabel",
+  "licenseVersion",
+  "licenseUrl",
+  "proAnswer",
+  "certified",
+  "confidence"
 ];
 
 const sid = () => randomBytes(8).toString("base64url").slice(0, 11);
@@ -61,8 +75,8 @@ export async function up(_db: Kysely<any>): Promise<void> {
         [subId, row.id, JSON.stringify({ name: row.title, tags: row.themes, language: row.language, license: row.license, detail }), now, now]
       );
       const seen = new Set<string>();
-      for (const c of FILE_COLS) {
-        const name = typeof row[c] === "string" ? row[c].replace(/\\/g, "/") : "";
+      for (const f of [...FILE_COLS.map(c => row[c]), ...(row.extraUrls || [])]) {
+        const name = typeof f === "string" ? f.replace(/\\/g, "/") : "";
         if (!name || name.length > 100) continue;
         const base = name.split("/").pop() || "";
         if (seen.has(base)) continue;
