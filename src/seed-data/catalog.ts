@@ -17,12 +17,42 @@ const URL_COLS = [
 
 /** Columns that exist on songs. Catalog.json may carry extra keys (meter, confidence, licenseUrl). */
 export const SONG_INSERT_COLS = [
-  "id", "title", "writer", "year", "themes", "songKey", "bpm", "timeSignature",
-  "language", "scripture", "scriptureText", "license", "ccli", "churchCount", "hymnalCount",
-  "chordPro", "demoAudioUrl", "demoAudioBytes", "sheetPdfUrl", "sheetPdfBytes",
-  "stemsZipUrl", "stemsZipBytes", "midiUrl", "midiBytes", "lyricsUrl", "abcUrl",
-  "videoUrl", "writerPortraitUrl", "writerBio", "artUrl", "parentSongId",
-  "relationLabel", "status", "submittedBy", "proAnswer", "certified"
+  "id",
+  "title",
+  "writer",
+  "year",
+  "themes",
+  "songKey",
+  "bpm",
+  "timeSignature",
+  "language",
+  "scripture",
+  "scriptureText",
+  "license",
+  "ccli",
+  "churchCount",
+  "hymnalCount",
+  "chordPro",
+  "demoAudioUrl",
+  "demoAudioBytes",
+  "sheetPdfUrl",
+  "sheetPdfBytes",
+  "stemsZipUrl",
+  "stemsZipBytes",
+  "midiUrl",
+  "midiBytes",
+  "lyricsUrl",
+  "abcUrl",
+  "videoUrl",
+  "writerPortraitUrl",
+  "writerBio",
+  "artUrl",
+  "parentSongId",
+  "relationLabel",
+  "status",
+  "submittedBy",
+  "proAnswer",
+  "certified"
 ] as const;
 
 export function songInsert(r: Record<string, unknown>): Record<string, unknown> {

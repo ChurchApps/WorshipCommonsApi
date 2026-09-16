@@ -6,7 +6,9 @@ import { randomBytes } from "node:crypto";
 // The seed migration only inserts songs the core commons DB lacks. This one adds the
 // file rows that later catalog builds introduced for songs already there: 30 s preview,
 // instrumental bed, and granted-as-is extras (sources/extra/*).
-const FILE_COLS = ["artUrl", "midiUrl", "lyricsUrl", "abcUrl", "demoAudioUrl", "sheetPdfUrl", "stemsZipUrl", "previewUrl", "instrumentalUrl"];
+const FILE_COLS = [
+  "artUrl", "midiUrl", "lyricsUrl", "abcUrl", "demoAudioUrl", "sheetPdfUrl", "stemsZipUrl", "previewUrl", "instrumentalUrl", "compositionZipUrl", "audioZipUrl"
+];
 const sid = () => randomBytes(8).toString("base64url").slice(0, 11);
 
 export async function up(_db: Kysely<any>): Promise<void> {

@@ -6,7 +6,9 @@ import { randomBytes } from "node:crypto";
 // The public site reads api.churchapps.org/commons (the core commons DB), not this
 // service's own songs table. Insert any catalog songs missing from that DB so
 // Custom writer grants (Larry Holder, etc.) show up in the library filter.
-const FILE_COLS = ["artUrl", "midiUrl", "lyricsUrl", "abcUrl", "demoAudioUrl", "sheetPdfUrl", "stemsZipUrl", "previewUrl", "instrumentalUrl"];
+const FILE_COLS = [
+  "artUrl", "midiUrl", "lyricsUrl", "abcUrl", "demoAudioUrl", "sheetPdfUrl", "stemsZipUrl", "previewUrl", "instrumentalUrl", "compositionZipUrl", "audioZipUrl"
+];
 const SONG_COLS = [
   "year",
   "songKey",
