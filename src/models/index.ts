@@ -11,6 +11,8 @@ export interface Song {
   scripture?: string;
   scriptureText?: string;
   license?: string;
+  /** CCLI song id when the writer listed one. Not a requirement to report. */
+  ccli?: string | null;
   churchCount?: number;
   hymnalCount?: number;
   chordPro?: string;
