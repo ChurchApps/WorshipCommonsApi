@@ -20,7 +20,8 @@ class SiblingMigrationProvider implements MigrationProvider {
 
 export class MigrationHelper {
   static async migrateToLatest() {
-    const migrator = new Migrator({ db: getDb() as any, provider: new SiblingMigrationProvider() });
+    // same-day migrations land out of order across branches; run whatever is pending
+    const migrator = new Migrator({ db: getDb() as any, provider: new SiblingMigrationProvider(), allowUnorderedMigrations: true });
     const { error, results } = await migrator.migrateToLatest();
     if (error) throw error instanceof Error ? error : new Error(String(error));
     return (results || []).map(r => ({ name: r.migrationName, status: r.status }));
