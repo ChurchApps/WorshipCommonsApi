@@ -27,7 +27,7 @@ export async function up(_db: Kysely<any>): Promise<void> {
     for (const row of catalog.rows as any[]) {
       if (!songs.has(row.id)) continue;
       for (const f of [...FILE_COLS.map(c => row[c]), ...(row.extraUrls || [])]) {
-        const name = typeof f === "string" ? f.replace(/\/g, "/") : "";
+        const name = typeof f === "string" ? f.replace(/\\/g, "/") : "";
         if (!name || name.length > 100 || have.has(`${row.id}\n${name}`)) continue; // assetFiles.name is varchar(100)
         await pool.query("insert into assetFiles (id, assetId, name, action) values (?, ?, ?, 'add')", [sid(), row.id, name]);
         have.add(`${row.id}\n${name}`);
