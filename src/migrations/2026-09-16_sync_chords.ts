@@ -15,7 +15,8 @@ export async function up(_db: Kysely<any>): Promise<void> {
       if (!/\[[A-G][#b]?[^\]]*\]/.test(row.chordPro || "")) continue;
       const [r] = await pool.query(
         "update songs set chordPro = ?, songKey = ?, hasChords = 1 where assetId = ? and (hasChords = 0 or hasChords is null)",
-        [row.chordPro, row.songKey, row.id]);
+        [row.chordPro, row.songKey, row.id]
+      );
       n += (r as { affectedRows: number }).affectedRows;
     }
     console.log(`sync_chords: ${n} songs updated`);
