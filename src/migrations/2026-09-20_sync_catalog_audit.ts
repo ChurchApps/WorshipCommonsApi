@@ -50,10 +50,11 @@ export async function up(_db: Kysely<any>): Promise<void> {
       const fl = firstLine(row.chordPro || "");
       const hasChords = /\[[A-G][#b]?/.test(row.chordPro || "") ? 1 : 0;
       const form = JSON.stringify(draftForm(row.chordPro || ""));
+      // Live commons: themes live on assets.tags (songs.themes was dropped).
+      await pool.query("update assets set tags = ? where id = ?", [row.themes ?? null, row.id]);
       const [r] = await pool.query(
-        "update songs set themes = ?, scripture = ?, scriptureText = ?, chordPro = ?, firstLine = ?, hasChords = ?, form = ?, videoUrl = ?, songKey = ?, bpm = ?, timeSignature = ? where assetId = ?",
+        "update songs set scripture = ?, scriptureText = ?, chordPro = ?, firstLine = ?, hasChords = ?, form = ?, videoUrl = ?, songKey = ?, bpm = ?, timeSignature = ? where assetId = ?",
         [
-          row.themes ?? null,
           row.scripture ?? null,
           row.scriptureText ?? null,
           row.chordPro ?? null,
